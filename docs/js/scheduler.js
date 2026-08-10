@@ -4,9 +4,11 @@
 // グローバルな出題連番 counter（1 問出すごとに +1）を基準に、
 // 各エントリの nextDue（次に出題可能になる counter）を管理する。
 
+import { RESULT } from './config.js';
+
 /** 1 エントリ分の学習状態の初期値。 */
 export function createEntryState() {
-  return { seen: 0, correct: 0, wrong: 0, streak: 0, nextDue: 0, lastAskedAt: null };
+  return { seen: 0, correct: 0, wrong: 0, skipped: 0, streak: 0, nextDue: 0, lastAskedAt: null };
 }
 
 /** セッション（出題連番と直近履歴）の初期値。 */
@@ -104,36 +106,39 @@ export function advanceSession(session, entryId, wasNew, config) {
 }
 
 /**
- * 回答結果を学習状態に反映した新しい状態を返す。
+ * 1 問の結果を学習状態に反映した新しい状態を返す。
  *
- * 正解:   streak += 1 / nextDue = counter + min(B * GROWTH^(streak-1), INTERVAL_MAX)
- * 不正解: streak = 0  / nextDue = counter + A
+ * correct: streak += 1 / nextDue = counter + min(B * GROWTH^(streak-1), INTERVAL_MAX)
+ * wrong:   streak = 0  / nextDue = counter + A
+ * skipped: wrong と同じ間隔で戻す。答えられなかった点は同じなので streak も切る。
+ *          誤答と見分けられるよう、計数だけ skipped に入れる。
+ *
+ * seen は常に 1 増える。skipped は correct を増やさないため、
+ * computeWeight の正答率が下がり、不正解と同じだけ出題されやすくなる。
  *
  * counter はこの問題を出題したあとの値（＝この問題を含む出題数）を渡す。
  */
-export function applyAnswer(state, isCorrect, counter, config, timestamp = null) {
-  if (isCorrect) {
+export function applyResult(state, result, counter, config, timestamp = null) {
+  const base = {
+    seen: state.seen + 1,
+    correct: state.correct,
+    wrong: state.wrong,
+    skipped: state.skipped ?? 0,
+    lastAskedAt: timestamp,
+  };
+
+  if (result === RESULT.CORRECT) {
     const streak = state.streak + 1;
     const interval = Math.min(
       Math.round(config.intervalCorrect * config.INTERVAL_GROWTH ** (streak - 1)),
       config.INTERVAL_MAX,
     );
-    return {
-      seen: state.seen + 1,
-      correct: state.correct + 1,
-      wrong: state.wrong,
-      streak,
-      nextDue: counter + interval,
-      lastAskedAt: timestamp,
-    };
+    return { ...base, correct: state.correct + 1, streak, nextDue: counter + interval };
   }
 
-  return {
-    seen: state.seen + 1,
-    correct: state.correct,
-    wrong: state.wrong + 1,
-    streak: 0,
-    nextDue: counter + config.intervalWrong,
-    lastAskedAt: timestamp,
-  };
+  const missed = result === RESULT.SKIPPED
+    ? { skipped: base.skipped + 1 }
+    : { wrong: state.wrong + 1 };
+
+  return { ...base, ...missed, streak: 0, nextDue: counter + config.intervalWrong };
 }

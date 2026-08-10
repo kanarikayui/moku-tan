@@ -128,6 +128,8 @@ function normalizeProgress(value) {
       seen,
       correct,
       wrong,
+      // skipped はスキップ機能より前に保存された進捗には無いので 0 で補う
+      skipped: Number.isFinite(Number(state.skipped)) ? Number(state.skipped) : 0,
       streak,
       nextDue,
       lastAskedAt: typeof state.lastAskedAt === 'string' ? state.lastAskedAt : null,
@@ -140,20 +142,24 @@ function normalizeStats(value) {
   const base = createStats();
   if (!value.total || typeof value.total !== 'object') return null;
   const directions = value.byDirection ?? {};
+  // skipped が無い旧データは 0 として読む
   return {
     ...base,
     total: {
       asked: Number(value.total.asked) || 0,
       correct: Number(value.total.correct) || 0,
+      skipped: Number(value.total.skipped) || 0,
     },
     byDirection: {
       en2ja: {
         asked: Number(directions.en2ja?.asked) || 0,
         correct: Number(directions.en2ja?.correct) || 0,
+        skipped: Number(directions.en2ja?.skipped) || 0,
       },
       ja2en: {
         asked: Number(directions.ja2en?.asked) || 0,
         correct: Number(directions.ja2en?.correct) || 0,
+        skipped: Number(directions.ja2en?.skipped) || 0,
       },
     },
     daily: value.daily && typeof value.daily === 'object' ? value.daily : {},

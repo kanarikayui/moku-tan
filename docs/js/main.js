@@ -1,7 +1,7 @@
 // 出題画面の DOM 制御。
 // ロジックは quiz.js / scheduler.js に置き、ここは状態の受け渡しと描画に徹する。
 
-import { schedulerConfig, CHOICE_COUNT } from './config.js';
+import { schedulerConfig, CHOICE_COUNT, RESULT } from './config.js';
 import { loadEntries, filterEntries } from './data.js';
 import { buildQuestion, resolveDirection } from './quiz.js';
 import {
@@ -9,9 +9,9 @@ import {
   getState,
   selectNext,
   advanceSession,
-  applyAnswer,
+  applyResult,
 } from './scheduler.js';
-import { recordAnswer } from './stats.js';
+import { recordResult } from './stats.js';
 import { loadSettings, loadProgress, saveProgress, loadStats, saveStats } from './storage.js';
 import { applyStoredTheme, formatPercent, markCurrentNav, showNotice, toDateKey } from './ui.js';
 
@@ -34,6 +34,7 @@ const dom = {
   notice: document.getElementById('notice'),
   sessionAsked: document.getElementById('session-asked'),
   sessionCorrect: document.getElementById('session-correct'),
+  sessionSkipped: document.getElementById('session-skipped'),
   sessionAccuracy: document.getElementById('session-accuracy'),
   directionLabel: document.getElementById('direction-label'),
   prompt: document.getElementById('prompt'),
@@ -53,13 +54,14 @@ const state = {
   question: null,
   answered: false,
   advanceTimer: null,
-  sessionCount: { asked: 0, correct: 0 },
+  sessionCount: { asked: 0, correct: 0, skipped: 0 },
 };
 
 function renderSessionBar() {
-  const { asked, correct } = state.sessionCount;
+  const { asked, correct, skipped } = state.sessionCount;
   dom.sessionAsked.textContent = String(asked);
   dom.sessionCorrect.textContent = String(correct);
+  dom.sessionSkipped.textContent = String(skipped);
   dom.sessionAccuracy.textContent = formatPercent(asked ? correct / asked : null);
 }
 
@@ -67,20 +69,27 @@ function clearChildren(element) {
   while (element.firstChild) element.removeChild(element.firstChild);
 }
 
+const VERDICT = {
+  [RESULT.CORRECT]: { className: 'is-correct', label: '○ 正解' },
+  [RESULT.WRONG]: { className: 'is-wrong', label: '× 不正解' },
+  [RESULT.SKIPPED]: { className: 'is-skipped', label: '－ スキップ' },
+};
+
 /**
  * 正解のときは判定だけを出してすぐ次へ進む。
- * 語の意味を確かめたいのは間違えたときなので、詳細は不正解のときにだけ出す。
+ * 語の意味を確かめたいのは答えられなかったときなので、
+ * 不正解とスキップでは詳細を出して手を止める。
  */
-function renderFeedback(isCorrect) {
+function renderFeedback(result) {
   const { entry } = state.question;
   clearChildren(dom.feedback);
 
   const verdict = document.createElement('p');
-  verdict.className = `verdict ${isCorrect ? 'is-correct' : 'is-wrong'}`;
-  verdict.textContent = isCorrect ? '○ 正解' : '× 不正解';
+  verdict.className = `verdict ${VERDICT[result].className}`;
+  verdict.textContent = VERDICT[result].label;
   dom.feedback.append(verdict);
 
-  if (isCorrect) return;
+  if (result === RESULT.CORRECT) return;
 
   const headword = document.createElement('p');
   headword.className = 'feedback-headword';
@@ -127,39 +136,69 @@ function renderQuestion() {
     label.lang = question.direction === 'en2ja' ? 'ja' : 'en';
 
     button.append(key, label);
-    button.addEventListener('click', () => answer(index));
+    button.addEventListener('click', () => resolve(choice.correct ? RESULT.CORRECT : RESULT.WRONG, index));
     item.append(button);
     dom.choices.append(item);
   });
+
+  dom.choices.append(buildSkipItem(question.choices.length));
 
   clearChildren(dom.feedback);
   dom.next.hidden = true;
   state.answered = false;
 }
 
-/** 回答後に選択肢へ正誤の印を付け、押せないようにする。 */
+/** 4 択の下に置くスキップ。答えを選ばずに意味を確認したいときに押す。 */
+function buildSkipItem(choiceCount) {
+  const item = document.createElement('li');
+  const button = document.createElement('button');
+  button.type = 'button';
+  button.className = 'choice is-skip';
+
+  const key = document.createElement('span');
+  key.className = 'choice-key';
+  key.textContent = String(choiceCount + 1);
+
+  const label = document.createElement('span');
+  label.className = 'choice-label';
+  label.textContent = 'スキップ（答えを見る）';
+
+  button.append(key, label);
+  button.addEventListener('click', () => resolve(RESULT.SKIPPED));
+  item.append(button);
+  return item;
+}
+
+/**
+ * 回答後に選択肢へ印を付け、押せないようにする。
+ * スキップのときは selectedIndex が null なので、正解の印だけが付く。
+ */
 function markChoices(selectedIndex) {
   const buttons = dom.choices.querySelectorAll('.choice');
   buttons.forEach((button, index) => {
     button.disabled = true;
     const choice = state.question.choices[index];
+    if (!choice) return; // 末尾のスキップボタン
     if (choice.correct) button.classList.add('is-correct');
     if (index === selectedIndex && !choice.correct) button.classList.add('is-wrong');
   });
 }
 
-function answer(selectedIndex) {
+/**
+ * 1 問の結果を確定させる。
+ * result が 'skipped' のときは selectedIndex を渡さない。
+ */
+function resolve(result, selectedIndex = null) {
   if (state.answered || !state.question) return;
   state.answered = true;
 
-  const isCorrect = state.question.choices[selectedIndex].correct;
   const entry = state.question.entry;
   const timestamp = new Date().toISOString();
 
   const previous = getState(state.progress.entries, entry.id);
-  state.progress.entries[entry.id] = applyAnswer(
+  state.progress.entries[entry.id] = applyResult(
     previous,
-    isCorrect,
+    result,
     state.session.counter,
     state.config,
     timestamp,
@@ -167,26 +206,28 @@ function answer(selectedIndex) {
   state.progress.counter = state.session.counter;
   saveProgress(state.progress);
 
-  state.stats = recordAnswer(state.stats, {
+  state.stats = recordResult(state.stats, {
     direction: state.question.direction,
-    isCorrect,
+    result,
     dateKey: toDateKey(),
   });
   saveStats(state.stats);
 
   state.sessionCount.asked += 1;
-  if (isCorrect) state.sessionCount.correct += 1;
+  if (result === RESULT.CORRECT) state.sessionCount.correct += 1;
+  if (result === RESULT.SKIPPED) state.sessionCount.skipped += 1;
 
   markChoices(selectedIndex);
-  renderFeedback(isCorrect);
+  renderFeedback(result);
   renderSessionBar();
 
-  if (isCorrect) {
+  if (result === RESULT.CORRECT) {
     // 正解なら止めずに次へ。ボタンは出さない。
     state.advanceTimer = globalThis.setTimeout(nextQuestion, CORRECT_ADVANCE_DELAY);
     return;
   }
 
+  // 不正解とスキップは意味を確認できるよう、押すまで止める
   dom.next.hidden = false;
   dom.next.focus();
 }
@@ -201,9 +242,9 @@ function nextQuestion() {
     state.advanceTimer = null;
   }
 
-  const skipped = new Set();
+  const unusable = new Set();
   for (let attempt = 0; attempt < RESELECT_LIMIT; attempt += 1) {
-    const pool = state.pool.filter((entry) => !skipped.has(entry.id));
+    const pool = state.pool.filter((entry) => !unusable.has(entry.id));
     const entry = selectNext(pool, state.progress.entries, state.session, state.config);
     if (!entry) break;
 
@@ -211,7 +252,7 @@ function nextQuestion() {
     const question = buildQuestion(entry, state.pool, direction);
     if (!question) {
       console.warn(`誤答候補が不足したため出題を見送りました: ${entry.id} (${entry.en})`);
-      skipped.add(entry.id);
+      unusable.add(entry.id);
       continue;
     }
 
@@ -235,11 +276,15 @@ function handleKeydown(event) {
   // 押しっぱなしの自動リピートで、次の問題まで答えてしまうのを防ぐ
   if (event.repeat) return;
 
-  if (!state.answered && /^[1-4]$/.test(event.key)) {
+  if (!state.answered && /^[1-5]$/.test(event.key)) {
     const index = Number(event.key) - 1;
-    if (index < (state.question?.choices.length ?? 0)) {
+    const choices = state.question?.choices ?? [];
+    if (index < choices.length) {
       event.preventDefault();
-      answer(index);
+      resolve(choices[index].correct ? RESULT.CORRECT : RESULT.WRONG, index);
+    } else if (index === choices.length && choices.length > 0) {
+      event.preventDefault();
+      resolve(RESULT.SKIPPED);
     }
     return;
   }

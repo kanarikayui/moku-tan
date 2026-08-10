@@ -230,6 +230,19 @@ body {
   background: var(--wrong-bg);
 }
 
+/* スキップは 4 択と取り違えないよう、控えめな見た目にする */
+.choice.is-skip {
+  margin-top: 0.2rem;
+  background: transparent;
+  border-style: dashed;
+  color: var(--text-muted);
+}
+
+.choice.is-skip .choice-key {
+  background: transparent;
+  border: 1px dashed var(--border);
+}
+
 .feedback:not(:empty) {
   padding: 0.9rem 1rem;
   margin-bottom: 1rem;
@@ -252,6 +265,10 @@ body {
 
 .verdict.is-wrong {
   color: var(--wrong);
+}
+
+.verdict.is-skipped {
+  color: var(--text-muted);
 }
 
 .feedback-headword {

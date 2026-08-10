@@ -7,8 +7,17 @@ export const STORAGE_PREFIX = 'moku-tan:v1:';
 /** 保存データのスキーマ版。storage.js の migrate() が判定に使う。 */
 export const SCHEMA_VERSION = 1;
 
-/** 1 問あたりの選択肢数（正解 1 + 誤答 3）。 */
+/** 1 問あたりの選択肢数（正解 1 + 誤答 3）。スキップはこれに含めない。 */
 export const CHOICE_COUNT = 4;
+
+/**
+ * 1 問の結果。
+ * 'skipped' は出題間隔の扱いを 'wrong' と同じにするが、集計では区別する。
+ */
+export const RESULT = { CORRECT: 'correct', WRONG: 'wrong', SKIPPED: 'skipped' };
+
+/** 集計で扱う結果の一覧。 */
+export const RESULTS = [RESULT.CORRECT, RESULT.WRONG, RESULT.SKIPPED];
 
 /** 出題方向の一覧。設定値の 'random' はこの中から 1 問ごとに選ぶ。 */
 export const DIRECTIONS = ['en2ja', 'ja2en'];
