@@ -3,12 +3,19 @@
     "id": "p0025",
     "type": "phrase",
     "en": "at one's discretion",
-    "ja": ["裁量で"],
+    "ja": [
+      "裁量で"
+    ],
     "pos": "phrase",
     "level": 5,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "atdiscretion",
-    "senses": ["discretion-byownjudgment"],
+    "senses": [
+      "discretion-byownjudgment"
+    ],
     "example": {
       "en": "Refunds are issued at the manager's discretion.",
       "ja": "返金は責任者の裁量で行われる。"
@@ -18,12 +25,19 @@
     "id": "p0026",
     "type": "phrase",
     "en": "in lieu of",
-    "ja": ["〜の代わりに"],
+    "ja": [
+      "〜の代わりに"
+    ],
     "pos": "phrase",
     "level": 5,
-    "tags": ["hr", "part7"],
+    "tags": [
+      "hr",
+      "part7"
+    ],
     "root": "inlieu",
-    "senses": ["inlieu-instead"],
+    "senses": [
+      "inlieu-instead"
+    ],
     "example": {
       "en": "Staff may take a day off in lieu of overtime pay.",
       "ja": "従業員は残業代の代わりに休暇を取ることができる。"
@@ -33,12 +47,19 @@
     "id": "p0027",
     "type": "phrase",
     "en": "null and void",
-    "ja": ["無効な"],
+    "ja": [
+      "無効な"
+    ],
     "pos": "phrase",
     "level": 5,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "nullvoid",
-    "senses": ["nullvoid-havingnolegalforce"],
+    "senses": [
+      "nullvoid-havingnolegalforce"
+    ],
     "example": {
       "en": "The clause becomes null and void if the site is sold.",
       "ja": "その敷地が売却された場合、この条項は無効なものとなる。"
@@ -48,12 +69,19 @@
     "id": "p0028",
     "type": "phrase",
     "en": "pursuant to",
-    "ja": ["〜に基づいて"],
+    "ja": [
+      "〜に基づいて"
+    ],
     "pos": "phrase",
     "level": 5,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "pursuantto",
-    "senses": ["pursuantto-inaccordancewithrule"],
+    "senses": [
+      "pursuantto-inaccordancewithrule"
+    ],
     "example": {
       "en": "Records are kept for seven years pursuant to local law.",
       "ja": "記録は現地の法令に基づいて七年間保管される。"
@@ -63,12 +91,19 @@
     "id": "p0029",
     "type": "phrase",
     "en": "in arrears",
-    "ja": ["滞納して"],
+    "ja": [
+      "滞納して"
+    ],
     "pos": "phrase",
     "level": 5,
-    "tags": ["finance", "part7"],
+    "tags": [
+      "finance",
+      "part7"
+    ],
     "root": "inarrears",
-    "senses": ["inarrears-behindonpayment"],
+    "senses": [
+      "inarrears-behindonpayment"
+    ],
     "example": {
       "en": "Two tenants remain in arrears for the winter quarter.",
       "ja": "二名の賃借人が冬の四半期分を滞納している。"
@@ -78,15 +113,330 @@
     "id": "p0030",
     "type": "phrase",
     "en": "waive the right",
-    "ja": ["権利を放棄する"],
+    "ja": [
+      "権利を放棄する"
+    ],
     "pos": "phrase",
     "level": 5,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "waiveright",
-    "senses": ["waiveright-relinquishclaim"],
+    "senses": [
+      "waiveright-relinquishclaim"
+    ],
     "example": {
       "en": "Signing here does not waive the right to a hearing.",
       "ja": "ここに署名しても審問の権利を放棄することにはならない。"
+    }
+  },
+  {
+    "id": "p0087",
+    "type": "phrase",
+    "en": "in perpetuity",
+    "ja": [
+      "永久に"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "inperpetuity",
+    "senses": [
+      "inperpetuity-forever"
+    ],
+    "example": {
+      "en": "The easement runs with the land in perpetuity.",
+      "ja": "その通行権は土地に付いて永久に続く。"
+    }
+  },
+  {
+    "id": "p0088",
+    "type": "phrase",
+    "en": "without recourse",
+    "ja": [
+      "償還請求権なしで"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "withoutrecourse",
+    "senses": [
+      "withoutrecourse-noclaimback"
+    ],
+    "example": {
+      "en": "The note was sold without recourse to the bank.",
+      "ja": "その手形は銀行への償還請求権なしで売却された。"
+    }
+  },
+  {
+    "id": "p0089",
+    "type": "phrase",
+    "en": "force majeure",
+    "ja": [
+      "不可抗力"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "forcemajeure",
+    "senses": [
+      "forcemajeure-uncontrollableevent"
+    ],
+    "example": {
+      "en": "A force majeure clause covers port closures.",
+      "ja": "不可抗力の条項は港の閉鎖を対象とする。"
+    }
+  },
+  {
+    "id": "p0090",
+    "type": "phrase",
+    "en": "pro rata",
+    "ja": [
+      "按分で"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "prorata",
+    "senses": [
+      "prorata-inproportion"
+    ],
+    "example": {
+      "en": "Charges are split pro rata among the tenants.",
+      "ja": "費用は賃借人の間で按分で分けられる。"
+    }
+  },
+  {
+    "id": "p0091",
+    "type": "phrase",
+    "en": "bona fide",
+    "ja": [
+      "誠意ある"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "bonafide",
+    "senses": [
+      "bonafide-genuineandsincere"
+    ],
+    "example": {
+      "en": "Only bona fide offers reach the second round.",
+      "ja": "誠意ある申し出だけが二次の選考に進む。"
+    }
+  },
+  {
+    "id": "p0092",
+    "type": "phrase",
+    "en": "in default of",
+    "ja": [
+      "〜の不履行の場合"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "indefault",
+    "senses": [
+      "indefault-failuretoperform"
+    ],
+    "example": {
+      "en": "In default of payment, the goods remain ours.",
+      "ja": "支払いの不履行の場合、商品は当方に帰属する。"
+    }
+  },
+  {
+    "id": "p0093",
+    "type": "phrase",
+    "en": "notwithstanding the foregoing",
+    "ja": [
+      "前記にかかわらず"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "notwithstanding",
+    "senses": [
+      "notwithstanding-despiteabove"
+    ],
+    "example": {
+      "en": "Notwithstanding the foregoing, refunds require a receipt.",
+      "ja": "前記にかかわらず、返金には領収書が必要だ。"
+    }
+  },
+  {
+    "id": "p0094",
+    "type": "phrase",
+    "en": "severally liable",
+    "ja": [
+      "個別に責任を負う"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "severally",
+    "senses": [
+      "severally-individuallyresponsible"
+    ],
+    "example": {
+      "en": "The partners are severally liable for the debt.",
+      "ja": "各出資者はその負債に個別に責任を負う。"
+    }
+  },
+  {
+    "id": "p0095",
+    "type": "phrase",
+    "en": "time is of the essence",
+    "ja": [
+      "期限厳守とする"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "timeessence",
+    "senses": [
+      "timeessence-deadlinecritical"
+    ],
+    "example": {
+      "en": "Time is of the essence in this supply contract.",
+      "ja": "この供給契約では期限厳守とする。"
+    }
+  },
+  {
+    "id": "p0096",
+    "type": "phrase",
+    "en": "hold harmless",
+    "ja": [
+      "免責とする"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "holdharmless",
+    "senses": [
+      "holdharmless-protectfromliability"
+    ],
+    "example": {
+      "en": "The owner holds the contractor harmless for delays.",
+      "ja": "所有者は遅延について請負業者を免責とする。"
+    }
+  },
+  {
+    "id": "p0097",
+    "type": "phrase",
+    "en": "in escrow",
+    "ja": [
+      "第三者に預けて"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "inescrow",
+    "senses": [
+      "escrow-heldbythirdparty"
+    ],
+    "example": {
+      "en": "The funds stay in escrow until both sides sign.",
+      "ja": "資金は双方が署名するまで第三者に預けておく。"
+    }
+  },
+  {
+    "id": "p0098",
+    "type": "phrase",
+    "en": "subject to approval",
+    "ja": [
+      "承認を条件とする"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "subjecttoapproval",
+    "senses": [
+      "subjecttoapproval-needsconsent"
+    ],
+    "example": {
+      "en": "The transfer is subject to approval by the board.",
+      "ja": "その譲渡は取締役会の承認を条件とする。"
+    }
+  },
+  {
+    "id": "p0099",
+    "type": "phrase",
+    "en": "winding up",
+    "ja": [
+      "会社の清算"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "windingup",
+    "senses": [
+      "windingup-dissolvingcompany"
+    ],
+    "example": {
+      "en": "The winding up of the unit took nine months.",
+      "ja": "その部門の会社の清算には九か月かかった。"
+    }
+  },
+  {
+    "id": "p0100",
+    "type": "phrase",
+    "en": "at arm's length",
+    "ja": [
+      "対等な立場で"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "armslength",
+    "senses": [
+      "armslength-independentterms"
+    ],
+    "example": {
+      "en": "The sale was made at arm's length between the firms.",
+      "ja": "その売買は両社の間で対等な立場で行われた。"
     }
   }
 ]

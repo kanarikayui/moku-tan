@@ -3,12 +3,20 @@
     "id": "w0021",
     "type": "word",
     "en": "allocate",
-    "ja": ["割り当てる", "配分する"],
+    "ja": [
+      "割り当てる",
+      "配分する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["finance", "part5"],
+    "tags": [
+      "finance",
+      "part5"
+    ],
     "root": "alloc",
-    "senses": ["assign-distribute"],
+    "senses": [
+      "assign-distribute"
+    ],
     "example": {
       "en": "The manager will allocate the budget next quarter.",
       "ja": "部長は来四半期に予算を配分する。"
@@ -18,12 +26,19 @@
     "id": "w0022",
     "type": "word",
     "en": "approve",
-    "ja": ["承認する"],
+    "ja": [
+      "承認する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["office", "part5"],
+    "tags": [
+      "office",
+      "part5"
+    ],
     "root": "approv",
-    "senses": ["approve-authorize"],
+    "senses": [
+      "approve-authorize"
+    ],
     "example": {
       "en": "The board must approve the merger before the deadline.",
       "ja": "取締役会は期限までに合併を承認しなければならない。"
@@ -33,12 +48,19 @@
     "id": "w0023",
     "type": "word",
     "en": "budget",
-    "ja": ["予算"],
+    "ja": [
+      "予算"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["finance", "part4"],
+    "tags": [
+      "finance",
+      "part4"
+    ],
     "root": "budget",
-    "senses": ["budget-plannedfunds"],
+    "senses": [
+      "budget-plannedfunds"
+    ],
     "example": {
       "en": "The marketing budget doubled after the product launch.",
       "ja": "製品の発売後、宣伝の予算は倍になった。"
@@ -48,12 +70,19 @@
     "id": "w0024",
     "type": "word",
     "en": "negotiate",
-    "ja": ["交渉する"],
+    "ja": [
+      "交渉する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "negoti",
-    "senses": ["negotiate-bargain"],
+    "senses": [
+      "negotiate-bargain"
+    ],
     "example": {
       "en": "Our team will negotiate the shipping rates in person.",
       "ja": "当社の担当が直接、輸送料金を交渉する。"
@@ -63,12 +92,19 @@
     "id": "w0025",
     "type": "word",
     "en": "revenue",
-    "ja": ["収益"],
+    "ja": [
+      "収益"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["finance", "part4"],
+    "tags": [
+      "finance",
+      "part4"
+    ],
     "root": "revenu",
-    "senses": ["revenue-income"],
+    "senses": [
+      "revenue-income"
+    ],
     "example": {
       "en": "Overseas revenue accounted for half of last year's total.",
       "ja": "海外の収益は昨年の総額の半分を占めた。"
@@ -78,13 +114,22 @@
     "id": "w0026",
     "type": "word",
     "en": "estimate",
-    "ja": ["見積もる"],
+    "ja": [
+      "見積もる"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["finance", "part5"],
+    "tags": [
+      "finance",
+      "part5"
+    ],
     "root": "estimat",
-    "senses": ["estimate-quote"],
-    "exclude": ["w0050"],
+    "senses": [
+      "estimate-quote"
+    ],
+    "exclude": [
+      "w0050"
+    ],
     "example": {
       "en": "Please estimate the repair cost before Thursday's meeting.",
       "ja": "木曜の会議までに修理費を見積もってください。"
@@ -94,12 +139,19 @@
     "id": "w0027",
     "type": "word",
     "en": "recruit",
-    "ja": ["採用する"],
+    "ja": [
+      "採用する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["hr", "part7"],
+    "tags": [
+      "hr",
+      "part7"
+    ],
     "root": "recruit",
-    "senses": ["recruit-hire"],
+    "senses": [
+      "recruit-hire"
+    ],
     "example": {
       "en": "We plan to recruit six engineers before the plant opens.",
       "ja": "工場の開設前に技術者を六名採用する予定だ。"
@@ -109,12 +161,19 @@
     "id": "w0028",
     "type": "word",
     "en": "promote",
-    "ja": ["昇進させる"],
+    "ja": [
+      "昇進させる"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["hr", "part5"],
+    "tags": [
+      "hr",
+      "part5"
+    ],
     "root": "promot",
-    "senses": ["promote-raiserank"],
+    "senses": [
+      "promote-raiserank"
+    ],
     "example": {
       "en": "The company will promote her to regional director.",
       "ja": "会社は彼女を地域統括責任者に昇進させる。"
@@ -124,12 +183,19 @@
     "id": "w0029",
     "type": "word",
     "en": "inventory",
-    "ja": ["在庫"],
+    "ja": [
+      "在庫"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["logistics", "part4"],
+    "tags": [
+      "logistics",
+      "part4"
+    ],
     "root": "inventor",
-    "senses": ["inventory-goodsinstock"],
+    "senses": [
+      "inventory-goodsinstock"
+    ],
     "example": {
       "en": "Store staff count the inventory on the last day of the month.",
       "ja": "店舗の従業員は月末に在庫を数える。"
@@ -139,12 +205,19 @@
     "id": "w0030",
     "type": "word",
     "en": "warehouse",
-    "ja": ["倉庫"],
+    "ja": [
+      "倉庫"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["logistics", "part1"],
+    "tags": [
+      "logistics",
+      "part1"
+    ],
     "root": "warehous",
-    "senses": ["warehouse-storagebuilding"],
+    "senses": [
+      "warehouse-storagebuilding"
+    ],
     "example": {
       "en": "Boxes are stacked along the warehouse wall.",
       "ja": "箱が倉庫の壁沿いに積み上げられている。"
@@ -154,12 +227,19 @@
     "id": "w0031",
     "type": "word",
     "en": "supplier",
-    "ja": ["供給業者"],
+    "ja": [
+      "供給業者"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["logistics", "part7"],
+    "tags": [
+      "logistics",
+      "part7"
+    ],
     "root": "supply",
-    "senses": ["supplier-vendorfirm"],
+    "senses": [
+      "supplier-vendorfirm"
+    ],
     "example": {
       "en": "Our main supplier raised its prices for the third time.",
       "ja": "主要な供給業者が三度目の値上げをした。"
@@ -169,12 +249,19 @@
     "id": "w0032",
     "type": "word",
     "en": "contract",
-    "ja": ["契約"],
+    "ja": [
+      "契約"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "contract",
-    "senses": ["contract-legalagreement"],
+    "senses": [
+      "contract-legalagreement"
+    ],
     "example": {
       "en": "The contract runs for two years with an option to extend.",
       "ja": "この契約は二年間で、延長の選択権が付いている。"
@@ -184,12 +271,19 @@
     "id": "w0033",
     "type": "word",
     "en": "deadline",
-    "ja": ["締め切り"],
+    "ja": [
+      "締め切り"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["office", "part3"],
+    "tags": [
+      "office",
+      "part3"
+    ],
     "root": "deadlin",
-    "senses": ["deadline-duedate"],
+    "senses": [
+      "deadline-duedate"
+    ],
     "example": {
       "en": "The deadline for travel claims is the tenth of each month.",
       "ja": "出張費請求の締め切りは毎月十日だ。"
@@ -199,12 +293,19 @@
     "id": "w0034",
     "type": "word",
     "en": "postpone",
-    "ja": ["延期する"],
+    "ja": [
+      "延期する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["meeting", "part5"],
+    "tags": [
+      "meeting",
+      "part5"
+    ],
     "root": "postpon",
-    "senses": ["postpone-delay"],
+    "senses": [
+      "postpone-delay"
+    ],
     "example": {
       "en": "Heavy snow forced the organizers to postpone the fair.",
       "ja": "大雪のため主催者は見本市を延期した。"
@@ -214,12 +315,19 @@
     "id": "w0035",
     "type": "word",
     "en": "attach",
-    "ja": ["添付する"],
+    "ja": [
+      "添付する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["office", "part7"],
+    "tags": [
+      "office",
+      "part7"
+    ],
     "root": "attach",
-    "senses": ["attach-appendfile"],
+    "senses": [
+      "attach-appendfile"
+    ],
     "example": {
       "en": "Attach the signed form to your reply by Friday.",
       "ja": "金曜までに署名済みの用紙を返信に添付しなさい。"
@@ -229,12 +337,19 @@
     "id": "w0036",
     "type": "word",
     "en": "confirm",
-    "ja": ["確認する"],
+    "ja": [
+      "確認する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["service", "part2"],
+    "tags": [
+      "service",
+      "part2"
+    ],
     "root": "confirm",
-    "senses": ["confirm-verify"],
+    "senses": [
+      "confirm-verify"
+    ],
     "example": {
       "en": "Call the vendor to confirm the installation date.",
       "ja": "業者に電話して設置日を確認しなさい。"
@@ -244,12 +359,19 @@
     "id": "w0037",
     "type": "word",
     "en": "expense",
-    "ja": ["経費"],
+    "ja": [
+      "経費"
+    ],
     "pos": "noun",
     "level": 2,
-    "tags": ["finance", "part7"],
+    "tags": [
+      "finance",
+      "part7"
+    ],
     "root": "expens",
-    "senses": ["expense-businesscost"],
+    "senses": [
+      "expense-businesscost"
+    ],
     "example": {
       "en": "Travel expense claims require original receipts.",
       "ja": "出張経費の請求には原本の領収書が必要だ。"
@@ -259,12 +381,19 @@
     "id": "w0038",
     "type": "word",
     "en": "renovate",
-    "ja": ["改装する"],
+    "ja": [
+      "改装する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["facility", "part4"],
+    "tags": [
+      "facility",
+      "part4"
+    ],
     "root": "renovat",
-    "senses": ["renovate-remodel"],
+    "senses": [
+      "renovate-remodel"
+    ],
     "example": {
       "en": "The owner plans to renovate the lobby over the holidays.",
       "ja": "所有者は休暇中にロビーを改装する予定だ。"
@@ -274,12 +403,19 @@
     "id": "w0039",
     "type": "word",
     "en": "replace",
-    "ja": ["交換する"],
+    "ja": [
+      "交換する"
+    ],
     "pos": "verb",
     "level": 2,
-    "tags": ["facility", "part5"],
+    "tags": [
+      "facility",
+      "part5"
+    ],
     "root": "replac",
-    "senses": ["replace-swapout"],
+    "senses": [
+      "replace-swapout"
+    ],
     "example": {
       "en": "Maintenance will replace the filters twice a year.",
       "ja": "保守担当が年二回フィルターを交換する。"
@@ -289,15 +425,923 @@
     "id": "w0040",
     "type": "word",
     "en": "efficient",
-    "ja": ["効率的な"],
+    "ja": [
+      "効率的な"
+    ],
     "pos": "adj",
     "level": 2,
-    "tags": ["manufacturing", "part5"],
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
     "root": "effici",
-    "senses": ["efficient-wastefree"],
+    "senses": [
+      "efficient-wastefree"
+    ],
     "example": {
       "en": "The new sorting line is far more efficient than the old one.",
       "ja": "新しい仕分け設備は旧型よりはるかに効率的だ。"
+    }
+  },
+  {
+    "id": "w0141",
+    "type": "word",
+    "en": "accountant",
+    "ja": [
+      "会計士"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "account",
+    "senses": [
+      "accountant-financeprofessional"
+    ],
+    "example": {
+      "en": "An outside accountant reviews the books each quarter.",
+      "ja": "外部の会計士が四半期ごとに帳簿を見ている。"
+    }
+  },
+  {
+    "id": "w0142",
+    "type": "word",
+    "en": "agenda",
+    "ja": [
+      "議題"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "agenda",
+    "senses": [
+      "agenda-meetingtopics"
+    ],
+    "example": {
+      "en": "The agenda lists five items for the morning session.",
+      "ja": "議題には午前の部の五項目が並んでいる。"
+    }
+  },
+  {
+    "id": "w0143",
+    "type": "word",
+    "en": "applicant",
+    "ja": [
+      "応募者"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "appl",
+    "senses": [
+      "applicant-jobseeker"
+    ],
+    "exclude": [
+      "w0149"
+    ],
+    "example": {
+      "en": "Every applicant must provide two written references.",
+      "ja": "応募者は全員、書面の推薦を二通提出する。"
+    }
+  },
+  {
+    "id": "w0144",
+    "type": "word",
+    "en": "assemble",
+    "ja": [
+      "組み立てる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "assembl",
+    "senses": [
+      "assemble-putparts"
+    ],
+    "example": {
+      "en": "Workers assemble the frames before the paint stage.",
+      "ja": "作業員は塗装の前に枠を組み立てる。"
+    }
+  },
+  {
+    "id": "w0145",
+    "type": "word",
+    "en": "attendance",
+    "ja": [
+      "出席者数"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "attend",
+    "senses": [
+      "attendance-numberpresent"
+    ],
+    "example": {
+      "en": "Attendance at the trade fair rose by a third.",
+      "ja": "見本市の出席者数は三割増えた。"
+    }
+  },
+  {
+    "id": "w0146",
+    "type": "word",
+    "en": "auditorium",
+    "ja": [
+      "講堂"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "auditori",
+    "senses": [
+      "auditorium-largehall"
+    ],
+    "example": {
+      "en": "The auditorium seats four hundred people.",
+      "ja": "その講堂は四百人分の席がある。"
+    }
+  },
+  {
+    "id": "w0147",
+    "type": "word",
+    "en": "beverage",
+    "ja": [
+      "飲料"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part1"
+    ],
+    "root": "beverag",
+    "senses": [
+      "beverage-drink"
+    ],
+    "example": {
+      "en": "Beverage service begins after the opening remarks.",
+      "ja": "飲料の提供は開会のあいさつの後に始まる。"
+    }
+  },
+  {
+    "id": "w0148",
+    "type": "word",
+    "en": "brochure",
+    "ja": [
+      "小冊子"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "brochur",
+    "senses": [
+      "brochure-infobooklet"
+    ],
+    "example": {
+      "en": "Take a brochure from the rack near the door.",
+      "ja": "扉の近くの棚から小冊子を取りなさい。"
+    }
+  },
+  {
+    "id": "w0149",
+    "type": "word",
+    "en": "candidate",
+    "ja": [
+      "候補者"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "candidat",
+    "senses": [
+      "candidate-personconsidered"
+    ],
+    "example": {
+      "en": "Only two candidates reached the final round.",
+      "ja": "最終段階に進んだ候補者は二名だけだった。"
+    }
+  },
+  {
+    "id": "w0150",
+    "type": "word",
+    "en": "ceremony",
+    "ja": [
+      "式典"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part4"
+    ],
+    "root": "ceremon",
+    "senses": [
+      "ceremony-formalevent"
+    ],
+    "example": {
+      "en": "The opening ceremony starts at noon on Friday.",
+      "ja": "開所の式典は金曜の正午に始まる。"
+    }
+  },
+  {
+    "id": "w0151",
+    "type": "word",
+    "en": "colleague",
+    "ja": [
+      "同僚"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "colleagu",
+    "senses": [
+      "colleague-coworker"
+    ],
+    "example": {
+      "en": "Ask a colleague to cover the front desk.",
+      "ja": "受付を代わってもらうよう同僚に頼みなさい。"
+    }
+  },
+  {
+    "id": "w0152",
+    "type": "word",
+    "en": "commission",
+    "ja": [
+      "歩合"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "commiss",
+    "senses": [
+      "commission-salesfee"
+    ],
+    "example": {
+      "en": "Sales staff earn a commission on every contract.",
+      "ja": "営業担当は契約ごとに歩合を得る。"
+    }
+  },
+  {
+    "id": "w0153",
+    "type": "word",
+    "en": "competitor",
+    "ja": [
+      "競合他社"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "compet",
+    "senses": [
+      "competitor-rivalfirm"
+    ],
+    "example": {
+      "en": "A competitor opened a branch across the street.",
+      "ja": "競合他社が通りの向かいに支店を開いた。"
+    }
+  },
+  {
+    "id": "w0154",
+    "type": "word",
+    "en": "courier",
+    "ja": [
+      "配送業者"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "courier",
+    "senses": [
+      "courier-deliveryservice"
+    ],
+    "example": {
+      "en": "The courier picks up parcels at four each day.",
+      "ja": "配送業者は毎日四時に荷物を集めに来る。"
+    }
+  },
+  {
+    "id": "w0155",
+    "type": "word",
+    "en": "delegate",
+    "ja": [
+      "委任する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "delegat",
+    "senses": [
+      "delegate-handoverduty"
+    ],
+    "example": {
+      "en": "Managers should delegate routine approvals to their teams.",
+      "ja": "管理職は定型の承認を部下に委任すべきだ。"
+    }
+  },
+  {
+    "id": "w0156",
+    "type": "word",
+    "en": "draft",
+    "ja": [
+      "草案"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "draft",
+    "senses": [
+      "draft-preliminaryversion"
+    ],
+    "example": {
+      "en": "Send the draft to legal before the board meets.",
+      "ja": "取締役会の前に草案を法務へ送りなさい。"
+    }
+  },
+  {
+    "id": "w0157",
+    "type": "word",
+    "en": "duplicate",
+    "ja": [
+      "複製する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "duplicat",
+    "senses": [
+      "duplicate-makecopy"
+    ],
+    "example": {
+      "en": "Do not duplicate the master key without approval.",
+      "ja": "承認なしに親鍵を複製してはならない。"
+    }
+  },
+  {
+    "id": "w0158",
+    "type": "word",
+    "en": "enclose",
+    "ja": [
+      "同封する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "enclos",
+    "senses": [
+      "enclose-putinenvelope"
+    ],
+    "exclude": [
+      "w0035"
+    ],
+    "example": {
+      "en": "We enclose a stamped envelope for your reply.",
+      "ja": "ご返信用に切手を貼った封筒を同封する。"
+    }
+  },
+  {
+    "id": "w0159",
+    "type": "word",
+    "en": "evaluate",
+    "ja": [
+      "評価する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "evaluat",
+    "senses": [
+      "evaluate-judgeworth"
+    ],
+    "exclude": [
+      "w0050",
+      "w0187",
+      "w0294"
+    ],
+    "example": {
+      "en": "The panel will evaluate each proposal on cost.",
+      "ja": "審査団は各提案を費用の面から評価する。"
+    }
+  },
+  {
+    "id": "w0160",
+    "type": "word",
+    "en": "exhibit",
+    "ja": [
+      "展示する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part4"
+    ],
+    "root": "exhibit",
+    "senses": [
+      "exhibit-displaypublicly"
+    ],
+    "example": {
+      "en": "Our firm will exhibit two new models in Tokyo.",
+      "ja": "当社は東京で新型を二機種展示する。"
+    }
+  },
+  {
+    "id": "w0161",
+    "type": "word",
+    "en": "expire",
+    "ja": [
+      "失効する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "expir",
+    "senses": [
+      "expire-ceasetobevalid"
+    ],
+    "example": {
+      "en": "The parking permit expires at the end of March.",
+      "ja": "駐車許可証は三月末に失効する。"
+    }
+  },
+  {
+    "id": "w0162",
+    "type": "word",
+    "en": "facility",
+    "ja": [
+      "施設"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "facilit",
+    "senses": [
+      "facility-buildingforuse"
+    ],
+    "example": {
+      "en": "The training facility includes a small print shop.",
+      "ja": "その研修施設には小さな印刷室がある。"
+    }
+  },
+  {
+    "id": "w0163",
+    "type": "word",
+    "en": "headquarters",
+    "ja": [
+      "本社"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "headquarter",
+    "senses": [
+      "headquarters-maincompanyoffice"
+    ],
+    "example": {
+      "en": "Headquarters approves all purchases above one million yen.",
+      "ja": "本社が百万円を超える購入をすべて承認する。"
+    }
+  },
+  {
+    "id": "w0164",
+    "type": "word",
+    "en": "implement",
+    "ja": [
+      "導入する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "implement",
+    "senses": [
+      "implement-putintouse"
+    ],
+    "exclude": [
+      "p0011"
+    ],
+    "example": {
+      "en": "The plant will implement a new tracking system.",
+      "ja": "工場は新しい追跡の仕組みを導入する。"
+    }
+  },
+  {
+    "id": "w0165",
+    "type": "word",
+    "en": "laboratory",
+    "ja": [
+      "研究室"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "laborator",
+    "senses": [
+      "laboratory-researchroom"
+    ],
+    "example": {
+      "en": "The laboratory tests every batch before shipping.",
+      "ja": "研究室は出荷前に全ての生産分を試験する。"
+    }
+  },
+  {
+    "id": "w0166",
+    "type": "word",
+    "en": "merchandise",
+    "ja": [
+      "商品"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "merchandis",
+    "senses": [
+      "product-manufactureditem"
+    ],
+    "example": {
+      "en": "Seasonal merchandise is displayed near the entrance.",
+      "ja": "季節の商品は入口の近くに並べられている。"
+    }
+  },
+  {
+    "id": "w0167",
+    "type": "word",
+    "en": "municipal",
+    "ja": [
+      "市の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "municip",
+    "senses": [
+      "municipal-cityrelated"
+    ],
+    "example": {
+      "en": "Municipal rules limit deliveries before seven o'clock.",
+      "ja": "市の規則は七時前の配送を制限している。"
+    }
+  },
+  {
+    "id": "w0168",
+    "type": "word",
+    "en": "occupancy",
+    "ja": [
+      "入居率"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part4"
+    ],
+    "root": "occup",
+    "senses": [
+      "occupancy-fillrate"
+    ],
+    "example": {
+      "en": "Occupancy at the north tower reached ninety percent.",
+      "ja": "北棟の入居率は九割に達した。"
+    }
+  },
+  {
+    "id": "w0169",
+    "type": "word",
+    "en": "outstanding",
+    "ja": [
+      "未払いの"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "outstand",
+    "senses": [
+      "outstanding-notyetpaid"
+    ],
+    "example": {
+      "en": "Two outstanding invoices remain from the winter order.",
+      "ja": "冬の注文分で未払いの請求書が二通残っている。"
+    }
+  },
+  {
+    "id": "w0170",
+    "type": "word",
+    "en": "participant",
+    "ja": [
+      "参加者"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "particip",
+    "senses": [
+      "participant-personjoining"
+    ],
+    "example": {
+      "en": "Each participant receives a name tag at the desk.",
+      "ja": "参加者は受付で名札を受け取る。"
+    }
+  },
+  {
+    "id": "w0171",
+    "type": "word",
+    "en": "permit",
+    "ja": [
+      "許可証"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "permit",
+    "senses": [
+      "permit-officialpermission"
+    ],
+    "example": {
+      "en": "A building permit is required before demolition starts.",
+      "ja": "解体を始める前に建築の許可証が必要だ。"
+    }
+  },
+  {
+    "id": "w0172",
+    "type": "word",
+    "en": "personnel",
+    "ja": [
+      "人事部"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "personnel",
+    "senses": [
+      "personnel-hrdepartment"
+    ],
+    "example": {
+      "en": "Personnel keeps the signed contracts on the third floor.",
+      "ja": "人事部は署名済みの契約書を三階に保管している。"
+    }
+  },
+  {
+    "id": "w0173",
+    "type": "word",
+    "en": "quotation",
+    "ja": [
+      "見積書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "quotat",
+    "senses": [
+      "quotation-writtenpriceoffer"
+    ],
+    "exclude": [
+      "w0026"
+    ],
+    "example": {
+      "en": "The quotation is valid for sixty days from issue.",
+      "ja": "この見積書は発行から六十日間有効だ。"
+    }
+  },
+  {
+    "id": "w0174",
+    "type": "word",
+    "en": "receptionist",
+    "ja": [
+      "受付係"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part1"
+    ],
+    "root": "receptionist",
+    "senses": [
+      "receptionist-frontdeskstaff"
+    ],
+    "example": {
+      "en": "The receptionist will call your name when ready.",
+      "ja": "準備ができたら受付係があなたの名を呼ぶ。"
+    }
+  },
+  {
+    "id": "w0175",
+    "type": "word",
+    "en": "refund",
+    "ja": [
+      "返金"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "refund",
+    "senses": [
+      "refund-moneyreturned"
+    ],
+    "exclude": [
+      "w0044",
+      "w0286"
+    ],
+    "example": {
+      "en": "A full refund applies if the tour is canceled.",
+      "ja": "旅程が中止になった場合は全額の返金となる。"
+    }
+  },
+  {
+    "id": "w0176",
+    "type": "word",
+    "en": "renewal",
+    "ja": [
+      "更新"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "renew",
+    "senses": [
+      "renewal-extendingterm"
+    ],
+    "example": {
+      "en": "Send the renewal notice sixty days before expiry.",
+      "ja": "失効の六十日前に更新の通知を送りなさい。"
+    }
+  },
+  {
+    "id": "w0177",
+    "type": "word",
+    "en": "shareholder",
+    "ja": [
+      "株主"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "sharehold",
+    "senses": [
+      "shareholder-stockowner"
+    ],
+    "example": {
+      "en": "Shareholders vote on the merger in late June.",
+      "ja": "株主は六月下旬に合併について採決する。"
+    }
+  },
+  {
+    "id": "w0178",
+    "type": "word",
+    "en": "submit",
+    "ja": [
+      "提出する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "submit",
+    "senses": [
+      "submit-handin"
+    ],
+    "example": {
+      "en": "Submit your timesheet before leaving on Friday.",
+      "ja": "金曜に退勤する前に勤務表を提出しなさい。"
+    }
+  },
+  {
+    "id": "w0179",
+    "type": "word",
+    "en": "transfer",
+    "ja": [
+      "転勤させる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "transfer",
+    "senses": [
+      "transfer-movestaff"
+    ],
+    "example": {
+      "en": "The firm will transfer two engineers to Sendai.",
+      "ja": "会社は技術者二名を仙台に転勤させる。"
+    }
+  },
+  {
+    "id": "w0180",
+    "type": "word",
+    "en": "utility",
+    "ja": [
+      "公共料金"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "utilit",
+    "senses": [
+      "utility-servicecharge"
+    ],
+    "example": {
+      "en": "Utility costs are shared among the three tenants.",
+      "ja": "公共料金は三名の賃借人で分担する。"
     }
   }
 ]

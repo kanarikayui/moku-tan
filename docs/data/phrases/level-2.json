@@ -3,12 +3,19 @@
     "id": "p0007",
     "type": "phrase",
     "en": "take over",
-    "ja": ["引き継ぐ"],
+    "ja": [
+      "引き継ぐ"
+    ],
     "pos": "phrase",
     "level": 2,
-    "tags": ["hr", "part3"],
+    "tags": [
+      "hr",
+      "part3"
+    ],
     "root": "takeover",
-    "senses": ["takeover-assumeduty"],
+    "senses": [
+      "takeover-assumeduty"
+    ],
     "example": {
       "en": "Ms. Ito will take over the account while I am abroad.",
       "ja": "私の海外出張中は伊藤さんがその取引先を引き継ぐ。"
@@ -18,12 +25,19 @@
     "id": "p0008",
     "type": "phrase",
     "en": "in charge of",
-    "ja": ["担当して"],
+    "ja": [
+      "担当して"
+    ],
     "pos": "phrase",
     "level": 2,
-    "tags": ["hr", "part7"],
+    "tags": [
+      "hr",
+      "part7"
+    ],
     "root": "incharge",
-    "senses": ["incharge-responsiblefor"],
+    "senses": [
+      "incharge-responsiblefor"
+    ],
     "example": {
       "en": "The clerk in charge of returns works only on weekdays.",
       "ja": "返品を担当している事務員は平日のみ勤務している。"
@@ -33,12 +47,19 @@
     "id": "p0009",
     "type": "phrase",
     "en": "be subject to",
-    "ja": ["〜の対象となる"],
+    "ja": [
+      "〜の対象となる"
+    ],
     "pos": "phrase",
     "level": 2,
-    "tags": ["contract", "part5"],
+    "tags": [
+      "contract",
+      "part5"
+    ],
     "root": "subjectto",
-    "senses": ["subjectto-liabletoundergo"],
+    "senses": [
+      "subjectto-liabletoundergo"
+    ],
     "example": {
       "en": "Late payments are subject to a two percent charge.",
       "ja": "支払いの遅延は二パーセントの手数料の対象となる。"
@@ -48,12 +69,19 @@
     "id": "p0010",
     "type": "phrase",
     "en": "set up",
-    "ja": ["設置する"],
+    "ja": [
+      "設置する"
+    ],
     "pos": "phrase",
     "level": 2,
-    "tags": ["facility", "part1"],
+    "tags": [
+      "facility",
+      "part1"
+    ],
     "root": "setup",
-    "senses": ["setup-putinplace"],
+    "senses": [
+      "setup-putinplace"
+    ],
     "example": {
       "en": "Workers set up the display racks before the store opens.",
       "ja": "開店前に作業員が陳列棚を設置する。"
@@ -63,12 +91,19 @@
     "id": "p0011",
     "type": "phrase",
     "en": "carry out",
-    "ja": ["実施する"],
+    "ja": [
+      "実施する"
+    ],
     "pos": "phrase",
     "level": 2,
-    "tags": ["manufacturing", "part4"],
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
     "root": "carryout",
-    "senses": ["carryout-putintoaction"],
+    "senses": [
+      "carryout-putintoaction"
+    ],
     "example": {
       "en": "Engineers carry out safety checks on every second Monday.",
       "ja": "技術者は隔週の月曜に安全点検を実施する。"
@@ -78,15 +113,333 @@
     "id": "p0012",
     "type": "phrase",
     "en": "look forward to",
-    "ja": ["楽しみに待つ"],
+    "ja": [
+      "楽しみに待つ"
+    ],
     "pos": "phrase",
     "level": 2,
-    "tags": ["service", "part7"],
+    "tags": [
+      "service",
+      "part7"
+    ],
     "root": "lookforward",
-    "senses": ["lookforward-awaitwithpleasure"],
+    "senses": [
+      "lookforward-awaitwithpleasure"
+    ],
     "example": {
       "en": "We look forward to your visit to our Nagoya plant.",
       "ja": "名古屋工場へのご訪問を楽しみに待っている。"
+    }
+  },
+  {
+    "id": "p0045",
+    "type": "phrase",
+    "en": "be responsible for",
+    "ja": [
+      "責任を負う"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "responsiblefor",
+    "senses": [
+      "incharge-responsiblefor"
+    ],
+    "example": {
+      "en": "The carrier is responsible for damage in transit.",
+      "ja": "運送業者は輸送中の破損に責任を負う。"
+    }
+  },
+  {
+    "id": "p0046",
+    "type": "phrase",
+    "en": "deal with",
+    "ja": [
+      "対処する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "dealwith",
+    "senses": [
+      "dealwith-handlematter"
+    ],
+    "example": {
+      "en": "The front desk deals with billing questions.",
+      "ja": "受付が請求に関する質問に対処する。"
+    }
+  },
+  {
+    "id": "p0047",
+    "type": "phrase",
+    "en": "turn down",
+    "ja": [
+      "断る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part3"
+    ],
+    "root": "turndown",
+    "senses": [
+      "turndown-refuseoffer"
+    ],
+    "example": {
+      "en": "The supplier turned down our request for credit.",
+      "ja": "供給業者は当社の与信の依頼を断った。"
+    }
+  },
+  {
+    "id": "p0048",
+    "type": "phrase",
+    "en": "call off",
+    "ja": [
+      "中止する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "calloff",
+    "senses": [
+      "cancel-calloff"
+    ],
+    "example": {
+      "en": "Heavy rain forced them to call off the tour.",
+      "ja": "大雨のため見学を中止せざるを得なかった。"
+    }
+  },
+  {
+    "id": "p0049",
+    "type": "phrase",
+    "en": "go over",
+    "ja": [
+      "見直す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "goover",
+    "senses": [
+      "goover-reviewcarefully"
+    ],
+    "example": {
+      "en": "Let us go over the figures before we sign.",
+      "ja": "署名する前に数字を見直そう。"
+    }
+  },
+  {
+    "id": "p0050",
+    "type": "phrase",
+    "en": "point out",
+    "ja": [
+      "指摘する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "pointout",
+    "senses": [
+      "pointout-drawattentionto"
+    ],
+    "example": {
+      "en": "The auditor pointed out two missing receipts.",
+      "ja": "監査人は領収書が二枚欠けていると指摘した。"
+    }
+  },
+  {
+    "id": "p0051",
+    "type": "phrase",
+    "en": "bring up",
+    "ja": [
+      "話題に出す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "bringup",
+    "senses": [
+      "bringup-raisetopic"
+    ],
+    "example": {
+      "en": "Bring up the parking issue at the next meeting.",
+      "ja": "次の会議で駐車の問題を話題に出しなさい。"
+    }
+  },
+  {
+    "id": "p0052",
+    "type": "phrase",
+    "en": "result in",
+    "ja": [
+      "〜という結果になる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "resultin",
+    "senses": [
+      "resultin-leadtooutcome"
+    ],
+    "example": {
+      "en": "The new layout resulted in fewer packing errors.",
+      "ja": "新しい配置は梱包の誤りが減るという結果になった。"
+    }
+  },
+  {
+    "id": "p0053",
+    "type": "phrase",
+    "en": "be aware of",
+    "ja": [
+      "承知している"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "awareof",
+    "senses": [
+      "awareof-knowabout"
+    ],
+    "example": {
+      "en": "Please be aware of the change in delivery hours.",
+      "ja": "配達時間の変更を承知しておいてください。"
+    }
+  },
+  {
+    "id": "p0054",
+    "type": "phrase",
+    "en": "in advance",
+    "ja": [
+      "前もって"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "inadvance",
+    "senses": [
+      "inadvance-beforehand"
+    ],
+    "example": {
+      "en": "Payment is due one week in advance.",
+      "ja": "支払いは一週間前もって行う必要がある。"
+    }
+  },
+  {
+    "id": "p0055",
+    "type": "phrase",
+    "en": "as of",
+    "ja": [
+      "〜の時点で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "asof",
+    "senses": [
+      "asof-startingfromdate"
+    ],
+    "example": {
+      "en": "As of April, the north gate closes at six.",
+      "ja": "四月の時点で北門は六時に閉まる。"
+    }
+  },
+  {
+    "id": "p0056",
+    "type": "phrase",
+    "en": "due to",
+    "ja": [
+      "〜が原因で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "dueto",
+    "senses": [
+      "dueto-becauseof"
+    ],
+    "example": {
+      "en": "The delay was due to a customs inspection.",
+      "ja": "遅れは通関の検査が原因で生じた。"
+    }
+  },
+  {
+    "id": "p0057",
+    "type": "phrase",
+    "en": "rather than",
+    "ja": [
+      "〜ではなく"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "ratherthan",
+    "senses": [
+      "ratherthan-insteadofalternative"
+    ],
+    "exclude": [
+      "p0026"
+    ],
+    "example": {
+      "en": "Send the file by post rather than by courier.",
+      "ja": "その書類は配送便ではなく郵便で送りなさい。"
+    }
+  },
+  {
+    "id": "p0058",
+    "type": "phrase",
+    "en": "apply for",
+    "ja": [
+      "職に応募する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "applyfor",
+    "senses": [
+      "applyfor-submitapplication"
+    ],
+    "example": {
+      "en": "Over sixty people applied for the two openings.",
+      "ja": "二つの空きに六十人以上が職に応募した。"
     }
   }
 ]

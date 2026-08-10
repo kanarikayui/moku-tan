@@ -23,6 +23,13 @@ const DIRECTION_LABEL = {
 /** 誤答が揃わないエントリを引いたときの、1 問あたりの再抽選上限。 */
 const RESELECT_LIMIT = 12;
 
+/**
+ * 正解したときに次の問題へ移るまでの待ち時間 (ms)。
+ * 0 にすると、答えたタップがそのまま次の問題の選択肢に当たってしまう。
+ * 正解の印を一瞬見せる目的も兼ねる。
+ */
+const CORRECT_ADVANCE_DELAY = 300;
+
 const dom = {
   notice: document.getElementById('notice'),
   sessionAsked: document.getElementById('session-asked'),
@@ -45,6 +52,7 @@ const state = {
   session: createSession(),
   question: null,
   answered: false,
+  advanceTimer: null,
   sessionCount: { asked: 0, correct: 0 },
 };
 
@@ -59,6 +67,10 @@ function clearChildren(element) {
   while (element.firstChild) element.removeChild(element.firstChild);
 }
 
+/**
+ * 正解のときは判定だけを出してすぐ次へ進む。
+ * 語の意味を確かめたいのは間違えたときなので、詳細は不正解のときにだけ出す。
+ */
 function renderFeedback(isCorrect) {
   const { entry } = state.question;
   clearChildren(dom.feedback);
@@ -67,6 +79,8 @@ function renderFeedback(isCorrect) {
   verdict.className = `verdict ${isCorrect ? 'is-correct' : 'is-wrong'}`;
   verdict.textContent = isCorrect ? '○ 正解' : '× 不正解';
   dom.feedback.append(verdict);
+
+  if (isCorrect) return;
 
   const headword = document.createElement('p');
   headword.className = 'feedback-headword';
@@ -166,6 +180,13 @@ function answer(selectedIndex) {
   markChoices(selectedIndex);
   renderFeedback(isCorrect);
   renderSessionBar();
+
+  if (isCorrect) {
+    // 正解なら止めずに次へ。ボタンは出さない。
+    state.advanceTimer = globalThis.setTimeout(nextQuestion, CORRECT_ADVANCE_DELAY);
+    return;
+  }
+
   dom.next.hidden = false;
   dom.next.focus();
 }
@@ -175,6 +196,11 @@ function answer(selectedIndex) {
  * 誤答が 3 件揃わないエントリは捨てて引き直し、ID を console.warn に出す。
  */
 function nextQuestion() {
+  if (state.advanceTimer !== null) {
+    globalThis.clearTimeout(state.advanceTimer);
+    state.advanceTimer = null;
+  }
+
   const skipped = new Set();
   for (let attempt = 0; attempt < RESELECT_LIMIT; attempt += 1) {
     const pool = state.pool.filter((entry) => !skipped.has(entry.id));
@@ -206,6 +232,8 @@ function nextQuestion() {
 
 function handleKeydown(event) {
   if (event.target instanceof HTMLElement && event.target.tagName === 'INPUT') return;
+  // 押しっぱなしの自動リピートで、次の問題まで答えてしまうのを防ぐ
+  if (event.repeat) return;
 
   if (!state.answered && /^[1-4]$/.test(event.key)) {
     const index = Number(event.key) - 1;
@@ -215,7 +243,8 @@ function handleKeydown(event) {
     }
     return;
   }
-  if (state.answered && (event.key === 'Enter' || event.key === ' ')) {
+  // 「次へ」は不正解のときだけ出る。正解時は自動で進むので受け付けない
+  if (!dom.next.hidden && (event.key === 'Enter' || event.key === ' ')) {
     event.preventDefault();
     nextQuestion();
   }

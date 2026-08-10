@@ -3,12 +3,19 @@
     "id": "p0001",
     "type": "phrase",
     "en": "take part in",
-    "ja": ["参加する"],
+    "ja": [
+      "参加する"
+    ],
     "pos": "phrase",
     "level": 1,
-    "tags": ["meeting", "part2"],
+    "tags": [
+      "meeting",
+      "part2"
+    ],
     "root": "takepartin",
-    "senses": ["attend-participate"],
+    "senses": [
+      "attend-participate"
+    ],
     "example": {
       "en": "Every new hire must take part in the orientation session.",
       "ja": "新入社員は全員、説明会に参加しなければならない。"
@@ -18,12 +25,19 @@
     "id": "p0002",
     "type": "phrase",
     "en": "look for",
-    "ja": ["探す"],
+    "ja": [
+      "探す"
+    ],
     "pos": "phrase",
     "level": 1,
-    "tags": ["office", "part2"],
+    "tags": [
+      "office",
+      "part2"
+    ],
     "root": "lookfor",
-    "senses": ["lookfor-trytofind"],
+    "senses": [
+      "lookfor-trytofind"
+    ],
     "example": {
       "en": "We are looking for a vendor that can print on metal.",
       "ja": "金属に印刷できる業者を探している。"
@@ -33,12 +47,19 @@
     "id": "p0003",
     "type": "phrase",
     "en": "pick up",
-    "ja": ["車で迎えに行く"],
+    "ja": [
+      "車で迎えに行く"
+    ],
     "pos": "phrase",
     "level": 1,
-    "tags": ["travel", "part3"],
+    "tags": [
+      "travel",
+      "part3"
+    ],
     "root": "pickup",
-    "senses": ["pickup-collectbycar"],
+    "senses": [
+      "pickup-collectbycar"
+    ],
     "example": {
       "en": "A driver will pick up the guests at the north exit.",
       "ja": "運転手が北口で来客を車で迎えに行く。"
@@ -48,12 +69,19 @@
     "id": "p0004",
     "type": "phrase",
     "en": "turn on",
-    "ja": ["電源を入れる"],
+    "ja": [
+      "電源を入れる"
+    ],
     "pos": "phrase",
     "level": 1,
-    "tags": ["facility", "part1"],
+    "tags": [
+      "facility",
+      "part1"
+    ],
     "root": "turnon",
-    "senses": ["turnon-startdevice"],
+    "senses": [
+      "turnon-startdevice"
+    ],
     "example": {
       "en": "Turn on the projector ten minutes before the briefing.",
       "ja": "説明会の十分前に投影機の電源を入れなさい。"
@@ -63,12 +91,19 @@
     "id": "p0005",
     "type": "phrase",
     "en": "fill out",
-    "ja": ["記入する"],
+    "ja": [
+      "記入する"
+    ],
     "pos": "phrase",
     "level": 1,
-    "tags": ["office", "part7"],
+    "tags": [
+      "office",
+      "part7"
+    ],
     "root": "fillout",
-    "senses": ["fillout-completeform"],
+    "senses": [
+      "fillout-completeform"
+    ],
     "example": {
       "en": "Please fill out the visitor card at the front desk.",
       "ja": "受付で来訪者カードに記入してください。"
@@ -78,15 +113,330 @@
     "id": "p0006",
     "type": "phrase",
     "en": "get in touch with",
-    "ja": ["連絡を取る"],
+    "ja": [
+      "連絡を取る"
+    ],
     "pos": "phrase",
     "level": 1,
-    "tags": ["service", "part3"],
+    "tags": [
+      "service",
+      "part3"
+    ],
     "root": "getintouch",
-    "senses": ["getintouch-makecontact"],
+    "senses": [
+      "getintouch-makecontact"
+    ],
     "example": {
       "en": "Get in touch with the carrier about the delayed pallet.",
       "ja": "遅れている荷台について運送業者と連絡を取りなさい。"
+    }
+  },
+  {
+    "id": "p0031",
+    "type": "phrase",
+    "en": "turn off",
+    "ja": [
+      "電源を切る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "turnoff",
+    "senses": [
+      "turnoff-switchoff"
+    ],
+    "example": {
+      "en": "Turn off the machines before the cleaning crew arrives.",
+      "ja": "清掃班が来る前に機械の電源を切りなさい。"
+    }
+  },
+  {
+    "id": "p0032",
+    "type": "phrase",
+    "en": "put away",
+    "ja": [
+      "片づける"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part1"
+    ],
+    "root": "putaway",
+    "senses": [
+      "putaway-storeneatly"
+    ],
+    "example": {
+      "en": "Put away the sample cases after the demonstration.",
+      "ja": "実演の後は見本の箱を片づけなさい。"
+    }
+  },
+  {
+    "id": "p0033",
+    "type": "phrase",
+    "en": "hand in",
+    "ja": [
+      "手渡しで提出する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "handin",
+    "senses": [
+      "handin-deliverbyhand"
+    ],
+    "example": {
+      "en": "Hand in the signed form at the security desk.",
+      "ja": "署名した用紙を警備の窓口で手渡しで提出しなさい。"
+    }
+  },
+  {
+    "id": "p0034",
+    "type": "phrase",
+    "en": "check in",
+    "ja": [
+      "搭乗手続きをする"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "checkin",
+    "senses": [
+      "checkin-registerarrival"
+    ],
+    "example": {
+      "en": "Check in two hours before an overseas flight.",
+      "ja": "海外便では二時間前に搭乗手続きをしなさい。"
+    }
+  },
+  {
+    "id": "p0035",
+    "type": "phrase",
+    "en": "sign up for",
+    "ja": [
+      "申し込む"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "hr",
+      "part4"
+    ],
+    "root": "signup",
+    "senses": [
+      "signup-registerfor"
+    ],
+    "example": {
+      "en": "Sign up for the safety course by Wednesday.",
+      "ja": "水曜までに安全講習に申し込みなさい。"
+    }
+  },
+  {
+    "id": "p0036",
+    "type": "phrase",
+    "en": "take a look at",
+    "ja": [
+      "目を通す"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "takealook",
+    "senses": [
+      "takealook-examinebriefly"
+    ],
+    "example": {
+      "en": "Take a look at the revised floor plan.",
+      "ja": "見直した配置図に目を通しなさい。"
+    }
+  },
+  {
+    "id": "p0037",
+    "type": "phrase",
+    "en": "be located in",
+    "ja": [
+      "〜に位置する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "located",
+    "senses": [
+      "located-situatedat"
+    ],
+    "example": {
+      "en": "The service center is located in the west building.",
+      "ja": "整備の拠点は西棟に位置する。"
+    }
+  },
+  {
+    "id": "p0038",
+    "type": "phrase",
+    "en": "make sure",
+    "ja": [
+      "念のため確かめる"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "makesure",
+    "senses": [
+      "confirm-verify"
+    ],
+    "example": {
+      "en": "Make sure the labels match the packing list.",
+      "ja": "表示が梱包明細と合っているか念のため確かめなさい。"
+    }
+  },
+  {
+    "id": "p0039",
+    "type": "phrase",
+    "en": "get back to",
+    "ja": [
+      "折り返し連絡する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "getback",
+    "senses": [
+      "getback-replylater"
+    ],
+    "example": {
+      "en": "I will get back to you after the meeting.",
+      "ja": "会議の後に折り返し連絡する。"
+    }
+  },
+  {
+    "id": "p0040",
+    "type": "phrase",
+    "en": "put off",
+    "ja": [
+      "先送りする"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "putoff",
+    "senses": [
+      "postpone-delay"
+    ],
+    "example": {
+      "en": "They put off the inspection until the parts arrive.",
+      "ja": "部品が届くまで点検を先送りした。"
+    }
+  },
+  {
+    "id": "p0041",
+    "type": "phrase",
+    "en": "show up",
+    "ja": [
+      "姿を見せる"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "showup",
+    "senses": [
+      "showup-appearinperson"
+    ],
+    "example": {
+      "en": "Only half the guests showed up in the rain.",
+      "ja": "雨のため招待客の半数しか姿を見せなかった。"
+    }
+  },
+  {
+    "id": "p0042",
+    "type": "phrase",
+    "en": "drop by",
+    "ja": [
+      "立ち寄る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "dropby",
+    "senses": [
+      "dropby-visitbriefly"
+    ],
+    "example": {
+      "en": "Drop by the office when you collect the keys.",
+      "ja": "鍵を受け取るときに事務所へ立ち寄りなさい。"
+    }
+  },
+  {
+    "id": "p0043",
+    "type": "phrase",
+    "en": "line up",
+    "ja": [
+      "並んで待つ"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part1"
+    ],
+    "root": "lineup",
+    "senses": [
+      "lineup-formqueue"
+    ],
+    "example": {
+      "en": "Visitors line up along the wall for badges.",
+      "ja": "来訪者は名札を受け取るため壁沿いに並んで待つ。"
+    }
+  },
+  {
+    "id": "p0044",
+    "type": "phrase",
+    "en": "be out of order",
+    "ja": [
+      "故障している"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part2"
+    ],
+    "root": "outoforder",
+    "senses": [
+      "outoforder-notworking"
+    ],
+    "example": {
+      "en": "The second elevator is out of order today.",
+      "ja": "本日、二号の昇降機は故障している。"
     }
   }
 ]

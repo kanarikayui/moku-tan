@@ -3,12 +3,19 @@
     "id": "p0013",
     "type": "phrase",
     "en": "come up with",
-    "ja": ["思いつく"],
+    "ja": [
+      "思いつく"
+    ],
     "pos": "phrase",
     "level": 3,
-    "tags": ["meeting", "part3"],
+    "tags": [
+      "meeting",
+      "part3"
+    ],
     "root": "comeupwith",
-    "senses": ["comeupwith-produceidea"],
+    "senses": [
+      "comeupwith-produceidea"
+    ],
     "example": {
       "en": "The team came up with a cheaper packing method.",
       "ja": "その班はより安価な梱包方法を思いついた。"
@@ -18,12 +25,19 @@
     "id": "p0014",
     "type": "phrase",
     "en": "run out of",
-    "ja": ["使い果たす"],
+    "ja": [
+      "使い果たす"
+    ],
     "pos": "phrase",
     "level": 3,
-    "tags": ["logistics", "part3"],
+    "tags": [
+      "logistics",
+      "part3"
+    ],
     "root": "runoutof",
-    "senses": ["runoutof-exhaustsupply"],
+    "senses": [
+      "runoutof-exhaustsupply"
+    ],
     "example": {
       "en": "The branch ran out of printer toner before the audit.",
       "ja": "その支店は監査の前に印刷機の粉末を使い果たした。"
@@ -33,12 +47,19 @@
     "id": "p0015",
     "type": "phrase",
     "en": "keep track of",
-    "ja": ["把握しておく"],
+    "ja": [
+      "把握しておく"
+    ],
     "pos": "phrase",
     "level": 3,
-    "tags": ["office", "part7"],
+    "tags": [
+      "office",
+      "part7"
+    ],
     "root": "keeptrack",
-    "senses": ["keeptrack-stayinformedabout"],
+    "senses": [
+      "keeptrack-stayinformedabout"
+    ],
     "example": {
       "en": "Use the log sheet to keep track of tool loans.",
       "ja": "工具の貸し出しを把握しておくために記録用紙を使いなさい。"
@@ -48,12 +69,19 @@
     "id": "p0016",
     "type": "phrase",
     "en": "on behalf of",
-    "ja": ["〜を代表して"],
+    "ja": [
+      "〜を代表して"
+    ],
     "pos": "phrase",
     "level": 3,
-    "tags": ["corporate", "part7"],
+    "tags": [
+      "corporate",
+      "part7"
+    ],
     "root": "onbehalf",
-    "senses": ["onbehalf-actingfor"],
+    "senses": [
+      "onbehalf-actingfor"
+    ],
     "example": {
       "en": "She signed the agreement on behalf of the parent company.",
       "ja": "彼女は親会社を代表して協定に署名した。"
@@ -63,12 +91,19 @@
     "id": "p0017",
     "type": "phrase",
     "en": "in accordance with",
-    "ja": ["〜に沿って"],
+    "ja": [
+      "〜に沿って"
+    ],
     "pos": "phrase",
     "level": 3,
-    "tags": ["contract", "part5"],
+    "tags": [
+      "contract",
+      "part5"
+    ],
     "root": "inaccordance",
-    "senses": ["comply-obey"],
+    "senses": [
+      "comply-obey"
+    ],
     "example": {
       "en": "Goods are stored in accordance with the safety manual.",
       "ja": "商品は安全手引に沿って保管されている。"
@@ -78,15 +113,333 @@
     "id": "p0018",
     "type": "phrase",
     "en": "be entitled to",
-    "ja": ["〜の権利がある"],
+    "ja": [
+      "〜の権利がある"
+    ],
     "pos": "phrase",
     "level": 3,
-    "tags": ["hr", "part7"],
+    "tags": [
+      "hr",
+      "part7"
+    ],
     "root": "entitledto",
-    "senses": ["entitledto-haveright"],
+    "senses": [
+      "entitledto-haveright"
+    ],
     "example": {
       "en": "Full-time staff are entitled to fifteen paid days off.",
       "ja": "常勤の従業員には有給休暇十五日の権利がある。"
+    }
+  },
+  {
+    "id": "p0059",
+    "type": "phrase",
+    "en": "take into account",
+    "ja": [
+      "考慮に入れる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "takeintoaccount",
+    "senses": [
+      "takeintoaccount-considerfactor"
+    ],
+    "example": {
+      "en": "Take fuel costs into account when you quote.",
+      "ja": "価格を提示するときは燃料費を考慮に入れなさい。"
+    }
+  },
+  {
+    "id": "p0060",
+    "type": "phrase",
+    "en": "make up for",
+    "ja": [
+      "埋め合わせる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "makeupfor",
+    "senses": [
+      "makeupfor-compensateloss"
+    ],
+    "example": {
+      "en": "Autumn sales made up for the slow summer.",
+      "ja": "秋の売上が振るわない夏を埋め合わせた。"
+    }
+  },
+  {
+    "id": "p0061",
+    "type": "phrase",
+    "en": "catch up with",
+    "ja": [
+      "追いつく"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "catchup",
+    "senses": [
+      "catchup-reachsamelevel"
+    ],
+    "example": {
+      "en": "The plant caught up with orders by late May.",
+      "ja": "工場は五月下旬までに注文に追いついた。"
+    }
+  },
+  {
+    "id": "p0062",
+    "type": "phrase",
+    "en": "cut back on",
+    "ja": [
+      "削減する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "cutback",
+    "senses": [
+      "cutback-reducespending"
+    ],
+    "exclude": [
+      "p0080"
+    ],
+    "example": {
+      "en": "The branch cut back on overtime this quarter.",
+      "ja": "支店は今四半期の残業を削減した。"
+    }
+  },
+  {
+    "id": "p0063",
+    "type": "phrase",
+    "en": "follow up on",
+    "ja": [
+      "追って確認する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "followup",
+    "senses": [
+      "followup-checkafterwards"
+    ],
+    "example": {
+      "en": "Follow up on the claim if no reply arrives.",
+      "ja": "返答がなければその請求を追って確認しなさい。"
+    }
+  },
+  {
+    "id": "p0064",
+    "type": "phrase",
+    "en": "look into",
+    "ja": [
+      "調査する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "lookinto",
+    "senses": [
+      "lookinto-investigatematter"
+    ],
+    "example": {
+      "en": "We will look into the missing pallet today.",
+      "ja": "本日、見当たらない荷台について調査する。"
+    }
+  },
+  {
+    "id": "p0065",
+    "type": "phrase",
+    "en": "put together",
+    "ja": [
+      "取りまとめる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part4"
+    ],
+    "root": "puttogether",
+    "senses": [
+      "puttogether-assembleinfo"
+    ],
+    "example": {
+      "en": "She put together a summary of the site visits.",
+      "ja": "彼女は現場訪問の要約を取りまとめた。"
+    }
+  },
+  {
+    "id": "p0066",
+    "type": "phrase",
+    "en": "turn out",
+    "ja": [
+      "結局〜となる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part3"
+    ],
+    "root": "turnout",
+    "senses": [
+      "turnout-provetobe"
+    ],
+    "example": {
+      "en": "The fault turned out to be a loose cable.",
+      "ja": "その不具合は結局、緩んだ配線となった。"
+    }
+  },
+  {
+    "id": "p0067",
+    "type": "phrase",
+    "en": "be committed to",
+    "ja": [
+      "尽力する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "committedto",
+    "senses": [
+      "committedto-dedicatedeffort"
+    ],
+    "example": {
+      "en": "The firm is committed to shorter delivery times.",
+      "ja": "同社は納期の短縮に尽力している。"
+    }
+  },
+  {
+    "id": "p0068",
+    "type": "phrase",
+    "en": "in the event of",
+    "ja": [
+      "〜の場合には"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "intheevent",
+    "senses": [
+      "intheevent-ifsomethinghappens"
+    ],
+    "example": {
+      "en": "In the event of a strike, orders ship by rail.",
+      "ja": "争議の場合には注文品を鉄道で送る。"
+    }
+  },
+  {
+    "id": "p0069",
+    "type": "phrase",
+    "en": "with regard to",
+    "ja": [
+      "〜に関して"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "withregard",
+    "senses": [
+      "withregard-concerning"
+    ],
+    "example": {
+      "en": "With regard to the lease, our lawyer will call.",
+      "ja": "賃貸借に関しては当方の弁護士から連絡する。"
+    }
+  },
+  {
+    "id": "p0070",
+    "type": "phrase",
+    "en": "prior to",
+    "ja": [
+      "〜より前に"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "priorto",
+    "senses": [
+      "priorto-beforeintime"
+    ],
+    "example": {
+      "en": "Submit the form prior to the closing date.",
+      "ja": "締め切りの日より前に用紙を提出しなさい。"
+    }
+  },
+  {
+    "id": "p0071",
+    "type": "phrase",
+    "en": "on short notice",
+    "ja": [
+      "急な知らせで"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "shortnotice",
+    "senses": [
+      "shortnotice-withlittlewarning"
+    ],
+    "example": {
+      "en": "The caterer prepared lunch on short notice.",
+      "ja": "仕出し業者は急な知らせで昼食を用意した。"
+    }
+  },
+  {
+    "id": "p0072",
+    "type": "phrase",
+    "en": "free of charge",
+    "ja": [
+      "無料で"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "freeofcharge",
+    "senses": [
+      "freeofcharge-withoutpayment"
+    ],
+    "example": {
+      "en": "Installation is free of charge for members.",
+      "ja": "会員は設置を無料で受けられる。"
     }
   }
 ]
