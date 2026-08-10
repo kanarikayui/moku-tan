@@ -65,6 +65,9 @@ export const SCHEDULER = {
 /** 日別統計を保持する日数。 */
 export const DAILY_RETENTION_DAYS = 60;
 
+/** 履歴画面に出す語数。直近に出題した順で並べる。 */
+export const HISTORY_LIMIT = 50;
+
 /** 統計画面の「苦手な語」の抽出条件。 */
 export const WEAK_ENTRY_RULE = { minSeen: 3, limit: 20 };
 

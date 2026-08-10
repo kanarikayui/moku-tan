@@ -8,7 +8,16 @@ import { RESULT } from './config.js';
 
 /** 1 エントリ分の学習状態の初期値。 */
 export function createEntryState() {
-  return { seen: 0, correct: 0, wrong: 0, skipped: 0, streak: 0, nextDue: 0, lastAskedAt: null };
+  return {
+    seen: 0,
+    correct: 0,
+    wrong: 0,
+    skipped: 0,
+    streak: 0,
+    nextDue: 0,
+    lastAskedAt: null,
+    lastResult: null,
+  };
 }
 
 /** セッション（出題連番と直近履歴）の初期値。 */
@@ -125,6 +134,8 @@ export function applyResult(state, result, counter, config, timestamp = null) {
     wrong: state.wrong,
     skipped: state.skipped ?? 0,
     lastAskedAt: timestamp,
+    // 履歴画面で「直前にどうだったか」を出すために残す
+    lastResult: result,
   };
 
   if (result === RESULT.CORRECT) {

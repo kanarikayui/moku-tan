@@ -437,6 +437,102 @@ th.num {
   color: var(--text-muted);
 }
 
+/* ---- 履歴画面 ---- */
+
+.description {
+  margin: 0 0 1rem;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.8rem;
+}
+
+.filter {
+  min-height: 2.4rem;
+  padding: 0.35rem 0.9rem;
+  background: var(--surface);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.filter[aria-pressed='true'] {
+  background: var(--accent);
+  color: var(--accent-text);
+  border-color: var(--accent);
+}
+
+.history {
+  list-style: none;
+  margin: 0.6rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: 0.6rem;
+}
+
+.history-item {
+  padding: 0.8rem 0.9rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.history-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.5rem;
+}
+
+.history-word {
+  font-size: 1.15rem;
+  font-weight: 700;
+  overflow-wrap: anywhere;
+}
+
+.history-badge {
+  flex: none;
+  font-size: 0.8rem;
+  white-space: nowrap;
+}
+
+.history-badge.is-correct {
+  color: var(--correct);
+}
+
+.history-badge.is-wrong {
+  color: var(--wrong);
+}
+
+.history-badge.is-skipped {
+  color: var(--text-muted);
+}
+
+.history-meta {
+  margin: 0.15rem 0 0.4rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.history-meaning {
+  margin: 0 0 0.35rem;
+}
+
+.history-example-en,
+.history-example-ja {
+  margin: 0 0 0.2rem;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
 /* ---- 設定画面 ---- */
 
 .field {

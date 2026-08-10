@@ -39,12 +39,14 @@ python3 -m http.server 8000 --directory docs
 ├── LICENSE
 ├── docs/                      # GitHub Pages 公開ルート
 │   ├── index.html             # 出題画面
+│   ├── history.html           # 履歴画面
 │   ├── stats.html             # 統計画面
 │   ├── settings.html          # 設定画面
 │   ├── css/
 │   │   └── style.css
 │   ├── js/
 │   │   ├── main.js            # 出題画面の DOM 制御
+│   │   ├── history-page.js    # 履歴画面の DOM 制御
 │   │   ├── stats-page.js      # 統計画面の DOM 制御
 │   │   ├── settings-page.js   # 設定画面の DOM 制御
 │   │   ├── quiz.js            # 問題生成（誤答選択肢の選定を含む）★純粋関数
@@ -267,7 +269,7 @@ w = max(w, 0.05)
 | キー | 内容 |
 |---|---|
 | `moku-tan:v1:settings` | 出題方向、A / B、出題範囲（level・type）、テーマ |
-| `moku-tan:v1:progress` | 出題連番 `counter`、抽選ガード `recent` / `newFlags`、エントリ ID → `{ seen, correct, wrong, skipped, streak, nextDue, lastAskedAt }` |
+| `moku-tan:v1:progress` | 出題連番 `counter`、抽選ガード `recent` / `newFlags`、エントリ ID → `{ seen, correct, wrong, skipped, streak, nextDue, lastAskedAt, lastResult }` |
 | `moku-tan:v1:stats` | 総計・方向別・日別の集計（いずれも `asked` / `correct` / `skipped`） |
 
 - 各値は `schemaVersion` を持ち、`storage.js` の `migrate()` で旧版から変換する。
@@ -300,6 +302,16 @@ w = max(w, 0.05)
   値は画面側で数えず `stats.daily[今日]` から描くので、更新しても 0 に戻らない
 - 正誤の伝達は色だけに頼らず、記号（○ / ×）とテキストを併記する
 - フィードバック領域は `aria-live="polite"`
+
+### 履歴画面 (`history.html`)
+
+- **直近に出題した語の意味を見直すための画面。** 出題を止めずに済むよう別ページにする
+- `lastAskedAt` の新しい順に最大 `HISTORY_LIMIT`（50）件。同じ語は最後に出た 1 件にまとめる
+  （語ごとの記録なので、何度出題されていても一覧には 1 行しか出ない）
+- 各件に 語・品詞・level・出題回数・正答率・**直前の結果**（○ / × / －）・代表訳・例文（英日）
+- 「すべて / 不正解 / スキップ」で絞り込む。判定は `lastResult` で行うので、
+  「さっき答えられなかった語」だけを短時間で見直せる
+- 抽出は `stats.js` の `recentEntries()` に置く（純粋関数のまま保つ）
 
 ### 統計画面 (`stats.html`)
 
@@ -352,6 +364,8 @@ node tools/validate-data.mjs
 - `scheduler.js`: スキップが不正解と同じ間隔・同じ重みになり、`wrong` とは別に
   数えられること
 - `stats.js`: 集計値と方向別集計が正しいこと
+- `stats.js`: 履歴が出題の新しい順に並び、直前の結果で絞り込めること。未出題の語や
+  語彙データに無い ID が混ざらないこと
 - `storage.js`: 破損 JSON を読んだときに既定値へフォールバックすること
 - `storage.js`: `skipped` を持たない旧データを読んでも 0 として扱えること
 - `storage.js`: `recent` / `newFlags` を保存して読み戻せること。持たない旧データや

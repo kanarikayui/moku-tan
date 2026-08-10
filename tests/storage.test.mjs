@@ -276,3 +276,37 @@ test('学習進捗を初期化すると抽選のガードも消える', () => {
   assert.deepEqual(value.recent, []);
   assert.deepEqual(value.newFlags, []);
 });
+
+test('直前の結果を保存して読み戻せる', () => {
+  reset();
+  saveProgress({
+    ...createProgress(),
+    counter: 1,
+    entries: {
+      w0001: {
+        seen: 1, correct: 0, wrong: 0, skipped: 1, streak: 0, nextDue: 11,
+        lastAskedAt: '2026-08-10T09:00:00.000Z', lastResult: 'skipped',
+      },
+    },
+  });
+  assert.equal(loadProgress().value.entries.w0001.lastResult, 'skipped');
+});
+
+test('lastResult が無い旧データや未知の値は null になる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.progress,
+    JSON.stringify({
+      schemaVersion: 1,
+      counter: 2,
+      entries: {
+        w0001: { seen: 1, correct: 1, wrong: 0, streak: 1, nextDue: 41, lastAskedAt: null },
+        w0002: { seen: 1, correct: 0, wrong: 1, streak: 0, nextDue: 11, lastAskedAt: null, lastResult: 'てきとう' },
+      },
+    }),
+  );
+  const { value, recovered } = loadProgress();
+  assert.equal(recovered, false);
+  assert.equal(value.entries.w0001.lastResult, null);
+  assert.equal(value.entries.w0002.lastResult, null);
+});
