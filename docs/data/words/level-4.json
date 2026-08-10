@@ -3,12 +3,19 @@
     "id": "w0061",
     "type": "word",
     "en": "discrepancy",
-    "ja": ["不一致"],
+    "ja": [
+      "不一致"
+    ],
     "pos": "noun",
     "level": 4,
-    "tags": ["finance", "part7"],
+    "tags": [
+      "finance",
+      "part7"
+    ],
     "root": "discrepan",
-    "senses": ["discrepancy-mismatch"],
+    "senses": [
+      "discrepancy-mismatch"
+    ],
     "example": {
       "en": "Accounting found a discrepancy between the invoice and the order.",
       "ja": "経理は請求書と注文書の間に不一致を見つけた。"
@@ -18,12 +25,19 @@
     "id": "w0062",
     "type": "word",
     "en": "preliminary",
-    "ja": ["予備の"],
+    "ja": [
+      "予備の"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["office", "part5"],
+    "tags": [
+      "office",
+      "part5"
+    ],
     "root": "prelimin",
-    "senses": ["preliminary-comingbefore"],
+    "senses": [
+      "preliminary-comingbefore"
+    ],
     "example": {
       "en": "A preliminary survey suggests the site needs new drainage.",
       "ja": "予備の調査によれば、その場所には新しい排水設備が必要だ。"
@@ -33,12 +47,19 @@
     "id": "w0063",
     "type": "word",
     "en": "stringent",
-    "ja": ["厳格な"],
+    "ja": [
+      "厳格な"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["contract", "part5"],
+    "tags": [
+      "contract",
+      "part5"
+    ],
     "root": "stringen",
-    "senses": ["stringent-severelystrict"],
+    "senses": [
+      "stringent-severelystrict"
+    ],
     "example": {
       "en": "Food exporters face stringent labeling requirements abroad.",
       "ja": "食品輸出業者は海外で厳格な表示要件に直面する。"
@@ -48,12 +69,19 @@
     "id": "w0064",
     "type": "word",
     "en": "feasible",
-    "ja": ["実現可能な"],
+    "ja": [
+      "実現可能な"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["manufacturing", "part5"],
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
     "root": "feasib",
-    "senses": ["feasible-workablyachievable"],
+    "senses": [
+      "feasible-workablyachievable"
+    ],
     "example": {
       "en": "Doubling output by June is not feasible with one line.",
       "ja": "一つの生産設備で六月までに生産量を倍にするのは実現可能ではない。"
@@ -63,12 +91,19 @@
     "id": "w0065",
     "type": "word",
     "en": "anonymous",
-    "ja": ["匿名の"],
+    "ja": [
+      "匿名の"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["hr", "part7"],
+    "tags": [
+      "hr",
+      "part7"
+    ],
     "root": "anonym",
-    "senses": ["anonymous-namewithheld"],
+    "senses": [
+      "anonymous-namewithheld"
+    ],
     "example": {
       "en": "Staff may submit anonymous comments through the online form.",
       "ja": "従業員は入力用の様式から匿名の意見を提出できる。"
@@ -78,12 +113,19 @@
     "id": "w0066",
     "type": "word",
     "en": "consolidate",
-    "ja": ["統合する"],
+    "ja": [
+      "統合する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["corporate", "part7"],
+    "tags": [
+      "corporate",
+      "part7"
+    ],
     "root": "consolidat",
-    "senses": ["consolidate-combineintoone"],
+    "senses": [
+      "consolidate-combineintoone"
+    ],
     "example": {
       "en": "The firm will consolidate three depots into a single hub.",
       "ja": "同社は三つの配送拠点を一つの中核施設に統合する。"
@@ -93,12 +135,19 @@
     "id": "w0067",
     "type": "word",
     "en": "comprehensive",
-    "ja": ["包括的な"],
+    "ja": [
+      "包括的な"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["service", "part5"],
+    "tags": [
+      "service",
+      "part5"
+    ],
     "root": "comprehens",
-    "senses": ["comprehensive-coveringall"],
+    "senses": [
+      "comprehensive-coveringall"
+    ],
     "example": {
       "en": "The plan offers comprehensive coverage for imported machinery.",
       "ja": "この契約は輸入機械に包括的な補償を提供する。"
@@ -108,12 +157,19 @@
     "id": "w0068",
     "type": "word",
     "en": "unanimous",
-    "ja": ["満場一致の"],
+    "ja": [
+      "満場一致の"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["meeting", "part5"],
+    "tags": [
+      "meeting",
+      "part5"
+    ],
     "root": "unanim",
-    "senses": ["unanimous-agreedbyall"],
+    "senses": [
+      "unanimous-agreedbyall"
+    ],
     "example": {
       "en": "The vote to extend the lease was unanimous.",
       "ja": "賃貸借を延長する採決は満場一致だった。"
@@ -123,12 +179,19 @@
     "id": "w0069",
     "type": "word",
     "en": "incentive",
-    "ja": ["報奨金"],
+    "ja": [
+      "報奨金"
+    ],
     "pos": "noun",
     "level": 4,
-    "tags": ["hr", "part4"],
+    "tags": [
+      "hr",
+      "part4"
+    ],
     "root": "incentiv",
-    "senses": ["incentive-rewardtomotivate"],
+    "senses": [
+      "incentive-rewardtomotivate"
+    ],
     "example": {
       "en": "Drivers earn an incentive for accident-free quarters.",
       "ja": "運転手は無事故の四半期に対して報奨金を得る。"
@@ -138,12 +201,19 @@
     "id": "w0070",
     "type": "word",
     "en": "tentative",
-    "ja": ["暫定的な"],
+    "ja": [
+      "暫定的な"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["meeting", "part5"],
+    "tags": [
+      "meeting",
+      "part5"
+    ],
     "root": "tentativ",
-    "senses": ["tentative-notyetfinal"],
+    "senses": [
+      "tentative-notyetfinal"
+    ],
     "example": {
       "en": "The tentative agenda lists two guest speakers.",
       "ja": "暫定的な議事日程には来賓の講演者が二名載っている。"
@@ -153,12 +223,19 @@
     "id": "w0071",
     "type": "word",
     "en": "versatile",
-    "ja": ["多用途の"],
+    "ja": [
+      "多用途の"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["manufacturing", "part5"],
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
     "root": "versatil",
-    "senses": ["versatile-manyuses"],
+    "senses": [
+      "versatile-manyuses"
+    ],
     "example": {
       "en": "This versatile scanner handles receipts and large drawings.",
       "ja": "この多用途の読み取り機は領収書も大判図面も扱える。"
@@ -168,12 +245,19 @@
     "id": "w0072",
     "type": "word",
     "en": "prospective",
-    "ja": ["見込みのある"],
+    "ja": [
+      "見込みのある"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["sales", "part7"],
+    "tags": [
+      "sales",
+      "part7"
+    ],
     "root": "prospect",
-    "senses": ["prospective-likelyfuture"],
+    "senses": [
+      "prospective-likelyfuture"
+    ],
     "example": {
       "en": "Sales staff met twelve prospective buyers at the fair.",
       "ja": "営業担当は見本市で見込みのある買い手と十二人会った。"
@@ -183,12 +267,19 @@
     "id": "w0073",
     "type": "word",
     "en": "substantial",
-    "ja": ["相当な"],
+    "ja": [
+      "相当な"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["finance", "part5"],
+    "tags": [
+      "finance",
+      "part5"
+    ],
     "root": "substanti",
-    "senses": ["substantial-largeinamount"],
+    "senses": [
+      "substantial-largeinamount"
+    ],
     "example": {
       "en": "The upgrade brought a substantial drop in energy use.",
       "ja": "改修によって電力使用量が相当な幅で下がった。"
@@ -198,12 +289,19 @@
     "id": "w0074",
     "type": "word",
     "en": "accommodate",
-    "ja": ["収容する"],
+    "ja": [
+      "収容する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["facility", "part4"],
+    "tags": [
+      "facility",
+      "part4"
+    ],
     "root": "accommodat",
-    "senses": ["accommodate-haveroomfor"],
+    "senses": [
+      "accommodate-haveroomfor"
+    ],
     "example": {
       "en": "The hall can accommodate three hundred seated guests.",
       "ja": "そのホールは着席の客を三百人収容できる。"
@@ -213,12 +311,19 @@
     "id": "w0075",
     "type": "word",
     "en": "disclose",
-    "ja": ["開示する"],
+    "ja": [
+      "開示する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "disclos",
-    "senses": ["disclose-makeknown"],
+    "senses": [
+      "disclose-makeknown"
+    ],
     "example": {
       "en": "Suppliers must disclose any change of ownership.",
       "ja": "供給業者は所有者の変更をすべて開示しなければならない。"
@@ -228,12 +333,19 @@
     "id": "w0076",
     "type": "word",
     "en": "endorse",
-    "ja": ["支持する"],
+    "ja": [
+      "支持する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["corporate", "part7"],
+    "tags": [
+      "corporate",
+      "part7"
+    ],
     "root": "endors",
-    "senses": ["endorse-publiclybackup"],
+    "senses": [
+      "endorse-publiclybackup"
+    ],
     "example": {
       "en": "Two directors endorse the proposal to open a second plant.",
       "ja": "二名の取締役が第二工場の開設案を支持している。"
@@ -243,12 +355,19 @@
     "id": "w0077",
     "type": "word",
     "en": "mitigate",
-    "ja": ["軽減する"],
+    "ja": [
+      "軽減する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["contract", "part5"],
+    "tags": [
+      "contract",
+      "part5"
+    ],
     "root": "mitigat",
-    "senses": ["mitigate-makelesssevere"],
+    "senses": [
+      "mitigate-makelesssevere"
+    ],
     "example": {
       "en": "Backup generators mitigate the risk of a shutdown.",
       "ja": "予備の発電機が操業停止の危険を軽減する。"
@@ -258,12 +377,19 @@
     "id": "w0078",
     "type": "word",
     "en": "redundant",
-    "ja": ["余剰の"],
+    "ja": [
+      "余剰の"
+    ],
     "pos": "adj",
     "level": 4,
-    "tags": ["hr", "part5"],
+    "tags": [
+      "hr",
+      "part5"
+    ],
     "root": "redundan",
-    "senses": ["redundant-morethanneeded"],
+    "senses": [
+      "redundant-morethanneeded"
+    ],
     "example": {
       "en": "The merger left several redundant clerical roles.",
       "ja": "合併により余剰の事務職がいくつか生じた。"
@@ -273,13 +399,22 @@
     "id": "w0079",
     "type": "word",
     "en": "scrutinize",
-    "ja": ["精査する"],
+    "ja": [
+      "精査する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["office", "part7"],
+    "tags": [
+      "office",
+      "part7"
+    ],
     "root": "scrutin",
-    "senses": ["scrutinize-examinecarefully"],
-    "exclude": ["w0096"],
+    "senses": [
+      "scrutinize-examinecarefully"
+    ],
+    "exclude": [
+      "w0096"
+    ],
     "example": {
       "en": "Buyers scrutinize every clause before signing the lease.",
       "ja": "買い手は賃貸借契約に署名する前に全条項を精査する。"
@@ -289,15 +424,914 @@
     "id": "w0080",
     "type": "word",
     "en": "waive",
-    "ja": ["免除する"],
+    "ja": [
+      "免除する"
+    ],
     "pos": "verb",
     "level": 4,
-    "tags": ["contract", "part7"],
+    "tags": [
+      "contract",
+      "part7"
+    ],
     "root": "waiv",
-    "senses": ["waive-giveuprequirement"],
+    "senses": [
+      "waive-giveuprequirement"
+    ],
     "example": {
       "en": "The bank agreed to waive the transfer charge this month.",
       "ja": "銀行は今月の振込手数料を免除することに同意した。"
+    }
+  },
+  {
+    "id": "w0221",
+    "type": "word",
+    "en": "abolish",
+    "ja": [
+      "廃止する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "abolish",
+    "senses": [
+      "abolish-doawaywith"
+    ],
+    "example": {
+      "en": "The city abolished the old parking levy last year.",
+      "ja": "市は昨年、古い駐車税を廃止した。"
+    }
+  },
+  {
+    "id": "w0222",
+    "type": "word",
+    "en": "adjacent",
+    "ja": [
+      "隣接した"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "realestate",
+      "part5"
+    ],
+    "root": "adjacen",
+    "senses": [
+      "adjacent-nextto"
+    ],
+    "example": {
+      "en": "The annex stands on an adjacent lot.",
+      "ja": "別館は隣接した区画に立っている。"
+    }
+  },
+  {
+    "id": "w0223",
+    "type": "word",
+    "en": "adverse",
+    "ja": [
+      "不利な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "advers",
+    "senses": [
+      "adverse-unfavorable"
+    ],
+    "example": {
+      "en": "Adverse weather held up the port for two days.",
+      "ja": "不利な天候で港が二日止まった。"
+    }
+  },
+  {
+    "id": "w0224",
+    "type": "word",
+    "en": "aggregate",
+    "ja": [
+      "合計の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "aggregat",
+    "senses": [
+      "aggregate-totaled"
+    ],
+    "example": {
+      "en": "Aggregate output rose despite the shorter season.",
+      "ja": "期間が短かったにもかかわらず合計の生産量は増えた。"
+    }
+  },
+  {
+    "id": "w0225",
+    "type": "word",
+    "en": "alleviate",
+    "ja": [
+      "和らげる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "allevi",
+    "senses": [
+      "mitigate-makelesssevere"
+    ],
+    "example": {
+      "en": "Extra counters alleviate crowding at peak hours.",
+      "ja": "窓口を増やすことで混雑期の混み合いを和らげる。"
+    }
+  },
+  {
+    "id": "w0226",
+    "type": "word",
+    "en": "ascertain",
+    "ja": [
+      "突き止める"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "ascertain",
+    "senses": [
+      "ascertain-findoutfact"
+    ],
+    "example": {
+      "en": "We must ascertain who signed the delivery note.",
+      "ja": "誰が納品書に署名したのかを突き止めねばならない。"
+    }
+  },
+  {
+    "id": "w0227",
+    "type": "word",
+    "en": "attribute",
+    "ja": [
+      "起因させる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "attribut",
+    "senses": [
+      "attribute-assigncause"
+    ],
+    "example": {
+      "en": "Analysts attribute the gain to lower fuel costs.",
+      "ja": "分析担当は増益を燃料費の低下に起因させている。"
+    }
+  },
+  {
+    "id": "w0228",
+    "type": "word",
+    "en": "candid",
+    "ja": [
+      "率直な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "candid",
+    "senses": [
+      "candid-frank"
+    ],
+    "example": {
+      "en": "The manager gave a candid account of the delay.",
+      "ja": "部長は遅延について率直な説明をした。"
+    }
+  },
+  {
+    "id": "w0229",
+    "type": "word",
+    "en": "coincide",
+    "ja": [
+      "同時に起こる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "coincid",
+    "senses": [
+      "coincide-happentogether"
+    ],
+    "example": {
+      "en": "The audit coincides with the annual stock count.",
+      "ja": "監査は年次の在庫調べと同時に起こる。"
+    }
+  },
+  {
+    "id": "w0230",
+    "type": "word",
+    "en": "commence",
+    "ja": [
+      "開始する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "commenc",
+    "senses": [
+      "commence-begin"
+    ],
+    "example": {
+      "en": "Construction will commence once the permit arrives.",
+      "ja": "許可証が届き次第、工事を開始する。"
+    }
+  },
+  {
+    "id": "w0231",
+    "type": "word",
+    "en": "compelling",
+    "ja": [
+      "説得力のある"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "compel",
+    "senses": [
+      "compelling-convincing"
+    ],
+    "example": {
+      "en": "The team made a compelling case for the upgrade.",
+      "ja": "その班は改修について説得力のある主張をした。"
+    }
+  },
+  {
+    "id": "w0232",
+    "type": "word",
+    "en": "contingency",
+    "ja": [
+      "不測の事態"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "contingen",
+    "senses": [
+      "contingency-unexpectedevent"
+    ],
+    "example": {
+      "en": "The budget sets aside funds for any contingency.",
+      "ja": "予算は不測の事態に備えて資金を残している。"
+    }
+  },
+  {
+    "id": "w0233",
+    "type": "word",
+    "en": "culminate",
+    "ja": [
+      "最高潮に達する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "culminat",
+    "senses": [
+      "culminate-reachclimax"
+    ],
+    "example": {
+      "en": "The tour culminates in a dinner at the plant.",
+      "ja": "見学は工場での夕食会で最高潮に達する。"
+    }
+  },
+  {
+    "id": "w0234",
+    "type": "word",
+    "en": "deteriorate",
+    "ja": [
+      "悪化する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "deterior",
+    "senses": [
+      "deteriorate-getworse"
+    ],
+    "example": {
+      "en": "The roof will deteriorate quickly without repairs.",
+      "ja": "修理をしなければ屋根は急速に悪化する。"
+    }
+  },
+  {
+    "id": "w0235",
+    "type": "word",
+    "en": "diminish",
+    "ja": [
+      "減少する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "diminish",
+    "senses": [
+      "diminish-becomeless"
+    ],
+    "example": {
+      "en": "Complaints diminished after the new labels appeared.",
+      "ja": "新しい表示が出てから苦情は減少した。"
+    }
+  },
+  {
+    "id": "w0236",
+    "type": "word",
+    "en": "discretionary",
+    "ja": [
+      "任意の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "discretion",
+    "senses": [
+      "discretionary-optionaluse"
+    ],
+    "example": {
+      "en": "Each branch holds a small discretionary fund.",
+      "ja": "各支店は少額の任意の資金を持っている。"
+    }
+  },
+  {
+    "id": "w0237",
+    "type": "word",
+    "en": "dispute",
+    "ja": [
+      "紛争"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "disput",
+    "senses": [
+      "dispute-disagreement"
+    ],
+    "example": {
+      "en": "The dispute over the boundary lasted three years.",
+      "ja": "境界をめぐる紛争は三年続いた。"
+    }
+  },
+  {
+    "id": "w0238",
+    "type": "word",
+    "en": "diversify",
+    "ja": [
+      "多角化する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "diversif",
+    "senses": [
+      "diversify-broadenrange"
+    ],
+    "example": {
+      "en": "The maker diversified into medical packaging.",
+      "ja": "その製造業者は医療用の包装へと多角化した。"
+    }
+  },
+  {
+    "id": "w0239",
+    "type": "word",
+    "en": "exempt",
+    "ja": [
+      "免除された"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "exempt",
+    "senses": [
+      "waive-giveuprequirement"
+    ],
+    "example": {
+      "en": "Small shipments are exempt from the handling charge.",
+      "ja": "小口の荷物は取扱料が免除されたものとなる。"
+    }
+  },
+  {
+    "id": "w0240",
+    "type": "word",
+    "en": "exceed",
+    "ja": [
+      "上回る"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "exceed",
+    "senses": [
+      "exceed-gobeyond"
+    ],
+    "example": {
+      "en": "Sales exceeded the forecast by nine percent.",
+      "ja": "売上は見通しを九パーセント上回った。"
+    }
+  },
+  {
+    "id": "w0241",
+    "type": "word",
+    "en": "imperative",
+    "ja": [
+      "緊急に必要な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "imperativ",
+    "senses": [
+      "imperative-urgentlyneeded"
+    ],
+    "exclude": [
+      "w0046"
+    ],
+    "example": {
+      "en": "Prompt payment is imperative to keep the discount.",
+      "ja": "割引を保つには迅速な支払いが緊急に必要な条件だ。"
+    }
+  },
+  {
+    "id": "w0242",
+    "type": "word",
+    "en": "incur",
+    "ja": [
+      "負担する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "incur",
+    "senses": [
+      "incur-becomeliablefor"
+    ],
+    "example": {
+      "en": "The buyer incurs all costs after the goods ship.",
+      "ja": "出荷後の費用はすべて買い手が負担する。"
+    }
+  },
+  {
+    "id": "w0243",
+    "type": "word",
+    "en": "inevitable",
+    "ja": [
+      "避けられない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "inevitab",
+    "senses": [
+      "inevitable-unavoidable"
+    ],
+    "example": {
+      "en": "Some delay is inevitable during the move.",
+      "ja": "移転の間、ある程度の遅れは避けられない。"
+    }
+  },
+  {
+    "id": "w0244",
+    "type": "word",
+    "en": "innovative",
+    "ja": [
+      "革新的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "innovat",
+    "senses": [
+      "innovative-newandcreative"
+    ],
+    "example": {
+      "en": "An innovative coating cut drying time in half.",
+      "ja": "革新的な塗膜が乾燥時間を半分にした。"
+    }
+  },
+  {
+    "id": "w0245",
+    "type": "word",
+    "en": "intermittent",
+    "ja": [
+      "断続的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "intermitten",
+    "senses": [
+      "intermittent-stoppingandstarting"
+    ],
+    "example": {
+      "en": "Intermittent faults in the sensor stopped the line.",
+      "ja": "感知器の断続的な不具合が生産を止めた。"
+    }
+  },
+  {
+    "id": "w0246",
+    "type": "word",
+    "en": "meticulous",
+    "ja": [
+      "几帳面な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "meticul",
+    "senses": [
+      "meticulous-verycareful"
+    ],
+    "example": {
+      "en": "Her meticulous records made the audit simple.",
+      "ja": "彼女の几帳面な記録が監査を容易にした。"
+    }
+  },
+  {
+    "id": "w0247",
+    "type": "word",
+    "en": "negotiable",
+    "ja": [
+      "交渉の余地がある"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "negoti",
+    "senses": [
+      "negotiable-opentodiscussion"
+    ],
+    "example": {
+      "en": "The delivery date is negotiable but the price is not.",
+      "ja": "納期は交渉の余地があるが価格はそうではない。"
+    }
+  },
+  {
+    "id": "w0248",
+    "type": "word",
+    "en": "outage",
+    "ja": [
+      "停電"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "outag",
+    "senses": [
+      "outage-powerinterruption"
+    ],
+    "example": {
+      "en": "A brief outage shut down the cooling system.",
+      "ja": "短い停電が冷却の仕組みを止めた。"
+    }
+  },
+  {
+    "id": "w0249",
+    "type": "word",
+    "en": "perishable",
+    "ja": [
+      "傷みやすい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "perish",
+    "senses": [
+      "perishable-spoilsquickly"
+    ],
+    "example": {
+      "en": "Perishable goods travel in refrigerated trucks.",
+      "ja": "傷みやすい品は冷蔵の車両で運ばれる。"
+    }
+  },
+  {
+    "id": "w0250",
+    "type": "word",
+    "en": "pertinent",
+    "ja": [
+      "関連のある"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "pertinen",
+    "senses": [
+      "pertinent-relevant"
+    ],
+    "example": {
+      "en": "Attach any pertinent photographs to the claim.",
+      "ja": "関連のある写真があれば請求に添えなさい。"
+    }
+  },
+  {
+    "id": "w0251",
+    "type": "word",
+    "en": "preclude",
+    "ja": [
+      "妨げる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "preclud",
+    "senses": [
+      "preclude-preventfromhappening"
+    ],
+    "exclude": [
+      "w0275"
+    ],
+    "example": {
+      "en": "The clause does not preclude a later review.",
+      "ja": "この条項は後の見直しを妨げるものではない。"
+    }
+  },
+  {
+    "id": "w0252",
+    "type": "word",
+    "en": "proficient",
+    "ja": [
+      "熟達した"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "profici",
+    "senses": [
+      "proficient-highlyskilled"
+    ],
+    "example": {
+      "en": "We seek an operator proficient in three languages.",
+      "ja": "三か国語に熟達した担当者を求めている。"
+    }
+  },
+  {
+    "id": "w0253",
+    "type": "word",
+    "en": "provisional",
+    "ja": [
+      "仮の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "provision",
+    "senses": [
+      "tentative-notyetfinal"
+    ],
+    "example": {
+      "en": "A provisional figure appears in the draft report.",
+      "ja": "草案の報告書には仮の数字が載っている。"
+    }
+  },
+  {
+    "id": "w0254",
+    "type": "word",
+    "en": "reciprocal",
+    "ja": [
+      "相互の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "reciproc",
+    "senses": [
+      "reciprocal-mutual"
+    ],
+    "example": {
+      "en": "The two firms signed a reciprocal supply deal.",
+      "ja": "二社は相互の供給についての取り決めに署名した。"
+    }
+  },
+  {
+    "id": "w0255",
+    "type": "word",
+    "en": "replenish",
+    "ja": [
+      "補充する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "replenish",
+    "senses": [
+      "replenish-fillupagain"
+    ],
+    "example": {
+      "en": "Staff replenish the shelves before the store opens.",
+      "ja": "従業員は開店前に棚を補充する。"
+    }
+  },
+  {
+    "id": "w0256",
+    "type": "word",
+    "en": "rescind",
+    "ja": [
+      "撤回する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "rescind",
+    "senses": [
+      "rescind-cancelofficially"
+    ],
+    "exclude": [
+      "w0103"
+    ],
+    "example": {
+      "en": "The board rescinded the offer after the audit.",
+      "ja": "取締役会は監査の後に申し出を撤回した。"
+    }
+  },
+  {
+    "id": "w0257",
+    "type": "word",
+    "en": "solicit",
+    "ja": [
+      "勧誘する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "solicit",
+    "senses": [
+      "solicit-askforbusiness"
+    ],
+    "example": {
+      "en": "Vendors may not solicit tenants inside the lobby.",
+      "ja": "業者はロビー内で賃借人を勧誘してはならない。"
+    }
+  },
+  {
+    "id": "w0258",
+    "type": "word",
+    "en": "supersede",
+    "ja": [
+      "取って代わる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "supersed",
+    "senses": [
+      "supersede-replaceolder"
+    ],
+    "exclude": [
+      "w0039"
+    ],
+    "example": {
+      "en": "This agreement supersedes all earlier arrangements.",
+      "ja": "この協定は以前の取り決めすべてに取って代わる。"
+    }
+  },
+  {
+    "id": "w0259",
+    "type": "word",
+    "en": "sustainable",
+    "ja": [
+      "持続可能な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "sustain",
+    "senses": [
+      "sustainable-maintainablelongterm"
+    ],
+    "example": {
+      "en": "The plant switched to sustainable packaging materials.",
+      "ja": "工場は持続可能な包装材に切り替えた。"
+    }
+  },
+  {
+    "id": "w0260",
+    "type": "word",
+    "en": "vicinity",
+    "ja": [
+      "付近"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "vicin",
+    "senses": [
+      "vicinity-surroundingarea"
+    ],
+    "example": {
+      "en": "Three hotels stand in the vicinity of the hall.",
+      "ja": "会場の付近にホテルが三軒ある。"
     }
   }
 ]

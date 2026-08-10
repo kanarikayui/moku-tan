@@ -18,7 +18,13 @@
     ]
   },
   "progress": {
-    "words": { "current": 100, "target": 2000 },
-    "phrases": { "current": 30, "target": 500 }
+    "words": {
+      "current": 300,
+      "target": 2000
+    },
+    "phrases": {
+      "current": 100,
+      "target": 500
+    }
   }
 }

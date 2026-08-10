@@ -3,12 +3,19 @@
     "id": "p0019",
     "type": "phrase",
     "en": "phase out",
-    "ja": ["段階的に廃止する"],
+    "ja": [
+      "段階的に廃止する"
+    ],
     "pos": "phrase",
     "level": 4,
-    "tags": ["manufacturing", "part7"],
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
     "root": "phaseout",
-    "senses": ["phaseout-enddiscontinuegradually"],
+    "senses": [
+      "phaseout-enddiscontinuegradually"
+    ],
     "example": {
       "en": "The plant will phase out its oldest paint line by autumn.",
       "ja": "工場は秋までに最も古い塗装設備を段階的に廃止する。"
@@ -18,12 +25,19 @@
     "id": "p0020",
     "type": "phrase",
     "en": "fall through",
-    "ja": ["頓挫する"],
+    "ja": [
+      "頓挫する"
+    ],
     "pos": "phrase",
     "level": 4,
-    "tags": ["corporate", "part7"],
+    "tags": [
+      "corporate",
+      "part7"
+    ],
     "root": "fallthrough",
-    "senses": ["fallthrough-failtohappen"],
+    "senses": [
+      "fallthrough-failtohappen"
+    ],
     "example": {
       "en": "The lease talks fell through over the parking clause.",
       "ja": "賃貸借の協議は駐車場の条項をめぐって頓挫した。"
@@ -33,12 +47,19 @@
     "id": "p0021",
     "type": "phrase",
     "en": "iron out",
-    "ja": ["解決する"],
+    "ja": [
+      "解決する"
+    ],
     "pos": "phrase",
     "level": 4,
-    "tags": ["meeting", "part3"],
+    "tags": [
+      "meeting",
+      "part3"
+    ],
     "root": "ironout",
-    "senses": ["ironout-settledifficulty"],
+    "senses": [
+      "ironout-settledifficulty"
+    ],
     "example": {
       "en": "Both sides met to iron out the remaining delivery terms.",
       "ja": "双方は残る配送条件を解決するために会った。"
@@ -48,12 +69,19 @@
     "id": "p0022",
     "type": "phrase",
     "en": "hold off on",
-    "ja": ["見合わせる"],
+    "ja": [
+      "見合わせる"
+    ],
     "pos": "phrase",
     "level": 4,
-    "tags": ["office", "part3"],
+    "tags": [
+      "office",
+      "part3"
+    ],
     "root": "holdoff",
-    "senses": ["postpone-delay"],
+    "senses": [
+      "postpone-delay"
+    ],
     "example": {
       "en": "Let us hold off on the order until prices settle.",
       "ja": "価格が落ち着くまで発注は見合わせよう。"
@@ -63,12 +91,19 @@
     "id": "p0023",
     "type": "phrase",
     "en": "account for",
-    "ja": ["占める"],
+    "ja": [
+      "占める"
+    ],
     "pos": "phrase",
     "level": 4,
-    "tags": ["finance", "part4"],
+    "tags": [
+      "finance",
+      "part4"
+    ],
     "root": "accountfor",
-    "senses": ["accountfor-makeupshare"],
+    "senses": [
+      "accountfor-makeupshare"
+    ],
     "example": {
       "en": "Exports account for nearly half of the plant's output.",
       "ja": "輸出が工場の生産量のほぼ半分を占めている。"
@@ -78,15 +113,330 @@
     "id": "p0024",
     "type": "phrase",
     "en": "stand out",
-    "ja": ["目立つ"],
+    "ja": [
+      "目立つ"
+    ],
     "pos": "phrase",
     "level": 4,
-    "tags": ["sales", "part4"],
+    "tags": [
+      "sales",
+      "part4"
+    ],
     "root": "standout",
-    "senses": ["standout-benoticeable"],
+    "senses": [
+      "standout-benoticeable"
+    ],
     "example": {
       "en": "Bright labels help the new line stand out on the shelf.",
       "ja": "明るいラベルのおかげで新商品は棚で目立つ。"
+    }
+  },
+  {
+    "id": "p0073",
+    "type": "phrase",
+    "en": "carry over",
+    "ja": [
+      "繰り越す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "carryover",
+    "senses": [
+      "carryover-movetonextperiod"
+    ],
+    "example": {
+      "en": "Unused leave carries over to the next year.",
+      "ja": "使わなかった休暇は翌年に繰り越す。"
+    }
+  },
+  {
+    "id": "p0074",
+    "type": "phrase",
+    "en": "rule out",
+    "ja": [
+      "除外する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "ruleout",
+    "senses": [
+      "ruleout-eliminatepossibility"
+    ],
+    "example": {
+      "en": "Engineers ruled out a fault in the wiring.",
+      "ja": "技術者は配線の不具合を除外した。"
+    }
+  },
+  {
+    "id": "p0075",
+    "type": "phrase",
+    "en": "draw up",
+    "ja": [
+      "作成する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "drawup",
+    "senses": [
+      "drawup-preparedocument"
+    ],
+    "example": {
+      "en": "Legal will draw up the supply agreement.",
+      "ja": "法務が供給に関する協定を作成する。"
+    }
+  },
+  {
+    "id": "p0076",
+    "type": "phrase",
+    "en": "back up",
+    "ja": [
+      "裏付ける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "backup",
+    "senses": [
+      "backup-supportwithevidence"
+    ],
+    "example": {
+      "en": "Photographs back up the damage report.",
+      "ja": "写真が破損の報告を裏付ける。"
+    }
+  },
+  {
+    "id": "p0077",
+    "type": "phrase",
+    "en": "break down",
+    "ja": [
+      "内訳を示す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part4"
+    ],
+    "root": "breakdown",
+    "senses": [
+      "breakdown-itemizeparts"
+    ],
+    "example": {
+      "en": "Break down the costs by department and month.",
+      "ja": "費用を部署別と月別で内訳を示しなさい。"
+    }
+  },
+  {
+    "id": "p0078",
+    "type": "phrase",
+    "en": "weigh in on",
+    "ja": [
+      "意見を述べる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "weighin",
+    "senses": [
+      "weighin-giveopinion"
+    ],
+    "example": {
+      "en": "Two directors weighed in on the pricing plan.",
+      "ja": "取締役二名が価格の案について意見を述べた。"
+    }
+  },
+  {
+    "id": "p0079",
+    "type": "phrase",
+    "en": "opt for",
+    "ja": [
+      "〜を選択する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "optfor",
+    "senses": [
+      "optfor-chooseoption"
+    ],
+    "example": {
+      "en": "Most buyers opt for the extended service plan.",
+      "ja": "多くの買い手は延長保守の契約を選択する。"
+    }
+  },
+  {
+    "id": "p0080",
+    "type": "phrase",
+    "en": "scale back",
+    "ja": [
+      "規模を縮小する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "scaleback",
+    "senses": [
+      "scaleback-reducescope"
+    ],
+    "example": {
+      "en": "The group scaled back its overseas showrooms.",
+      "ja": "そのグループは海外の展示場の規模を縮小した。"
+    }
+  },
+  {
+    "id": "p0081",
+    "type": "phrase",
+    "en": "stem from",
+    "ja": [
+      "〜に由来する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "stemfrom",
+    "senses": [
+      "stemfrom-originatefrom"
+    ],
+    "example": {
+      "en": "The defect stems from a faulty batch of resin.",
+      "ja": "その欠陥は不良な樹脂の一群に由来する。"
+    }
+  },
+  {
+    "id": "p0082",
+    "type": "phrase",
+    "en": "abide by",
+    "ja": [
+      "順守する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "abideby",
+    "senses": [
+      "comply-obey"
+    ],
+    "example": {
+      "en": "Contractors abide by the site's noise limits.",
+      "ja": "請負業者は現場の騒音の上限を順守する。"
+    }
+  },
+  {
+    "id": "p0083",
+    "type": "phrase",
+    "en": "at the expense of",
+    "ja": [
+      "〜を犠牲にして"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "attheexpense",
+    "senses": [
+      "attheexpense-atacostto"
+    ],
+    "example": {
+      "en": "Speed came at the expense of finish quality.",
+      "ja": "速さは仕上がりの品質を犠牲にして得られた。"
+    }
+  },
+  {
+    "id": "p0084",
+    "type": "phrase",
+    "en": "in conjunction with",
+    "ja": [
+      "〜と併せて"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "inconjunction",
+    "senses": [
+      "inconjunction-togetherwith"
+    ],
+    "example": {
+      "en": "The fair runs in conjunction with a design forum.",
+      "ja": "見本市は設計の討論会と併せて開かれる。"
+    }
+  },
+  {
+    "id": "p0085",
+    "type": "phrase",
+    "en": "to the extent that",
+    "ja": [
+      "〜する限りにおいて"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "totheextent",
+    "senses": [
+      "totheextent-asfaras"
+    ],
+    "example": {
+      "en": "We share data to the extent that law allows.",
+      "ja": "法が認める限りにおいて情報を共有する。"
+    }
+  },
+  {
+    "id": "p0086",
+    "type": "phrase",
+    "en": "subject to change",
+    "ja": [
+      "変更の可能性がある"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "subjecttochange",
+    "senses": [
+      "subjecttochange-maybealtered"
+    ],
+    "example": {
+      "en": "The timetable is subject to change without notice.",
+      "ja": "この時刻表は予告なく変更の可能性がある。"
     }
   }
 ]
