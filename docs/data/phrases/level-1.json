@@ -438,5 +438,863 @@
       "en": "The second elevator is out of order today.",
       "ja": "本日、二号の昇降機は故障している。"
     }
+  },
+  {
+    "id": "p0101",
+    "type": "phrase",
+    "en": "call back",
+    "ja": [
+      "かけ直す"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "callback",
+    "senses": [
+      "callback-returnphonecall"
+    ],
+    "example": {
+      "en": "I will call back after the delivery arrives.",
+      "ja": "配達が届いたらかけ直す。"
+    }
+  },
+  {
+    "id": "p0102",
+    "type": "phrase",
+    "en": "come along",
+    "ja": [
+      "同行する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "comealong",
+    "senses": [
+      "comealong-accompanysomeone"
+    ],
+    "example": {
+      "en": "Come along on the factory tour tomorrow.",
+      "ja": "明日の工場見学に同行しなさい。"
+    }
+  },
+  {
+    "id": "p0103",
+    "type": "phrase",
+    "en": "cut off",
+    "ja": [
+      "遮断する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "cutoff",
+    "senses": [
+      "cutoff-stopsupply"
+    ],
+    "example": {
+      "en": "The storm cut off power to the depot.",
+      "ja": "嵐が拠点への電力を遮断した。"
+    }
+  },
+  {
+    "id": "p0104",
+    "type": "phrase",
+    "en": "find out",
+    "ja": [
+      "突き止めて知る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "findout",
+    "senses": [
+      "findout-discoverfact"
+    ],
+    "example": {
+      "en": "Find out who signed for the parcel.",
+      "ja": "誰が小包を受け取ったか突き止めて知りなさい。"
+    }
+  },
+  {
+    "id": "p0105",
+    "type": "phrase",
+    "en": "get off",
+    "ja": [
+      "降りる"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part1"
+    ],
+    "root": "getoff",
+    "senses": [
+      "getoff-leavevehicle"
+    ],
+    "example": {
+      "en": "Get off at the stop near the museum.",
+      "ja": "博物館の近くの停留所で降りなさい。"
+    }
+  },
+  {
+    "id": "p0106",
+    "type": "phrase",
+    "en": "get on",
+    "ja": [
+      "乗り込む"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part1"
+    ],
+    "root": "geton",
+    "senses": [
+      "geton-boardvehicle"
+    ],
+    "example": {
+      "en": "Passengers get on through the front door.",
+      "ja": "乗客は前の扉から乗り込む。"
+    }
+  },
+  {
+    "id": "p0107",
+    "type": "phrase",
+    "en": "give back",
+    "ja": [
+      "返す"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "giveback",
+    "senses": [
+      "giveback-returnitem"
+    ],
+    "example": {
+      "en": "Give back the badge when you leave.",
+      "ja": "退出するときは名札を返しなさい。"
+    }
+  },
+  {
+    "id": "p0108",
+    "type": "phrase",
+    "en": "go ahead",
+    "ja": [
+      "先に進める"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "goahead",
+    "senses": [
+      "goahead-proceedwithplan"
+    ],
+    "example": {
+      "en": "Go ahead with the order as agreed.",
+      "ja": "合意どおりに注文を先に進めなさい。"
+    }
+  },
+  {
+    "id": "p0109",
+    "type": "phrase",
+    "en": "hang up",
+    "ja": [
+      "電話を切る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "hangup",
+    "senses": [
+      "hangup-endcall"
+    ],
+    "example": {
+      "en": "Do not hang up before the code is read.",
+      "ja": "番号を読み上げる前に電話を切らないでください。"
+    }
+  },
+  {
+    "id": "p0110",
+    "type": "phrase",
+    "en": "hold on",
+    "ja": [
+      "そのまま待つ"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "holdon",
+    "senses": [
+      "holdon-waitonphone"
+    ],
+    "example": {
+      "en": "Please hold on while I check the stock.",
+      "ja": "在庫を確かめる間そのまま待ってください。"
+    }
+  },
+  {
+    "id": "p0111",
+    "type": "phrase",
+    "en": "look after",
+    "ja": [
+      "世話をする"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "lookafter",
+    "senses": [
+      "lookafter-takecareof"
+    ],
+    "example": {
+      "en": "A guide looks after the visiting group.",
+      "ja": "案内係が訪問団の世話をする。"
+    }
+  },
+  {
+    "id": "p0112",
+    "type": "phrase",
+    "en": "look over",
+    "ja": [
+      "ざっと見る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "lookover",
+    "senses": [
+      "lookover-examinequickly"
+    ],
+    "example": {
+      "en": "Look over the invoice before you pay.",
+      "ja": "支払う前に請求書をざっと見なさい。"
+    }
+  },
+  {
+    "id": "p0113",
+    "type": "phrase",
+    "en": "pass on",
+    "ja": [
+      "申し送る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "passon",
+    "senses": [
+      "passon-transmitmessage"
+    ],
+    "example": {
+      "en": "Pass on the news to the night crew.",
+      "ja": "夜の作業班にその知らせを申し送りなさい。"
+    }
+  },
+  {
+    "id": "p0114",
+    "type": "phrase",
+    "en": "put on",
+    "ja": [
+      "身に着ける"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "puton",
+    "senses": [
+      "puton-wearitem"
+    ],
+    "example": {
+      "en": "Put on safety glasses before entering.",
+      "ja": "入る前に保護眼鏡を身に着けなさい。"
+    }
+  },
+  {
+    "id": "p0115",
+    "type": "phrase",
+    "en": "run into",
+    "ja": [
+      "偶然出会う"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "runinto",
+    "senses": [
+      "runinto-meetbychance"
+    ],
+    "example": {
+      "en": "I ran into our supplier at the station.",
+      "ja": "駅で供給業者に偶然出会った。"
+    }
+  },
+  {
+    "id": "p0116",
+    "type": "phrase",
+    "en": "set off",
+    "ja": [
+      "出立する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "setoff",
+    "senses": [
+      "setoff-startjourney"
+    ],
+    "example": {
+      "en": "The van sets off at six every morning.",
+      "ja": "貨物車は毎朝六時に出立する。"
+    }
+  },
+  {
+    "id": "p0117",
+    "type": "phrase",
+    "en": "sit down",
+    "ja": [
+      "着席する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "meeting",
+      "part1"
+    ],
+    "root": "sitdown",
+    "senses": [
+      "sitdown-takeaseat"
+    ],
+    "example": {
+      "en": "Please sit down near the front.",
+      "ja": "前の方に着席してください。"
+    }
+  },
+  {
+    "id": "p0118",
+    "type": "phrase",
+    "en": "speak to",
+    "ja": [
+      "話しかける"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "speakto",
+    "senses": [
+      "speakto-addressperson"
+    ],
+    "example": {
+      "en": "Speak to the manager about the refund.",
+      "ja": "返金については支配人に話しかけなさい。"
+    }
+  },
+  {
+    "id": "p0119",
+    "type": "phrase",
+    "en": "stop by",
+    "ja": [
+      "ちょっと寄る"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "stopby",
+    "senses": [
+      "stopby-makebriefvisit"
+    ],
+    "example": {
+      "en": "Stop by the desk to collect your pass.",
+      "ja": "通行証を受け取りに窓口へちょっと寄りなさい。"
+    }
+  },
+  {
+    "id": "p0120",
+    "type": "phrase",
+    "en": "take off",
+    "ja": [
+      "離陸する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part4"
+    ],
+    "root": "takeoff",
+    "senses": [
+      "takeoff-leavetheground"
+    ],
+    "example": {
+      "en": "The flight takes off at half past eight.",
+      "ja": "その便は八時半に離陸する。"
+    }
+  },
+  {
+    "id": "p0121",
+    "type": "phrase",
+    "en": "throw away",
+    "ja": [
+      "捨てる"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part2"
+    ],
+    "root": "throwaway",
+    "senses": [
+      "throwaway-discardrubbish"
+    ],
+    "example": {
+      "en": "Throw away the torn wrapping paper.",
+      "ja": "破れた包み紙は捨てなさい。"
+    }
+  },
+  {
+    "id": "p0122",
+    "type": "phrase",
+    "en": "try on",
+    "ja": [
+      "試着する"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "tryon",
+    "senses": [
+      "tryon-testclothingfit"
+    ],
+    "example": {
+      "en": "Customers may try on jackets in the booth.",
+      "ja": "客は試着室で上着を試着できる。"
+    }
+  },
+  {
+    "id": "p0123",
+    "type": "phrase",
+    "en": "wait for",
+    "ja": [
+      "待つ"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "travel",
+      "part1"
+    ],
+    "root": "waitfor",
+    "senses": [
+      "waitfor-remainuntilarrival"
+    ],
+    "example": {
+      "en": "Guests wait for the shuttle by the sign.",
+      "ja": "客は標示のそばで送迎車を待つ。"
+    }
+  },
+  {
+    "id": "p0124",
+    "type": "phrase",
+    "en": "work on",
+    "ja": [
+      "取りかかる"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "workon",
+    "senses": [
+      "workon-labourattask"
+    ],
+    "example": {
+      "en": "Two engineers work on the broken press.",
+      "ja": "技術者二名が壊れた印刷機に取りかかる。"
+    }
+  },
+  {
+    "id": "p0125",
+    "type": "phrase",
+    "en": "write down",
+    "ja": [
+      "書き留める"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "writedown",
+    "senses": [
+      "writedown-recordinwriting"
+    ],
+    "example": {
+      "en": "Write down the meter reading each morning.",
+      "ja": "毎朝、計器の読みを書き留めなさい。"
+    }
+  },
+  {
+    "id": "p0126",
+    "type": "phrase",
+    "en": "be able to",
+    "ja": [
+      "できる"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "beableto",
+    "senses": [
+      "beableto-havecapability"
+    ],
+    "example": {
+      "en": "Members are able to book two months ahead.",
+      "ja": "会員は二か月先まで予約できる。"
+    }
+  },
+  {
+    "id": "p0127",
+    "type": "phrase",
+    "en": "a number of",
+    "ja": [
+      "いくつかの"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "anumberof",
+    "senses": [
+      "anumberof-severalitems"
+    ],
+    "example": {
+      "en": "A number of cartons arrived damaged.",
+      "ja": "いくつかの箱が破損して届いた。"
+    }
+  },
+  {
+    "id": "p0128",
+    "type": "phrase",
+    "en": "as well as",
+    "ja": [
+      "に加えて"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "aswellas",
+    "senses": [
+      "aswellas-inadditionto"
+    ],
+    "example": {
+      "en": "The fee covers storage as well as delivery.",
+      "ja": "料金は配達に加えて保管も対象とする。"
+    }
+  },
+  {
+    "id": "p0129",
+    "type": "phrase",
+    "en": "at least",
+    "ja": [
+      "少なくとも"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "atleast",
+    "senses": [
+      "atleast-minimumamount"
+    ],
+    "example": {
+      "en": "Order at least five cases for free shipping.",
+      "ja": "無料配送には少なくとも五箱注文しなさい。"
+    }
+  },
+  {
+    "id": "p0130",
+    "type": "phrase",
+    "en": "in order to",
+    "ja": [
+      "するために"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "inorderto",
+    "senses": [
+      "inorderto-forthepurposeof"
+    ],
+    "example": {
+      "en": "Wear gloves in order to avoid cuts.",
+      "ja": "切り傷を避けるために手袋を着けなさい。"
+    }
+  },
+  {
+    "id": "p0131",
+    "type": "phrase",
+    "en": "instead of",
+    "ja": [
+      "の代替として"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "insteadof",
+    "senses": [
+      "insteadof-inplaceofthing"
+    ],
+    "example": {
+      "en": "Use rail instead of road this week.",
+      "ja": "今週は道路の代替として鉄道を使いなさい。"
+    }
+  },
+  {
+    "id": "p0132",
+    "type": "phrase",
+    "en": "next to",
+    "ja": [
+      "の隣に"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "nextto",
+    "senses": [
+      "nextto-besidesomething"
+    ],
+    "example": {
+      "en": "The copier stands next to the window.",
+      "ja": "コピー機は窓の隣にある。"
+    }
+  },
+  {
+    "id": "p0133",
+    "type": "phrase",
+    "en": "on time",
+    "ja": [
+      "時間どおりに"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "ontime",
+    "senses": [
+      "ontime-punctually"
+    ],
+    "example": {
+      "en": "Every truck arrived on time this month.",
+      "ja": "今月はすべての貨物車が時間どおりに着いた。"
+    }
+  },
+  {
+    "id": "p0134",
+    "type": "phrase",
+    "en": "out of stock",
+    "ja": [
+      "品切れで"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "outofstock",
+    "senses": [
+      "outofstock-noneremaining"
+    ],
+    "example": {
+      "en": "The blue model is out of stock again.",
+      "ja": "青い型式はまた品切れだ。"
+    }
+  },
+  {
+    "id": "p0135",
+    "type": "phrase",
+    "en": "right away",
+    "ja": [
+      "直ちに"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "rightaway",
+    "senses": [
+      "rightaway-immediatelynow"
+    ],
+    "example": {
+      "en": "Send a technician right away, please.",
+      "ja": "技術者を直ちに送ってください。"
+    }
+  },
+  {
+    "id": "p0136",
+    "type": "phrase",
+    "en": "so far",
+    "ja": [
+      "これまでのところ"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "sofar",
+    "senses": [
+      "sofar-uptonow"
+    ],
+    "example": {
+      "en": "So far the new belt has held up well.",
+      "ja": "これまでのところ新しい帯はよく持っている。"
+    }
+  },
+  {
+    "id": "p0137",
+    "type": "phrase",
+    "en": "such as",
+    "ja": [
+      "のような"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "suchas",
+    "senses": [
+      "suchas-forexample"
+    ],
+    "example": {
+      "en": "Bulk items such as paper ship separately.",
+      "ja": "紙のような大量の品は別便で送る。"
+    }
+  },
+  {
+    "id": "p0138",
+    "type": "phrase",
+    "en": "turn around",
+    "ja": [
+      "向きを変える"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "logistics",
+      "part1"
+    ],
+    "root": "turnaround",
+    "senses": [
+      "turnaround-reversedirection"
+    ],
+    "example": {
+      "en": "Trucks turn around in the rear yard.",
+      "ja": "貨物車は裏の構内で向きを変える。"
+    }
+  },
+  {
+    "id": "p0139",
+    "type": "phrase",
+    "en": "work out",
+    "ja": [
+      "うまくいく"
+    ],
+    "pos": "phrase",
+    "level": 1,
+    "tags": [
+      "corporate",
+      "part3"
+    ],
+    "root": "workout",
+    "senses": [
+      "workout-endsuccessfully"
+    ],
+    "example": {
+      "en": "The trial period worked out for both sides.",
+      "ja": "試用の期間は双方にとってうまくいった。"
+    }
   }
 ]
