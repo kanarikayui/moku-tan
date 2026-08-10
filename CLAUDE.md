@@ -62,6 +62,7 @@ python3 -m http.server 8000 --directory docs
 ├── tools/
 │   └── validate-data.mjs      # 語彙データの検証スクリプト
 └── tests/
+    ├── fixtures.mjs           # テスト用データと決定的な乱数生成器
     └── *.test.mjs             # node --test で実行
 ```
 
@@ -318,7 +319,7 @@ w = max(w, 0.05)
 ## 8. テスト
 
 ```sh
-node --test tests/
+node --test "tests/**/*.test.mjs"
 node tools/validate-data.mjs
 ```
 
@@ -354,7 +355,7 @@ node tools/validate-data.mjs
 - 作業ブランチ: `claude/toeic-vocab-learning-app-t15wz7`
 - コミットメッセージは日本語。1 コミット 1 目的にする
   （例: `スケジューラの重み付き抽選を実装`, `熟語データ level-2 を 100 件追加`）
-- コミット前に `node --test tests/` と `node tools/validate-data.mjs` を通す
+- コミット前に `node --test "tests/**/*.test.mjs"` と `node tools/validate-data.mjs` を通す
 - `docs/data/**` の変更は語彙追加のみのコミットに分け、ロジック変更と混ぜない
 
 ## 11. GitHub Pages 公開設定

@@ -1,0 +1,174 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+
+import { DEFAULT_SETTINGS, STORAGE_PREFIX } from '../docs/js/config.js';
+
+/** localStorage の最小実装。storage.js は globalThis.localStorage を見る。 */
+class FakeStorage {
+  #map = new Map();
+
+  getItem(key) {
+    return this.#map.has(key) ? this.#map.get(key) : null;
+  }
+
+  setItem(key, value) {
+    this.#map.set(key, String(value));
+  }
+
+  removeItem(key) {
+    this.#map.delete(key);
+  }
+
+  key(index) {
+    return [...this.#map.keys()][index] ?? null;
+  }
+
+  get length() {
+    return this.#map.size;
+  }
+}
+
+globalThis.localStorage = new FakeStorage();
+
+const {
+  KEYS,
+  loadSettings,
+  saveSettings,
+  loadProgress,
+  saveProgress,
+  loadStats,
+  saveStats,
+  resetStats,
+  resetProgress,
+  resetAll,
+  createProgress,
+} = await import('../docs/js/storage.js');
+
+function reset() {
+  globalThis.localStorage = new FakeStorage();
+}
+
+test('未保存なら既定値を返し、recovered は false', () => {
+  reset();
+  const { value, recovered } = loadSettings();
+  assert.equal(recovered, false);
+  assert.deepEqual(value, DEFAULT_SETTINGS);
+});
+
+test('破損 JSON を読んだら既定値へフォールバックする', () => {
+  reset();
+  globalThis.localStorage.setItem(KEYS.settings, '{壊れた JSON');
+  const { value, recovered } = loadSettings();
+  assert.equal(recovered, true);
+  assert.deepEqual(value, DEFAULT_SETTINGS);
+});
+
+test('進捗と統計も破損時に既定値へ倒れる', () => {
+  reset();
+  globalThis.localStorage.setItem(KEYS.progress, 'null');
+  globalThis.localStorage.setItem(KEYS.stats, '[1,2,3]');
+  assert.equal(loadProgress().recovered, true);
+  assert.deepEqual(loadProgress().value, createProgress());
+  assert.equal(loadStats().recovered, true);
+  assert.equal(loadStats().value.total.asked, 0);
+});
+
+test('スキーマ版が未知なら既定値へ倒れる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.settings,
+    JSON.stringify({ ...DEFAULT_SETTINGS, schemaVersion: 99 }),
+  );
+  assert.equal(loadSettings().recovered, true);
+});
+
+test('A >= B の設定が保存されていても既定値へ倒れる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.settings,
+    JSON.stringify({ ...DEFAULT_SETTINGS, intervalWrong: 50, intervalCorrect: 40 }),
+  );
+  const { value, recovered } = loadSettings();
+  assert.equal(recovered, true);
+  assert.equal(value.intervalWrong, DEFAULT_SETTINGS.intervalWrong);
+});
+
+test('保存した設定を読み戻せる', () => {
+  reset();
+  saveSettings({ ...DEFAULT_SETTINGS, direction: 'ja2en', intervalWrong: 5, intervalCorrect: 30 });
+  const { value, recovered } = loadSettings();
+  assert.equal(recovered, false);
+  assert.equal(value.direction, 'ja2en');
+  assert.equal(value.intervalWrong, 5);
+});
+
+test('未知の level / type は読み込み時に落とされる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.settings,
+    JSON.stringify({ ...DEFAULT_SETTINGS, levels: [1, 9], types: ['word', 'unknown'] }),
+  );
+  const { value } = loadSettings();
+  assert.deepEqual(value.levels, [1]);
+  assert.deepEqual(value.types, ['word']);
+});
+
+test('壊れたエントリ状態は読み飛ばす', () => {
+  reset();
+  saveProgress({
+    schemaVersion: 1,
+    counter: 3,
+    entries: {
+      w0001: { seen: 2, correct: 1, wrong: 1, streak: 0, nextDue: 12, lastAskedAt: null },
+      w0002: { seen: 'x' },
+    },
+  });
+  const { value } = loadProgress();
+  assert.equal(value.counter, 3);
+  assert.ok(value.entries.w0001);
+  assert.equal(value.entries.w0002, undefined);
+});
+
+test('統計のみ初期化すると進捗と設定は残る', () => {
+  reset();
+  saveSettings(DEFAULT_SETTINGS);
+  saveProgress({ ...createProgress(), counter: 7 });
+  saveStats({ ...loadStats().value, total: { asked: 5, correct: 4 } });
+
+  resetStats();
+  assert.equal(loadStats().value.total.asked, 0);
+  assert.equal(loadProgress().value.counter, 7);
+  assert.equal(loadSettings().recovered, false);
+});
+
+test('学習進捗の初期化は統計も消すが設定は残す', () => {
+  reset();
+  saveSettings({ ...DEFAULT_SETTINGS, direction: 'ja2en' });
+  saveProgress({ ...createProgress(), counter: 7 });
+  saveStats({ ...loadStats().value, total: { asked: 5, correct: 4 } });
+
+  resetProgress();
+  assert.equal(loadProgress().value.counter, 0);
+  assert.equal(loadStats().value.total.asked, 0);
+  assert.equal(loadSettings().value.direction, 'ja2en');
+});
+
+test('すべて初期化すると接頭辞付きのキーが消える', () => {
+  reset();
+  saveSettings(DEFAULT_SETTINGS);
+  saveProgress(createProgress());
+  saveStats(loadStats().value);
+  globalThis.localStorage.setItem('other-app:keep', 'x');
+
+  resetAll();
+  assert.equal(globalThis.localStorage.getItem(KEYS.settings), null);
+  assert.equal(globalThis.localStorage.getItem(KEYS.progress), null);
+  assert.equal(globalThis.localStorage.getItem(KEYS.stats), null);
+  assert.equal(globalThis.localStorage.getItem('other-app:keep'), 'x');
+});
+
+test('キーは moku-tan:v1: 接頭辞で統一されている', () => {
+  for (const key of Object.values(KEYS)) {
+    assert.ok(key.startsWith(STORAGE_PREFIX), `${key} に接頭辞がありません`);
+  }
+});
