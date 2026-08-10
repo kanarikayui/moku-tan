@@ -32,10 +32,10 @@ const CORRECT_ADVANCE_DELAY = 300;
 
 const dom = {
   notice: document.getElementById('notice'),
-  sessionAsked: document.getElementById('session-asked'),
-  sessionCorrect: document.getElementById('session-correct'),
-  sessionSkipped: document.getElementById('session-skipped'),
-  sessionAccuracy: document.getElementById('session-accuracy'),
+  todayAsked: document.getElementById('today-asked'),
+  todayCorrect: document.getElementById('today-correct'),
+  todaySkipped: document.getElementById('today-skipped'),
+  todayAccuracy: document.getElementById('today-accuracy'),
   directionLabel: document.getElementById('direction-label'),
   prompt: document.getElementById('prompt'),
   choices: document.getElementById('choices'),
@@ -54,15 +54,18 @@ const state = {
   question: null,
   answered: false,
   advanceTimer: null,
-  sessionCount: { asked: 0, correct: 0, skipped: 0 },
 };
 
-function renderSessionBar() {
-  const { asked, correct, skipped } = state.sessionCount;
-  dom.sessionAsked.textContent = String(asked);
-  dom.sessionCorrect.textContent = String(correct);
-  dom.sessionSkipped.textContent = String(skipped);
-  dom.sessionAccuracy.textContent = formatPercent(asked ? correct / asked : null);
+/**
+ * ヘッダーは保存済みの日別統計から描く。
+ * 画面の状態を持たないので、ブラウザを更新しても数字が 0 に戻らない。
+ */
+function renderTodayBar() {
+  const today = state.stats.daily[toDateKey()] ?? { asked: 0, correct: 0, skipped: 0 };
+  dom.todayAsked.textContent = String(today.asked);
+  dom.todayCorrect.textContent = String(today.correct);
+  dom.todaySkipped.textContent = String(today.skipped ?? 0);
+  dom.todayAccuracy.textContent = formatPercent(today.asked ? today.correct / today.asked : null);
 }
 
 function clearChildren(element) {
@@ -203,7 +206,10 @@ function resolve(result, selectedIndex = null) {
     state.config,
     timestamp,
   );
+  // 出題連番と抽選のガードを保存し、更新後も同じ続きから出題できるようにする
   state.progress.counter = state.session.counter;
+  state.progress.recent = state.session.recent;
+  state.progress.newFlags = state.session.newFlags;
   saveProgress(state.progress);
 
   state.stats = recordResult(state.stats, {
@@ -213,13 +219,9 @@ function resolve(result, selectedIndex = null) {
   });
   saveStats(state.stats);
 
-  state.sessionCount.asked += 1;
-  if (result === RESULT.CORRECT) state.sessionCount.correct += 1;
-  if (result === RESULT.SKIPPED) state.sessionCount.skipped += 1;
-
   markChoices(selectedIndex);
   renderFeedback(result);
-  renderSessionBar();
+  renderTodayBar();
 
   if (result === RESULT.CORRECT) {
     // 正解なら止めずに次へ。ボタンは出さない。
@@ -311,6 +313,9 @@ async function start() {
     showNotice(dom.notice, '保存データを読み込めなかったため初期化しました。');
   }
 
+  // 語彙データの読み込みに失敗しても、今日の成績だけは見せる
+  renderTodayBar();
+
   try {
     state.config = schedulerConfig(state.settings);
   } catch (error) {
@@ -331,9 +336,14 @@ async function start() {
   }
 
   state.pool = filterEntries(entries, state.settings);
-  state.session = { ...createSession(), counter: state.progress.counter };
+  // 前回の続きから。直近 A 問のリングバッファも戻すので、更新直後に同じ語は出ない
+  state.session = {
+    ...createSession(),
+    counter: state.progress.counter,
+    recent: state.progress.recent,
+    newFlags: state.progress.newFlags,
+  };
 
-  renderSessionBar();
   dom.next.addEventListener('click', () => nextQuestion());
   document.addEventListener('keydown', handleKeydown);
   nextQuestion();

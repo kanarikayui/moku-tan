@@ -267,13 +267,16 @@ w = max(w, 0.05)
 | キー | 内容 |
 |---|---|
 | `moku-tan:v1:settings` | 出題方向、A / B、出題範囲（level・type）、テーマ |
-| `moku-tan:v1:progress` | エントリ ID → `{ seen, correct, wrong, skipped, streak, nextDue, lastAskedAt }` |
+| `moku-tan:v1:progress` | 出題連番 `counter`、抽選ガード `recent` / `newFlags`、エントリ ID → `{ seen, correct, wrong, skipped, streak, nextDue, lastAskedAt }` |
 | `moku-tan:v1:stats` | 総計・方向別・日別の集計（いずれも `asked` / `correct` / `skipped`） |
 
 - 各値は `schemaVersion` を持ち、`storage.js` の `migrate()` で旧版から変換する。
   項目の追加だけなら版を上げず、`normalize*()` で既定値（`skipped` なら 0）を補う。
 - 読み込みは必ず try/catch し、破損時は既定値へフォールバックして
   画面に「保存データを読み込めなかったため初期化しました」と表示する。
+- **ブラウザを更新しても続きから出題できるようにする。** 画面側に学習の状態を持たない。
+  `counter` だけでなく抽選ガードの `recent` / `newFlags` も `progress` に保存し、
+  起動時に復元する。これがないと、更新直後に直前の語がもう一度出てしまう。
 - 語彙データ側で `id` を再利用・付け替えすると学習履歴が壊れる。
   **一度公開した `id` は絶対に変更しない。** 語を削除する場合も `id` は欠番にする。
 
@@ -293,7 +296,8 @@ w = max(w, 0.05)
   表示し、「次へ」ボタンを出して手が止まるようにする
 - キーボードは `1`–`4` で解答、`5` でスキップ。`Enter` / `Space` は「次へ」が
   出ているときだけ効く。キーリピート（`event.repeat`）は無視する
-- ヘッダーに セッション内の 出題数 / 正解数 / スキップ数 / 正答率 を常時表示
+- ヘッダーに **今日の** 出題数 / 正解数 / スキップ数 / 正答率 を常時表示。
+  値は画面側で数えず `stats.daily[今日]` から描くので、更新しても 0 に戻らない
 - 正誤の伝達は色だけに頼らず、記号（○ / ×）とテキストを併記する
 - フィードバック領域は `aria-live="polite"`
 
@@ -350,6 +354,8 @@ node tools/validate-data.mjs
 - `stats.js`: 集計値と方向別集計が正しいこと
 - `storage.js`: 破損 JSON を読んだときに既定値へフォールバックすること
 - `storage.js`: `skipped` を持たない旧データを読んでも 0 として扱えること
+- `storage.js`: `recent` / `newFlags` を保存して読み戻せること。持たない旧データや
+  壊れた値を読んでも空配列に倒れること
 
 ---
 
