@@ -2,16 +2,22 @@
 // ★純粋関数モジュール: DOM と localStorage には触れない。
 // 「今日の日付」も外から dateKey として受け取る。
 
-import { SCHEMA_VERSION, DAILY_RETENTION_DAYS, DIRECTIONS, WEAK_ENTRY_RULE } from './config.js';
+import {
+  SCHEMA_VERSION,
+  DAILY_RETENTION_DAYS,
+  DIRECTIONS,
+  WEAK_ENTRY_RULE,
+  RESULT,
+} from './config.js';
 
 /** 統計の初期値。 */
 export function createStats() {
   return {
     schemaVersion: SCHEMA_VERSION,
-    total: { asked: 0, correct: 0 },
+    total: { asked: 0, correct: 0, skipped: 0 },
     byDirection: {
-      en2ja: { asked: 0, correct: 0 },
-      ja2en: { asked: 0, correct: 0 },
+      en2ja: { asked: 0, correct: 0, skipped: 0 },
+      ja2en: { asked: 0, correct: 0, skipped: 0 },
     },
     daily: {},
     currentStreak: 0,
@@ -26,26 +32,41 @@ export function pruneDaily(daily, retention = DAILY_RETENTION_DAYS) {
   return Object.fromEntries(kept.map((key) => [key, daily[key]]));
 }
 
-/** 1 問分の回答を反映した新しい統計を返す。 */
-export function recordAnswer(stats, { direction, isCorrect, dateKey }) {
-  const point = isCorrect ? 1 : 0;
-  const day = stats.daily[dateKey] ?? { asked: 0, correct: 0 };
-  const currentStreak = isCorrect ? stats.currentStreak + 1 : 0;
+/**
+ * 1 問分の結果を反映した新しい統計を返す。
+ * スキップは正解として数えないため正答率を下げるが、
+ * 誤答と区別できるよう skipped にも計上する。
+ */
+export function recordResult(stats, { direction, result, dateKey }) {
+  const point = result === RESULT.CORRECT ? 1 : 0;
+  const skip = result === RESULT.SKIPPED ? 1 : 0;
+  const day = stats.daily[dateKey] ?? { asked: 0, correct: 0, skipped: 0 };
+  const currentStreak = point ? stats.currentStreak + 1 : 0;
   const directionKey = DIRECTIONS.includes(direction) ? direction : DIRECTIONS[0];
+  const forDirection = stats.byDirection[directionKey];
 
   return {
     ...stats,
-    total: { asked: stats.total.asked + 1, correct: stats.total.correct + point },
+    total: {
+      asked: stats.total.asked + 1,
+      correct: stats.total.correct + point,
+      skipped: (stats.total.skipped ?? 0) + skip,
+    },
     byDirection: {
       ...stats.byDirection,
       [directionKey]: {
-        asked: stats.byDirection[directionKey].asked + 1,
-        correct: stats.byDirection[directionKey].correct + point,
+        asked: forDirection.asked + 1,
+        correct: forDirection.correct + point,
+        skipped: (forDirection.skipped ?? 0) + skip,
       },
     },
     daily: pruneDaily({
       ...stats.daily,
-      [dateKey]: { asked: day.asked + 1, correct: day.correct + point },
+      [dateKey]: {
+        asked: day.asked + 1,
+        correct: day.correct + point,
+        skipped: (day.skipped ?? 0) + skip,
+      },
     }),
     currentStreak,
     maxStreak: Math.max(stats.maxStreak, currentStreak),
@@ -96,6 +117,7 @@ export function weakEntries(progress, entries, rule = WEAK_ENTRY_RULE) {
       entry,
       seen: state.seen,
       correct: state.correct,
+      skipped: state.skipped ?? 0,
       accuracy: state.correct / state.seen,
     }))
     .sort((a, b) => a.accuracy - b.accuracy || b.seen - a.seen)
@@ -105,11 +127,12 @@ export function weakEntries(progress, entries, rule = WEAK_ENTRY_RULE) {
 /** 指定した日付キーの並びで日別統計を取り出す（グラフ描画用）。 */
 export function dailySeries(stats, dateKeys) {
   return dateKeys.map((dateKey) => {
-    const day = stats.daily[dateKey] ?? { asked: 0, correct: 0 };
+    const day = stats.daily[dateKey] ?? { asked: 0, correct: 0, skipped: 0 };
     return {
       dateKey,
       asked: day.asked,
       correct: day.correct,
+      skipped: day.skipped ?? 0,
       accuracy: accuracy(day.asked, day.correct),
     };
   });
@@ -120,6 +143,7 @@ export function summarize(stats, progress, entries) {
   return {
     asked: stats.total.asked,
     correct: stats.total.correct,
+    skipped: stats.total.skipped ?? 0,
     accuracy: accuracy(stats.total.asked, stats.total.correct),
     maxStreak: stats.maxStreak,
     studyDays: Object.keys(stats.daily).length,

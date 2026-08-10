@@ -1,11 +1,17 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-import { SCHEDULER, schedulerConfig, validateIntervals, DEFAULT_SETTINGS } from '../docs/js/config.js';
+import {
+  SCHEDULER,
+  schedulerConfig,
+  validateIntervals,
+  DEFAULT_SETTINGS,
+  RESULT,
+} from '../docs/js/config.js';
 import {
   createEntryState,
   createSession,
-  applyAnswer,
+  applyResult,
   advanceSession,
   selectNext,
   computeWeight,
@@ -28,14 +34,14 @@ test('既定の設定は A < B を満たす', () => {
 });
 
 test('不正解語は A 問後に再出題できるようになる', () => {
-  const state = applyAnswer(createEntryState(), false, 100, config);
+  const state = applyResult(createEntryState(), RESULT.WRONG, 100, config);
   assert.equal(state.nextDue, 110);
   assert.equal(state.streak, 0);
   assert.equal(state.wrong, 1);
 });
 
 test('正解語は B 問後に再出題できるようになる', () => {
-  const state = applyAnswer(createEntryState(), true, 100, config);
+  const state = applyResult(createEntryState(), RESULT.CORRECT, 100, config);
   assert.equal(state.nextDue, 140);
   assert.equal(state.streak, 1);
   assert.equal(state.correct, 1);
@@ -46,7 +52,7 @@ test('連続正解で間隔が指数的に伸び、上限で頭打ちになる',
   const intervals = [];
   for (let i = 0; i < 8; i += 1) {
     const before = state;
-    state = applyAnswer(before, true, 0, config);
+    state = applyResult(before, RESULT.CORRECT, 0, config);
     intervals.push(state.nextDue);
   }
   assert.deepEqual(intervals.slice(0, 3), [40, 64, 102]);
@@ -57,10 +63,10 @@ test('連続正解で間隔が指数的に伸び、上限で頭打ちになる',
 });
 
 test('不正解で連続正解の記録がリセットされる', () => {
-  let state = applyAnswer(createEntryState(), true, 0, config);
-  state = applyAnswer(state, true, 0, config);
+  let state = applyResult(createEntryState(), RESULT.CORRECT, 0, config);
+  state = applyResult(state, RESULT.CORRECT, 0, config);
   assert.equal(state.streak, 2);
-  state = applyAnswer(state, false, 200, config);
+  state = applyResult(state, RESULT.WRONG, 200, config);
   assert.equal(state.streak, 0);
   assert.equal(state.nextDue, 210);
 });
@@ -80,9 +86,9 @@ test('直近 A 問に出した語は選ばれない', () => {
       `直近 ${config.intervalWrong} 問に出た語が再出題されました: ${entry.id}`,
     );
     session = advanceSession(session, entry.id, true, config);
-    progress[entry.id] = applyAnswer(
+    progress[entry.id] = applyResult(
       progress[entry.id] ?? createEntryState(),
-      true,
+      RESULT.CORRECT,
       session.counter,
       config,
     );
@@ -107,9 +113,9 @@ test('間違えた語は正解した語より早く戻ってくる', () => {
     const entry = selectNext(pool, progress, session, config, rng);
     session = advanceSession(session, entry.id, true, config);
     const isCorrect = entry.id !== 'e000';
-    progress[entry.id] = applyAnswer(
+    progress[entry.id] = applyResult(
       progress[entry.id] ?? createEntryState(),
-      isCorrect,
+      isCorrect ? RESULT.CORRECT : RESULT.WRONG,
       session.counter,
       config,
     );
@@ -164,9 +170,9 @@ test('未出題語が一定割合で出題される', () => {
     const wasNew = (progress[entry.id]?.seen ?? 0) === 0;
     if (wasNew) newCount += 1;
     session = advanceSession(session, entry.id, wasNew, config);
-    progress[entry.id] = applyAnswer(
+    progress[entry.id] = applyResult(
       progress[entry.id] ?? createEntryState(),
-      true,
+      RESULT.CORRECT,
       session.counter,
       config,
     );
@@ -206,4 +212,42 @@ test('pickWeighted は重みの大きい方をより多く選ぶ', () => {
     if (pickWeighted(['a', 'b'], [9, 1], rng) === 'a') first += 1;
   }
   assert.ok(first > 820 && first < 970, `偏りが想定外です: ${first}/1000`);
+});
+
+test('スキップは不正解と同じく A 問後に再出題できるようになる', () => {
+  const state = applyResult(createEntryState(), RESULT.SKIPPED, 100, config);
+  assert.equal(state.nextDue, 110);
+  assert.equal(state.streak, 0);
+  assert.equal(state.seen, 1);
+});
+
+test('スキップは誤答とは別に数える', () => {
+  const state = applyResult(createEntryState(), RESULT.SKIPPED, 0, config);
+  assert.equal(state.skipped, 1);
+  assert.equal(state.wrong, 0);
+  assert.equal(state.correct, 0);
+});
+
+test('スキップでも連続正解の記録が切れる', () => {
+  let state = applyResult(createEntryState(), RESULT.CORRECT, 0, config);
+  state = applyResult(state, RESULT.CORRECT, 0, config);
+  assert.equal(state.streak, 2);
+  state = applyResult(state, RESULT.SKIPPED, 200, config);
+  assert.equal(state.streak, 0);
+  assert.equal(state.nextDue, 200 + config.intervalWrong);
+});
+
+test('スキップした語は不正解と同じ重みになる', () => {
+  const skippedOnce = applyResult(createEntryState(), RESULT.SKIPPED, 10, config);
+  const wrongOnce = applyResult(createEntryState(), RESULT.WRONG, 10, config);
+  assert.equal(
+    computeWeight(skippedOnce, 30, config),
+    computeWeight(wrongOnce, 30, config),
+  );
+});
+
+test('スキップした語は未出題扱いにはならない', () => {
+  const state = applyResult(createEntryState(), RESULT.SKIPPED, 0, config);
+  assert.ok(state.seen > 0);
+  assert.ok(computeWeight(state, 0, config) < config.W_NEW);
 });

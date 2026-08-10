@@ -172,3 +172,52 @@ test('キーは moku-tan:v1: 接頭辞で統一されている', () => {
     assert.ok(key.startsWith(STORAGE_PREFIX), `${key} に接頭辞がありません`);
   }
 });
+
+test('スキップ機能より前の進捗を読んでも skipped は 0 になる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.progress,
+    JSON.stringify({
+      schemaVersion: 1,
+      counter: 5,
+      // skipped フィールドが無い旧形式
+      entries: { w0001: { seen: 3, correct: 1, wrong: 2, streak: 0, nextDue: 9, lastAskedAt: null } },
+    }),
+  );
+  const { value, recovered } = loadProgress();
+  assert.equal(recovered, false);
+  assert.equal(value.entries.w0001.skipped, 0);
+  assert.equal(value.entries.w0001.wrong, 2);
+});
+
+test('スキップ機能より前の統計を読んでも skipped は 0 になる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.stats,
+    JSON.stringify({
+      schemaVersion: 1,
+      total: { asked: 10, correct: 6 },
+      byDirection: { en2ja: { asked: 6, correct: 4 }, ja2en: { asked: 4, correct: 2 } },
+      daily: {},
+      currentStreak: 1,
+      maxStreak: 3,
+    }),
+  );
+  const { value, recovered } = loadStats();
+  assert.equal(recovered, false);
+  assert.equal(value.total.skipped, 0);
+  assert.equal(value.total.correct, 6);
+  assert.equal(value.byDirection.ja2en.skipped, 0);
+});
+
+test('skipped を含む進捗を読み書きできる', () => {
+  reset();
+  saveProgress({
+    schemaVersion: 1,
+    counter: 2,
+    entries: {
+      w0001: { seen: 4, correct: 1, wrong: 1, skipped: 2, streak: 0, nextDue: 12, lastAskedAt: null },
+    },
+  });
+  assert.equal(loadProgress().value.entries.w0001.skipped, 2);
+});

@@ -80,7 +80,8 @@ function renderDailyChart(stats) {
     const bar = document.createElement('span');
     bar.className = day.asked > 0 ? 'daily-bar' : 'daily-bar is-empty';
     bar.style.height = day.asked > 0 ? `${(day.asked / max) * 100}%` : '3px';
-    bar.title = `${day.dateKey} 出題 ${day.asked} / 正答率 ${formatPercent(day.accuracy)}`;
+    bar.title =
+      `${day.dateKey} 出題 ${day.asked} / スキップ ${day.skipped} / 正答率 ${formatPercent(day.accuracy)}`;
     item.append(bar);
     chart.append(item);
   }
@@ -122,17 +123,19 @@ async function start() {
   clearChildren(summaryList);
   appendSummaryItem(summaryList, '総出題数', String(summary.asked));
   appendSummaryItem(summaryList, '総正解数', String(summary.correct));
+  appendSummaryItem(summaryList, 'スキップ数', String(summary.skipped));
   appendSummaryItem(summaryList, '通算正答率', formatPercent(summary.accuracy));
   appendSummaryItem(summaryList, '最大連続正解', String(summary.maxStreak));
   appendSummaryItem(summaryList, '学習日数', String(summary.studyDays));
 
   renderTable(
     document.getElementById('by-direction'),
-    ['出題方向', '出題', '正解', '正答率'],
+    ['出題方向', '出題', '正解', 'スキップ', '正答率'],
     summary.byDirection.map((row) => [
       DIRECTION_LABEL[row.direction],
       String(row.asked),
       String(row.correct),
+      String(row.skipped ?? 0),
       formatPercent(row.accuracy),
     ]),
   );
@@ -174,11 +177,12 @@ async function start() {
 
   renderTable(
     document.getElementById('weak'),
-    ['語', '意味', '出題', '正答率'],
+    ['語', '意味', '出題', 'スキップ', '正答率'],
     summary.weak.map((row) => [
       row.entry.en,
       row.entry.ja[0],
       String(row.seen),
+      String(row.skipped ?? 0),
       formatPercent(row.accuracy),
     ]),
     '出題 3 回以上の語がまだありません',
