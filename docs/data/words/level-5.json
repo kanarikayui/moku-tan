@@ -1342,5 +1342,863 @@
       "en": "The two carriers amalgamated to cut overhead.",
       "ja": "二つの運送会社は間接費を削るため合併した。"
     }
+  },
+  {
+    "id": "w1734",
+    "type": "word",
+    "en": "abeyance",
+    "ja": [
+      "一時的停止状態"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "abey",
+    "senses": [
+      "abeyance-temporarysuspension"
+    ],
+    "example": {
+      "en": "The claim is in abeyance until the survey.",
+      "ja": "その請求は調査まで一時的停止状態にある。"
+    }
+  },
+  {
+    "id": "w1735",
+    "type": "word",
+    "en": "accretion",
+    "ja": [
+      "増加分"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "accret",
+    "senses": [
+      "accretion-gradualincrease"
+    ],
+    "example": {
+      "en": "Interest accretion is booked each month.",
+      "ja": "利息の増加分は毎月計上される。"
+    }
+  },
+  {
+    "id": "w1736",
+    "type": "word",
+    "en": "acquiesce",
+    "ja": [
+      "黙認する"
+    ],
+    "pos": "verb",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "acquiesc",
+    "senses": [
+      "acquiesce-acceptwithoutprotest"
+    ],
+    "example": {
+      "en": "The buyer acquiesced in the revised date.",
+      "ja": "買い手は改めた期日を黙認した。"
+    }
+  },
+  {
+    "id": "w1737",
+    "type": "word",
+    "en": "adjunct",
+    "ja": [
+      "付属物"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "adjunct",
+    "senses": [
+      "adjunct-additionalattachment"
+    ],
+    "example": {
+      "en": "A cooling adjunct fits the older press.",
+      "ja": "冷却の付属物が古い印刷機に取り付く。"
+    }
+  },
+  {
+    "id": "w1738",
+    "type": "word",
+    "en": "admissible",
+    "ja": [
+      "証拠として認められる"
+    ],
+    "pos": "adj",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "admiss",
+    "senses": [
+      "admissible-acceptableasevidence"
+    ],
+    "example": {
+      "en": "The log was ruled admissible by the panel.",
+      "ja": "その記録は審査団に証拠として認められると判断された。"
+    }
+  },
+  {
+    "id": "w1739",
+    "type": "word",
+    "en": "affidavit",
+    "ja": [
+      "宣誓供述書"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "affidavit",
+    "senses": [
+      "affidavit-swornstatement"
+    ],
+    "example": {
+      "en": "An affidavit accompanied the customs claim.",
+      "ja": "宣誓供述書が通関の請求に添えられた。"
+    }
+  },
+  {
+    "id": "w1740",
+    "type": "word",
+    "en": "aggrieved",
+    "ja": [
+      "被害を受けた"
+    ],
+    "pos": "adj",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "aggriev",
+    "senses": [
+      "aggrieved-wrongedparty"
+    ],
+    "example": {
+      "en": "The aggrieved party may seek arbitration.",
+      "ja": "被害を受けた当事者は仲裁を求められる。"
+    }
+  },
+  {
+    "id": "w1741",
+    "type": "word",
+    "en": "alienate",
+    "ja": [
+      "譲渡する"
+    ],
+    "pos": "verb",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "alien",
+    "senses": [
+      "alienate-transferproperty"
+    ],
+    "example": {
+      "en": "The owner may not alienate the easement.",
+      "ja": "所有者は通行権を譲渡できない。"
+    }
+  },
+  {
+    "id": "w1742",
+    "type": "word",
+    "en": "amortization",
+    "ja": [
+      "償却額"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "amortiz2",
+    "senses": [
+      "amortization-spreadcostamount"
+    ],
+    "example": {
+      "en": "Amortization appears below operating profit.",
+      "ja": "償却額は営業利益の下に載る。"
+    }
+  },
+  {
+    "id": "w1743",
+    "type": "word",
+    "en": "ancillary",
+    "ja": [
+      "補助的な"
+    ],
+    "pos": "adj",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "ancillari",
+    "senses": [
+      "ancillary-supportingsecondary"
+    ],
+    "example": {
+      "en": "Ancillary services are billed separately.",
+      "ja": "補助的な業務は別に請求される。"
+    }
+  },
+  {
+    "id": "w1744",
+    "type": "word",
+    "en": "annuity",
+    "ja": [
+      "年金保険"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "annuiti",
+    "senses": [
+      "annuity-regularyearlypayment"
+    ],
+    "example": {
+      "en": "An annuity funds the retirement plan.",
+      "ja": "年金保険が退職の制度を賄う。"
+    }
+  },
+  {
+    "id": "w1745",
+    "type": "word",
+    "en": "appurtenance",
+    "ja": [
+      "従物"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "appurten",
+    "senses": [
+      "appurtenance-attachedproperty"
+    ],
+    "example": {
+      "en": "The parking bay is an appurtenance of the unit.",
+      "ja": "駐車区画はその区分の従物だ。"
+    }
+  },
+  {
+    "id": "w1746",
+    "type": "word",
+    "en": "arrears-notice",
+    "ja": [
+      "滞納通知"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "arrearsnotice",
+    "senses": [
+      "arrearsnotice-latepaymentletter"
+    ],
+    "example": {
+      "en": "An arrears notice went out on the tenth.",
+      "ja": "滞納通知は十日に発送された。"
+    }
+  },
+  {
+    "id": "w1747",
+    "type": "word",
+    "en": "assignee",
+    "ja": [
+      "譲受人"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "assigne",
+    "senses": [
+      "assignee-personreceivingrights"
+    ],
+    "example": {
+      "en": "The assignee assumes all outstanding duties.",
+      "ja": "譲受人は未履行の義務をすべて引き継ぐ。"
+    }
+  },
+  {
+    "id": "w1748",
+    "type": "word",
+    "en": "attest",
+    "ja": [
+      "証明する"
+    ],
+    "pos": "verb",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "attest",
+    "senses": [
+      "attest-declaretrue"
+    ],
+    "example": {
+      "en": "Two witnesses attest to the signature.",
+      "ja": "証人二名がその署名を証明する。"
+    }
+  },
+  {
+    "id": "w1749",
+    "type": "word",
+    "en": "avoidance",
+    "ja": [
+      "回避行為"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "avoid2",
+    "senses": [
+      "avoidance-actofevading"
+    ],
+    "example": {
+      "en": "Tax avoidance schemes drew scrutiny.",
+      "ja": "税の回避行為の仕組みが吟味を招いた。"
+    }
+  },
+  {
+    "id": "w1750",
+    "type": "word",
+    "en": "bailment",
+    "ja": [
+      "寄託"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "bailment",
+    "senses": [
+      "bailment-goodsheldintrust"
+    ],
+    "example": {
+      "en": "Storage creates a bailment of the goods.",
+      "ja": "保管は商品の寄託を生じさせる。"
+    }
+  },
+  {
+    "id": "w1751",
+    "type": "word",
+    "en": "bilateral",
+    "ja": [
+      "二者間の"
+    ],
+    "pos": "adj",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "bilater",
+    "senses": [
+      "bilateral-involvingtwoparties"
+    ],
+    "example": {
+      "en": "A bilateral agreement governs the depot.",
+      "ja": "二者間の協定が拠点を規律する。"
+    }
+  },
+  {
+    "id": "w1752",
+    "type": "word",
+    "en": "breach-notice",
+    "ja": [
+      "違反通知"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "breachnotice",
+    "senses": [
+      "breachnotice-noticeofviolation"
+    ],
+    "example": {
+      "en": "A breach notice must specify the clause.",
+      "ja": "違反通知は条項を特定せねばならない。"
+    }
+  },
+  {
+    "id": "w1753",
+    "type": "word",
+    "en": "canvass",
+    "ja": [
+      "意見を集める"
+    ],
+    "pos": "verb",
+    "level": 5,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "canvass",
+    "senses": [
+      "canvass-solicitopinions"
+    ],
+    "example": {
+      "en": "The team canvassed forty local shops.",
+      "ja": "その班は地元の四十店の意見を集めた。"
+    }
+  },
+  {
+    "id": "w1754",
+    "type": "word",
+    "en": "chattel",
+    "ja": [
+      "動産"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "chattel",
+    "senses": [
+      "chattel-movableproperty"
+    ],
+    "example": {
+      "en": "Machinery counts as chattel in this deed.",
+      "ja": "機械はこの証書では動産に当たる。"
+    }
+  },
+  {
+    "id": "w1755",
+    "type": "word",
+    "en": "cognizant",
+    "ja": [
+      "認識している"
+    ],
+    "pos": "adj",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "cogniz",
+    "senses": [
+      "cognizant-fullyaware"
+    ],
+    "example": {
+      "en": "The buyer was cognizant of the defect.",
+      "ja": "買い手はその欠陥を認識していた。"
+    }
+  },
+  {
+    "id": "w1756",
+    "type": "word",
+    "en": "collusion",
+    "ja": [
+      "なれ合い"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "collus",
+    "senses": [
+      "collusion-secretcooperation"
+    ],
+    "example": {
+      "en": "Collusion between bidders is prohibited.",
+      "ja": "入札者の間のなれ合いは禁じられている。"
+    }
+  },
+  {
+    "id": "w1757",
+    "type": "word",
+    "en": "consignor",
+    "ja": [
+      "荷送人"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "consignor",
+    "senses": [
+      "consignor-personsendinggoods"
+    ],
+    "example": {
+      "en": "The consignor pays the export duty.",
+      "ja": "荷送人が輸出の税を払う。"
+    }
+  },
+  {
+    "id": "w1758",
+    "type": "word",
+    "en": "covenantee",
+    "ja": [
+      "受益当事者"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "covenante",
+    "senses": [
+      "covenantee-partybenefiting"
+    ],
+    "example": {
+      "en": "The covenantee may enforce the clause.",
+      "ja": "受益当事者はその条項を執行できる。"
+    }
+  },
+  {
+    "id": "w1759",
+    "type": "word",
+    "en": "demurrage",
+    "ja": [
+      "超過停泊料"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "demurrag",
+    "senses": [
+      "demurrage-delaychargeatport"
+    ],
+    "example": {
+      "en": "Demurrage accrues after five free days.",
+      "ja": "超過停泊料は無料の五日を過ぎて発生する。"
+    }
+  },
+  {
+    "id": "w1760",
+    "type": "word",
+    "en": "depose",
+    "ja": [
+      "供述する"
+    ],
+    "pos": "verb",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "depos",
+    "senses": [
+      "depose-testifyunderoath"
+    ],
+    "example": {
+      "en": "The manager deposed about the shipment.",
+      "ja": "支配人はその出荷について供述した。"
+    }
+  },
+  {
+    "id": "w1761",
+    "type": "word",
+    "en": "derogate",
+    "ja": [
+      "一部を無効にする"
+    ],
+    "pos": "verb",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "derog",
+    "senses": [
+      "derogate-detractfromright"
+    ],
+    "example": {
+      "en": "No clause may derogate from statutory rights.",
+      "ja": "いかなる条項も法定の権利の一部を無効にできない。"
+    }
+  },
+  {
+    "id": "w1762",
+    "type": "word",
+    "en": "detriment",
+    "ja": [
+      "損失"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "detriment2",
+    "senses": [
+      "detriment-harmordamage"
+    ],
+    "example": {
+      "en": "The change worked to the tenant's detriment.",
+      "ja": "その変更は賃借人の損失に働いた。"
+    }
+  },
+  {
+    "id": "w1763",
+    "type": "word",
+    "en": "disbursement",
+    "ja": [
+      "支払支出"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "disburs",
+    "senses": [
+      "disbursement-payingoutmoney"
+    ],
+    "example": {
+      "en": "Disbursements are logged by project code.",
+      "ja": "支払支出は事業の番号ごとに記録される。"
+    }
+  },
+  {
+    "id": "w1764",
+    "type": "word",
+    "en": "escrow-agent",
+    "ja": [
+      "預託代理人"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "escrowagent",
+    "senses": [
+      "escrowagent-neutralholder"
+    ],
+    "example": {
+      "en": "An escrow agent holds the deposit.",
+      "ja": "預託代理人が手付金を保有する。"
+    }
+  },
+  {
+    "id": "w1765",
+    "type": "word",
+    "en": "estoppel",
+    "ja": [
+      "禁反言"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "estoppel",
+    "senses": [
+      "estoppel-barondenial"
+    ],
+    "example": {
+      "en": "Estoppel prevents the seller from denying it.",
+      "ja": "禁反言が売り主の否認を妨げる。"
+    }
+  },
+  {
+    "id": "w1766",
+    "type": "word",
+    "en": "exigency",
+    "ja": [
+      "緊急の必要"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "exigenc",
+    "senses": [
+      "exigency-urgentdemand"
+    ],
+    "example": {
+      "en": "Operational exigency justified the detour.",
+      "ja": "運用上の緊急の必要が迂回を正当化した。"
+    }
+  },
+  {
+    "id": "w1767",
+    "type": "word",
+    "en": "franchise",
+    "ja": [
+      "営業権"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "franchis",
+    "senses": [
+      "franchise-businesslicense"
+    ],
+    "example": {
+      "en": "The franchise runs for ten years.",
+      "ja": "その営業権は十年続く。"
+    }
+  },
+  {
+    "id": "w1768",
+    "type": "word",
+    "en": "fungible",
+    "ja": [
+      "代替可能な"
+    ],
+    "pos": "adj",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "fungib",
+    "senses": [
+      "fungible-interchangeableunits"
+    ],
+    "example": {
+      "en": "Bulk resin is a fungible commodity.",
+      "ja": "大量の樹脂は代替可能な商品だ。"
+    }
+  },
+  {
+    "id": "w1769",
+    "type": "word",
+    "en": "garnishment",
+    "ja": [
+      "債権差押え"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "garnish",
+    "senses": [
+      "garnishment-seizureofdebt"
+    ],
+    "example": {
+      "en": "A garnishment order reached the bank.",
+      "ja": "債権差押えの命令が銀行に届いた。"
+    }
+  },
+  {
+    "id": "w1770",
+    "type": "word",
+    "en": "hereditament",
+    "ja": [
+      "相続財産"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "heredit",
+    "senses": [
+      "hereditament-inheritableproperty"
+    ],
+    "example": {
+      "en": "The hereditament includes the outbuildings.",
+      "ja": "その相続財産には離れが含まれる。"
+    }
+  },
+  {
+    "id": "w1771",
+    "type": "word",
+    "en": "indemnity",
+    "ja": [
+      "補償義務"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "indemn2",
+    "senses": [
+      "indemnity-promisetocompensate"
+    ],
+    "example": {
+      "en": "An indemnity covers third-party claims.",
+      "ja": "補償義務が第三者の請求を対象とする。"
+    }
+  },
+  {
+    "id": "w1772",
+    "type": "word",
+    "en": "insolvency",
+    "ja": [
+      "支払不能状態"
+    ],
+    "pos": "noun",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "insolven2",
+    "senses": [
+      "insolvency-inabilitytopaydebts"
+    ],
+    "example": {
+      "en": "Insolvency proceedings began in March.",
+      "ja": "支払不能状態の手続きは三月に始まった。"
+    }
   }
 ]
