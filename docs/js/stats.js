@@ -7,6 +7,7 @@ import {
   DAILY_RETENTION_DAYS,
   DIRECTIONS,
   WEAK_ENTRY_RULE,
+  HISTORY_LIMIT,
   RESULT,
 } from './config.js';
 
@@ -122,6 +123,31 @@ export function weakEntries(progress, entries, rule = WEAK_ENTRY_RULE) {
     }))
     .sort((a, b) => a.accuracy - b.accuracy || b.seen - a.seen)
     .slice(0, rule.limit);
+}
+
+/**
+ * 直近に出題した語を新しい順に返す（履歴画面用）。
+ * lastAskedAt は語ごとに 1 つなので、同じ語が何度出ていても 1 行にまとまる。
+ * result を渡すと直前の結果がそれと一致する語だけに絞る。
+ */
+export function recentEntries(progress, entries, { limit = HISTORY_LIMIT, result = null } = {}) {
+  const byId = new Map(entries.map((entry) => [entry.id, entry]));
+
+  return Object.entries(progress)
+    .filter(([id, state]) => typeof state.lastAskedAt === 'string' && byId.has(id))
+    .filter(([, state]) => result === null || state.lastResult === result)
+    .sort((a, b) => (a[1].lastAskedAt < b[1].lastAskedAt ? 1 : -1))
+    .slice(0, limit)
+    .map(([id, state]) => ({
+      entry: byId.get(id),
+      seen: state.seen,
+      correct: state.correct,
+      wrong: state.wrong,
+      skipped: state.skipped ?? 0,
+      lastAskedAt: state.lastAskedAt,
+      lastResult: state.lastResult ?? null,
+      accuracy: state.seen ? state.correct / state.seen : null,
+    }));
 }
 
 /** 指定した日付キーの並びで日別統計を取り出す（グラフ描画用）。 */

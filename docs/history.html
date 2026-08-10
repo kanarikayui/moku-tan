@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>履歴 — moku-tan</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <p class="app-title">moku-tan</p>
+      <nav class="app-nav" aria-label="画面切り替え">
+        <a href="./index.html" data-nav>出題</a>
+        <a href="./history.html" data-nav>履歴</a>
+        <a href="./stats.html" data-nav>統計</a>
+        <a href="./settings.html" data-nav>設定</a>
+      </nav>
+    </header>
+
+    <main class="page">
+      <h1>履歴</h1>
+      <p class="description">直近に出題した語を新しい順に並べています。同じ語は最後に出た 1 件にまとまります。</p>
+      <p id="notice" class="notice" role="status" hidden></p>
+
+      <div class="filter-row" role="group" aria-label="絞り込み">
+        <button type="button" class="filter" data-filter="all" aria-pressed="true">すべて</button>
+        <button type="button" class="filter" data-filter="wrong" aria-pressed="false">不正解</button>
+        <button type="button" class="filter" data-filter="skipped" aria-pressed="false">スキップ</button>
+      </div>
+
+      <p id="history-count" class="empty" role="status"></p>
+      <ul id="history" class="history"></ul>
+    </main>
+
+    <script type="module" src="./js/history-page.js"></script>
+  </body>
+</html>

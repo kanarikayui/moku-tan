@@ -9,6 +9,7 @@ import {
   coverage,
   weakEntries,
   dailySeries,
+  recentEntries,
   pruneDaily,
   summarize,
 } from '../docs/js/stats.js';
@@ -198,4 +199,59 @@ test('日別集計にもスキップが入る', () => {
 test('summarize がスキップ総数を返す', () => {
   const stats = skip(createStats(), 'en2ja');
   assert.equal(summarize(stats, {}, []).skipped, 1);
+});
+
+const history = {
+  a: { seen: 2, correct: 1, wrong: 1, skipped: 0, lastAskedAt: '2026-08-10T09:00:00.000Z', lastResult: 'wrong' },
+  b: { seen: 1, correct: 1, wrong: 0, skipped: 0, lastAskedAt: '2026-08-10T10:00:00.000Z', lastResult: 'correct' },
+  c: { seen: 3, correct: 0, wrong: 1, skipped: 2, lastAskedAt: '2026-08-10T08:00:00.000Z', lastResult: 'skipped' },
+};
+
+test('履歴は直近に出題した順に並ぶ', () => {
+  const rows = recentEntries(history, entries);
+  assert.deepEqual(
+    rows.map((row) => row.entry.id),
+    ['b', 'a', 'c'],
+  );
+  assert.equal(rows[0].lastResult, 'correct');
+  assert.equal(rows[1].accuracy, 0.5);
+});
+
+test('履歴は直前の結果で絞り込める', () => {
+  assert.deepEqual(
+    recentEntries(history, entries, { result: 'wrong' }).map((row) => row.entry.id),
+    ['a'],
+  );
+  assert.deepEqual(
+    recentEntries(history, entries, { result: 'skipped' }).map((row) => row.entry.id),
+    ['c'],
+  );
+});
+
+test('履歴は件数を制限できる', () => {
+  const rows = recentEntries(history, entries, { limit: 2 });
+  assert.deepEqual(
+    rows.map((row) => row.entry.id),
+    ['b', 'a'],
+  );
+});
+
+test('未出題の語と語彙データにない ID は履歴に出ない', () => {
+  const mixed = {
+    ...history,
+    unseen: { seen: 0, correct: 0, wrong: 0, skipped: 0, lastAskedAt: null, lastResult: null },
+    w9999: { seen: 1, correct: 1, wrong: 0, skipped: 0, lastAskedAt: '2026-08-10T23:00:00.000Z', lastResult: 'correct' },
+  };
+  assert.deepEqual(
+    recentEntries(mixed, entries).map((row) => row.entry.id),
+    ['b', 'a', 'c'],
+  );
+});
+
+test('lastResult を持たない旧データでも履歴に並ぶ', () => {
+  const legacy = { a: { seen: 1, correct: 1, wrong: 0, lastAskedAt: '2026-08-10T09:00:00.000Z' } };
+  const rows = recentEntries(legacy, entries);
+  assert.equal(rows.length, 1);
+  assert.equal(rows[0].lastResult, null);
+  assert.equal(rows[0].skipped, 0);
 });

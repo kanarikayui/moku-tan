@@ -1,7 +1,14 @@
 // localStorage の読み書きとマイグレーション。
 // 破損データを読んだときは既定値へフォールバックし、recovered=true を返す。
 
-import { STORAGE_PREFIX, SCHEMA_VERSION, DEFAULT_SETTINGS, LEVELS, TYPES } from './config.js';
+import {
+  STORAGE_PREFIX,
+  SCHEMA_VERSION,
+  DEFAULT_SETTINGS,
+  LEVELS,
+  TYPES,
+  RESULTS,
+} from './config.js';
 import { createStats } from './stats.js';
 
 export const KEYS = {
@@ -136,6 +143,8 @@ function normalizeProgress(value) {
       streak,
       nextDue,
       lastAskedAt: typeof state.lastAskedAt === 'string' ? state.lastAskedAt : null,
+      // lastResult を持たない旧データや未知の値は null にする
+      lastResult: RESULTS.includes(state.lastResult) ? state.lastResult : null,
     };
   }
   // recent / newFlags を持たない旧データは空配列で補う
