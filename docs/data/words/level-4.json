@@ -2103,5 +2103,4273 @@
       "en": "The buyer sought redress through arbitration.",
       "ja": "買い手は仲裁を通じて救済を求めた。"
     }
+  },
+  {
+    "id": "w1386",
+    "type": "word",
+    "en": "abate",
+    "ja": [
+      "和らぐ"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "abat",
+    "senses": [
+      "abate-becomelessintense"
+    ],
+    "example": {
+      "en": "The noise abated after the shift ended.",
+      "ja": "勤務が終わると騒音は和らいだ。"
+    }
+  },
+  {
+    "id": "w1387",
+    "type": "word",
+    "en": "accede",
+    "ja": [
+      "同意して応じる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "acced",
+    "senses": [
+      "accede-agreetorequest"
+    ],
+    "example": {
+      "en": "The seller acceded to a longer warranty.",
+      "ja": "売り主は長い保証に同意して応じた。"
+    }
+  },
+  {
+    "id": "w1388",
+    "type": "word",
+    "en": "acclaim",
+    "ja": [
+      "称賛"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "acclaim",
+    "senses": [
+      "acclaim-publicpraise"
+    ],
+    "example": {
+      "en": "The design won acclaim at the trade fair.",
+      "ja": "その設計は見本市で称賛を得た。"
+    }
+  },
+  {
+    "id": "w1389",
+    "type": "word",
+    "en": "accord",
+    "ja": [
+      "一致"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "accord",
+    "senses": [
+      "accord-formalunderstanding"
+    ],
+    "example": {
+      "en": "The two firms reached an accord on pricing.",
+      "ja": "二社は価格について一致に達した。"
+    }
+  },
+  {
+    "id": "w1390",
+    "type": "word",
+    "en": "acquaint",
+    "ja": [
+      "知らせて慣れさせる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "acquaint",
+    "senses": [
+      "acquaint-familiarizesomeone"
+    ],
+    "example": {
+      "en": "The tour acquaints new staff with the plant.",
+      "ja": "見学が新しい職員に工場を知らせて慣れさせる。"
+    }
+  },
+  {
+    "id": "w1391",
+    "type": "word",
+    "en": "acute-angle",
+    "ja": [
+      "鋭角"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "acuteangle",
+    "senses": [
+      "acuteangle-sharpcorner"
+    ],
+    "example": {
+      "en": "An acute angle weakens the bracket.",
+      "ja": "鋭角は金具を弱くする。"
+    }
+  },
+  {
+    "id": "w1392",
+    "type": "word",
+    "en": "adept",
+    "ja": [
+      "巧みな"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "adept",
+    "senses": [
+      "adept-veryskillful"
+    ],
+    "example": {
+      "en": "An adept operator halves the setup time.",
+      "ja": "巧みな担当者は段取りを半分にする。"
+    }
+  },
+  {
+    "id": "w1393",
+    "type": "word",
+    "en": "adhesive",
+    "ja": [
+      "接着剤"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "adhes",
+    "senses": [
+      "adhesive-stickysubstance"
+    ],
+    "example": {
+      "en": "The adhesive sets in about ten minutes.",
+      "ja": "その接着剤は約十分で固まる。"
+    }
+  },
+  {
+    "id": "w1394",
+    "type": "word",
+    "en": "adjourn",
+    "ja": [
+      "休会する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "adjourn",
+    "senses": [
+      "adjourn-suspendmeeting"
+    ],
+    "example": {
+      "en": "The session adjourned until two o'clock.",
+      "ja": "その回は二時まで休会した。"
+    }
+  },
+  {
+    "id": "w1395",
+    "type": "word",
+    "en": "admonish",
+    "ja": [
+      "戒める"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "admonish",
+    "senses": [
+      "admonish-warnfirmly"
+    ],
+    "example": {
+      "en": "The chief admonished the crew for speeding.",
+      "ja": "主任は速度超過について作業班を戒めた。"
+    }
+  },
+  {
+    "id": "w1396",
+    "type": "word",
+    "en": "affluent",
+    "ja": [
+      "裕福な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "afflu",
+    "senses": [
+      "affluent-havingmuchwealth"
+    ],
+    "example": {
+      "en": "The store targets affluent city shoppers.",
+      "ja": "その店は裕福な都市の買い物客を狙う。"
+    }
+  },
+  {
+    "id": "w1397",
+    "type": "word",
+    "en": "akin",
+    "ja": [
+      "類似している"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "akin",
+    "senses": [
+      "akin-similarinnature"
+    ],
+    "example": {
+      "en": "The fault is akin to last year's case.",
+      "ja": "その不具合は昨年の事例に類似している。"
+    }
+  },
+  {
+    "id": "w1398",
+    "type": "word",
+    "en": "albeit",
+    "ja": [
+      "とはいえ"
+    ],
+    "pos": "prep",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "albeit",
+    "senses": [
+      "albeit-althoughadmittedly"
+    ],
+    "example": {
+      "en": "Sales rose, albeit from a low base.",
+      "ja": "売上は伸びた、とはいえ低い水準からだ。"
+    }
+  },
+  {
+    "id": "w1399",
+    "type": "word",
+    "en": "allot",
+    "ja": [
+      "割り振る"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "allot",
+    "senses": [
+      "allot-distributeshares"
+    ],
+    "example": {
+      "en": "The yard allots two bays per carrier.",
+      "ja": "構内は運送会社ごとに二区画を割り振る。"
+    }
+  },
+  {
+    "id": "w1400",
+    "type": "word",
+    "en": "amass",
+    "ja": [
+      "蓄積する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "amass",
+    "senses": [
+      "amass-accumulatelargely"
+    ],
+    "example": {
+      "en": "The firm amassed reserves over five years.",
+      "ja": "会社は五年で準備金を蓄積した。"
+    }
+  },
+  {
+    "id": "w1401",
+    "type": "word",
+    "en": "amenity",
+    "ja": [
+      "付帯設備"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "amen",
+    "senses": [
+      "amenity-usefulfacility"
+    ],
+    "example": {
+      "en": "The building offers a rooftop amenity.",
+      "ja": "その建物は屋上の付帯設備を備える。"
+    }
+  },
+  {
+    "id": "w1402",
+    "type": "word",
+    "en": "annotate",
+    "ja": [
+      "注釈を付ける"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "annot",
+    "senses": [
+      "annotate-addexplanatorynotes"
+    ],
+    "example": {
+      "en": "The engineer annotated the wiring plan.",
+      "ja": "技術者は配線図に注釈を付けた。"
+    }
+  },
+  {
+    "id": "w1403",
+    "type": "word",
+    "en": "appease",
+    "ja": [
+      "なだめる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "appeas",
+    "senses": [
+      "appease-calmcomplaint"
+    ],
+    "example": {
+      "en": "A partial refund appeased the buyer.",
+      "ja": "一部の返金が買い手をなだめた。"
+    }
+  },
+  {
+    "id": "w1404",
+    "type": "word",
+    "en": "appellation",
+    "ja": [
+      "呼称"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "appell",
+    "senses": [
+      "appellation-officialname"
+    ],
+    "example": {
+      "en": "The appellation appears on every label.",
+      "ja": "その呼称は全ての表示に載っている。"
+    }
+  },
+  {
+    "id": "w1405",
+    "type": "word",
+    "en": "apportion",
+    "ja": [
+      "割り付ける"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "apport",
+    "senses": [
+      "apportion-dividebyshare"
+    ],
+    "example": {
+      "en": "Costs are apportioned by floor area.",
+      "ja": "費用は床の面積で割り付けられる。"
+    }
+  },
+  {
+    "id": "w1406",
+    "type": "word",
+    "en": "appraise-worth",
+    "ja": [
+      "価値査定"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "appraiseworth",
+    "senses": [
+      "appraiseworth-valuejudgment"
+    ],
+    "example": {
+      "en": "The worth appraisal came in below expectation.",
+      "ja": "価値査定は期待を下回った。"
+    }
+  },
+  {
+    "id": "w1407",
+    "type": "word",
+    "en": "apt-remark",
+    "ja": [
+      "的確な指摘"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "aptremark",
+    "senses": [
+      "aptremark-fittingcomment"
+    ],
+    "example": {
+      "en": "Her apt remark ended the debate.",
+      "ja": "彼女の的確な指摘が議論を終わらせた。"
+    }
+  },
+  {
+    "id": "w1408",
+    "type": "word",
+    "en": "arduous",
+    "ja": [
+      "骨の折れる"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "arduous",
+    "senses": [
+      "arduous-requiringgreateffort"
+    ],
+    "example": {
+      "en": "Clearing the drains was arduous work.",
+      "ja": "排水路の清掃は骨の折れる作業だった。"
+    }
+  },
+  {
+    "id": "w1409",
+    "type": "word",
+    "en": "ascend",
+    "ja": [
+      "上昇する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "ascend",
+    "senses": [
+      "ascend-moveupward"
+    ],
+    "example": {
+      "en": "Warm air ascends through the roof vent.",
+      "ja": "暖かい空気は屋根の口を通って上昇する。"
+    }
+  },
+  {
+    "id": "w1410",
+    "type": "word",
+    "en": "astute",
+    "ja": [
+      "抜け目のない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "astut",
+    "senses": [
+      "astute-shrewdlyclever"
+    ],
+    "example": {
+      "en": "An astute buyer spotted the pricing error.",
+      "ja": "抜け目のない買い手が価格の誤りを見つけた。"
+    }
+  },
+  {
+    "id": "w1411",
+    "type": "word",
+    "en": "augment",
+    "ja": [
+      "増強する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "augment",
+    "senses": [
+      "augment-addtoincrease"
+    ],
+    "example": {
+      "en": "Extra vans augment the winter fleet.",
+      "ja": "追加の貨物車が冬の車両を増強する。"
+    }
+  },
+  {
+    "id": "w1412",
+    "type": "word",
+    "en": "auspicious",
+    "ja": [
+      "幸先のよい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "auspici",
+    "senses": [
+      "auspicious-promisingsuccess"
+    ],
+    "example": {
+      "en": "The opening week was auspicious for the shop.",
+      "ja": "開店の週はその店にとって幸先のよいものだった。"
+    }
+  },
+  {
+    "id": "w1413",
+    "type": "word",
+    "en": "austere",
+    "ja": [
+      "質素な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "auster",
+    "senses": [
+      "austere-plainandsimple"
+    ],
+    "example": {
+      "en": "The site office is austere but functional.",
+      "ja": "現場の事務所は質素だが機能的だ。"
+    }
+  },
+  {
+    "id": "w1414",
+    "type": "word",
+    "en": "avail",
+    "ja": [
+      "役立てて用いる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "avail2",
+    "senses": [
+      "avail-makeuseof"
+    ],
+    "example": {
+      "en": "Guests may avail themselves of the shuttle.",
+      "ja": "客は送迎車を役立てて用いることができる。"
+    }
+  },
+  {
+    "id": "w1415",
+    "type": "word",
+    "en": "avid",
+    "ja": [
+      "熱烈な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "avid",
+    "senses": [
+      "avid-keenlyenthusiastic"
+    ],
+    "example": {
+      "en": "Avid collectors queued from early morning.",
+      "ja": "熱烈な収集家が早朝から並んだ。"
+    }
+  },
+  {
+    "id": "w1416",
+    "type": "word",
+    "en": "belated",
+    "ja": [
+      "遅ればせの"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "belat",
+    "senses": [
+      "belated-comingtoolate"
+    ],
+    "example": {
+      "en": "A belated apology reached the client.",
+      "ja": "遅ればせの謝罪が取引先に届いた。"
+    }
+  },
+  {
+    "id": "w1417",
+    "type": "word",
+    "en": "benevolent",
+    "ja": [
+      "慈善的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "benevol",
+    "senses": [
+      "benevolent-kindlygenerous"
+    ],
+    "example": {
+      "en": "A benevolent fund supports injured workers.",
+      "ja": "慈善的な基金が負傷した労働者を支える。"
+    }
+  },
+  {
+    "id": "w1418",
+    "type": "word",
+    "en": "bland",
+    "ja": [
+      "味気ない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "bland",
+    "senses": [
+      "bland-lackingflavor"
+    ],
+    "example": {
+      "en": "The canteen food was criticized as bland.",
+      "ja": "食堂の料理は味気ないと批判された。"
+    }
+  },
+  {
+    "id": "w1419",
+    "type": "word",
+    "en": "brisk",
+    "ja": [
+      "活発な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "brisk",
+    "senses": [
+      "brisk-quickandbusy"
+    ],
+    "example": {
+      "en": "Brisk trade followed the holiday weekend.",
+      "ja": "休日の週末の後、活発な商いが続いた。"
+    }
+  },
+  {
+    "id": "w1420",
+    "type": "word",
+    "en": "buoyant",
+    "ja": [
+      "上向きの"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "buoyant",
+    "senses": [
+      "buoyant-cheerfullyrising"
+    ],
+    "example": {
+      "en": "Buoyant demand lifted the third quarter.",
+      "ja": "上向きの需要が第三四半期を押し上げた。"
+    }
+  },
+  {
+    "id": "w1421",
+    "type": "word",
+    "en": "candor",
+    "ja": [
+      "率直さ"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "candor",
+    "senses": [
+      "candor-honestopenness"
+    ],
+    "example": {
+      "en": "The report was praised for its candor.",
+      "ja": "その報告書は率直さを評価された。"
+    }
+  },
+  {
+    "id": "w1422",
+    "type": "word",
+    "en": "cardinal",
+    "ja": [
+      "基本となる"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "cardin",
+    "senses": [
+      "cardinal-fundamentallyimportant"
+    ],
+    "example": {
+      "en": "A cardinal rule bans lone working at night.",
+      "ja": "基本となる規則が夜間の単独作業を禁じる。"
+    }
+  },
+  {
+    "id": "w1423",
+    "type": "word",
+    "en": "cascade",
+    "ja": [
+      "次々に波及する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "cascad",
+    "senses": [
+      "cascade-spreaddownward"
+    ],
+    "example": {
+      "en": "One late ship cascaded into a week of delay.",
+      "ja": "一隻の遅れが一週間の遅延へ次々に波及した。"
+    }
+  },
+  {
+    "id": "w1424",
+    "type": "word",
+    "en": "caveat-note",
+    "ja": [
+      "注意書き"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "caveatnote",
+    "senses": [
+      "caveatnote-warningmemo"
+    ],
+    "example": {
+      "en": "A caveat note accompanies the estimate.",
+      "ja": "注意書きが概算書に添えられている。"
+    }
+  },
+  {
+    "id": "w1425",
+    "type": "word",
+    "en": "censure",
+    "ja": [
+      "非難する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "censur",
+    "senses": [
+      "censure-criticizeformally"
+    ],
+    "example": {
+      "en": "The board censured the branch for the breach.",
+      "ja": "取締役会は違反について支店を非難した。"
+    }
+  },
+  {
+    "id": "w1426",
+    "type": "word",
+    "en": "circumvent",
+    "ja": [
+      "回り道して避ける"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "circumvent",
+    "senses": [
+      "circumvent-getaroundrule"
+    ],
+    "example": {
+      "en": "No one may circumvent the approval step.",
+      "ja": "承認の手順を回り道して避けてはならない。"
+    }
+  },
+  {
+    "id": "w1427",
+    "type": "word",
+    "en": "cite-source",
+    "ja": [
+      "出典"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "citesource",
+    "senses": [
+      "citesource-referenceorigin"
+    ],
+    "example": {
+      "en": "Every figure lists its source.",
+      "ja": "各数値は出典を記している。"
+    }
+  },
+  {
+    "id": "w1428",
+    "type": "word",
+    "en": "coalesce",
+    "ja": [
+      "融合する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "coalesc",
+    "senses": [
+      "coalesce-mergeintoone"
+    ],
+    "example": {
+      "en": "Two small teams coalesced into one unit.",
+      "ja": "二つの小さな班が一つの部隊に融合した。"
+    }
+  },
+  {
+    "id": "w1429",
+    "type": "word",
+    "en": "cogent",
+    "ja": [
+      "説得力の強い"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "cogent",
+    "senses": [
+      "cogent-clearlyconvincing"
+    ],
+    "example": {
+      "en": "She made a cogent case for the upgrade.",
+      "ja": "彼女は改修について説得力の強い主張をした。"
+    }
+  },
+  {
+    "id": "w1430",
+    "type": "word",
+    "en": "commend",
+    "ja": [
+      "推奨する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "commend",
+    "senses": [
+      "commend-praiseandrecommend"
+    ],
+    "example": {
+      "en": "The auditor commended the record keeping.",
+      "ja": "監査人は記録の管理を推奨した。"
+    }
+  },
+  {
+    "id": "w1431",
+    "type": "word",
+    "en": "commensurate",
+    "ja": [
+      "見合った"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "commensur",
+    "senses": [
+      "commensurate-proportionaltoit"
+    ],
+    "example": {
+      "en": "Pay is commensurate with experience.",
+      "ja": "給与は経験に見合ったものとなる。"
+    }
+  },
+  {
+    "id": "w1432",
+    "type": "word",
+    "en": "compatriot",
+    "ja": [
+      "同郷の人"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "compatriot",
+    "senses": [
+      "compatriot-fellowcountryman"
+    ],
+    "example": {
+      "en": "A compatriot guided the visiting engineers.",
+      "ja": "同郷の人が訪問した技術者を案内した。"
+    }
+  },
+  {
+    "id": "w1433",
+    "type": "word",
+    "en": "complacent",
+    "ja": [
+      "安心しきった"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "complac",
+    "senses": [
+      "complacent-smuglyunconcerned"
+    ],
+    "example": {
+      "en": "Do not grow complacent about the checks.",
+      "ja": "点検について安心しきった状態になってはならない。"
+    }
+  },
+  {
+    "id": "w1434",
+    "type": "word",
+    "en": "concur",
+    "ja": [
+      "同じ意見である"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "concur2",
+    "senses": [
+      "concur-agreewithothers"
+    ],
+    "example": {
+      "en": "Both auditors concur on the finding.",
+      "ja": "両方の監査人がその所見で同じ意見である。"
+    }
+  },
+  {
+    "id": "w1435",
+    "type": "word",
+    "en": "condone",
+    "ja": [
+      "大目に見る"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "condon",
+    "senses": [
+      "condone-overlookwrongdoing"
+    ],
+    "example": {
+      "en": "The firm does not condone unsafe shortcuts.",
+      "ja": "会社は危険な近道を大目に見ない。"
+    }
+  },
+  {
+    "id": "w1436",
+    "type": "word",
+    "en": "confluence",
+    "ja": [
+      "合流点"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "confluenc",
+    "senses": [
+      "confluence-comingtogether"
+    ],
+    "example": {
+      "en": "The depot sits at the confluence of two routes.",
+      "ja": "拠点は二つの経路の合流点にある。"
+    }
+  },
+  {
+    "id": "w1437",
+    "type": "word",
+    "en": "congenial",
+    "ja": [
+      "気の合う"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "congeni",
+    "senses": [
+      "congenial-pleasantlysuited"
+    ],
+    "example": {
+      "en": "A congenial team handled the long night.",
+      "ja": "気の合う班が長い夜をこなした。"
+    }
+  },
+  {
+    "id": "w1438",
+    "type": "word",
+    "en": "consequential",
+    "ja": [
+      "重大な結果を伴う"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "consequenti",
+    "senses": [
+      "consequential-havingimportanteffect"
+    ],
+    "example": {
+      "en": "Consequential losses are excluded here.",
+      "ja": "重大な結果を伴う損失はここでは除外される。"
+    }
+  },
+  {
+    "id": "w1439",
+    "type": "word",
+    "en": "consortium",
+    "ja": [
+      "企業連合"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "consorti",
+    "senses": [
+      "consortium-groupofcompanies"
+    ],
+    "example": {
+      "en": "A consortium won the harbor contract.",
+      "ja": "企業連合が港湾の契約を勝ち取った。"
+    }
+  },
+  {
+    "id": "w1440",
+    "type": "word",
+    "en": "conspire",
+    "ja": [
+      "共謀する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "conspir",
+    "senses": [
+      "conspire-plansecretly"
+    ],
+    "example": {
+      "en": "Two suppliers were accused of conspiring.",
+      "ja": "二社の供給業者が共謀したと指摘された。"
+    }
+  },
+  {
+    "id": "w1441",
+    "type": "word",
+    "en": "constituent",
+    "ja": [
+      "構成要素"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "constitu",
+    "senses": [
+      "constituent-componentofwhole"
+    ],
+    "example": {
+      "en": "Resin is the main constituent of the coating.",
+      "ja": "樹脂が塗膜の主な構成要素だ。"
+    }
+  },
+  {
+    "id": "w1442",
+    "type": "word",
+    "en": "contemplate",
+    "ja": [
+      "熟考する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "contempl",
+    "senses": [
+      "contemplate-thinkdeeply"
+    ],
+    "example": {
+      "en": "The board contemplated closing the depot.",
+      "ja": "取締役会は拠点の閉鎖を熟考した。"
+    }
+  },
+  {
+    "id": "w1443",
+    "type": "word",
+    "en": "contentious",
+    "ja": [
+      "議論を呼ぶ"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "contenti",
+    "senses": [
+      "contentious-causingdisagreement"
+    ],
+    "example": {
+      "en": "The pricing clause proved contentious.",
+      "ja": "価格の条項は議論を呼ぶものとなった。"
+    }
+  },
+  {
+    "id": "w1444",
+    "type": "word",
+    "en": "contravene",
+    "ja": [
+      "抵触する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "contraven",
+    "senses": [
+      "contravene-violaterule"
+    ],
+    "example": {
+      "en": "The display contravened the fire code.",
+      "ja": "その陳列は防火の規定に抵触した。"
+    }
+  },
+  {
+    "id": "w1445",
+    "type": "word",
+    "en": "converge",
+    "ja": [
+      "収束する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "converg",
+    "senses": [
+      "converge-cometogether"
+    ],
+    "example": {
+      "en": "Costs converged after the second quarter.",
+      "ja": "費用は第二四半期の後に収束した。"
+    }
+  },
+  {
+    "id": "w1446",
+    "type": "word",
+    "en": "copious",
+    "ja": [
+      "おびただしい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "copi",
+    "senses": [
+      "copious-verylargeinamount"
+    ],
+    "example": {
+      "en": "Copious notes filled the site diary.",
+      "ja": "おびただしい記録が現場日誌を埋めた。"
+    }
+  },
+  {
+    "id": "w1447",
+    "type": "word",
+    "en": "cordial",
+    "ja": [
+      "丁重な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "cordi",
+    "senses": [
+      "cordial-warmlypolite"
+    ],
+    "example": {
+      "en": "A cordial reply settled the complaint.",
+      "ja": "丁重な返答が苦情を収めた。"
+    }
+  },
+  {
+    "id": "w1448",
+    "type": "word",
+    "en": "corollary",
+    "ja": [
+      "当然の帰結"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "corollari",
+    "senses": [
+      "corollary-naturalconsequence"
+    ],
+    "example": {
+      "en": "Higher output is a corollary of the upgrade.",
+      "ja": "生産の増加は改修の当然の帰結だ。"
+    }
+  },
+  {
+    "id": "w1449",
+    "type": "word",
+    "en": "covert",
+    "ja": [
+      "秘密裏の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "covert",
+    "senses": [
+      "covert-hiddenfromview"
+    ],
+    "example": {
+      "en": "Covert monitoring of staff is prohibited.",
+      "ja": "職員の秘密裏の監視は禁じられている。"
+    }
+  },
+  {
+    "id": "w1450",
+    "type": "word",
+    "en": "credence",
+    "ja": [
+      "信憑性"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "credenc",
+    "senses": [
+      "credence-beliefintruth"
+    ],
+    "example": {
+      "en": "The photographs lent credence to the claim.",
+      "ja": "写真が請求に信憑性を与えた。"
+    }
+  },
+  {
+    "id": "w1451",
+    "type": "word",
+    "en": "culpable",
+    "ja": [
+      "責めを負うべき"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "culpab",
+    "senses": [
+      "culpable-deservingblame"
+    ],
+    "example": {
+      "en": "No party was found culpable for the fire.",
+      "ja": "火災について責めを負うべき当事者はいなかった。"
+    }
+  },
+  {
+    "id": "w1452",
+    "type": "word",
+    "en": "curb",
+    "ja": [
+      "抑止する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "curb",
+    "senses": [
+      "curb-restrainincrease"
+    ],
+    "example": {
+      "en": "New gates curb unauthorized entry.",
+      "ja": "新しい門が無許可の入場を抑止する。"
+    }
+  },
+  {
+    "id": "w1453",
+    "type": "word",
+    "en": "cursory",
+    "ja": [
+      "ざっとした"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "cursori",
+    "senses": [
+      "cursory-quickandsuperficial"
+    ],
+    "example": {
+      "en": "A cursory glance missed the hairline crack.",
+      "ja": "ざっとした一瞥は細い割れを見逃した。"
+    }
+  },
+  {
+    "id": "w1454",
+    "type": "word",
+    "en": "dearth",
+    "ja": [
+      "欠乏"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "dearth",
+    "senses": [
+      "dearth-severeshortage"
+    ],
+    "example": {
+      "en": "A dearth of welders slowed the project.",
+      "ja": "溶接工の欠乏が事業計画を遅らせた。"
+    }
+  },
+  {
+    "id": "w1455",
+    "type": "word",
+    "en": "debilitate",
+    "ja": [
+      "弱体化させる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "debilit",
+    "senses": [
+      "debilitate-weakenseverely"
+    ],
+    "example": {
+      "en": "The strike debilitated the whole network.",
+      "ja": "争議が網全体を弱体化させた。"
+    }
+  },
+  {
+    "id": "w1456",
+    "type": "word",
+    "en": "decorum",
+    "ja": [
+      "礼節"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "decorum",
+    "senses": [
+      "decorum-properbehavior"
+    ],
+    "example": {
+      "en": "Staff maintain decorum with difficult guests.",
+      "ja": "職員は難しい客にも礼節を保つ。"
+    }
+  },
+  {
+    "id": "w1457",
+    "type": "word",
+    "en": "deference",
+    "ja": [
+      "敬意"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "defer2",
+    "senses": [
+      "deference-respectfulregard"
+    ],
+    "example": {
+      "en": "Junior staff show deference to the foreman.",
+      "ja": "若い職員は職長に敬意を示す。"
+    }
+  },
+  {
+    "id": "w1458",
+    "type": "word",
+    "en": "deft",
+    "ja": [
+      "手際のよい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "deft",
+    "senses": [
+      "deft-quicklyskillful"
+    ],
+    "example": {
+      "en": "A deft repair kept the line moving.",
+      "ja": "手際のよい修理が生産を止めずに済ませた。"
+    }
+  },
+  {
+    "id": "w1459",
+    "type": "word",
+    "en": "delineate",
+    "ja": [
+      "明確に区分する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "deline",
+    "senses": [
+      "delineate-marktheboundary"
+    ],
+    "example": {
+      "en": "The plan delineates each party's duties.",
+      "ja": "その計画は各当事者の職務を明確に区分する。"
+    }
+  },
+  {
+    "id": "w1460",
+    "type": "word",
+    "en": "demeanor",
+    "ja": [
+      "物腰"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "demeanor",
+    "senses": [
+      "demeanor-outwardmanner"
+    ],
+    "example": {
+      "en": "Her calm demeanor reassured the visitors.",
+      "ja": "彼女の落ち着いた物腰が訪問者を安心させた。"
+    }
+  },
+  {
+    "id": "w1461",
+    "type": "word",
+    "en": "denounce",
+    "ja": [
+      "糾弾する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "denounc",
+    "senses": [
+      "denounce-condemnpublicly"
+    ],
+    "example": {
+      "en": "The union denounced the sudden closure.",
+      "ja": "組合は突然の閉鎖を糾弾した。"
+    }
+  },
+  {
+    "id": "w1462",
+    "type": "word",
+    "en": "deplore",
+    "ja": [
+      "遺憾に思う"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "deplor",
+    "senses": [
+      "deplore-stronglyregret"
+    ],
+    "example": {
+      "en": "Management deplored the loss of records.",
+      "ja": "経営陣は記録の喪失を遺憾に思った。"
+    }
+  },
+  {
+    "id": "w1463",
+    "type": "word",
+    "en": "deride",
+    "ja": [
+      "あざける"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "derid",
+    "senses": [
+      "deride-mockscornfully"
+    ],
+    "example": {
+      "en": "Critics derided the early prototype.",
+      "ja": "批評家は初期の試作をあざけった。"
+    }
+  },
+  {
+    "id": "w1464",
+    "type": "word",
+    "en": "desist",
+    "ja": [
+      "やめる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "desist",
+    "senses": [
+      "desist-ceasedoing"
+    ],
+    "example": {
+      "en": "The maker agreed to desist from the claim.",
+      "ja": "製造業者はその表示をやめることに同意した。"
+    }
+  },
+  {
+    "id": "w1465",
+    "type": "word",
+    "en": "despondent",
+    "ja": [
+      "落胆した"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "despond",
+    "senses": [
+      "despondent-lowinspirits"
+    ],
+    "example": {
+      "en": "Staff felt despondent after the cancellation.",
+      "ja": "中止の後、職員は落胆した気持ちになった。"
+    }
+  },
+  {
+    "id": "w1466",
+    "type": "word",
+    "en": "deteriorate-fast",
+    "ja": [
+      "急速な劣化"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "deterfast",
+    "senses": [
+      "deterfast-rapiddecline"
+    ],
+    "example": {
+      "en": "Rapid deterioration surprised the engineers.",
+      "ja": "急速な劣化が技術者を驚かせた。"
+    }
+  },
+  {
+    "id": "w1467",
+    "type": "word",
+    "en": "detrimental",
+    "ja": [
+      "有害な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "detriment",
+    "senses": [
+      "detrimental-causingharm"
+    ],
+    "example": {
+      "en": "Damp is detrimental to the paper stock.",
+      "ja": "湿気は紙の在庫に有害だ。"
+    }
+  },
+  {
+    "id": "w1468",
+    "type": "word",
+    "en": "devoid",
+    "ja": [
+      "全くない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "devoid",
+    "senses": [
+      "devoid-entirelylacking"
+    ],
+    "example": {
+      "en": "The letter was devoid of any figures.",
+      "ja": "その手紙には数値が全くなかった。"
+    }
+  },
+  {
+    "id": "w1469",
+    "type": "word",
+    "en": "dexterity",
+    "ja": [
+      "器用さ"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "dexter",
+    "senses": [
+      "dexterity-skillwithhands"
+    ],
+    "example": {
+      "en": "The task demands considerable dexterity.",
+      "ja": "その作業は相当な器用さを要する。"
+    }
+  },
+  {
+    "id": "w1470",
+    "type": "word",
+    "en": "diffuse",
+    "ja": [
+      "拡散させる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "diffus",
+    "senses": [
+      "diffuse-spreadwidely"
+    ],
+    "example": {
+      "en": "Baffles diffuse the light across the bench.",
+      "ja": "遮光板が光を作業台に拡散させる。"
+    }
+  },
+  {
+    "id": "w1471",
+    "type": "word",
+    "en": "digress",
+    "ja": [
+      "話がそれる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "digress",
+    "senses": [
+      "digress-strayfromtopic"
+    ],
+    "example": {
+      "en": "The speaker digressed from the agenda.",
+      "ja": "話し手は議題から話がそれた。"
+    }
+  },
+  {
+    "id": "w1472",
+    "type": "word",
+    "en": "diligence",
+    "ja": [
+      "勤勉さ"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "dilig2",
+    "senses": [
+      "diligence-carefulpersistence"
+    ],
+    "example": {
+      "en": "Her diligence caught the labeling error.",
+      "ja": "彼女の勤勉さが表示の誤りを捉えた。"
+    }
+  },
+  {
+    "id": "w1473",
+    "type": "word",
+    "en": "discreet",
+    "ja": [
+      "慎み深い"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "discreet",
+    "senses": [
+      "discreet-carefultoavoidattention"
+    ],
+    "example": {
+      "en": "A discreet inquiry settled the matter.",
+      "ja": "慎み深い問い合わせが件を収めた。"
+    }
+  },
+  {
+    "id": "w1474",
+    "type": "word",
+    "en": "disparate",
+    "ja": [
+      "異質な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "dispar",
+    "senses": [
+      "disparate-fundamentallydifferent"
+    ],
+    "example": {
+      "en": "The group merged three disparate systems.",
+      "ja": "そのグループは三つの異質な仕組みを統合した。"
+    }
+  },
+  {
+    "id": "w1475",
+    "type": "word",
+    "en": "disparity",
+    "ja": [
+      "格差"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "dispar2",
+    "senses": [
+      "disparity-noticeabledifference"
+    ],
+    "example": {
+      "en": "A pay disparity between sites drew attention.",
+      "ja": "事業所間の給与の格差が注目を集めた。"
+    }
+  },
+  {
+    "id": "w1476",
+    "type": "word",
+    "en": "dissuade",
+    "ja": [
+      "思いとどまらせて止める"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "dissuad",
+    "senses": [
+      "dissuade-persuadenotto"
+    ],
+    "example": {
+      "en": "Costs dissuaded the board from expanding.",
+      "ja": "費用が取締役会の拡張を思いとどまらせて止めた。"
+    }
+  },
+  {
+    "id": "w1477",
+    "type": "word",
+    "en": "divulge",
+    "ja": [
+      "漏らす"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "divulg",
+    "senses": [
+      "divulge-revealsecret"
+    ],
+    "example": {
+      "en": "Staff must not divulge pricing details.",
+      "ja": "職員は価格の詳細を漏らしてはならない。"
+    }
+  },
+  {
+    "id": "w1478",
+    "type": "word",
+    "en": "docile",
+    "ja": [
+      "従順な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "docil",
+    "senses": [
+      "docile-easilymanaged"
+    ],
+    "example": {
+      "en": "A docile response ended the dispute quickly.",
+      "ja": "従順な対応が争いを早く終わらせた。"
+    }
+  },
+  {
+    "id": "w1479",
+    "type": "word",
+    "en": "dubious",
+    "ja": [
+      "疑わしい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "dubi",
+    "senses": [
+      "dubious-doubtfulinvalue"
+    ],
+    "example": {
+      "en": "The invoice carried a dubious surcharge.",
+      "ja": "その請求書には疑わしい追加料金があった。"
+    }
+  },
+  {
+    "id": "w1480",
+    "type": "word",
+    "en": "eloquent",
+    "ja": [
+      "雄弁な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "eloqu",
+    "senses": [
+      "eloquent-fluentlypersuasive"
+    ],
+    "example": {
+      "en": "An eloquent summary closed the meeting.",
+      "ja": "雄弁な要約が会議を締めくくった。"
+    }
+  },
+  {
+    "id": "w1481",
+    "type": "word",
+    "en": "elusive",
+    "ja": [
+      "とらえどころのない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "elus",
+    "senses": [
+      "elusive-hardtofind"
+    ],
+    "example": {
+      "en": "The fault proved elusive for two weeks.",
+      "ja": "その不具合は二週間、とらえどころのないものだった。"
+    }
+  },
+  {
+    "id": "w1482",
+    "type": "word",
+    "en": "emanate",
+    "ja": [
+      "発する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "eman",
+    "senses": [
+      "emanate-comeoutfrom"
+    ],
+    "example": {
+      "en": "A faint hum emanates from the compressor.",
+      "ja": "かすかな唸りが圧縮機から発している。"
+    }
+  },
+  {
+    "id": "w1483",
+    "type": "word",
+    "en": "embellish",
+    "ja": [
+      "飾り立てる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "embellish",
+    "senses": [
+      "embellish-adddecoration"
+    ],
+    "example": {
+      "en": "The advert embellished the test results.",
+      "ja": "その広告は試験の結果を飾り立てた。"
+    }
+  },
+  {
+    "id": "w1484",
+    "type": "word",
+    "en": "enact-rule",
+    "ja": [
+      "規則制定"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "enactrule",
+    "senses": [
+      "enactrule-makingofregulation"
+    ],
+    "example": {
+      "en": "Rule enactment followed a long consultation.",
+      "ja": "規則制定は長い協議の後に行われた。"
+    }
+  },
+  {
+    "id": "w1485",
+    "type": "word",
+    "en": "encroach",
+    "ja": [
+      "侵食する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "realestate",
+      "part5"
+    ],
+    "root": "encroach",
+    "senses": [
+      "encroach-intrudegradually"
+    ],
+    "example": {
+      "en": "The new fence encroaches on the footpath.",
+      "ja": "新しい柵が歩道を侵食している。"
+    }
+  },
+  {
+    "id": "w1486",
+    "type": "word",
+    "en": "endow",
+    "ja": [
+      "寄贈する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "endow",
+    "senses": [
+      "endow-givefundsto"
+    ],
+    "example": {
+      "en": "A founder endowed the training center.",
+      "ja": "創業者が研修所を寄贈した。"
+    }
+  },
+  {
+    "id": "w1487",
+    "type": "word",
+    "en": "enigmatic",
+    "ja": [
+      "謎めいた"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "enigmat",
+    "senses": [
+      "enigmatic-puzzlinglymysterious"
+    ],
+    "example": {
+      "en": "The enigmatic fault vanished overnight.",
+      "ja": "謎めいた不具合は一晩で消えた。"
+    }
+  },
+  {
+    "id": "w1488",
+    "type": "word",
+    "en": "enmity",
+    "ja": [
+      "敵意"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "enmiti",
+    "senses": [
+      "enmity-deephostility"
+    ],
+    "example": {
+      "en": "Old enmity slowed the joint venture.",
+      "ja": "古い敵意が共同事業を鈍らせた。"
+    }
+  },
+  {
+    "id": "w1489",
+    "type": "word",
+    "en": "ensue",
+    "ja": [
+      "続いて起こる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "ensu",
+    "senses": [
+      "ensue-followasresult"
+    ],
+    "example": {
+      "en": "A long delay ensued after the collision.",
+      "ja": "衝突の後、長い遅れが続いて起こった。"
+    }
+  },
+  {
+    "id": "w1490",
+    "type": "word",
+    "en": "enthral",
+    "ja": [
+      "魅了する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "enthral",
+    "senses": [
+      "enthral-holdattentioncompletely"
+    ],
+    "example": {
+      "en": "The demonstration enthralled the audience.",
+      "ja": "その実演は聴衆を魅了した。"
+    }
+  },
+  {
+    "id": "w1491",
+    "type": "word",
+    "en": "envisage",
+    "ja": [
+      "思い描く"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "envisag",
+    "senses": [
+      "envisage-imaginefuture"
+    ],
+    "example": {
+      "en": "Planners envisage a third loading bay.",
+      "ja": "計画者は三つ目の荷積み場を思い描く。"
+    }
+  },
+  {
+    "id": "w1492",
+    "type": "word",
+    "en": "ephemeral",
+    "ja": [
+      "つかの間の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "ephemer",
+    "senses": [
+      "ephemeral-lastingveryshortly"
+    ],
+    "example": {
+      "en": "The boom proved ephemeral for small shops.",
+      "ja": "その好況は小さな店にはつかの間のものだった。"
+    }
+  },
+  {
+    "id": "w1493",
+    "type": "word",
+    "en": "equilibrium",
+    "ja": [
+      "均衡"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "equilibri",
+    "senses": [
+      "equilibrium-balancedstate"
+    ],
+    "example": {
+      "en": "Supply and demand reached equilibrium.",
+      "ja": "供給と需要が均衡に達した。"
+    }
+  },
+  {
+    "id": "w1494",
+    "type": "word",
+    "en": "eradicate",
+    "ja": [
+      "根絶する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "eradic",
+    "senses": [
+      "eradicate-removecompletely"
+    ],
+    "example": {
+      "en": "New traps eradicated pests in the store.",
+      "ja": "新しい罠が倉庫の害虫を根絶した。"
+    }
+  },
+  {
+    "id": "w1495",
+    "type": "word",
+    "en": "espouse",
+    "ja": [
+      "支持を表明する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "espous",
+    "senses": [
+      "espouse-adoptcause"
+    ],
+    "example": {
+      "en": "The chair espoused a shorter working week.",
+      "ja": "議長は短い労働週に支持を表明した。"
+    }
+  },
+  {
+    "id": "w1496",
+    "type": "word",
+    "en": "euphemism",
+    "ja": [
+      "婉曲表現"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "euphem",
+    "senses": [
+      "euphemism-mildersubstitute"
+    ],
+    "example": {
+      "en": "Restructuring is a euphemism for job cuts.",
+      "ja": "再編は人員削減の婉曲表現だ。"
+    }
+  },
+  {
+    "id": "w1497",
+    "type": "word",
+    "en": "evade",
+    "ja": [
+      "逃れる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "evad",
+    "senses": [
+      "evade-avoidobligation"
+    ],
+    "example": {
+      "en": "No firm may evade the reporting duty.",
+      "ja": "どの会社も報告の義務から逃れられない。"
+    }
+  },
+  {
+    "id": "w1498",
+    "type": "word",
+    "en": "exacerbate",
+    "ja": [
+      "さらに悪くする"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "exacerb",
+    "senses": [
+      "exacerbate-worsenproblem"
+    ],
+    "example": {
+      "en": "The detour exacerbated the fuel cost.",
+      "ja": "迂回が燃料費をさらに悪くした。"
+    }
+  },
+  {
+    "id": "w1499",
+    "type": "word",
+    "en": "exalt",
+    "ja": [
+      "高く評価する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "exalt",
+    "senses": [
+      "exalt-praisehighly"
+    ],
+    "example": {
+      "en": "The article exalted the plant's safety record.",
+      "ja": "その記事は工場の安全記録を高く評価した。"
+    }
+  },
+  {
+    "id": "w1500",
+    "type": "word",
+    "en": "exemplary",
+    "ja": [
+      "模範的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "exemplari",
+    "senses": [
+      "exemplary-servingasmodel"
+    ],
+    "example": {
+      "en": "Her exemplary record earned the award.",
+      "ja": "彼女の模範的な記録が表彰を得た。"
+    }
+  },
+  {
+    "id": "w1501",
+    "type": "word",
+    "en": "exorbitant",
+    "ja": [
+      "法外な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "exorbit",
+    "senses": [
+      "exorbitant-unreasonablyhigh"
+    ],
+    "example": {
+      "en": "The quote carried an exorbitant handling fee.",
+      "ja": "その見積書には法外な取扱料が付いていた。"
+    }
+  },
+  {
+    "id": "w1502",
+    "type": "word",
+    "en": "expedient",
+    "ja": [
+      "便宜的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "expedi",
+    "senses": [
+      "expedient-convenientlypractical"
+    ],
+    "example": {
+      "en": "An expedient fix bought two weeks.",
+      "ja": "便宜的な処置が二週間を稼いだ。"
+    }
+  },
+  {
+    "id": "w1503",
+    "type": "word",
+    "en": "expend",
+    "ja": [
+      "費やす"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "expend",
+    "senses": [
+      "expend-usemoneyoreffort"
+    ],
+    "example": {
+      "en": "The firm expended little on advertising.",
+      "ja": "会社は広告にほとんど費やさなかった。"
+    }
+  },
+  {
+    "id": "w1504",
+    "type": "word",
+    "en": "expedite-fee",
+    "ja": [
+      "特急料金"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "expeditefee",
+    "senses": [
+      "expeditefee-rushcharge"
+    ],
+    "example": {
+      "en": "An expediting fee doubles the cost.",
+      "ja": "特急料金は費用を倍にする。"
+    }
+  },
+  {
+    "id": "w1505",
+    "type": "word",
+    "en": "explicitly",
+    "ja": [
+      "明確に"
+    ],
+    "pos": "adv",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "explicit2",
+    "senses": [
+      "explicitly-instatedterms"
+    ],
+    "example": {
+      "en": "The clause explicitly bans subletting.",
+      "ja": "その条項は又貸しを明確に禁じる。"
+    }
+  },
+  {
+    "id": "w1506",
+    "type": "word",
+    "en": "extol",
+    "ja": [
+      "激賞する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "extol",
+    "senses": [
+      "extol-praiseenthusiastically"
+    ],
+    "example": {
+      "en": "Reviewers extolled the quiet motor.",
+      "ja": "評者は静かな電動機を激賞した。"
+    }
+  },
+  {
+    "id": "w1507",
+    "type": "word",
+    "en": "extraneous",
+    "ja": [
+      "本筋に無関係な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "extrane",
+    "senses": [
+      "extraneous-irrelevantextra"
+    ],
+    "example": {
+      "en": "Remove extraneous detail from the summary.",
+      "ja": "要約から本筋に無関係な細部を除きなさい。"
+    }
+  },
+  {
+    "id": "w1508",
+    "type": "word",
+    "en": "facet",
+    "ja": [
+      "一面"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "facet",
+    "senses": [
+      "facet-aspectofsubject"
+    ],
+    "example": {
+      "en": "Cost is just one facet of the decision.",
+      "ja": "費用は決定の一面にすぎない。"
+    }
+  },
+  {
+    "id": "w1509",
+    "type": "word",
+    "en": "fallacy",
+    "ja": [
+      "誤った考え"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "fallaci",
+    "senses": [
+      "fallacy-mistakenbelief"
+    ],
+    "example": {
+      "en": "It is a fallacy that speed lowers cost.",
+      "ja": "速さが費用を下げるというのは誤った考えだ。"
+    }
+  },
+  {
+    "id": "w1510",
+    "type": "word",
+    "en": "fastidious",
+    "ja": [
+      "細かいことにうるさい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "fastidi",
+    "senses": [
+      "fastidious-veryhardtoplease"
+    ],
+    "example": {
+      "en": "A fastidious checker rejected the batch.",
+      "ja": "細かいことにうるさい検査係がその生産分を戻した。"
+    }
+  },
+  {
+    "id": "w1511",
+    "type": "word",
+    "en": "feign",
+    "ja": [
+      "装う"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "feign",
+    "senses": [
+      "feign-pretendfalsely"
+    ],
+    "example": {
+      "en": "Nobody may feign an inspection signature.",
+      "ja": "検査の署名を装ってはならない。"
+    }
+  },
+  {
+    "id": "w1512",
+    "type": "word",
+    "en": "fervent",
+    "ja": [
+      "熱のこもった"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "fervent",
+    "senses": [
+      "fervent-intenselyearnest"
+    ],
+    "example": {
+      "en": "A fervent appeal saved the local branch.",
+      "ja": "熱のこもった訴えが地元の支店を救った。"
+    }
+  },
+  {
+    "id": "w1513",
+    "type": "word",
+    "en": "finesse",
+    "ja": [
+      "巧妙にさばく"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "finess",
+    "senses": [
+      "finesse-handleskillfully"
+    ],
+    "example": {
+      "en": "The negotiator finessed the pricing gap.",
+      "ja": "交渉者は価格の隔たりを巧妙にさばいた。"
+    }
+  },
+  {
+    "id": "w1514",
+    "type": "word",
+    "en": "flagrant",
+    "ja": [
+      "目に余る"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "flagrant",
+    "senses": [
+      "flagrant-openlyoutrageous"
+    ],
+    "example": {
+      "en": "A flagrant breach ended the contract.",
+      "ja": "目に余る違反が契約を終わらせた。"
+    }
+  },
+  {
+    "id": "w1515",
+    "type": "word",
+    "en": "fluctuation",
+    "ja": [
+      "変動幅"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "fluctuat2",
+    "senses": [
+      "fluctuation-degreeofchange"
+    ],
+    "example": {
+      "en": "Price fluctuation troubled small buyers.",
+      "ja": "価格の変動幅が小口の買い手を悩ませた。"
+    }
+  },
+  {
+    "id": "w1516",
+    "type": "word",
+    "en": "forestall",
+    "ja": [
+      "先手を打って防ぐ"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "forestall",
+    "senses": [
+      "forestall-preventbyacting"
+    ],
+    "example": {
+      "en": "Extra stock forestalled a winter shortage.",
+      "ja": "追加の在庫が冬の不足を先手を打って防いだ。"
+    }
+  },
+  {
+    "id": "w1517",
+    "type": "word",
+    "en": "formidable",
+    "ja": [
+      "手ごわい"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "formid",
+    "senses": [
+      "formidable-difficulttoovercome"
+    ],
+    "example": {
+      "en": "The plant faces a formidable rival abroad.",
+      "ja": "工場は海外で手ごわい競合に直面する。"
+    }
+  },
+  {
+    "id": "w1518",
+    "type": "word",
+    "en": "frugal",
+    "ja": [
+      "倹約な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "frugal",
+    "senses": [
+      "frugal-carefulwithmoney"
+    ],
+    "example": {
+      "en": "A frugal approach kept the budget intact.",
+      "ja": "倹約な取り組み方が予算を守った。"
+    }
+  },
+  {
+    "id": "w1519",
+    "type": "word",
+    "en": "futile",
+    "ja": [
+      "無駄な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "futil",
+    "senses": [
+      "futile-producingnoresult"
+    ],
+    "example": {
+      "en": "Further heating proved futile.",
+      "ja": "さらに加熱しても無駄なことが分かった。"
+    }
+  },
+  {
+    "id": "w1520",
+    "type": "word",
+    "en": "garner",
+    "ja": [
+      "集め得る"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "garner",
+    "senses": [
+      "garner-gathersupport"
+    ],
+    "example": {
+      "en": "The proposal garnered wide backing.",
+      "ja": "その提案は広い支持を集め得た。"
+    }
+  },
+  {
+    "id": "w1521",
+    "type": "word",
+    "en": "gauge",
+    "ja": [
+      "測って判断する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "gaug",
+    "senses": [
+      "gauge-measureandjudge"
+    ],
+    "example": {
+      "en": "Inspectors gauge the coating thickness.",
+      "ja": "検査員は塗膜の厚さを測って判断する。"
+    }
+  },
+  {
+    "id": "w1522",
+    "type": "word",
+    "en": "glean",
+    "ja": [
+      "拾い集める"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "glean",
+    "senses": [
+      "glean-collectbitbybit"
+    ],
+    "example": {
+      "en": "The team gleaned data from store visits.",
+      "ja": "その班は店舗訪問から資料を拾い集めた。"
+    }
+  },
+  {
+    "id": "w1523",
+    "type": "word",
+    "en": "gravity",
+    "ja": [
+      "重大さ"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "graviti",
+    "senses": [
+      "gravity-seriousnessofmatter"
+    ],
+    "example": {
+      "en": "Nobody underestimated the gravity of the leak.",
+      "ja": "誰も漏れの重大さを軽く見なかった。"
+    }
+  },
+  {
+    "id": "w1524",
+    "type": "word",
+    "en": "gregarious",
+    "ja": [
+      "社交的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "gregari",
+    "senses": [
+      "gregarious-enjoyingcompany"
+    ],
+    "example": {
+      "en": "A gregarious host welcomed every guest.",
+      "ja": "社交的な主人が全ての客を迎えた。"
+    }
+  },
+  {
+    "id": "w1525",
+    "type": "word",
+    "en": "hierarchy-chart",
+    "ja": [
+      "組織図"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "hierarchchart",
+    "senses": [
+      "hierarchchart-structurediagram"
+    ],
+    "example": {
+      "en": "An organization chart hangs in the lobby.",
+      "ja": "組織図がロビーに掛かっている。"
+    }
+  },
+  {
+    "id": "w1526",
+    "type": "word",
+    "en": "hypothesis",
+    "ja": [
+      "仮説"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "hypothes",
+    "senses": [
+      "hypothesis-testableidea"
+    ],
+    "example": {
+      "en": "The hypothesis explained the pressure drop.",
+      "ja": "その仮説は圧力の低下を説明した。"
+    }
+  },
+  {
+    "id": "w1527",
+    "type": "word",
+    "en": "illicit",
+    "ja": [
+      "不法な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "illicit",
+    "senses": [
+      "illicit-forbiddenbylaw"
+    ],
+    "example": {
+      "en": "Illicit dumping led to a heavy fine.",
+      "ja": "不法な投棄が重い罰金を招いた。"
+    }
+  },
+  {
+    "id": "w1528",
+    "type": "word",
+    "en": "immaculate",
+    "ja": [
+      "一分の隙もない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "immacul",
+    "senses": [
+      "immaculate-perfectlyclean"
+    ],
+    "example": {
+      "en": "The demonstration room stays immaculate.",
+      "ja": "実演の部屋は一分の隙もない状態を保つ。"
+    }
+  },
+  {
+    "id": "w1529",
+    "type": "word",
+    "en": "impede-flow",
+    "ja": [
+      "流れの阻害"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "impedeflow",
+    "senses": [
+      "impedeflow-blockedmovement"
+    ],
+    "example": {
+      "en": "Flow impediment doubled the queue time.",
+      "ja": "流れの阻害が待ち時間を倍にした。"
+    }
+  },
+  {
+    "id": "w1530",
+    "type": "word",
+    "en": "imperil",
+    "ja": [
+      "危うくする"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "imperil",
+    "senses": [
+      "imperil-putindanger"
+    ],
+    "example": {
+      "en": "Overloading imperils the shelf brackets.",
+      "ja": "積みすぎは棚の金具を危うくする。"
+    }
+  },
+  {
+    "id": "w1531",
+    "type": "word",
+    "en": "impetus",
+    "ja": [
+      "推進力"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "impetus",
+    "senses": [
+      "impetus-drivingforce"
+    ],
+    "example": {
+      "en": "The award gave impetus to the safety drive.",
+      "ja": "表彰が安全活動に推進力を与えた。"
+    }
+  },
+  {
+    "id": "w1532",
+    "type": "word",
+    "en": "implicit",
+    "ja": [
+      "暗黙の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "implicit",
+    "senses": [
+      "implicit-notdirectlystated"
+    ],
+    "example": {
+      "en": "An implicit duty of care applies here.",
+      "ja": "ここでは暗黙の注意義務が適用される。"
+    }
+  },
+  {
+    "id": "w1533",
+    "type": "word",
+    "en": "impromptu",
+    "ja": [
+      "即席の場での"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "impromptu",
+    "senses": [
+      "impromptu-withoutpreparation"
+    ],
+    "example": {
+      "en": "An impromptu meeting settled the issue.",
+      "ja": "即席の場での会議が問題を解決した。"
+    }
+  },
+  {
+    "id": "w1534",
+    "type": "word",
+    "en": "inadvertent",
+    "ja": [
+      "不注意による"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "inadvert",
+    "senses": [
+      "inadvertent-unintentionalmistake"
+    ],
+    "example": {
+      "en": "An inadvertent setting caused the reject.",
+      "ja": "不注意による設定が不良を招いた。"
+    }
+  },
+  {
+    "id": "w1535",
+    "type": "word",
+    "en": "inaugural",
+    "ja": [
+      "初回の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "inaugur2",
+    "senses": [
+      "inaugural-firstinseries"
+    ],
+    "example": {
+      "en": "The inaugural fair drew four hundred visitors.",
+      "ja": "初回の見本市は四百人の来場者を集めた。"
+    }
+  },
+  {
+    "id": "w1536",
+    "type": "word",
+    "en": "incentivize",
+    "ja": [
+      "動機づける"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "incentiv2",
+    "senses": [
+      "incentivize-encouragebyreward"
+    ],
+    "example": {
+      "en": "Bonuses incentivize accurate picking.",
+      "ja": "賞与が正確な仕分けを動機づける。"
+    }
+  },
+  {
+    "id": "w1537",
+    "type": "word",
+    "en": "incessant",
+    "ja": [
+      "絶え間なく続く"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "incessant",
+    "senses": [
+      "incessant-continuingwithoutpause"
+    ],
+    "example": {
+      "en": "Incessant rain flooded the lower yard.",
+      "ja": "絶え間なく続く雨が下の構内を浸した。"
+    }
+  },
+  {
+    "id": "w1538",
+    "type": "word",
+    "en": "incisive",
+    "ja": [
+      "鋭い"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "incis",
+    "senses": [
+      "incisive-sharplyanalytical"
+    ],
+    "example": {
+      "en": "An incisive question exposed the gap.",
+      "ja": "鋭い問いが抜けを浮き彫りにした。"
+    }
+  },
+  {
+    "id": "w1539",
+    "type": "word",
+    "en": "inclement",
+    "ja": [
+      "荒れ模様の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "inclem",
+    "senses": [
+      "inclement-unpleasantlysevere"
+    ],
+    "example": {
+      "en": "Inclement weather delayed two sailings.",
+      "ja": "荒れ模様の天候が出航を二便遅らせた。"
+    }
+  },
+  {
+    "id": "w1540",
+    "type": "word",
+    "en": "incontrovertible",
+    "ja": [
+      "反論の余地がない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "incontrovert",
+    "senses": [
+      "incontrovertible-impossibletodeny"
+    ],
+    "example": {
+      "en": "The log is incontrovertible proof of delivery.",
+      "ja": "その記録は納品の反論の余地がない証拠だ。"
+    }
+  },
+  {
+    "id": "w1541",
+    "type": "word",
+    "en": "indigenous",
+    "ja": [
+      "土着の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "indigen",
+    "senses": [
+      "indigenous-nativetoregion"
+    ],
+    "example": {
+      "en": "Indigenous timber suits the humid climate.",
+      "ja": "土着の木材は湿った気候に合う。"
+    }
+  },
+  {
+    "id": "w1542",
+    "type": "word",
+    "en": "indignant",
+    "ja": [
+      "憤慨した"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "indign",
+    "senses": [
+      "indignant-angryatunfairness"
+    ],
+    "example": {
+      "en": "An indignant customer demanded an apology.",
+      "ja": "憤慨した顧客が謝罪を求めた。"
+    }
+  },
+  {
+    "id": "w1543",
+    "type": "word",
+    "en": "induce",
+    "ja": [
+      "誘発する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "induc",
+    "senses": [
+      "induce-bringabouteffect"
+    ],
+    "example": {
+      "en": "Vibration induced cracks in the mount.",
+      "ja": "振動が取付部の割れを誘発した。"
+    }
+  },
+  {
+    "id": "w1544",
+    "type": "word",
+    "en": "ineffectual",
+    "ja": [
+      "効き目のない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "ineffectu",
+    "senses": [
+      "ineffectual-failingtowork"
+    ],
+    "example": {
+      "en": "The old filter proved ineffectual.",
+      "ja": "古い濾過器は効き目のないものだった。"
+    }
+  },
+  {
+    "id": "w1545",
+    "type": "word",
+    "en": "inept",
+    "ja": [
+      "不手際な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "inept",
+    "senses": [
+      "inept-clumsilyincompetent"
+    ],
+    "example": {
+      "en": "An inept reply worsened the complaint.",
+      "ja": "不手際な返答が苦情を悪化させた。"
+    }
+  },
+  {
+    "id": "w1546",
+    "type": "word",
+    "en": "inertia",
+    "ja": [
+      "惰性"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "inerti",
+    "senses": [
+      "inertia-resistancetochange"
+    ],
+    "example": {
+      "en": "Inertia slowed the move to digital forms.",
+      "ja": "惰性が電子の用紙への移行を鈍らせた。"
+    }
+  },
+  {
+    "id": "w1547",
+    "type": "word",
+    "en": "infringe",
+    "ja": [
+      "侵害する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "infring",
+    "senses": [
+      "infringe-violateright"
+    ],
+    "example": {
+      "en": "The copy infringed a registered design.",
+      "ja": "その模倣は登録された意匠を侵害した。"
+    }
+  },
+  {
+    "id": "w1548",
+    "type": "word",
+    "en": "ingenuity",
+    "ja": [
+      "創意工夫"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "ingenu",
+    "senses": [
+      "ingenuity-inventivecleverness"
+    ],
+    "example": {
+      "en": "Ingenuity solved the loading bottleneck.",
+      "ja": "創意工夫が積み込みの隘路を解いた。"
+    }
+  },
+  {
+    "id": "w1549",
+    "type": "word",
+    "en": "inhibitor",
+    "ja": [
+      "抑制剤"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "inhibit2",
+    "senses": [
+      "inhibitor-substancethatslows"
+    ],
+    "example": {
+      "en": "A rust inhibitor coats the steel frame.",
+      "ja": "防錆の抑制剤が鋼の枠を覆う。"
+    }
+  },
+  {
+    "id": "w1550",
+    "type": "word",
+    "en": "innate",
+    "ja": [
+      "生来の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "innat",
+    "senses": [
+      "innate-inbornnatural"
+    ],
+    "example": {
+      "en": "An innate care for detail helps here.",
+      "ja": "細部への生来の注意がここでは役立つ。"
+    }
+  },
+  {
+    "id": "w1551",
+    "type": "word",
+    "en": "innocuous",
+    "ja": [
+      "害のない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "innocu",
+    "senses": [
+      "innocuous-harmlesssafe"
+    ],
+    "example": {
+      "en": "The solvent is innocuous when diluted.",
+      "ja": "その溶剤は薄めれば害のないものになる。"
+    }
+  },
+  {
+    "id": "w1552",
+    "type": "word",
+    "en": "inordinate",
+    "ja": [
+      "過度の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "inordin",
+    "senses": [
+      "inordinate-excessivelylarge"
+    ],
+    "example": {
+      "en": "An inordinate amount of paper was wasted.",
+      "ja": "過度の量の紙が無駄になった。"
+    }
+  },
+  {
+    "id": "w1553",
+    "type": "word",
+    "en": "inquisitive",
+    "ja": [
+      "詮索好きな"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "inquisit",
+    "senses": [
+      "inquisitive-eagertoknow"
+    ],
+    "example": {
+      "en": "An inquisitive trainee found the leak.",
+      "ja": "詮索好きな研修生が漏れを見つけた。"
+    }
+  },
+  {
+    "id": "w1554",
+    "type": "word",
+    "en": "insatiable",
+    "ja": [
+      "飽くことのない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "insati",
+    "senses": [
+      "insatiable-neversatisfied"
+    ],
+    "example": {
+      "en": "Demand seemed insatiable that summer.",
+      "ja": "その夏、需要は飽くことのないように見えた。"
+    }
+  },
+  {
+    "id": "w1555",
+    "type": "word",
+    "en": "insinuate",
+    "ja": [
+      "それとなくほのめかす"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "insinu",
+    "senses": [
+      "insinuate-suggestunpleasantly"
+    ],
+    "example": {
+      "en": "The letter insinuated a hidden charge.",
+      "ja": "その手紙は隠れた料金をそれとなくほのめかした。"
+    }
+  },
+  {
+    "id": "w1556",
+    "type": "word",
+    "en": "insolent",
+    "ja": [
+      "無礼な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "insol",
+    "senses": [
+      "insolent-rudelydisrespectful"
+    ],
+    "example": {
+      "en": "Insolent behavior toward guests is banned.",
+      "ja": "客への無礼な振る舞いは禁じられている。"
+    }
+  },
+  {
+    "id": "w1557",
+    "type": "word",
+    "en": "instigate",
+    "ja": [
+      "引き起こして始める"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "instig",
+    "senses": [
+      "instigate-initiateaction"
+    ],
+    "example": {
+      "en": "The audit instigated a full review.",
+      "ja": "監査が全面的な見直しを引き起こして始めた。"
+    }
+  },
+  {
+    "id": "w1558",
+    "type": "word",
+    "en": "insurmountable",
+    "ja": [
+      "克服できない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "insurmount",
+    "senses": [
+      "insurmountable-impossibletoovercome"
+    ],
+    "example": {
+      "en": "The cost gap was not insurmountable.",
+      "ja": "費用の差は克服できないものではなかった。"
+    }
+  },
+  {
+    "id": "w1559",
+    "type": "word",
+    "en": "intangible",
+    "ja": [
+      "無形の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "intangib",
+    "senses": [
+      "intangible-withoutphysicalform"
+    ],
+    "example": {
+      "en": "Goodwill is an intangible asset.",
+      "ja": "のれんは無形の資産だ。"
+    }
+  },
+  {
+    "id": "w1560",
+    "type": "word",
+    "en": "integral",
+    "ja": [
+      "不可分の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "integral",
+    "senses": [
+      "integral-essentialpartof"
+    ],
+    "example": {
+      "en": "The guard is integral to the press.",
+      "ja": "その安全柵は印刷機と不可分のものだ。"
+    }
+  },
+  {
+    "id": "w1561",
+    "type": "word",
+    "en": "interim-report",
+    "ja": [
+      "中間報告"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "interimreport",
+    "senses": [
+      "interimreport-progressstatement"
+    ],
+    "example": {
+      "en": "The interim report reached the board in July.",
+      "ja": "中間報告は七月に取締役会へ届いた。"
+    }
+  },
+  {
+    "id": "w1562",
+    "type": "word",
+    "en": "intermediate",
+    "ja": [
+      "中間段階の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "intermedi",
+    "senses": [
+      "intermediate-betweentwostages"
+    ],
+    "example": {
+      "en": "An intermediate coat improves adhesion.",
+      "ja": "中間段階の塗りが密着を高める。"
+    }
+  },
+  {
+    "id": "w1563",
+    "type": "word",
+    "en": "intrepid",
+    "ja": [
+      "大胆な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "intrepid",
+    "senses": [
+      "intrepid-fearlesslybold"
+    ],
+    "example": {
+      "en": "An intrepid buyer entered a new market.",
+      "ja": "大胆な買い手が新しい市場に入った。"
+    }
+  },
+  {
+    "id": "w1564",
+    "type": "word",
+    "en": "intrinsic",
+    "ja": [
+      "本質的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "intrins",
+    "senses": [
+      "intrinsic-belongingnaturally"
+    ],
+    "example": {
+      "en": "Brittleness is intrinsic to this alloy.",
+      "ja": "もろさはこの合金に本質的なものだ。"
+    }
+  },
+  {
+    "id": "w1565",
+    "type": "word",
+    "en": "inundate",
+    "ja": [
+      "殺到させる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "inund",
+    "senses": [
+      "inundate-overwhelmwithmany"
+    ],
+    "example": {
+      "en": "Calls inundated the desk after the recall.",
+      "ja": "回収の後、電話が窓口に殺到させた。"
+    }
+  },
+  {
+    "id": "w1566",
+    "type": "word",
+    "en": "irrevocable",
+    "ja": [
+      "取り消せない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "irrevoc",
+    "senses": [
+      "irrevocable-permanentlyfinal"
+    ],
+    "example": {
+      "en": "The instruction became irrevocable at noon.",
+      "ja": "その指示は正午に取り消せないものになった。"
+    }
+  },
+  {
+    "id": "w1567",
+    "type": "word",
+    "en": "judicious",
+    "ja": [
+      "思慮深い"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "judici",
+    "senses": [
+      "judicious-showinggoodjudgment"
+    ],
+    "example": {
+      "en": "Judicious buying kept stock levels low.",
+      "ja": "思慮深い購買が在庫を低く保った。"
+    }
+  },
+  {
+    "id": "w1568",
+    "type": "word",
+    "en": "juxtapose",
+    "ja": [
+      "並べて対比する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "juxtapos",
+    "senses": [
+      "juxtapose-placesidebyside"
+    ],
+    "example": {
+      "en": "The display juxtaposes old and new models.",
+      "ja": "その陳列は旧型と新型を並べて対比する。"
+    }
+  },
+  {
+    "id": "w1569",
+    "type": "word",
+    "en": "laborious",
+    "ja": [
+      "手間のかかる"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "labori",
+    "senses": [
+      "laborious-requiringmuchwork"
+    ],
+    "example": {
+      "en": "Manual sorting is laborious and slow.",
+      "ja": "手作業の仕分けは手間のかかる上に遅い。"
+    }
+  },
+  {
+    "id": "w1570",
+    "type": "word",
+    "en": "lament",
+    "ja": [
+      "嘆く"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "lament",
+    "senses": [
+      "lament-expressregret"
+    ],
+    "example": {
+      "en": "Staff lamented the loss of the canteen.",
+      "ja": "職員は食堂の廃止を嘆いた。"
+    }
+  },
+  {
+    "id": "w1571",
+    "type": "word",
+    "en": "languish",
+    "ja": [
+      "低迷する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "languish",
+    "senses": [
+      "languish-remainweak"
+    ],
+    "example": {
+      "en": "Exports languished through the winter.",
+      "ja": "輸出は冬の間、低迷した。"
+    }
+  },
+  {
+    "id": "w1572",
+    "type": "word",
+    "en": "laudable",
+    "ja": [
+      "称賛に値する"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "laudab",
+    "senses": [
+      "laudable-deservingpraise"
+    ],
+    "example": {
+      "en": "A laudable effort halved the waste.",
+      "ja": "称賛に値する取り組みが廃棄物を半減した。"
+    }
+  },
+  {
+    "id": "w1573",
+    "type": "word",
+    "en": "lax",
+    "ja": [
+      "緩慢な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "lax",
+    "senses": [
+      "lax-notstrictenough"
+    ],
+    "example": {
+      "en": "Lax checking allowed the error through.",
+      "ja": "緩慢な確認が誤りを通してしまった。"
+    }
+  },
+  {
+    "id": "w1574",
+    "type": "word",
+    "en": "lenient",
+    "ja": [
+      "寛大な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "leni",
+    "senses": [
+      "lenient-mildinpunishment"
+    ],
+    "example": {
+      "en": "The panel took a lenient view of the delay.",
+      "ja": "審査団は遅れに寛大な見方をした。"
+    }
+  },
+  {
+    "id": "w1575",
+    "type": "word",
+    "en": "lethargic",
+    "ja": [
+      "不活発な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "lethargi",
+    "senses": [
+      "lethargic-lackingenergy"
+    ],
+    "example": {
+      "en": "A lethargic market followed the tax rise.",
+      "ja": "増税の後、不活発な市場が続いた。"
+    }
+  },
+  {
+    "id": "w1576",
+    "type": "word",
+    "en": "levy-charge",
+    "ja": [
+      "賦課金"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "levycharge",
+    "senses": [
+      "levycharge-imposedpayment"
+    ],
+    "example": {
+      "en": "The waste levy charge rose in April.",
+      "ja": "廃棄物の賦課金は四月に上がった。"
+    }
+  },
+  {
+    "id": "w1577",
+    "type": "word",
+    "en": "liaise",
+    "ja": [
+      "連絡調整する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "liais",
+    "senses": [
+      "liaise-actasconnection"
+    ],
+    "example": {
+      "en": "One clerk liaises with the customs office.",
+      "ja": "事務員一名が通関の役所と連絡調整する。"
+    }
+  },
+  {
+    "id": "w1578",
+    "type": "word",
+    "en": "lucrative-deal",
+    "ja": [
+      "有利な取引"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "lucrativedeal",
+    "senses": [
+      "lucrativedeal-profitableagreement"
+    ],
+    "example": {
+      "en": "A lucrative deal secured the winter work.",
+      "ja": "有利な取引が冬の仕事を確保した。"
+    }
+  },
+  {
+    "id": "w1579",
+    "type": "word",
+    "en": "malfunction",
+    "ja": [
+      "作動不良"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "malfunct",
+    "senses": [
+      "malfunction-failuretooperate"
+    ],
+    "example": {
+      "en": "A sensor malfunction stopped the oven.",
+      "ja": "感知器の作動不良が炉を止めた。"
+    }
   }
 ]
