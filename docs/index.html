@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>moku-tan — TOEIC 英単語・熟語</title>
+    <meta name="description" content="TOEIC 頻出の英単語と熟語を 4 択で反復学習する学習アプリ" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <p class="app-title">moku-tan</p>
+      <nav class="app-nav" aria-label="画面切り替え">
+        <a href="./index.html" data-nav>出題</a>
+        <a href="./stats.html" data-nav>統計</a>
+        <a href="./settings.html" data-nav>設定</a>
+      </nav>
+    </header>
+
+    <main class="page">
+      <p id="notice" class="notice" role="status" hidden></p>
+
+      <section class="session-bar" aria-label="このセッションの成績">
+        <span class="session-item"><span class="session-label">出題</span><b id="session-asked">0</b></span>
+        <span class="session-item"><span class="session-label">正解</span><b id="session-correct">0</b></span>
+        <span class="session-item"><span class="session-label">正答率</span><b id="session-accuracy">—</b></span>
+      </section>
+
+      <section id="quiz" class="quiz">
+        <p id="direction-label" class="direction-label"></p>
+        <h1 id="prompt" class="prompt"></h1>
+
+        <ul id="choices" class="choices"></ul>
+
+        <div id="feedback" class="feedback" aria-live="polite"></div>
+
+        <button id="next" type="button" class="next-button" hidden>次へ</button>
+        <p class="hint">キーボード: <kbd>1</kbd>–<kbd>4</kbd> で解答、<kbd>Enter</kbd> で次へ</p>
+      </section>
+    </main>
+
+    <script type="module" src="./js/main.js"></script>
+  </body>
+</html>

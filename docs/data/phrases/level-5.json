@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p0025",
+    "type": "phrase",
+    "en": "at one's discretion",
+    "ja": ["裁量で"],
+    "pos": "phrase",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "atdiscretion",
+    "senses": ["discretion-byownjudgment"],
+    "example": {
+      "en": "Refunds are issued at the manager's discretion.",
+      "ja": "返金は責任者の裁量で行われる。"
+    }
+  },
+  {
+    "id": "p0026",
+    "type": "phrase",
+    "en": "in lieu of",
+    "ja": ["〜の代わりに"],
+    "pos": "phrase",
+    "level": 5,
+    "tags": ["hr", "part7"],
+    "root": "inlieu",
+    "senses": ["inlieu-instead"],
+    "example": {
+      "en": "Staff may take a day off in lieu of overtime pay.",
+      "ja": "従業員は残業代の代わりに休暇を取ることができる。"
+    }
+  },
+  {
+    "id": "p0027",
+    "type": "phrase",
+    "en": "null and void",
+    "ja": ["無効な"],
+    "pos": "phrase",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "nullvoid",
+    "senses": ["nullvoid-havingnolegalforce"],
+    "example": {
+      "en": "The clause becomes null and void if the site is sold.",
+      "ja": "その敷地が売却された場合、この条項は無効なものとなる。"
+    }
+  },
+  {
+    "id": "p0028",
+    "type": "phrase",
+    "en": "pursuant to",
+    "ja": ["〜に基づいて"],
+    "pos": "phrase",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "pursuantto",
+    "senses": ["pursuantto-inaccordancewithrule"],
+    "example": {
+      "en": "Records are kept for seven years pursuant to local law.",
+      "ja": "記録は現地の法令に基づいて七年間保管される。"
+    }
+  },
+  {
+    "id": "p0029",
+    "type": "phrase",
+    "en": "in arrears",
+    "ja": ["滞納して"],
+    "pos": "phrase",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "inarrears",
+    "senses": ["inarrears-behindonpayment"],
+    "example": {
+      "en": "Two tenants remain in arrears for the winter quarter.",
+      "ja": "二名の賃借人が冬の四半期分を滞納している。"
+    }
+  },
+  {
+    "id": "p0030",
+    "type": "phrase",
+    "en": "waive the right",
+    "ja": ["権利を放棄する"],
+    "pos": "phrase",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "waiveright",
+    "senses": ["waiveright-relinquishclaim"],
+    "example": {
+      "en": "Signing here does not waive the right to a hearing.",
+      "ja": "ここに署名しても審問の権利を放棄することにはならない。"
+    }
+  }
+]

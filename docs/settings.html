@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>設定 — moku-tan</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <p class="app-title">moku-tan</p>
+      <nav class="app-nav" aria-label="画面切り替え">
+        <a href="./index.html" data-nav>出題</a>
+        <a href="./stats.html" data-nav>統計</a>
+        <a href="./settings.html" data-nav>設定</a>
+      </nav>
+    </header>
+
+    <main class="page">
+      <h1>設定</h1>
+      <p id="notice" class="notice" role="status" hidden></p>
+
+      <form id="settings-form" class="card" novalidate>
+        <ul id="errors" class="errors" role="alert"></ul>
+
+        <div class="field">
+          <label for="direction">出題方向</label>
+          <select id="direction" name="direction">
+            <option value="random">ランダム</option>
+            <option value="en2ja">英語 → 日本語</option>
+            <option value="ja2en">日本語 → 英語</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="interval-wrong">不正解語の再出題間隔 A</label>
+          <p class="description">間違えた語を、何問あとから再び出題できるようにするか（1〜100）</p>
+          <input id="interval-wrong" name="intervalWrong" type="number" min="1" max="100" step="1" inputmode="numeric" />
+        </div>
+
+        <div class="field">
+          <label for="interval-correct">正解語の再出題間隔 B</label>
+          <p class="description">
+            正解した語を、何問あとから再び出題できるようにするか（2〜400）。A より大きい値にする
+          </p>
+          <input id="interval-correct" name="intervalCorrect" type="number" min="2" max="400" step="1" inputmode="numeric" />
+        </div>
+
+        <fieldset class="field">
+          <legend>出題する難易度</legend>
+          <div class="option-row" id="levels"></div>
+        </fieldset>
+
+        <fieldset class="field">
+          <legend>出題する種別</legend>
+          <div class="option-row" id="types"></div>
+        </fieldset>
+
+        <div class="field">
+          <label for="theme">テーマ</label>
+          <select id="theme" name="theme">
+            <option value="auto">端末の設定に従う</option>
+            <option value="light">ライト</option>
+            <option value="dark">ダーク</option>
+          </select>
+        </div>
+
+        <div class="button-row">
+          <button type="submit" class="primary">保存する</button>
+        </div>
+      </form>
+
+      <section class="card">
+        <h2>初期化</h2>
+        <p class="description">
+          いずれも取り消せません。実行前に確認ダイアログが出ます。
+        </p>
+        <div class="button-row">
+          <button type="button" class="danger" id="reset-stats">統計のみ初期化</button>
+          <button type="button" class="danger" id="reset-progress">学習進捗を初期化</button>
+          <button type="button" class="danger" id="reset-all">すべて初期化</button>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="./js/settings-page.js"></script>
+  </body>
+</html>
