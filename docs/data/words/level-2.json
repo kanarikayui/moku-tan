@@ -1343,5 +1343,9333 @@
       "en": "Utility costs are shared among the three tenants.",
       "ja": "公共料金は三名の賃借人で分担する。"
     }
+  },
+  {
+    "id": "w0542",
+    "type": "word",
+    "en": "accessible",
+    "ja": [
+      "近づきやすい"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "accessib",
+    "senses": [
+      "accessible-easytoreach"
+    ],
+    "example": {
+      "en": "The new ramp makes the entrance accessible.",
+      "ja": "新しい傾斜路が入口を近づきやすいものにする。"
+    }
+  },
+  {
+    "id": "w0543",
+    "type": "word",
+    "en": "accommodation",
+    "ja": [
+      "宿泊施設"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part7"
+    ],
+    "root": "accommod",
+    "senses": [
+      "accommodation-lodgingplace"
+    ],
+    "example": {
+      "en": "Accommodation for the crew is booked already.",
+      "ja": "作業班の宿泊施設はすでに予約済みだ。"
+    }
+  },
+  {
+    "id": "w0544",
+    "type": "word",
+    "en": "accurate",
+    "ja": [
+      "正確な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "accur",
+    "senses": [
+      "accurate-freefromerror"
+    ],
+    "example": {
+      "en": "Accurate counts prevent shipping disputes.",
+      "ja": "正確な数え上げが出荷の争いを防ぐ。"
+    }
+  },
+  {
+    "id": "w0545",
+    "type": "word",
+    "en": "acknowledge",
+    "ja": [
+      "受領を伝える"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "acknowledg",
+    "senses": [
+      "acknowledge-confirmreceipt"
+    ],
+    "example": {
+      "en": "Please acknowledge this order by email.",
+      "ja": "この注文の受領を電子便で伝えてください。"
+    }
+  },
+  {
+    "id": "w0546",
+    "type": "word",
+    "en": "adequate",
+    "ja": [
+      "適切な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "adequ",
+    "senses": [
+      "adequate-goodenough"
+    ],
+    "example": {
+      "en": "The store has adequate lighting for evening work.",
+      "ja": "その店は夜の作業に適切な照明がある。"
+    }
+  },
+  {
+    "id": "w0547",
+    "type": "word",
+    "en": "adjust",
+    "ja": [
+      "調節する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "adjust",
+    "senses": [
+      "adjust-changesetting"
+    ],
+    "example": {
+      "en": "Adjust the pressure before the first run.",
+      "ja": "最初の運転の前に圧力を調節しなさい。"
+    }
+  },
+  {
+    "id": "w0548",
+    "type": "word",
+    "en": "administration",
+    "ja": [
+      "管理業務"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "administr",
+    "senses": [
+      "administration-officemanagement"
+    ],
+    "example": {
+      "en": "Administration moved to the second floor.",
+      "ja": "管理業務は二階へ移った。"
+    }
+  },
+  {
+    "id": "w0549",
+    "type": "word",
+    "en": "advance",
+    "ja": [
+      "前払金"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "advanc",
+    "senses": [
+      "advance-earlypayment"
+    ],
+    "example": {
+      "en": "The writer received an advance of fifty thousand yen.",
+      "ja": "著者は五万円の前払金を受け取った。"
+    }
+  },
+  {
+    "id": "w0550",
+    "type": "word",
+    "en": "affordable",
+    "ja": [
+      "購入しやすい"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "afford",
+    "senses": [
+      "affordable-reasonablypriced"
+    ],
+    "example": {
+      "en": "The maker aims at an affordable family model.",
+      "ja": "その製造業者は購入しやすい家庭用の型を狙う。"
+    }
+  },
+  {
+    "id": "w0551",
+    "type": "word",
+    "en": "agency",
+    "ja": [
+      "代理店"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part7"
+    ],
+    "root": "agenc",
+    "senses": [
+      "agency-representingfirm"
+    ],
+    "example": {
+      "en": "A travel agency handles all group bookings.",
+      "ja": "旅行の代理店が団体の予約をすべて扱う。"
+    }
+  },
+  {
+    "id": "w0552",
+    "type": "word",
+    "en": "alter",
+    "ja": [
+      "変更する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "alter",
+    "senses": [
+      "alter-makedifferent"
+    ],
+    "example": {
+      "en": "Do not alter the wording without approval.",
+      "ja": "承認なしに文言を変更してはならない。"
+    }
+  },
+  {
+    "id": "w0553",
+    "type": "word",
+    "en": "analysis",
+    "ja": [
+      "分析"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part4"
+    ],
+    "root": "analys",
+    "senses": [
+      "analysis-detailedstudy"
+    ],
+    "example": {
+      "en": "The analysis shows a drop in repeat orders.",
+      "ja": "分析は再注文の落ち込みを示している。"
+    }
+  },
+  {
+    "id": "w0554",
+    "type": "word",
+    "en": "annual",
+    "ja": [
+      "年次の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "annual",
+    "senses": [
+      "annual-happeningyearly"
+    ],
+    "example": {
+      "en": "The annual report goes to print in May.",
+      "ja": "年次の報告書は五月に印刷される。"
+    }
+  },
+  {
+    "id": "w0555",
+    "type": "word",
+    "en": "apparent",
+    "ja": [
+      "明白な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "appar",
+    "senses": [
+      "apparent-clearlyvisible"
+    ],
+    "example": {
+      "en": "The cause of the fault was soon apparent.",
+      "ja": "不具合の原因はすぐに明白になった。"
+    }
+  },
+  {
+    "id": "w0556",
+    "type": "word",
+    "en": "appreciate",
+    "ja": [
+      "感謝する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "appreci",
+    "senses": [
+      "appreciate-bethankful"
+    ],
+    "example": {
+      "en": "We appreciate your patience during the repairs.",
+      "ja": "修理の間のご辛抱に感謝する。"
+    }
+  },
+  {
+    "id": "w0557",
+    "type": "word",
+    "en": "assign",
+    "ja": [
+      "任せる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "assignv",
+    "senses": [
+      "assign-giveduty"
+    ],
+    "example": {
+      "en": "The chief assigned the audit to two clerks.",
+      "ja": "主任は監査を二名の事務員に任せた。"
+    }
+  },
+  {
+    "id": "w0558",
+    "type": "word",
+    "en": "assure",
+    "ja": [
+      "保証して伝える"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "assur",
+    "senses": [
+      "assure-tellconfidently"
+    ],
+    "example": {
+      "en": "The seller assured us the parts are genuine.",
+      "ja": "売り主は部品が本物だと保証して伝えた。"
+    }
+  },
+  {
+    "id": "w0559",
+    "type": "word",
+    "en": "attract",
+    "ja": [
+      "引きつける"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "attract",
+    "senses": [
+      "attract-drawinterest"
+    ],
+    "example": {
+      "en": "The window display attracts passing shoppers.",
+      "ja": "窓の陳列が通りがかりの買い物客を引きつける。"
+    }
+  },
+  {
+    "id": "w0560",
+    "type": "word",
+    "en": "authority",
+    "ja": [
+      "権限"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "authorit",
+    "senses": [
+      "authority-poweroverdecisions"
+    ],
+    "example": {
+      "en": "Only the board has authority over pricing.",
+      "ja": "価格については取締役会だけが権限を持つ。"
+    }
+  },
+  {
+    "id": "w0561",
+    "type": "word",
+    "en": "automatic",
+    "ja": [
+      "自動の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "automat",
+    "senses": [
+      "automatic-selfoperating"
+    ],
+    "example": {
+      "en": "An automatic gate controls the yard traffic.",
+      "ja": "自動の門が構内の通行を管理する。"
+    }
+  },
+  {
+    "id": "w0562",
+    "type": "word",
+    "en": "available-seat",
+    "ja": [
+      "空席"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part7"
+    ],
+    "root": "availseat",
+    "senses": [
+      "availseat-unoccupiedseat"
+    ],
+    "example": {
+      "en": "Only one available seat remains on the flight.",
+      "ja": "その便に残る空席は一つだけだ。"
+    }
+  },
+  {
+    "id": "w0563",
+    "type": "word",
+    "en": "avoid",
+    "ja": [
+      "避ける"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "avoid",
+    "senses": [
+      "avoid-keepawayfrom"
+    ],
+    "example": {
+      "en": "Drivers avoid the tunnel during rush hour.",
+      "ja": "運転手は混雑時に地下道を避ける。"
+    }
+  },
+  {
+    "id": "w0564",
+    "type": "word",
+    "en": "balance",
+    "ja": [
+      "残高"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "balanc",
+    "senses": [
+      "balance-remainingamount"
+    ],
+    "example": {
+      "en": "The account balance appears at the bottom.",
+      "ja": "口座の残高は下部に表示される。"
+    }
+  },
+  {
+    "id": "w0565",
+    "type": "word",
+    "en": "benefit",
+    "ja": [
+      "福利厚生"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "benefit",
+    "senses": [
+      "benefit-employeeperk"
+    ],
+    "example": {
+      "en": "Health cover is part of the benefit package.",
+      "ja": "健康保険は福利厚生の一部だ。"
+    }
+  },
+  {
+    "id": "w0566",
+    "type": "word",
+    "en": "bulk",
+    "ja": [
+      "大量の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "bulk",
+    "senses": [
+      "bulk-largequantity"
+    ],
+    "example": {
+      "en": "Bulk orders ship on wooden pallets.",
+      "ja": "大量の注文は木の荷台で発送される。"
+    }
+  },
+  {
+    "id": "w0567",
+    "type": "word",
+    "en": "capacity",
+    "ja": [
+      "収容力"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "capac",
+    "senses": [
+      "capacity-maximumamount"
+    ],
+    "example": {
+      "en": "The hall has a capacity of five hundred.",
+      "ja": "その会場の収容力は五百人だ。"
+    }
+  },
+  {
+    "id": "w0568",
+    "type": "word",
+    "en": "carrier",
+    "ja": [
+      "運送会社"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "carrier",
+    "senses": [
+      "carrier-transportfirm"
+    ],
+    "example": {
+      "en": "Our carrier tracks each parcel by number.",
+      "ja": "当社の運送会社は番号で小包を追跡する。"
+    }
+  },
+  {
+    "id": "w0569",
+    "type": "word",
+    "en": "category",
+    "ja": [
+      "分類"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "categor",
+    "senses": [
+      "category-groupingclass"
+    ],
+    "example": {
+      "en": "Each product falls into one category.",
+      "ja": "各商品は一つの分類に入る。"
+    }
+  },
+  {
+    "id": "w0570",
+    "type": "word",
+    "en": "caution",
+    "ja": [
+      "用心"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "caution",
+    "senses": [
+      "caution-carefulattention"
+    ],
+    "example": {
+      "en": "Handle the glass panels with caution.",
+      "ja": "ガラス板は用心して扱いなさい。"
+    }
+  },
+  {
+    "id": "w0571",
+    "type": "word",
+    "en": "certify",
+    "ja": [
+      "認定する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "certif2",
+    "senses": [
+      "certify-officiallyattest"
+    ],
+    "example": {
+      "en": "An inspector certifies each batch of valves.",
+      "ja": "検査員が弁の各生産分を認定する。"
+    }
+  },
+  {
+    "id": "w0572",
+    "type": "word",
+    "en": "charity",
+    "ja": [
+      "慈善団体"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "charit",
+    "senses": [
+      "charity-nonprofitgroup"
+    ],
+    "example": {
+      "en": "The firm donates surplus stock to a charity.",
+      "ja": "会社は余剰の在庫を慈善団体へ寄付する。"
+    }
+  },
+  {
+    "id": "w0573",
+    "type": "word",
+    "en": "circumstance",
+    "ja": [
+      "事情"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "circumst",
+    "senses": [
+      "circumstance-relevantcondition"
+    ],
+    "example": {
+      "en": "Under no circumstance may the seal be broken.",
+      "ja": "いかなる事情でも封を破ってはならない。"
+    }
+  },
+  {
+    "id": "w0574",
+    "type": "word",
+    "en": "client-base",
+    "ja": [
+      "顧客層"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "clientbase",
+    "senses": [
+      "clientbase-groupofclients"
+    ],
+    "example": {
+      "en": "The shop built a loyal client base.",
+      "ja": "その店は忠実な顧客層を築いた。"
+    }
+  },
+  {
+    "id": "w0575",
+    "type": "word",
+    "en": "combine",
+    "ja": [
+      "組み合わせる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "combin",
+    "senses": [
+      "combine-jointogether"
+    ],
+    "example": {
+      "en": "The plant combines two lines into one.",
+      "ja": "工場は二つの生産設備を一つに組み合わせる。"
+    }
+  },
+  {
+    "id": "w0576",
+    "type": "word",
+    "en": "comment-card",
+    "ja": [
+      "意見用紙"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "commentcard",
+    "senses": [
+      "commentcard-feedbackform"
+    ],
+    "example": {
+      "en": "Guests drop comment cards into the box.",
+      "ja": "客は意見用紙を箱に入れる。"
+    }
+  },
+  {
+    "id": "w0577",
+    "type": "word",
+    "en": "commercial",
+    "ja": [
+      "商業の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part5"
+    ],
+    "root": "commerci",
+    "senses": [
+      "commercial-forbusinessuse"
+    ],
+    "example": {
+      "en": "The block holds twelve commercial units.",
+      "ja": "その棟には商業の区画が十二ある。"
+    }
+  },
+  {
+    "id": "w0578",
+    "type": "word",
+    "en": "committee",
+    "ja": [
+      "委員会"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "committe",
+    "senses": [
+      "committee-appointedgroup"
+    ],
+    "example": {
+      "en": "A committee reviews all safety incidents.",
+      "ja": "委員会が安全の事故をすべて調べる。"
+    }
+  },
+  {
+    "id": "w0579",
+    "type": "word",
+    "en": "compensate",
+    "ja": [
+      "補償する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "compens2",
+    "senses": [
+      "compensate-payforloss"
+    ],
+    "example": {
+      "en": "The carrier compensates for goods lost in transit.",
+      "ja": "運送会社は輸送中に失われた品を補償する。"
+    }
+  },
+  {
+    "id": "w0580",
+    "type": "word",
+    "en": "complex",
+    "ja": [
+      "複合施設"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "complexn",
+    "senses": [
+      "complex-groupofbuildings"
+    ],
+    "example": {
+      "en": "The office complex opened two years ago.",
+      "ja": "その事務所の複合施設は二年前に開いた。"
+    }
+  },
+  {
+    "id": "w0581",
+    "type": "word",
+    "en": "comply-check",
+    "ja": [
+      "適合検査"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "complycheck",
+    "senses": [
+      "complycheck-standardinspection"
+    ],
+    "example": {
+      "en": "Every unit passes a compliance check.",
+      "ja": "各台が適合検査を通る。"
+    }
+  },
+  {
+    "id": "w0582",
+    "type": "word",
+    "en": "conduct",
+    "ja": [
+      "実行する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "conduct",
+    "senses": [
+      "conduct-carryoutactivity"
+    ],
+    "example": {
+      "en": "The lab conducts tests on every shipment.",
+      "ja": "研究室は出荷ごとに試験を実行する。"
+    }
+  },
+  {
+    "id": "w0583",
+    "type": "word",
+    "en": "confidence",
+    "ja": [
+      "自信"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "confid",
+    "senses": [
+      "confidence-selfassurance"
+    ],
+    "example": {
+      "en": "Training gave the new staff confidence.",
+      "ja": "研修が新しい職員に自信を与えた。"
+    }
+  },
+  {
+    "id": "w0584",
+    "type": "word",
+    "en": "connect",
+    "ja": [
+      "つなぐ"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "connect",
+    "senses": [
+      "connect-joinelectrically"
+    ],
+    "example": {
+      "en": "Connect the sensor before you power up.",
+      "ja": "電源を入れる前に感知器をつなぎなさい。"
+    }
+  },
+  {
+    "id": "w0585",
+    "type": "word",
+    "en": "consent",
+    "ja": [
+      "同意"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "consent",
+    "senses": [
+      "consent-formalpermission"
+    ],
+    "example": {
+      "en": "Written consent is required for subletting.",
+      "ja": "又貸しには書面の同意が必要だ。"
+    }
+  },
+  {
+    "id": "w0586",
+    "type": "word",
+    "en": "consult",
+    "ja": [
+      "相談する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "consult",
+    "senses": [
+      "consult-seekadvice"
+    ],
+    "example": {
+      "en": "Consult the engineer before changing settings.",
+      "ja": "設定を変える前に技術者に相談しなさい。"
+    }
+  },
+  {
+    "id": "w0587",
+    "type": "word",
+    "en": "consume",
+    "ja": [
+      "消費する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "consum",
+    "senses": [
+      "consume-useup"
+    ],
+    "example": {
+      "en": "The dryer consumes most of the plant's gas.",
+      "ja": "乾燥機が工場のガスの大半を消費する。"
+    }
+  },
+  {
+    "id": "w0588",
+    "type": "word",
+    "en": "contain",
+    "ja": [
+      "入っている"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "contain2",
+    "senses": [
+      "contain-holdinside"
+    ],
+    "example": {
+      "en": "Each carton contains twenty sealed packs.",
+      "ja": "各箱には封をした袋が二十入っている。"
+    }
+  },
+  {
+    "id": "w0589",
+    "type": "word",
+    "en": "continue",
+    "ja": [
+      "続ける"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "continu",
+    "senses": [
+      "continue-keepgoing"
+    ],
+    "example": {
+      "en": "Work continues through the holiday weekend.",
+      "ja": "作業は休日の週末も続ける。"
+    }
+  },
+  {
+    "id": "w0590",
+    "type": "word",
+    "en": "contribute",
+    "ja": [
+      "貢献する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "contribut",
+    "senses": [
+      "contribute-helpachieve"
+    ],
+    "example": {
+      "en": "Every branch contributed to the record year.",
+      "ja": "各支店が記録的な年に貢献した。"
+    }
+  },
+  {
+    "id": "w0591",
+    "type": "word",
+    "en": "convenient",
+    "ja": [
+      "便利な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "conveni",
+    "senses": [
+      "convenient-easytouse"
+    ],
+    "example": {
+      "en": "The station locker is convenient for travelers.",
+      "ja": "駅の物入れは旅行者に便利だ。"
+    }
+  },
+  {
+    "id": "w0592",
+    "type": "word",
+    "en": "correspond",
+    "ja": [
+      "文通する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "correspond",
+    "senses": [
+      "correspond-exchangeletters"
+    ],
+    "example": {
+      "en": "The two offices correspond by email daily.",
+      "ja": "二つの事務所は毎日電子便で文通する。"
+    }
+  },
+  {
+    "id": "w0593",
+    "type": "word",
+    "en": "council",
+    "ja": [
+      "評議会"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "council",
+    "senses": [
+      "council-advisorybody"
+    ],
+    "example": {
+      "en": "The city council approved the new zoning.",
+      "ja": "市の評議会が新しい用途の区分を承認した。"
+    }
+  },
+  {
+    "id": "w0594",
+    "type": "word",
+    "en": "courtesy",
+    "ja": [
+      "礼儀"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "courtes",
+    "senses": [
+      "courtesy-politebehavior"
+    ],
+    "example": {
+      "en": "Staff are praised for their courtesy to guests.",
+      "ja": "職員は客への礼儀を褒められている。"
+    }
+  },
+  {
+    "id": "w0595",
+    "type": "word",
+    "en": "coverage",
+    "ja": [
+      "補償範囲"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "coverag",
+    "senses": [
+      "coverage-insurancescope"
+    ],
+    "example": {
+      "en": "The policy's coverage excludes flood damage.",
+      "ja": "その保険の補償範囲は水害を除く。"
+    }
+  },
+  {
+    "id": "w0596",
+    "type": "word",
+    "en": "create",
+    "ja": [
+      "生み出す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "creat",
+    "senses": [
+      "create-bringintoexistence"
+    ],
+    "example": {
+      "en": "The plant created sixty jobs in the town.",
+      "ja": "工場は町に六十の職を生み出した。"
+    }
+  },
+  {
+    "id": "w0597",
+    "type": "word",
+    "en": "credit",
+    "ja": [
+      "与信"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "credit",
+    "senses": [
+      "credit-deferredpaymentright"
+    ],
+    "example": {
+      "en": "New buyers must apply for credit first.",
+      "ja": "新規の買い手はまず与信を申し込む必要がある。"
+    }
+  },
+  {
+    "id": "w0598",
+    "type": "word",
+    "en": "crucial",
+    "ja": [
+      "決定的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "crucial",
+    "senses": [
+      "crucial-veryimportant"
+    ],
+    "example": {
+      "en": "Timing is crucial when the resin sets.",
+      "ja": "樹脂が固まる際は時機が決定的だ。"
+    }
+  },
+  {
+    "id": "w0599",
+    "type": "word",
+    "en": "current-account",
+    "ja": [
+      "当座預金"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "currentacct",
+    "senses": [
+      "currentaccount-businessbankaccount"
+    ],
+    "example": {
+      "en": "Payments go through the firm's current account.",
+      "ja": "支払いは会社の当座預金を通る。"
+    }
+  },
+  {
+    "id": "w0600",
+    "type": "word",
+    "en": "deduct",
+    "ja": [
+      "差し引く"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "deduct",
+    "senses": [
+      "deduct-subtractamount"
+    ],
+    "example": {
+      "en": "The bank deducts a small handling charge.",
+      "ja": "銀行はわずかな取扱料を差し引く。"
+    }
+  },
+  {
+    "id": "w0601",
+    "type": "word",
+    "en": "defect",
+    "ja": [
+      "欠陥"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "defect",
+    "senses": [
+      "defect-manufacturingflaw"
+    ],
+    "example": {
+      "en": "A defect in the seal caused the leak.",
+      "ja": "封の欠陥が漏れを招いた。"
+    }
+  },
+  {
+    "id": "w0602",
+    "type": "word",
+    "en": "demonstrate",
+    "ja": [
+      "実演する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "demonstr",
+    "senses": [
+      "demonstrate-showhowitworks"
+    ],
+    "example": {
+      "en": "A technician demonstrates the machine hourly.",
+      "ja": "技術者が一時間ごとに機械を実演する。"
+    }
+  },
+  {
+    "id": "w0603",
+    "type": "word",
+    "en": "description",
+    "ja": [
+      "説明文"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "descript",
+    "senses": [
+      "description-writtenaccount"
+    ],
+    "example": {
+      "en": "Each listing needs a short description.",
+      "ja": "各掲載には短い説明文が要る。"
+    }
+  },
+  {
+    "id": "w0604",
+    "type": "word",
+    "en": "designate",
+    "ja": [
+      "指定する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "design",
+    "senses": [
+      "designate-officiallyname"
+    ],
+    "example": {
+      "en": "The yard designates two spots for deliveries.",
+      "ja": "構内は配達用に二区画を指定している。"
+    }
+  },
+  {
+    "id": "w0605",
+    "type": "word",
+    "en": "destination",
+    "ja": [
+      "行き先"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part4"
+    ],
+    "root": "destin",
+    "senses": [
+      "destination-endpoint"
+    ],
+    "example": {
+      "en": "Write the destination clearly on the label.",
+      "ja": "表示に行き先をはっきり書きなさい。"
+    }
+  },
+  {
+    "id": "w0606",
+    "type": "word",
+    "en": "determine",
+    "ja": [
+      "決める"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "determin",
+    "senses": [
+      "determine-settleafterstudy"
+    ],
+    "example": {
+      "en": "Tests determine how long the coating lasts.",
+      "ja": "試験で塗膜の持ちを決める。"
+    }
+  },
+  {
+    "id": "w0607",
+    "type": "word",
+    "en": "distribute",
+    "ja": [
+      "配布する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "distribut",
+    "senses": [
+      "distribute-handoutwidely"
+    ],
+    "example": {
+      "en": "Volunteers distribute leaflets at the fair.",
+      "ja": "有志が見本市で刷り物を配布する。"
+    }
+  },
+  {
+    "id": "w0608",
+    "type": "word",
+    "en": "district",
+    "ja": [
+      "地区"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "district",
+    "senses": [
+      "district-administrativearea"
+    ],
+    "example": {
+      "en": "The shopping district closes to cars on Sundays.",
+      "ja": "買い物の地区は日曜に車を締め出す。"
+    }
+  },
+  {
+    "id": "w0609",
+    "type": "word",
+    "en": "donate",
+    "ja": [
+      "寄付する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "donat",
+    "senses": [
+      "donate-givefreely"
+    ],
+    "example": {
+      "en": "The bakery donates unsold bread each evening.",
+      "ja": "そのパン屋は毎晩、売れ残りのパンを寄付する。"
+    }
+  },
+  {
+    "id": "w0610",
+    "type": "word",
+    "en": "economy",
+    "ja": [
+      "経済"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part4"
+    ],
+    "root": "economi",
+    "senses": [
+      "economy-nationalsystem"
+    ],
+    "example": {
+      "en": "A weak economy slowed factory orders.",
+      "ja": "弱い経済が工場の受注を鈍らせた。"
+    }
+  },
+  {
+    "id": "w0611",
+    "type": "word",
+    "en": "educate",
+    "ja": [
+      "教育する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "educat",
+    "senses": [
+      "educate-teachsystematically"
+    ],
+    "example": {
+      "en": "The firm educates staff on data handling.",
+      "ja": "会社は情報の扱いについて職員を教育する。"
+    }
+  },
+  {
+    "id": "w0612",
+    "type": "word",
+    "en": "element",
+    "ja": [
+      "要素"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "element",
+    "senses": [
+      "element-componentpart"
+    ],
+    "example": {
+      "en": "Cost is one element of the final score.",
+      "ja": "費用は最終評点の一要素だ。"
+    }
+  },
+  {
+    "id": "w0613",
+    "type": "word",
+    "en": "eliminate",
+    "ja": [
+      "なくす"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "elimin",
+    "senses": [
+      "eliminate-removeentirely"
+    ],
+    "example": {
+      "en": "The redesign eliminated two welding steps.",
+      "ja": "設計変更が溶接の手順を二つなくした。"
+    }
+  },
+  {
+    "id": "w0614",
+    "type": "word",
+    "en": "emphasize",
+    "ja": [
+      "強調する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "emphas",
+    "senses": [
+      "emphasize-givespecialweight"
+    ],
+    "example": {
+      "en": "The trainer emphasized the lifting posture.",
+      "ja": "指導員は持ち上げる姿勢を強調した。"
+    }
+  },
+  {
+    "id": "w0615",
+    "type": "word",
+    "en": "employment",
+    "ja": [
+      "雇用"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "employ2",
+    "senses": [
+      "employment-stateofbeinghired"
+    ],
+    "example": {
+      "en": "Employment at the plant rose by forty.",
+      "ja": "工場の雇用は四十人増えた。"
+    }
+  },
+  {
+    "id": "w0616",
+    "type": "word",
+    "en": "encourage",
+    "ja": [
+      "促す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "encourag",
+    "senses": [
+      "encourage-urgeforward"
+    ],
+    "example": {
+      "en": "The policy encourages staff to cycle to work.",
+      "ja": "その方針は職員に自転車通勤を促す。"
+    }
+  },
+  {
+    "id": "w0617",
+    "type": "word",
+    "en": "enhance",
+    "ja": [
+      "高める"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "enhanc",
+    "senses": [
+      "enhance-improvequality"
+    ],
+    "example": {
+      "en": "Better lighting enhanced inspection accuracy.",
+      "ja": "よい照明が検査の正確さを高めた。"
+    }
+  },
+  {
+    "id": "w0618",
+    "type": "word",
+    "en": "ensure",
+    "ja": [
+      "確実にする"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "ensur",
+    "senses": [
+      "ensure-makecertain"
+    ],
+    "example": {
+      "en": "Double checks ensure the labels match.",
+      "ja": "二重の確認で表示の一致を確実にする。"
+    }
+  },
+  {
+    "id": "w0619",
+    "type": "word",
+    "en": "entitle",
+    "ja": [
+      "資格を与える"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "entitl",
+    "senses": [
+      "entitle-giverightto"
+    ],
+    "example": {
+      "en": "The card entitles holders to free parking.",
+      "ja": "その札は所持者に無料駐車の資格を与える。"
+    }
+  },
+  {
+    "id": "w0620",
+    "type": "word",
+    "en": "environment",
+    "ja": [
+      "環境"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part4"
+    ],
+    "root": "environ",
+    "senses": [
+      "environment-surroundingconditions"
+    ],
+    "example": {
+      "en": "The firm reports on its impact on the environment.",
+      "ja": "会社は環境への影響を報告している。"
+    }
+  },
+  {
+    "id": "w0621",
+    "type": "word",
+    "en": "equipment-room",
+    "ja": [
+      "機械室"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "equiproom",
+    "senses": [
+      "equiproom-machinespace"
+    ],
+    "example": {
+      "en": "The equipment room stays locked at night.",
+      "ja": "機械室は夜間施錠されている。"
+    }
+  },
+  {
+    "id": "w0622",
+    "type": "word",
+    "en": "essential",
+    "ja": [
+      "不可欠な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "essenti",
+    "senses": [
+      "essential-absolutelynecessary"
+    ],
+    "example": {
+      "en": "Clean air is essential in the paint booth.",
+      "ja": "塗装室では清浄な空気が不可欠だ。"
+    }
+  },
+  {
+    "id": "w0623",
+    "type": "word",
+    "en": "establish",
+    "ja": [
+      "設立する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "establish",
+    "senses": [
+      "establish-setupformally"
+    ],
+    "example": {
+      "en": "The founder established the firm in Kobe.",
+      "ja": "創業者は神戸に会社を設立した。"
+    }
+  },
+  {
+    "id": "w0624",
+    "type": "word",
+    "en": "evidence",
+    "ja": [
+      "証拠"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "evid",
+    "senses": [
+      "evidence-provingfacts"
+    ],
+    "example": {
+      "en": "Photographs serve as evidence of the damage.",
+      "ja": "写真が破損の証拠となる。"
+    }
+  },
+  {
+    "id": "w0625",
+    "type": "word",
+    "en": "examine",
+    "ja": [
+      "調べる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "examin",
+    "senses": [
+      "examine-lookcarefully"
+    ],
+    "example": {
+      "en": "Technicians examine the belts every morning.",
+      "ja": "技術者は毎朝、帯を調べる。"
+    }
+  },
+  {
+    "id": "w0626",
+    "type": "word",
+    "en": "excellent",
+    "ja": [
+      "優れた"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "excel",
+    "senses": [
+      "excellent-veryhighquality"
+    ],
+    "example": {
+      "en": "The hotel earned excellent marks for service.",
+      "ja": "そのホテルは接客で優れた評価を得た。"
+    }
+  },
+  {
+    "id": "w0627",
+    "type": "word",
+    "en": "exclude",
+    "ja": [
+      "除く"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "exclud",
+    "senses": [
+      "exclude-leaveout"
+    ],
+    "example": {
+      "en": "The quote excludes crating and insurance.",
+      "ja": "見積書は木箱詰めと保険を除く。"
+    }
+  },
+  {
+    "id": "w0628",
+    "type": "word",
+    "en": "expertise",
+    "ja": [
+      "専門知識"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "expertis",
+    "senses": [
+      "expertise-specialistknowledge"
+    ],
+    "example": {
+      "en": "Her expertise in customs saved a week.",
+      "ja": "通関についての彼女の専門知識が一週間を節約した。"
+    }
+  },
+  {
+    "id": "w0629",
+    "type": "word",
+    "en": "extend",
+    "ja": [
+      "延長する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "extend",
+    "senses": [
+      "extend-makelonger"
+    ],
+    "example": {
+      "en": "Both sides agreed to extend the lease.",
+      "ja": "双方は賃貸借の延長に同意した。"
+    }
+  },
+  {
+    "id": "w0630",
+    "type": "word",
+    "en": "external",
+    "ja": [
+      "外部の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "extern",
+    "senses": [
+      "external-fromoutside"
+    ],
+    "example": {
+      "en": "An external firm audits the accounts.",
+      "ja": "外部の会社が会計を監査する。"
+    }
+  },
+  {
+    "id": "w0631",
+    "type": "word",
+    "en": "familiar",
+    "ja": [
+      "慣れている"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "familiar",
+    "senses": [
+      "familiar-wellacquainted"
+    ],
+    "example": {
+      "en": "The operator is familiar with both machines.",
+      "ja": "その担当者は両方の機械に慣れている。"
+    }
+  },
+  {
+    "id": "w0632",
+    "type": "word",
+    "en": "feature",
+    "ja": [
+      "特徴"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "featur",
+    "senses": [
+      "feature-notablecharacteristic"
+    ],
+    "example": {
+      "en": "The main feature is the folding handle.",
+      "ja": "主な特徴は折りたためる取っ手だ。"
+    }
+  },
+  {
+    "id": "w0633",
+    "type": "word",
+    "en": "finance",
+    "ja": [
+      "資金"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "financ",
+    "senses": [
+      "finance-moneyresources"
+    ],
+    "example": {
+      "en": "The bank arranged finance for the expansion.",
+      "ja": "銀行が拡張のための資金を用意した。"
+    }
+  },
+  {
+    "id": "w0634",
+    "type": "word",
+    "en": "firm",
+    "ja": [
+      "会社組織"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "firmn",
+    "senses": [
+      "firm-businesspartnership"
+    ],
+    "example": {
+      "en": "A law firm reviewed the draft terms.",
+      "ja": "法律の会社組織が条件の草案を確認した。"
+    }
+  },
+  {
+    "id": "w0635",
+    "type": "word",
+    "en": "flexible",
+    "ja": [
+      "柔軟な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "flexib",
+    "senses": [
+      "flexible-adaptabletochange"
+    ],
+    "example": {
+      "en": "The plant offers flexible starting hours.",
+      "ja": "工場は柔軟な始業時間を用意している。"
+    }
+  },
+  {
+    "id": "w0636",
+    "type": "word",
+    "en": "fragile",
+    "ja": [
+      "壊れやすい"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "fragil",
+    "senses": [
+      "fragile-easilybroken"
+    ],
+    "example": {
+      "en": "Fragile items travel with extra padding.",
+      "ja": "壊れやすい品は緩衝材を増やして運ばれる。"
+    }
+  },
+  {
+    "id": "w0637",
+    "type": "word",
+    "en": "freight",
+    "ja": [
+      "貨物"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "freight",
+    "senses": [
+      "freight-transportedcargo"
+    ],
+    "example": {
+      "en": "Freight to the island moves by ferry.",
+      "ja": "島への貨物は渡し船で運ばれる。"
+    }
+  },
+  {
+    "id": "w0638",
+    "type": "word",
+    "en": "function",
+    "ja": [
+      "機能"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "function",
+    "senses": [
+      "function-operatingability"
+    ],
+    "example": {
+      "en": "The timer function stopped working overnight.",
+      "ja": "計時の機能が夜のうちに止まった。"
+    }
+  },
+  {
+    "id": "w0639",
+    "type": "word",
+    "en": "generate",
+    "ja": [
+      "生成する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "generat",
+    "senses": [
+      "generate-produceoutput"
+    ],
+    "example": {
+      "en": "The turbine generates power for the whole site.",
+      "ja": "そのタービンは敷地全体の電力を生成する。"
+    }
+  },
+  {
+    "id": "w0640",
+    "type": "word",
+    "en": "grant",
+    "ja": [
+      "助成する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "grantv",
+    "senses": [
+      "grant-giveofficially"
+    ],
+    "example": {
+      "en": "The city grants funds for solar panels.",
+      "ja": "市は太陽光の板に資金を助成する。"
+    }
+  },
+  {
+    "id": "w0641",
+    "type": "word",
+    "en": "guarantee",
+    "ja": [
+      "請け合う"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "guarante",
+    "senses": [
+      "guarantee-promisecertainty"
+    ],
+    "example": {
+      "en": "The maker guarantees delivery within a week.",
+      "ja": "製造業者は一週間以内の納品を請け合う。"
+    }
+  },
+  {
+    "id": "w0642",
+    "type": "word",
+    "en": "guideline",
+    "ja": [
+      "指針"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "guidelin",
+    "senses": [
+      "guideline-recommendedrule"
+    ],
+    "example": {
+      "en": "New guidelines cover remote working.",
+      "ja": "新しい指針は在宅勤務を扱う。"
+    }
+  },
+  {
+    "id": "w0643",
+    "type": "word",
+    "en": "identical",
+    "ja": [
+      "同一の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "ident",
+    "senses": [
+      "identical-exactlythesame"
+    ],
+    "example": {
+      "en": "Both units carry identical serial prefixes.",
+      "ja": "両方の台は同一の通し番号の頭を持つ。"
+    }
+  },
+  {
+    "id": "w0644",
+    "type": "word",
+    "en": "immediate",
+    "ja": [
+      "即時の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "immedi",
+    "senses": [
+      "immediate-happeningatonce"
+    ],
+    "example": {
+      "en": "The leak needs immediate attention.",
+      "ja": "その漏れは即時の対応が要る。"
+    }
+  },
+  {
+    "id": "w0645",
+    "type": "word",
+    "en": "impact",
+    "ja": [
+      "影響"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "impact",
+    "senses": [
+      "impact-strongeffect"
+    ],
+    "example": {
+      "en": "The new route had little impact on costs.",
+      "ja": "新しい経路は費用にほとんど影響がなかった。"
+    }
+  },
+  {
+    "id": "w0646",
+    "type": "word",
+    "en": "improve-plan",
+    "ja": [
+      "改善案"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "improveplan",
+    "senses": [
+      "improveplan-proposalforbetterment"
+    ],
+    "example": {
+      "en": "The team submitted an improvement plan.",
+      "ja": "その班は改善案を提出した。"
+    }
+  },
+  {
+    "id": "w0647",
+    "type": "word",
+    "en": "income",
+    "ja": [
+      "所得"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "incom",
+    "senses": [
+      "income-moneyreceived"
+    ],
+    "example": {
+      "en": "Rental income covers the loan payments.",
+      "ja": "賃貸の所得が融資の返済を賄う。"
+    }
+  },
+  {
+    "id": "w0648",
+    "type": "word",
+    "en": "indicate",
+    "ja": [
+      "示す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "indic",
+    "senses": [
+      "indicate-pointout"
+    ],
+    "example": {
+      "en": "A red lamp indicates low pressure.",
+      "ja": "赤い灯が圧力の低下を示す。"
+    }
+  },
+  {
+    "id": "w0649",
+    "type": "word",
+    "en": "individual",
+    "ja": [
+      "個々の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "individu",
+    "senses": [
+      "individual-separateeach"
+    ],
+    "example": {
+      "en": "Individual lockers are assigned by number.",
+      "ja": "個々の物入れは番号で割り当てられる。"
+    }
+  },
+  {
+    "id": "w0650",
+    "type": "word",
+    "en": "industrial",
+    "ja": [
+      "工業の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "industri2",
+    "senses": [
+      "industrial-relatedtoindustry"
+    ],
+    "example": {
+      "en": "The site sits in an industrial park.",
+      "ja": "その場所は工業の団地内にある。"
+    }
+  },
+  {
+    "id": "w0651",
+    "type": "word",
+    "en": "influence",
+    "ja": [
+      "左右する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "influenc",
+    "senses": [
+      "influence-affectdecision"
+    ],
+    "example": {
+      "en": "Reviews strongly influence first-time buyers.",
+      "ja": "評価は初めての買い手を強く左右する。"
+    }
+  },
+  {
+    "id": "w0652",
+    "type": "word",
+    "en": "initial",
+    "ja": [
+      "当初の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "initialadj",
+    "senses": [
+      "initial-atthebeginning"
+    ],
+    "example": {
+      "en": "The initial estimate proved too low.",
+      "ja": "当初の見積もりは低すぎた。"
+    }
+  },
+  {
+    "id": "w0653",
+    "type": "word",
+    "en": "inquiry",
+    "ja": [
+      "問い合わせ"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "inquir",
+    "senses": [
+      "inquiry-requestforinfo"
+    ],
+    "example": {
+      "en": "An inquiry about spare parts came from Osaka.",
+      "ja": "予備の部品についての問い合わせが大阪から来た。"
+    }
+  },
+  {
+    "id": "w0654",
+    "type": "word",
+    "en": "inspection",
+    "ja": [
+      "検査"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
+    "root": "inspect2",
+    "senses": [
+      "inspection-formalcheck"
+    ],
+    "example": {
+      "en": "The annual inspection takes a full day.",
+      "ja": "年次の検査は丸一日かかる。"
+    }
+  },
+  {
+    "id": "w0655",
+    "type": "word",
+    "en": "instrument",
+    "ja": [
+      "計器"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "instrum",
+    "senses": [
+      "instrument-measuringdevice"
+    ],
+    "example": {
+      "en": "An instrument on the wall records temperature.",
+      "ja": "壁の計器が温度を記録する。"
+    }
+  },
+  {
+    "id": "w0656",
+    "type": "word",
+    "en": "insurance",
+    "ja": [
+      "保険"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "insur",
+    "senses": [
+      "insurance-riskcover"
+    ],
+    "example": {
+      "en": "Cargo insurance covers the sea voyage.",
+      "ja": "貨物の保険が海上の航行を対象とする。"
+    }
+  },
+  {
+    "id": "w0657",
+    "type": "word",
+    "en": "integrate",
+    "ja": [
+      "一体化する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "integr",
+    "senses": [
+      "integrate-mergeintowhole"
+    ],
+    "example": {
+      "en": "The system integrates orders and stock.",
+      "ja": "その仕組みは注文と在庫を一体化する。"
+    }
+  },
+  {
+    "id": "w0658",
+    "type": "word",
+    "en": "intend",
+    "ja": [
+      "意図する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "intend",
+    "senses": [
+      "intend-planpurposely"
+    ],
+    "example": {
+      "en": "The owner intends to open a second store.",
+      "ja": "所有者は二号店を開くことを意図している。"
+    }
+  },
+  {
+    "id": "w0659",
+    "type": "word",
+    "en": "interior",
+    "ja": [
+      "内装"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "interior",
+    "senses": [
+      "interior-insidedecoration"
+    ],
+    "example": {
+      "en": "The interior was redone in light wood.",
+      "ja": "内装は明るい木材で作り直された。"
+    }
+  },
+  {
+    "id": "w0660",
+    "type": "word",
+    "en": "internal",
+    "ja": [
+      "内部の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "intern",
+    "senses": [
+      "internal-withinorganization"
+    ],
+    "example": {
+      "en": "Internal notices go out every Monday.",
+      "ja": "内部の通知は毎週月曜に出る。"
+    }
+  },
+  {
+    "id": "w0661",
+    "type": "word",
+    "en": "introduce",
+    "ja": [
+      "導入して紹介する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "introduc",
+    "senses": [
+      "introduce-bringinnew"
+    ],
+    "example": {
+      "en": "The chain introduced self-service tills.",
+      "ja": "その連鎖店は自動精算機を導入して紹介した。"
+    }
+  },
+  {
+    "id": "w0662",
+    "type": "word",
+    "en": "investment",
+    "ja": [
+      "投資"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "invest",
+    "senses": [
+      "investment-moneyputin"
+    ],
+    "example": {
+      "en": "The investment in dryers paid off quickly.",
+      "ja": "乾燥機への投資はすぐに報われた。"
+    }
+  },
+  {
+    "id": "w0663",
+    "type": "word",
+    "en": "involve",
+    "ja": [
+      "関与させる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "involv",
+    "senses": [
+      "involve-includeinactivity"
+    ],
+    "example": {
+      "en": "The plan involves every department head.",
+      "ja": "その計画は全部門長を関与させる。"
+    }
+  },
+  {
+    "id": "w0664",
+    "type": "word",
+    "en": "label-machine",
+    "ja": [
+      "表示機"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "labelmachine",
+    "senses": [
+      "labelmachine-taggingdevice"
+    ],
+    "example": {
+      "en": "The label machine jammed twice this week.",
+      "ja": "表示機は今週二度詰まった。"
+    }
+  },
+  {
+    "id": "w0665",
+    "type": "word",
+    "en": "launch",
+    "ja": [
+      "発売する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "launch",
+    "senses": [
+      "launch-putonmarket"
+    ],
+    "example": {
+      "en": "The maker launches the model in September.",
+      "ja": "製造業者は九月にその型式を発売する。"
+    }
+  },
+  {
+    "id": "w0666",
+    "type": "word",
+    "en": "legal",
+    "ja": [
+      "法律上の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "legal",
+    "senses": [
+      "legal-relatingtolaw"
+    ],
+    "example": {
+      "en": "Legal costs are shared by both parties.",
+      "ja": "法律上の費用は双方で分担する。"
+    }
+  },
+  {
+    "id": "w0667",
+    "type": "word",
+    "en": "license",
+    "ja": [
+      "免許"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "licens",
+    "senses": [
+      "license-officialpermitdocument"
+    ],
+    "example": {
+      "en": "A forklift license is required for this job.",
+      "ja": "この仕事には荷役車の免許が要る。"
+    }
+  },
+  {
+    "id": "w0668",
+    "type": "word",
+    "en": "limit",
+    "ja": [
+      "制限する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "limit",
+    "senses": [
+      "limit-setmaximum"
+    ],
+    "example": {
+      "en": "The rules limit trailers to four per hour.",
+      "ja": "規則は連結車を一時間四台に制限する。"
+    }
+  },
+  {
+    "id": "w0669",
+    "type": "word",
+    "en": "loan",
+    "ja": [
+      "融資"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "loan",
+    "senses": [
+      "loan-borrowedmoney"
+    ],
+    "example": {
+      "en": "The loan runs for seven years at fixed rates.",
+      "ja": "その融資は固定金利で七年続く。"
+    }
+  },
+  {
+    "id": "w0670",
+    "type": "word",
+    "en": "location",
+    "ja": [
+      "所在地"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "locat",
+    "senses": [
+      "location-particularplace"
+    ],
+    "example": {
+      "en": "The new location sits close to the highway.",
+      "ja": "新しい所在地は高速道路に近い。"
+    }
+  },
+  {
+    "id": "w0671",
+    "type": "word",
+    "en": "maintain",
+    "ja": [
+      "維持する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "maintain2",
+    "senses": [
+      "maintain-keepingoodstate"
+    ],
+    "example": {
+      "en": "Cleaners maintain the lobby twice daily.",
+      "ja": "清掃員は一日二回ロビーを維持する。"
+    }
+  },
+  {
+    "id": "w0672",
+    "type": "word",
+    "en": "majority",
+    "ja": [
+      "大多数"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "major",
+    "senses": [
+      "majority-greaterpart"
+    ],
+    "example": {
+      "en": "The majority voted for the earlier start.",
+      "ja": "大多数が早い開始に賛成した。"
+    }
+  },
+  {
+    "id": "w0673",
+    "type": "word",
+    "en": "manufacture",
+    "ja": [
+      "製造する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "manufactur",
+    "senses": [
+      "manufacture-makeinfactory"
+    ],
+    "example": {
+      "en": "The plant manufactures valves for shipping.",
+      "ja": "その工場は船舶用の弁を製造する。"
+    }
+  },
+  {
+    "id": "w0674",
+    "type": "word",
+    "en": "measure",
+    "ja": [
+      "測る"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "measur",
+    "senses": [
+      "measure-findsize"
+    ],
+    "example": {
+      "en": "Measure the gap before ordering the seal.",
+      "ja": "封を注文する前に隙間を測りなさい。"
+    }
+  },
+  {
+    "id": "w0675",
+    "type": "word",
+    "en": "mention",
+    "ja": [
+      "言及する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "mention",
+    "senses": [
+      "mention-refertobriefly"
+    ],
+    "example": {
+      "en": "The letter mentions a delay of two weeks.",
+      "ja": "その手紙は二週間の遅れに言及している。"
+    }
+  },
+  {
+    "id": "w0676",
+    "type": "word",
+    "en": "minimum",
+    "ja": [
+      "最低限の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "minimum",
+    "senses": [
+      "minimum-lowestallowed"
+    ],
+    "example": {
+      "en": "A minimum order of ten cases applies.",
+      "ja": "十箱の最低限の注文が条件だ。"
+    }
+  },
+  {
+    "id": "w0677",
+    "type": "word",
+    "en": "monitor",
+    "ja": [
+      "監視する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "monitor",
+    "senses": [
+      "monitor-watchcontinuously"
+    ],
+    "example": {
+      "en": "Sensors monitor the tank pressure overnight.",
+      "ja": "感知器が夜通し槽の圧力を監視する。"
+    }
+  },
+  {
+    "id": "w0678",
+    "type": "word",
+    "en": "mortgage",
+    "ja": [
+      "住宅融資"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "mortgag",
+    "senses": [
+      "mortgage-propertyloan"
+    ],
+    "example": {
+      "en": "The couple paid off the mortgage early.",
+      "ja": "その夫婦は住宅融資を早く返し終えた。"
+    }
+  },
+  {
+    "id": "w0679",
+    "type": "word",
+    "en": "multiple",
+    "ja": [
+      "複数の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "multipl",
+    "senses": [
+      "multiple-morethanone"
+    ],
+    "example": {
+      "en": "Multiple carriers serve the northern route.",
+      "ja": "複数の運送会社が北の経路を担う。"
+    }
+  },
+  {
+    "id": "w0680",
+    "type": "word",
+    "en": "nearby",
+    "ja": [
+      "近くの"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part5"
+    ],
+    "root": "nearbi",
+    "senses": [
+      "nearby-shortdistanceaway"
+    ],
+    "example": {
+      "en": "A nearby garage repairs company vans.",
+      "ja": "近くの修理場が社用の貨物車を直す。"
+    }
+  },
+  {
+    "id": "w0681",
+    "type": "word",
+    "en": "necessary",
+    "ja": [
+      "必要な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "necessari",
+    "senses": [
+      "necessary-requiredforpurpose"
+    ],
+    "example": {
+      "en": "Bring the necessary tools to the site.",
+      "ja": "現場に必要な工具を持って来なさい。"
+    }
+  },
+  {
+    "id": "w0682",
+    "type": "word",
+    "en": "notification",
+    "ja": [
+      "届出"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "notific",
+    "senses": [
+      "notification-formalnotice"
+    ],
+    "example": {
+      "en": "Written notification must reach us by Friday.",
+      "ja": "書面の届出は金曜までに当方へ届く必要がある。"
+    }
+  },
+  {
+    "id": "w0683",
+    "type": "word",
+    "en": "objective",
+    "ja": [
+      "目標"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "object",
+    "senses": [
+      "objective-aimtoachieve"
+    ],
+    "example": {
+      "en": "The main objective is lower waste.",
+      "ja": "主な目標は廃棄物の削減だ。"
+    }
+  },
+  {
+    "id": "w0684",
+    "type": "word",
+    "en": "observe",
+    "ja": [
+      "観察する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "observ",
+    "senses": [
+      "observe-watchcarefully"
+    ],
+    "example": {
+      "en": "Trainees observe the line for a full shift.",
+      "ja": "研修生は一勤務ずっと生産設備を観察する。"
+    }
+  },
+  {
+    "id": "w0685",
+    "type": "word",
+    "en": "obtain",
+    "ja": [
+      "入手する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "obtain",
+    "senses": [
+      "obtain-getpossession"
+    ],
+    "example": {
+      "en": "We obtain the resin from a Kyushu supplier.",
+      "ja": "樹脂は九州の供給業者から入手する。"
+    }
+  },
+  {
+    "id": "w0686",
+    "type": "word",
+    "en": "occasion",
+    "ja": [
+      "機会"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "occas",
+    "senses": [
+      "occasion-particulartime"
+    ],
+    "example": {
+      "en": "The anniversary was a rare occasion for speeches.",
+      "ja": "周年は演説の珍しい機会だった。"
+    }
+  },
+  {
+    "id": "w0687",
+    "type": "word",
+    "en": "operate",
+    "ja": [
+      "操作する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "oper",
+    "senses": [
+      "operate-workmachine"
+    ],
+    "example": {
+      "en": "Only trained staff operate the press.",
+      "ja": "訓練を受けた職員だけが印刷機を操作する。"
+    }
+  },
+  {
+    "id": "w0688",
+    "type": "word",
+    "en": "opportunity",
+    "ja": [
+      "好機"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "opportun",
+    "senses": [
+      "opportunity-favorablechance"
+    ],
+    "example": {
+      "en": "The fair offers an opportunity to meet buyers.",
+      "ja": "見本市は買い手に会う好機となる。"
+    }
+  },
+  {
+    "id": "w0689",
+    "type": "word",
+    "en": "organize",
+    "ja": [
+      "催す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "organ",
+    "senses": [
+      "organize-arrangeevent"
+    ],
+    "example": {
+      "en": "The union organizes a safety day each spring.",
+      "ja": "組合は毎春、安全の日を催す。"
+    }
+  },
+  {
+    "id": "w0690",
+    "type": "word",
+    "en": "original",
+    "ja": [
+      "原本の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "origin",
+    "senses": [
+      "original-firstmadecopy"
+    ],
+    "example": {
+      "en": "Send the original invoice, not a scan.",
+      "ja": "読み取りではなく原本の請求書を送りなさい。"
+    }
+  },
+  {
+    "id": "w0691",
+    "type": "word",
+    "en": "overtime",
+    "ja": [
+      "残業"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "overtim",
+    "senses": [
+      "overtime-extrahoursworked"
+    ],
+    "example": {
+      "en": "Overtime is paid at a higher rate.",
+      "ja": "残業は高い率で支払われる。"
+    }
+  },
+  {
+    "id": "w0692",
+    "type": "word",
+    "en": "oversee",
+    "ja": [
+      "統括する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "overse",
+    "senses": [
+      "oversee-supervisebroadly"
+    ],
+    "example": {
+      "en": "One director oversees all four plants.",
+      "ja": "一名の取締役が四工場すべてを統括する。"
+    }
+  },
+  {
+    "id": "w0693",
+    "type": "word",
+    "en": "participate",
+    "ja": [
+      "参画する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "participat",
+    "senses": [
+      "participate-takepartformally"
+    ],
+    "example": {
+      "en": "Six suppliers participate in the annual review.",
+      "ja": "六社の供給業者が年次の見直しに参画する。"
+    }
+  },
+  {
+    "id": "w0694",
+    "type": "word",
+    "en": "partner",
+    "ja": [
+      "提携先"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "partner",
+    "senses": [
+      "partner-alliedcompany"
+    ],
+    "example": {
+      "en": "A local partner handles customs clearance.",
+      "ja": "地元の提携先が通関を担う。"
+    }
+  },
+  {
+    "id": "w0695",
+    "type": "word",
+    "en": "pattern",
+    "ja": [
+      "傾向"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part4"
+    ],
+    "root": "pattern",
+    "senses": [
+      "pattern-repeatedtendency"
+    ],
+    "example": {
+      "en": "Sales follow a clear seasonal pattern.",
+      "ja": "売上ははっきりした季節の傾向を示す。"
+    }
+  },
+  {
+    "id": "w0696",
+    "type": "word",
+    "en": "percentage",
+    "ja": [
+      "割合"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part4"
+    ],
+    "root": "percentag",
+    "senses": [
+      "percentage-proportionofhundred"
+    ],
+    "example": {
+      "en": "A small percentage of orders arrive late.",
+      "ja": "注文のわずかな割合が遅れて届く。"
+    }
+  },
+  {
+    "id": "w0697",
+    "type": "word",
+    "en": "performance",
+    "ja": [
+      "業績"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "perform",
+    "senses": [
+      "performance-achievedresults"
+    ],
+    "example": {
+      "en": "The branch's performance improved after the move.",
+      "ja": "移転後、その支店の業績は良くなった。"
+    }
+  },
+  {
+    "id": "w0698",
+    "type": "word",
+    "en": "permanent",
+    "ja": [
+      "常設の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "perman",
+    "senses": [
+      "permanent-lastingindefinitely"
+    ],
+    "example": {
+      "en": "A permanent display stands in the foyer.",
+      "ja": "玄関の広間に常設の展示がある。"
+    }
+  },
+  {
+    "id": "w0699",
+    "type": "word",
+    "en": "policy",
+    "ja": [
+      "方針"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "polic",
+    "senses": [
+      "policy-organizationalrule"
+    ],
+    "example": {
+      "en": "Company policy bans open flames indoors.",
+      "ja": "会社の方針は屋内の裸火を禁じる。"
+    }
+  },
+  {
+    "id": "w0700",
+    "type": "word",
+    "en": "population",
+    "ja": [
+      "人口"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part4"
+    ],
+    "root": "popul",
+    "senses": [
+      "population-numberofpeople"
+    ],
+    "example": {
+      "en": "The town's population grew after the plant opened.",
+      "ja": "工場の開設後、町の人口は増えた。"
+    }
+  },
+  {
+    "id": "w0701",
+    "type": "word",
+    "en": "portion",
+    "ja": [
+      "一部分"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "portion",
+    "senses": [
+      "portion-shareoftotal"
+    ],
+    "example": {
+      "en": "A portion of the fee funds staff training.",
+      "ja": "料金の一部分が職員の研修を賄う。"
+    }
+  },
+  {
+    "id": "w0702",
+    "type": "word",
+    "en": "potential",
+    "ja": [
+      "潜在的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "potenti",
+    "senses": [
+      "potential-possibleinfuture"
+    ],
+    "example": {
+      "en": "Two potential buyers toured the warehouse.",
+      "ja": "二名の潜在的な買い手が倉庫を見学した。"
+    }
+  },
+  {
+    "id": "w0703",
+    "type": "word",
+    "en": "precise",
+    "ja": [
+      "精密な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "precis",
+    "senses": [
+      "precise-exactlyaccurate"
+    ],
+    "example": {
+      "en": "Precise cutting reduces waste on every sheet.",
+      "ja": "精密な裁断が紙ごとの無駄を減らす。"
+    }
+  },
+  {
+    "id": "w0704",
+    "type": "word",
+    "en": "predict",
+    "ja": [
+      "見込む"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "predict",
+    "senses": [
+      "predict-sayinadvance"
+    ],
+    "example": {
+      "en": "Analysts predict steady demand this winter.",
+      "ja": "分析担当は今冬の堅調な需要を見込む。"
+    }
+  },
+  {
+    "id": "w0705",
+    "type": "word",
+    "en": "prevent",
+    "ja": [
+      "防ぐ"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "prevent",
+    "senses": [
+      "prevent-stopfromhappening"
+    ],
+    "example": {
+      "en": "Regular checks prevent costly breakdowns.",
+      "ja": "定期の点検が高くつく故障を防ぐ。"
+    }
+  },
+  {
+    "id": "w0706",
+    "type": "word",
+    "en": "previous",
+    "ja": [
+      "以前の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "previous",
+    "senses": [
+      "previous-comingbefore"
+    ],
+    "example": {
+      "en": "The previous tenant left the shelving behind.",
+      "ja": "以前の賃借人は棚を残していった。"
+    }
+  },
+  {
+    "id": "w0707",
+    "type": "word",
+    "en": "primary",
+    "ja": [
+      "第一の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "primari",
+    "senses": [
+      "primary-mostimportantfirst"
+    ],
+    "example": {
+      "en": "Our primary market remains domestic retail.",
+      "ja": "当社の第一の市場は国内の小売のままだ。"
+    }
+  },
+  {
+    "id": "w0708",
+    "type": "word",
+    "en": "principal",
+    "ja": [
+      "主たる"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "princip",
+    "senses": [
+      "principal-chiefinrank"
+    ],
+    "example": {
+      "en": "The principal supplier holds a five-year deal.",
+      "ja": "主たる供給業者は五年の取り決めを持つ。"
+    }
+  },
+  {
+    "id": "w0709",
+    "type": "word",
+    "en": "priority",
+    "ja": [
+      "優先事項"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "prior",
+    "senses": [
+      "priority-mattertakingprecedence"
+    ],
+    "example": {
+      "en": "Safety repairs are the top priority this month.",
+      "ja": "安全のための修理が今月の最優先事項だ。"
+    }
+  },
+  {
+    "id": "w0710",
+    "type": "word",
+    "en": "procedure",
+    "ja": [
+      "手続き"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "procedur",
+    "senses": [
+      "procedure-establishedprocess"
+    ],
+    "example": {
+      "en": "The refund procedure takes about ten days.",
+      "ja": "返金の手続きは約十日かかる。"
+    }
+  },
+  {
+    "id": "w0711",
+    "type": "word",
+    "en": "proceed",
+    "ja": [
+      "進行する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "proceed",
+    "senses": [
+      "proceed-continueforward"
+    ],
+    "example": {
+      "en": "Work proceeds despite the shortage of parts.",
+      "ja": "部品不足にもかかわらず作業は進行する。"
+    }
+  },
+  {
+    "id": "w0712",
+    "type": "word",
+    "en": "produce",
+    "ja": [
+      "生産する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "produce2",
+    "senses": [
+      "produce-makequantity"
+    ],
+    "example": {
+      "en": "The mill produces two hundred rolls daily.",
+      "ja": "その工場は毎日二百巻きを生産する。"
+    }
+  },
+  {
+    "id": "w0713",
+    "type": "word",
+    "en": "professional",
+    "ja": [
+      "職業上の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "profession",
+    "senses": [
+      "professional-relatedtooccupation"
+    ],
+    "example": {
+      "en": "The firm covers professional training costs.",
+      "ja": "会社は職業上の研修の費用を負担する。"
+    }
+  },
+  {
+    "id": "w0714",
+    "type": "word",
+    "en": "profit",
+    "ja": [
+      "利益"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part4"
+    ],
+    "root": "profit",
+    "senses": [
+      "profit-financialgain"
+    ],
+    "example": {
+      "en": "Profit rose despite the higher freight bills.",
+      "ja": "運賃の増加にもかかわらず利益は伸びた。"
+    }
+  },
+  {
+    "id": "w0715",
+    "type": "word",
+    "en": "progress",
+    "ja": [
+      "進捗"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "progress",
+    "senses": [
+      "progress-forwardmovement"
+    ],
+    "example": {
+      "en": "Weekly reports track progress on the build.",
+      "ja": "週次の報告が建設の進捗を追う。"
+    }
+  },
+  {
+    "id": "w0716",
+    "type": "word",
+    "en": "promotion",
+    "ja": [
+      "販売促進"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "promot2",
+    "senses": [
+      "promotion-salescampaign"
+    ],
+    "example": {
+      "en": "The summer promotion doubled foot traffic.",
+      "ja": "夏の販売促進が来店者を倍にした。"
+    }
+  },
+  {
+    "id": "w0717",
+    "type": "word",
+    "en": "property",
+    "ja": [
+      "不動産"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "properti",
+    "senses": [
+      "property-landandbuildings"
+    ],
+    "example": {
+      "en": "The company sold two properties last year.",
+      "ja": "会社は昨年、不動産を二件売却した。"
+    }
+  },
+  {
+    "id": "w0718",
+    "type": "word",
+    "en": "proposal",
+    "ja": [
+      "提案書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "propos",
+    "senses": [
+      "proposal-writtensuggestion"
+    ],
+    "example": {
+      "en": "The proposal reached the committee on Friday.",
+      "ja": "提案書は金曜に委員会へ届いた。"
+    }
+  },
+  {
+    "id": "w0719",
+    "type": "word",
+    "en": "protection",
+    "ja": [
+      "保護"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "protect2",
+    "senses": [
+      "protection-actofkeepingsafe"
+    ],
+    "example": {
+      "en": "Ear protection is required near the presses.",
+      "ja": "印刷機の近くでは耳の保護が必要だ。"
+    }
+  },
+  {
+    "id": "w0720",
+    "type": "word",
+    "en": "publication",
+    "ja": [
+      "刊行物"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "publicat",
+    "senses": [
+      "publication-printedwork"
+    ],
+    "example": {
+      "en": "The trade publication reviews new equipment.",
+      "ja": "その業界の刊行物は新しい機器を論評する。"
+    }
+  },
+  {
+    "id": "w0721",
+    "type": "word",
+    "en": "purchase-order",
+    "ja": [
+      "発注書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "purchaseorder",
+    "senses": [
+      "purchaseorder-buyingdocument"
+    ],
+    "example": {
+      "en": "No goods ship without a purchase order.",
+      "ja": "発注書なしに商品は出荷されない。"
+    }
+  },
+  {
+    "id": "w0722",
+    "type": "word",
+    "en": "qualify",
+    "ja": [
+      "資格を満たす"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "qualif",
+    "senses": [
+      "qualify-meetrequirements"
+    ],
+    "example": {
+      "en": "Part-time staff qualify after six months.",
+      "ja": "非常勤の職員は六か月で資格を満たす。"
+    }
+  },
+  {
+    "id": "w0723",
+    "type": "word",
+    "en": "quantity",
+    "ja": [
+      "個数"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "quantiti",
+    "senses": [
+      "quantity-countedamount"
+    ],
+    "example": {
+      "en": "Check the quantity against the packing list.",
+      "ja": "個数を梱包明細と照合しなさい。"
+    }
+  },
+  {
+    "id": "w0724",
+    "type": "word",
+    "en": "rate",
+    "ja": [
+      "率"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "rate",
+    "senses": [
+      "rate-measuredproportion"
+    ],
+    "example": {
+      "en": "The hourly rate rises after eight in the evening.",
+      "ja": "夜八時以降は時間あたりの率が上がる。"
+    }
+  },
+  {
+    "id": "w0725",
+    "type": "word",
+    "en": "reach",
+    "ja": [
+      "到達する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "reach",
+    "senses": [
+      "reach-arriveatlevel"
+    ],
+    "example": {
+      "en": "Output reached a record in the third quarter.",
+      "ja": "生産は第三四半期に記録に到達した。"
+    }
+  },
+  {
+    "id": "w0726",
+    "type": "word",
+    "en": "recognize",
+    "ja": [
+      "認める"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "recogn",
+    "senses": [
+      "recognize-acknowledgemerit"
+    ],
+    "example": {
+      "en": "The firm recognizes long service with an award.",
+      "ja": "会社は長い勤続を表彰で認める。"
+    }
+  },
+  {
+    "id": "w0727",
+    "type": "word",
+    "en": "recommendation",
+    "ja": [
+      "推薦"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "recommend2",
+    "senses": [
+      "recommendation-favorablesuggestion"
+    ],
+    "example": {
+      "en": "Two recommendations accompany the application.",
+      "ja": "申込みには推薦が二通添えられている。"
+    }
+  },
+  {
+    "id": "w0728",
+    "type": "word",
+    "en": "reduce-cost",
+    "ja": [
+      "原価低減"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "reducecost",
+    "senses": [
+      "reducecost-loweringexpense"
+    ],
+    "example": {
+      "en": "A cost reduction of eight percent was achieved.",
+      "ja": "八パーセントの原価低減が達成された。"
+    }
+  },
+  {
+    "id": "w0729",
+    "type": "word",
+    "en": "reference",
+    "ja": [
+      "参照"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "referenc",
+    "senses": [
+      "reference-mentionforlookup"
+    ],
+    "example": {
+      "en": "Quote the order number for reference.",
+      "ja": "参照のため注文番号を記しなさい。"
+    }
+  },
+  {
+    "id": "w0730",
+    "type": "word",
+    "en": "reflect",
+    "ja": [
+      "反映する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "reflect",
+    "senses": [
+      "reflect-showresult"
+    ],
+    "example": {
+      "en": "The figures reflect the new pricing.",
+      "ja": "数字は新しい価格設定を反映している。"
+    }
+  },
+  {
+    "id": "w0731",
+    "type": "word",
+    "en": "register-book",
+    "ja": [
+      "台帳"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "registerbook",
+    "senses": [
+      "registerbook-recordledger"
+    ],
+    "example": {
+      "en": "Sign the visitor register book on arrival.",
+      "ja": "到着時に来訪者の台帳に署名しなさい。"
+    }
+  },
+  {
+    "id": "w0732",
+    "type": "word",
+    "en": "regular",
+    "ja": [
+      "定期の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "regular",
+    "senses": [
+      "regular-happeningatintervals"
+    ],
+    "example": {
+      "en": "Regular servicing keeps the lifts safe.",
+      "ja": "定期の整備が昇降機の安全を保つ。"
+    }
+  },
+  {
+    "id": "w0733",
+    "type": "word",
+    "en": "regulation",
+    "ja": [
+      "規制"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "regul",
+    "senses": [
+      "regulation-officialrule"
+    ],
+    "example": {
+      "en": "New regulations govern packaging waste.",
+      "ja": "新しい規制が包装の廃棄物を扱う。"
+    }
+  },
+  {
+    "id": "w0734",
+    "type": "word",
+    "en": "reject",
+    "ja": [
+      "不合格とする"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "reject",
+    "senses": [
+      "reject-refuseasfaulty"
+    ],
+    "example": {
+      "en": "Inspectors rejected six units this morning.",
+      "ja": "検査員は今朝、六台を不合格とした。"
+    }
+  },
+  {
+    "id": "w0735",
+    "type": "word",
+    "en": "release",
+    "ja": [
+      "公開する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "releas",
+    "senses": [
+      "release-makeavailable"
+    ],
+    "example": {
+      "en": "The firm releases results every quarter.",
+      "ja": "会社は四半期ごとに結果を公開する。"
+    }
+  },
+  {
+    "id": "w0736",
+    "type": "word",
+    "en": "relevant",
+    "ja": [
+      "該当する"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "relev",
+    "senses": [
+      "relevant-connectedtomatter"
+    ],
+    "example": {
+      "en": "Attach the relevant pages of the contract.",
+      "ja": "契約の該当する頁を添えなさい。"
+    }
+  },
+  {
+    "id": "w0737",
+    "type": "word",
+    "en": "reliable",
+    "ja": [
+      "信頼できる"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "reliab",
+    "senses": [
+      "reliable-dependablyconsistent"
+    ],
+    "example": {
+      "en": "The carrier proved reliable during the storm.",
+      "ja": "その運送会社は嵐の間も信頼できると分かった。"
+    }
+  },
+  {
+    "id": "w0738",
+    "type": "word",
+    "en": "remain",
+    "ja": [
+      "とどまる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "remain",
+    "senses": [
+      "remain-staythesame"
+    ],
+    "example": {
+      "en": "Two seats remain open on the committee.",
+      "ja": "委員会には二席がとどまって空いている。"
+    }
+  },
+  {
+    "id": "w0739",
+    "type": "word",
+    "en": "remote",
+    "ja": [
+      "遠隔の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "remot",
+    "senses": [
+      "remote-farfromcenter"
+    ],
+    "example": {
+      "en": "A remote site relies on satellite links.",
+      "ja": "遠隔の現場は衛星の回線に頼る。"
+    }
+  },
+  {
+    "id": "w0740",
+    "type": "word",
+    "en": "represent",
+    "ja": [
+      "代理する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "repres",
+    "senses": [
+      "represent-actonbehalf"
+    ],
+    "example": {
+      "en": "An agent represents the maker in Asia.",
+      "ja": "代理人がアジアで製造業者を代理する。"
+    }
+  },
+  {
+    "id": "w0741",
+    "type": "word",
+    "en": "reputation",
+    "ja": [
+      "評判"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "reput",
+    "senses": [
+      "reputation-publicopinionofsomeone"
+    ],
+    "example": {
+      "en": "The firm has a reputation for quick repairs.",
+      "ja": "その会社は素早い修理で評判がある。"
+    }
+  },
+  {
+    "id": "w0742",
+    "type": "word",
+    "en": "require",
+    "ja": [
+      "求める"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "requir",
+    "senses": [
+      "require-demandasnecessary"
+    ],
+    "example": {
+      "en": "The permit requires two signatures.",
+      "ja": "その許可証は署名を二つ求める。"
+    }
+  },
+  {
+    "id": "w0743",
+    "type": "word",
+    "en": "research",
+    "ja": [
+      "研究"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
+    "root": "research",
+    "senses": [
+      "research-systematicstudy"
+    ],
+    "example": {
+      "en": "Research into lighter alloys continues.",
+      "ja": "より軽い合金の研究が続いている。"
+    }
+  },
+  {
+    "id": "w0744",
+    "type": "word",
+    "en": "reserve-fund",
+    "ja": [
+      "準備金"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "reservefund",
+    "senses": [
+      "reservefund-savedmoney"
+    ],
+    "example": {
+      "en": "A reserve fund covers unexpected repairs.",
+      "ja": "準備金が予期せぬ修理を賄う。"
+    }
+  },
+  {
+    "id": "w0745",
+    "type": "word",
+    "en": "resolve",
+    "ja": [
+      "決着させる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "resolv",
+    "senses": [
+      "resolve-settlefinally"
+    ],
+    "example": {
+      "en": "Both sides resolved the billing dispute.",
+      "ja": "双方は請求の争いを決着させた。"
+    }
+  },
+  {
+    "id": "w0746",
+    "type": "word",
+    "en": "resource",
+    "ja": [
+      "資源"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "resourc",
+    "senses": [
+      "resource-availablesupply"
+    ],
+    "example": {
+      "en": "Water is the plant's scarcest resource.",
+      "ja": "水は工場の最も乏しい資源だ。"
+    }
+  },
+  {
+    "id": "w0747",
+    "type": "word",
+    "en": "respond",
+    "ja": [
+      "応答する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "respond",
+    "senses": [
+      "respond-replytoquery"
+    ],
+    "example": {
+      "en": "The desk responds to emails within a day.",
+      "ja": "窓口は一日以内に電子便へ応答する。"
+    }
+  },
+  {
+    "id": "w0748",
+    "type": "word",
+    "en": "restrict",
+    "ja": [
+      "限定する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "restrict",
+    "senses": [
+      "restrict-keepwithinlimits"
+    ],
+    "example": {
+      "en": "Access is restricted to badge holders.",
+      "ja": "立入りは名札の所持者に限定される。"
+    }
+  },
+  {
+    "id": "w0749",
+    "type": "word",
+    "en": "retail",
+    "ja": [
+      "小売"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "retail",
+    "senses": [
+      "retail-sellingtoconsumers"
+    ],
+    "example": {
+      "en": "Retail accounts for most of the revenue.",
+      "ja": "小売が収益の大半を占める。"
+    }
+  },
+  {
+    "id": "w0750",
+    "type": "word",
+    "en": "retain",
+    "ja": [
+      "保持する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "retain",
+    "senses": [
+      "retain-keepinpossession"
+    ],
+    "example": {
+      "en": "Retain the packing slip for six months.",
+      "ja": "納品票は六か月保持しなさい。"
+    }
+  },
+  {
+    "id": "w0751",
+    "type": "word",
+    "en": "revenue-share",
+    "ja": [
+      "収益配分"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "revshare",
+    "senses": [
+      "revshare-splitofincome"
+    ],
+    "example": {
+      "en": "The revenue share favors the smaller partner.",
+      "ja": "収益配分は小さい提携先に有利だ。"
+    }
+  },
+  {
+    "id": "w0752",
+    "type": "word",
+    "en": "route-map",
+    "ja": [
+      "路線図"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part1"
+    ],
+    "root": "routemap",
+    "senses": [
+      "routemap-transportdiagram"
+    ],
+    "example": {
+      "en": "A route map hangs beside the ticket machine.",
+      "ja": "券売機の横に路線図が掛かっている。"
+    }
+  },
+  {
+    "id": "w0753",
+    "type": "word",
+    "en": "satisfy",
+    "ja": [
+      "満たす"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "satisf",
+    "senses": [
+      "satisfy-meetstandard"
+    ],
+    "example": {
+      "en": "The sample satisfies every export requirement.",
+      "ja": "その見本は輸出の要件をすべて満たす。"
+    }
+  },
+  {
+    "id": "w0754",
+    "type": "word",
+    "en": "schedule-change",
+    "ja": [
+      "予定変更"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "schedchange",
+    "senses": [
+      "schedchange-alteredtiming"
+    ],
+    "example": {
+      "en": "A schedule change moved the audit to July.",
+      "ja": "予定変更で監査は七月へ動いた。"
+    }
+  },
+  {
+    "id": "w0755",
+    "type": "word",
+    "en": "scope",
+    "ja": [
+      "適用範囲"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "scope",
+    "senses": [
+      "scope-extentcovered"
+    ],
+    "example": {
+      "en": "The scope of the warranty excludes misuse.",
+      "ja": "保証の適用範囲は誤用を除く。"
+    }
+  },
+  {
+    "id": "w0756",
+    "type": "word",
+    "en": "secure",
+    "ja": [
+      "確保する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "secur",
+    "senses": [
+      "secure-obtainsafely"
+    ],
+    "example": {
+      "en": "The team secured space on the next vessel.",
+      "ja": "その班は次の船の積み場所を確保した。"
+    }
+  },
+  {
+    "id": "w0757",
+    "type": "word",
+    "en": "segment",
+    "ja": [
+      "区分"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "segment",
+    "senses": [
+      "segment-marketdivision"
+    ],
+    "example": {
+      "en": "The premium segment grew fastest last year.",
+      "ja": "高価格の区分が昨年最も伸びた。"
+    }
+  },
+  {
+    "id": "w0758",
+    "type": "word",
+    "en": "select-item",
+    "ja": [
+      "選定品"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "selectitem",
+    "senses": [
+      "selectitem-chosengoods"
+    ],
+    "example": {
+      "en": "Select items carry a longer guarantee.",
+      "ja": "選定品にはより長い保証が付く。"
+    }
+  },
+  {
+    "id": "w0759",
+    "type": "word",
+    "en": "sequence",
+    "ja": [
+      "順序"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "sequenc",
+    "senses": [
+      "sequence-orderofsteps"
+    ],
+    "example": {
+      "en": "Follow the wiring sequence in the diagram.",
+      "ja": "図の配線の順序に従いなさい。"
+    }
+  },
+  {
+    "id": "w0760",
+    "type": "word",
+    "en": "session",
+    "ja": [
+      "回次"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "session",
+    "senses": [
+      "session-meetingperiod"
+    ],
+    "example": {
+      "en": "The morning session covers safety topics.",
+      "ja": "午前の回次は安全の話題を扱う。"
+    }
+  },
+  {
+    "id": "w0761",
+    "type": "word",
+    "en": "settle",
+    "ja": [
+      "清算して支払う"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "settl",
+    "senses": [
+      "settle-payinfull"
+    ],
+    "example": {
+      "en": "Please settle the account before the tenth.",
+      "ja": "十日までに勘定を清算して支払ってください。"
+    }
+  },
+  {
+    "id": "w0762",
+    "type": "word",
+    "en": "severe",
+    "ja": [
+      "深刻な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "sever",
+    "senses": [
+      "severe-veryserious"
+    ],
+    "example": {
+      "en": "Severe frost damaged the outdoor pipes.",
+      "ja": "深刻な霜が屋外の管を傷めた。"
+    }
+  },
+  {
+    "id": "w0763",
+    "type": "word",
+    "en": "shift",
+    "ja": [
+      "交代勤務"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "shift",
+    "senses": [
+      "shift-workperiod"
+    ],
+    "example": {
+      "en": "The late shift starts at four in the afternoon.",
+      "ja": "遅い交代勤務は午後四時に始まる。"
+    }
+  },
+  {
+    "id": "w0764",
+    "type": "word",
+    "en": "significant",
+    "ja": [
+      "著しい"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "signific",
+    "senses": [
+      "significant-notablylarge"
+    ],
+    "example": {
+      "en": "There was a significant drop in returns.",
+      "ja": "返品に著しい減少があった。"
+    }
+  },
+  {
+    "id": "w0765",
+    "type": "word",
+    "en": "similar",
+    "ja": [
+      "類似の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "similar",
+    "senses": [
+      "similar-alikeincharacter"
+    ],
+    "example": {
+      "en": "Both machines use similar control panels.",
+      "ja": "両方の機械は類似の操作盤を使う。"
+    }
+  },
+  {
+    "id": "w0766",
+    "type": "word",
+    "en": "skill",
+    "ja": [
+      "技能"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "skill",
+    "senses": [
+      "skill-learnedability"
+    ],
+    "example": {
+      "en": "Welding skills are in short supply locally.",
+      "ja": "溶接の技能は地元で不足している。"
+    }
+  },
+  {
+    "id": "w0767",
+    "type": "word",
+    "en": "solution",
+    "ja": [
+      "解決策"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "solut",
+    "senses": [
+      "solution-answertoproblem"
+    ],
+    "example": {
+      "en": "A simple solution fixed the jamming issue.",
+      "ja": "単純な解決策が詰まりの問題を直した。"
+    }
+  },
+  {
+    "id": "w0768",
+    "type": "word",
+    "en": "source",
+    "ja": [
+      "調達先"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "sourc",
+    "senses": [
+      "source-originofsupply"
+    ],
+    "example": {
+      "en": "The firm found a closer source for glass.",
+      "ja": "会社はガラスのより近い調達先を見つけた。"
+    }
+  },
+  {
+    "id": "w0769",
+    "type": "word",
+    "en": "specific",
+    "ja": [
+      "具体的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "specif",
+    "senses": [
+      "specific-clearlydefined"
+    ],
+    "example": {
+      "en": "Give specific dates in the request.",
+      "ja": "依頼には具体的な日付を書きなさい。"
+    }
+  },
+  {
+    "id": "w0770",
+    "type": "word",
+    "en": "sponsor",
+    "ja": [
+      "後援する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "sponsor",
+    "senses": [
+      "sponsor-supportfinancially"
+    ],
+    "example": {
+      "en": "The bank sponsors the town's summer festival.",
+      "ja": "その銀行は町の夏祭りを後援する。"
+    }
+  },
+  {
+    "id": "w0771",
+    "type": "word",
+    "en": "standard",
+    "ja": [
+      "基準"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "standard",
+    "senses": [
+      "standard-acceptedlevel"
+    ],
+    "example": {
+      "en": "The batch met every safety standard.",
+      "ja": "その生産分は安全の基準をすべて満たした。"
+    }
+  },
+  {
+    "id": "w0772",
+    "type": "word",
+    "en": "statement",
+    "ja": [
+      "明細書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "statement",
+    "senses": [
+      "statement-financialsummary"
+    ],
+    "example": {
+      "en": "The monthly statement arrives by post.",
+      "ja": "月々の明細書は郵便で届く。"
+    }
+  },
+  {
+    "id": "w0773",
+    "type": "word",
+    "en": "strategy",
+    "ja": [
+      "戦略"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "strateg",
+    "senses": [
+      "strategy-longtermplan"
+    ],
+    "example": {
+      "en": "The export strategy targets three countries.",
+      "ja": "輸出の戦略は三か国を狙う。"
+    }
+  },
+  {
+    "id": "w0774",
+    "type": "word",
+    "en": "strength",
+    "ja": [
+      "強み"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "strength",
+    "senses": [
+      "strength-strongpoint"
+    ],
+    "example": {
+      "en": "Fast delivery is the firm's main strength.",
+      "ja": "速い配送が会社の主な強みだ。"
+    }
+  },
+  {
+    "id": "w0775",
+    "type": "word",
+    "en": "structure",
+    "ja": [
+      "構造"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "structur",
+    "senses": [
+      "structure-buildframework"
+    ],
+    "example": {
+      "en": "Engineers checked the roof structure.",
+      "ja": "技術者が屋根の構造を確かめた。"
+    }
+  },
+  {
+    "id": "w0776",
+    "type": "word",
+    "en": "subscribe",
+    "ja": [
+      "購読する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "subscrib",
+    "senses": [
+      "subscribe-payforregularissues"
+    ],
+    "example": {
+      "en": "The library subscribes to four trade journals.",
+      "ja": "図書室は業界誌を四誌購読している。"
+    }
+  },
+  {
+    "id": "w0777",
+    "type": "word",
+    "en": "substitute",
+    "ja": [
+      "代用する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "substitut",
+    "senses": [
+      "substitute-useinplaceof"
+    ],
+    "example": {
+      "en": "The cook substituted oil for butter.",
+      "ja": "料理人はバターの代わりに油を代用した。"
+    }
+  },
+  {
+    "id": "w0778",
+    "type": "word",
+    "en": "succeed",
+    "ja": [
+      "後任となる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "succeed",
+    "senses": [
+      "succeed-takeoverposition"
+    ],
+    "example": {
+      "en": "Mr. Aoki succeeds her as plant manager.",
+      "ja": "青木氏が工場長として彼女の後任となる。"
+    }
+  },
+  {
+    "id": "w0779",
+    "type": "word",
+    "en": "sufficient-stock",
+    "ja": [
+      "十分な在庫"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "suffstock",
+    "senses": [
+      "suffstock-adequatesupply"
+    ],
+    "example": {
+      "en": "Sufficient stock remains for the campaign.",
+      "ja": "販売のための十分な在庫が残っている。"
+    }
+  },
+  {
+    "id": "w0780",
+    "type": "word",
+    "en": "summary",
+    "ja": [
+      "要約"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "summar",
+    "senses": [
+      "summary-shortaccount"
+    ],
+    "example": {
+      "en": "A one-page summary precedes the report.",
+      "ja": "一頁の要約が報告書の前に付く。"
+    }
+  },
+  {
+    "id": "w0781",
+    "type": "word",
+    "en": "supply-chain",
+    "ja": [
+      "供給網"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "supplychain",
+    "senses": [
+      "supplychain-networkofsuppliers"
+    ],
+    "example": {
+      "en": "The supply chain runs through three countries.",
+      "ja": "供給網は三か国を通っている。"
+    }
+  },
+  {
+    "id": "w0782",
+    "type": "word",
+    "en": "support",
+    "ja": [
+      "支援する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "support",
+    "senses": [
+      "support-givehelp"
+    ],
+    "example": {
+      "en": "The maker supports older models for ten years.",
+      "ja": "製造業者は古い型式を十年支援する。"
+    }
+  },
+  {
+    "id": "w0783",
+    "type": "word",
+    "en": "surface",
+    "ja": [
+      "表面"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "surfac",
+    "senses": [
+      "surface-outerlayer"
+    ],
+    "example": {
+      "en": "Wipe the surface before applying the film.",
+      "ja": "膜を貼る前に表面を拭きなさい。"
+    }
+  },
+  {
+    "id": "w0784",
+    "type": "word",
+    "en": "survey-result",
+    "ja": [
+      "調査結果"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "surveyresult",
+    "senses": [
+      "surveyresult-pollfindings"
+    ],
+    "example": {
+      "en": "Survey results appear on the notice board.",
+      "ja": "調査結果は掲示板に出る。"
+    }
+  },
+  {
+    "id": "w0785",
+    "type": "word",
+    "en": "target",
+    "ja": [
+      "目標値"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "target",
+    "senses": [
+      "target-aimednumber"
+    ],
+    "example": {
+      "en": "The team beat its quarterly target.",
+      "ja": "その班は四半期の目標値を上回った。"
+    }
+  },
+  {
+    "id": "w0786",
+    "type": "word",
+    "en": "technical",
+    "ja": [
+      "技術的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "technic",
+    "senses": [
+      "technical-relatingtotechnology"
+    ],
+    "example": {
+      "en": "A technical fault stopped the third line.",
+      "ja": "技術的な不具合が第三の生産設備を止めた。"
+    }
+  },
+  {
+    "id": "w0787",
+    "type": "word",
+    "en": "temporary",
+    "ja": [
+      "一時的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "temporari",
+    "senses": [
+      "temporary-lastingshorttime"
+    ],
+    "example": {
+      "en": "Temporary staff cover the busy season.",
+      "ja": "一時的な職員が繁忙期を補う。"
+    }
+  },
+  {
+    "id": "w0788",
+    "type": "word",
+    "en": "tenant-fee",
+    "ja": [
+      "入居費用"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "tenantfee",
+    "senses": [
+      "tenantfee-occupancycharge"
+    ],
+    "example": {
+      "en": "Tenant fees include waste collection.",
+      "ja": "入居費用には廃棄物の回収が含まれる。"
+    }
+  },
+  {
+    "id": "w0789",
+    "type": "word",
+    "en": "term",
+    "ja": [
+      "条件"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "term",
+    "senses": [
+      "term-contractcondition"
+    ],
+    "example": {
+      "en": "The payment terms changed this year.",
+      "ja": "支払いの条件は今年変わった。"
+    }
+  },
+  {
+    "id": "w0790",
+    "type": "word",
+    "en": "territory",
+    "ja": [
+      "担当区域"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "territori",
+    "senses": [
+      "territory-assignedsalesarea"
+    ],
+    "example": {
+      "en": "Each representative covers one territory.",
+      "ja": "各担当者が一つの担当区域を受け持つ。"
+    }
+  },
+  {
+    "id": "w0791",
+    "type": "word",
+    "en": "transaction",
+    "ja": [
+      "取引"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "transact",
+    "senses": [
+      "transaction-businessdealing"
+    ],
+    "example": {
+      "en": "Every transaction is logged automatically.",
+      "ja": "すべての取引は自動で記録される。"
+    }
+  },
+  {
+    "id": "w0792",
+    "type": "word",
+    "en": "translate",
+    "ja": [
+      "翻訳する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "translat",
+    "senses": [
+      "translate-changelanguage"
+    ],
+    "example": {
+      "en": "Manuals are translated into four languages.",
+      "ja": "手引書は四か国語に翻訳される。"
+    }
+  },
+  {
+    "id": "w0793",
+    "type": "word",
+    "en": "transport-cost",
+    "ja": [
+      "輸送費"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "transportcost",
+    "senses": [
+      "transportcost-shippingexpense"
+    ],
+    "example": {
+      "en": "Transport costs rose with the fuel price.",
+      "ja": "輸送費は燃料の価格とともに上がった。"
+    }
+  },
+  {
+    "id": "w0794",
+    "type": "word",
+    "en": "trend",
+    "ja": [
+      "動向"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part4"
+    ],
+    "root": "trend",
+    "senses": [
+      "trend-generaldirection"
+    ],
+    "example": {
+      "en": "The trend toward smaller packs continues.",
+      "ja": "小型の包装への動向は続いている。"
+    }
+  },
+  {
+    "id": "w0795",
+    "type": "word",
+    "en": "typical",
+    "ja": [
+      "典型的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "typic",
+    "senses": [
+      "typical-representativeofkind"
+    ],
+    "example": {
+      "en": "A typical run lasts about six hours.",
+      "ja": "典型的な運転は約六時間続く。"
+    }
+  },
+  {
+    "id": "w0796",
+    "type": "word",
+    "en": "unit",
+    "ja": [
+      "一台"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "unitn",
+    "senses": [
+      "unit-singlemachine"
+    ],
+    "example": {
+      "en": "Each unit carries a printed serial plate.",
+      "ja": "各一台に刻印の銘板が付く。"
+    }
+  },
+  {
+    "id": "w0797",
+    "type": "word",
+    "en": "urgent",
+    "ja": [
+      "至急の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "urgent",
+    "senses": [
+      "urgent-needingimmediateaction"
+    ],
+    "example": {
+      "en": "An urgent repair delayed the morning run.",
+      "ja": "至急の修理が午前の運行を遅らせた。"
+    }
+  },
+  {
+    "id": "w0798",
+    "type": "word",
+    "en": "usage",
+    "ja": [
+      "使用量"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "usag",
+    "senses": [
+      "usage-amountconsumed"
+    ],
+    "example": {
+      "en": "Water usage fell after the pipes were fixed.",
+      "ja": "管の修理後、水の使用量は減った。"
+    }
+  },
+  {
+    "id": "w0799",
+    "type": "word",
+    "en": "vary",
+    "ja": [
+      "異なる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "vari",
+    "senses": [
+      "vary-differbycase"
+    ],
+    "example": {
+      "en": "Delivery times vary by region.",
+      "ja": "配達時間は地域によって異なる。"
+    }
+  },
+  {
+    "id": "w0800",
+    "type": "word",
+    "en": "verify",
+    "ja": [
+      "照合する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "verif",
+    "senses": [
+      "verify-checkcorrectness"
+    ],
+    "example": {
+      "en": "Verify the count against the packing note.",
+      "ja": "数を納品書と照合しなさい。"
+    }
+  },
+  {
+    "id": "w0801",
+    "type": "word",
+    "en": "volume",
+    "ja": [
+      "取扱量"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part4"
+    ],
+    "root": "volum",
+    "senses": [
+      "volume-quantityhandled"
+    ],
+    "example": {
+      "en": "Volume at the port doubled in five years.",
+      "ja": "港の取扱量は五年で倍になった。"
+    }
+  },
+  {
+    "id": "w0802",
+    "type": "word",
+    "en": "warehouse-fee",
+    "ja": [
+      "保管料"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "warehousefee",
+    "senses": [
+      "warehousefee-storagecharge"
+    ],
+    "example": {
+      "en": "Warehouse fees are billed by the pallet.",
+      "ja": "保管料は荷台ごとに請求される。"
+    }
+  },
+  {
+    "id": "w0803",
+    "type": "word",
+    "en": "weight",
+    "ja": [
+      "重量"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "weight",
+    "senses": [
+      "weight-heavinessmeasure"
+    ],
+    "example": {
+      "en": "Total weight must stay under two tonnes.",
+      "ja": "総重量は二トン未満に収めねばならない。"
+    }
+  },
+  {
+    "id": "w0804",
+    "type": "word",
+    "en": "withdraw",
+    "ja": [
+      "引き出す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "withdraw",
+    "senses": [
+      "withdraw-takeoutmoney"
+    ],
+    "example": {
+      "en": "Staff may withdraw cash from the lobby machine.",
+      "ja": "職員はロビーの機械から現金を引き出せる。"
+    }
+  },
+  {
+    "id": "w0805",
+    "type": "word",
+    "en": "workshop",
+    "ja": [
+      "講習会"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part4"
+    ],
+    "root": "workshop",
+    "senses": [
+      "workshop-traininingsession"
+    ],
+    "example": {
+      "en": "A workshop on packing runs every Tuesday.",
+      "ja": "梱包の講習会が毎週火曜に開かれる。"
+    }
+  },
+  {
+    "id": "w0806",
+    "type": "word",
+    "en": "yearly",
+    "ja": [
+      "毎年の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "yearli",
+    "senses": [
+      "yearly-onceayear"
+    ],
+    "example": {
+      "en": "The yearly audit begins in October.",
+      "ja": "毎年の監査は十月に始まる。"
+    }
+  },
+  {
+    "id": "w0807",
+    "type": "word",
+    "en": "abundant",
+    "ja": [
+      "豊富な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "abund",
+    "senses": [
+      "abundant-plentifulsupply"
+    ],
+    "example": {
+      "en": "Abundant rainfall filled the site reservoir.",
+      "ja": "豊富な降雨が敷地の貯水池を満たした。"
+    }
+  },
+  {
+    "id": "w0808",
+    "type": "word",
+    "en": "accommodating",
+    "ja": [
+      "融通のきく"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "accommod2",
+    "senses": [
+      "accommodating-willingtohelp"
+    ],
+    "example": {
+      "en": "The hotel staff were accommodating about late arrivals.",
+      "ja": "ホテルの職員は遅い到着に融通のきく対応をした。"
+    }
+  },
+  {
+    "id": "w0809",
+    "type": "word",
+    "en": "adopt",
+    "ja": [
+      "採り入れる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "adopt",
+    "senses": [
+      "adopt-startusing"
+    ],
+    "example": {
+      "en": "The plant adopted a paperless work order.",
+      "ja": "工場は紙を使わない作業指示を採り入れた。"
+    }
+  },
+  {
+    "id": "w0810",
+    "type": "word",
+    "en": "advise",
+    "ja": [
+      "助言する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "advis",
+    "senses": [
+      "advise-giverecommendation"
+    ],
+    "example": {
+      "en": "The lawyer advised against signing today.",
+      "ja": "弁護士は本日の署名に反対する助言をした。"
+    }
+  },
+  {
+    "id": "w0811",
+    "type": "word",
+    "en": "affect",
+    "ja": [
+      "作用する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "affect",
+    "senses": [
+      "affect-produceeffecton"
+    ],
+    "example": {
+      "en": "Humidity affects how the glue sets.",
+      "ja": "湿度が接着剤の固まり方に作用する。"
+    }
+  },
+  {
+    "id": "w0812",
+    "type": "word",
+    "en": "allow",
+    "ja": [
+      "許す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "allowv",
+    "senses": [
+      "allow-permitaction"
+    ],
+    "example": {
+      "en": "The rules allow one guest per resident.",
+      "ja": "規則は居住者一名につき客一名を許す。"
+    }
+  },
+  {
+    "id": "w0813",
+    "type": "word",
+    "en": "alternate",
+    "ja": [
+      "交互の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "altern2",
+    "senses": [
+      "alternate-everysecondone"
+    ],
+    "example": {
+      "en": "Cleaning happens on alternate weeks.",
+      "ja": "清掃は交互の週に行われる。"
+    }
+  },
+  {
+    "id": "w0814",
+    "type": "word",
+    "en": "ambitious",
+    "ja": [
+      "野心的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "ambiti",
+    "senses": [
+      "ambitious-boldlyaiming"
+    ],
+    "example": {
+      "en": "The maker set an ambitious export goal.",
+      "ja": "製造業者は野心的な輸出の目標を掲げた。"
+    }
+  },
+  {
+    "id": "w0815",
+    "type": "word",
+    "en": "apparent-cause",
+    "ja": [
+      "直接原因"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "apparentcause",
+    "senses": [
+      "apparentcause-immediatereason"
+    ],
+    "example": {
+      "en": "The apparent cause was a worn bearing.",
+      "ja": "直接原因は摩耗した軸受けだった。"
+    }
+  },
+  {
+    "id": "w0816",
+    "type": "word",
+    "en": "appliance-store",
+    "ja": [
+      "家電店"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "appliancestore",
+    "senses": [
+      "appliancestore-electricalshop"
+    ],
+    "example": {
+      "en": "The appliance store closes for stocktaking.",
+      "ja": "家電店は棚卸しのため閉まる。"
+    }
+  },
+  {
+    "id": "w0817",
+    "type": "word",
+    "en": "approach",
+    "ja": [
+      "取り組み方"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "approach",
+    "senses": [
+      "approach-methodofdealing"
+    ],
+    "example": {
+      "en": "A gentler approach cut the complaint rate.",
+      "ja": "より穏やかな取り組み方が苦情の率を下げた。"
+    }
+  },
+  {
+    "id": "w0818",
+    "type": "word",
+    "en": "arrangement",
+    "ja": [
+      "取り決め"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "arrang2",
+    "senses": [
+      "arrangement-agreedplan"
+    ],
+    "example": {
+      "en": "A special arrangement covers weekend deliveries.",
+      "ja": "特別な取り決めが週末の配達を扱う。"
+    }
+  },
+  {
+    "id": "w0819",
+    "type": "word",
+    "en": "aspect",
+    "ja": [
+      "側面"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "aspect",
+    "senses": [
+      "aspect-particularside"
+    ],
+    "example": {
+      "en": "Cost is only one aspect of the choice.",
+      "ja": "費用は選択の一側面にすぎない。"
+    }
+  },
+  {
+    "id": "w0820",
+    "type": "word",
+    "en": "attempt",
+    "ja": [
+      "試み"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "attempt",
+    "senses": [
+      "attempt-effortmade"
+    ],
+    "example": {
+      "en": "The first attempt at the coating failed.",
+      "ja": "塗膜の最初の試みは失敗した。"
+    }
+  },
+  {
+    "id": "w0821",
+    "type": "word",
+    "en": "attitude",
+    "ja": [
+      "姿勢"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "attitud",
+    "senses": [
+      "attitude-mentalstance"
+    ],
+    "example": {
+      "en": "Her calm attitude steadied the whole team.",
+      "ja": "彼女の落ち着いた姿勢が班全体を安定させた。"
+    }
+  },
+  {
+    "id": "w0822",
+    "type": "word",
+    "en": "awareness",
+    "ja": [
+      "認識"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "aware2",
+    "senses": [
+      "awareness-stateofknowing"
+    ],
+    "example": {
+      "en": "Safety awareness improved after the drill.",
+      "ja": "訓練の後、安全の認識が高まった。"
+    }
+  },
+  {
+    "id": "w0823",
+    "type": "word",
+    "en": "background",
+    "ja": [
+      "経歴"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "background",
+    "senses": [
+      "background-personalhistory"
+    ],
+    "example": {
+      "en": "Her background is in industrial design.",
+      "ja": "彼女の経歴は工業設計にある。"
+    }
+  },
+  {
+    "id": "w0824",
+    "type": "word",
+    "en": "barrier",
+    "ja": [
+      "障壁"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "barrier",
+    "senses": [
+      "barrier-blockingobstacle"
+    ],
+    "example": {
+      "en": "Language remains a barrier at the port.",
+      "ja": "言葉が港での障壁のままだ。"
+    }
+  },
+  {
+    "id": "w0825",
+    "type": "word",
+    "en": "basis",
+    "ja": [
+      "基礎"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "basi",
+    "senses": [
+      "basis-foundationforaction"
+    ],
+    "example": {
+      "en": "Charges are made on a monthly basis.",
+      "ja": "料金は月ごとの基礎で課される。"
+    }
+  },
+  {
+    "id": "w0826",
+    "type": "word",
+    "en": "boost",
+    "ja": [
+      "押し上げる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "boost",
+    "senses": [
+      "boost-raisesharply"
+    ],
+    "example": {
+      "en": "Free delivery boosted weekend orders.",
+      "ja": "無料配送が週末の注文を押し上げた。"
+    }
+  },
+  {
+    "id": "w0827",
+    "type": "word",
+    "en": "brief-note",
+    "ja": [
+      "覚書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "briefnote",
+    "senses": [
+      "briefnote-shortmemo"
+    ],
+    "example": {
+      "en": "A brief note explains the change in hours.",
+      "ja": "覚書が時間の変更を説明している。"
+    }
+  },
+  {
+    "id": "w0828",
+    "type": "word",
+    "en": "capable",
+    "ja": [
+      "有能な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "capabl",
+    "senses": [
+      "capable-havingability"
+    ],
+    "example": {
+      "en": "A capable technician fixed it in minutes.",
+      "ja": "有能な技術者が数分で直した。"
+    }
+  },
+  {
+    "id": "w0829",
+    "type": "word",
+    "en": "challenge",
+    "ja": [
+      "課題"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "challeng",
+    "senses": [
+      "challenge-difficulttask"
+    ],
+    "example": {
+      "en": "Staffing the night shift is a challenge.",
+      "ja": "夜勤の人員確保は課題だ。"
+    }
+  },
+  {
+    "id": "w0830",
+    "type": "word",
+    "en": "characteristic",
+    "ja": [
+      "特性"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "characterist",
+    "senses": [
+      "characteristic-distinctivequality"
+    ],
+    "example": {
+      "en": "The alloy's key characteristic is low weight.",
+      "ja": "その合金の主な特性は軽さだ。"
+    }
+  },
+  {
+    "id": "w0831",
+    "type": "word",
+    "en": "clause",
+    "ja": [
+      "条項"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "claus",
+    "senses": [
+      "clause-contractsection"
+    ],
+    "example": {
+      "en": "A short clause covers late delivery.",
+      "ja": "短い条項が納品の遅れを扱う。"
+    }
+  },
+  {
+    "id": "w0832",
+    "type": "word",
+    "en": "collaborate",
+    "ja": [
+      "共同で取り組む"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "collabor",
+    "senses": [
+      "collaborate-workjointly"
+    ],
+    "example": {
+      "en": "Two labs collaborate on the coating study.",
+      "ja": "二つの研究室が塗膜の研究に共同で取り組む。"
+    }
+  },
+  {
+    "id": "w0833",
+    "type": "word",
+    "en": "commit",
+    "ja": [
+      "確約する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "commit2",
+    "senses": [
+      "commit-pledgefirmly"
+    ],
+    "example": {
+      "en": "The supplier committed to weekly deliveries.",
+      "ja": "供給業者は週ごとの配達を確約した。"
+    }
+  },
+  {
+    "id": "w0834",
+    "type": "word",
+    "en": "compact",
+    "ja": [
+      "小型の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "compact",
+    "senses": [
+      "compact-smallandneat"
+    ],
+    "example": {
+      "en": "A compact model suits the smaller stores.",
+      "ja": "小型の型式は小さい店に向く。"
+    }
+  },
+  {
+    "id": "w0835",
+    "type": "word",
+    "en": "comparison",
+    "ja": [
+      "比較"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "comparison",
+    "senses": [
+      "comparison-actofcomparing"
+    ],
+    "example": {
+      "en": "A comparison of the two quotes is attached.",
+      "ja": "二つの見積書の比較を添付する。"
+    }
+  },
+  {
+    "id": "w0836",
+    "type": "word",
+    "en": "complicated",
+    "ja": [
+      "込み入った"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "complic",
+    "senses": [
+      "complicated-hardtounderstand"
+    ],
+    "example": {
+      "en": "The refund rules are unnecessarily complicated.",
+      "ja": "返金の規則は不必要に込み入っている。"
+    }
+  },
+  {
+    "id": "w0837",
+    "type": "word",
+    "en": "concentrate",
+    "ja": [
+      "集中する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "concentr",
+    "senses": [
+      "concentrate-focusattention"
+    ],
+    "example": {
+      "en": "The team concentrated on the packing line.",
+      "ja": "その班は梱包の生産設備に集中した。"
+    }
+  },
+  {
+    "id": "w0838",
+    "type": "word",
+    "en": "conclusion",
+    "ja": [
+      "結論"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "conclus",
+    "senses": [
+      "conclusion-finaljudgment"
+    ],
+    "example": {
+      "en": "The report ends with a clear conclusion.",
+      "ja": "報告書は明確な結論で終わる。"
+    }
+  },
+  {
+    "id": "w0839",
+    "type": "word",
+    "en": "confident",
+    "ja": [
+      "確信している"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "confid2",
+    "senses": [
+      "confident-surelybelieving"
+    ],
+    "example": {
+      "en": "Management is confident about the autumn launch.",
+      "ja": "経営陣は秋の発売を確信している。"
+    }
+  },
+  {
+    "id": "w0840",
+    "type": "word",
+    "en": "consequence",
+    "ja": [
+      "帰結"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "consequ",
+    "senses": [
+      "consequence-resultingeffect"
+    ],
+    "example": {
+      "en": "Late payment has a clear consequence.",
+      "ja": "支払いの遅れには明確な帰結がある。"
+    }
+  },
+  {
+    "id": "w0841",
+    "type": "word",
+    "en": "consistent",
+    "ja": [
+      "一貫した"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "consist",
+    "senses": [
+      "consistent-unchanginginquality"
+    ],
+    "example": {
+      "en": "Consistent quality won the repeat contract.",
+      "ja": "一貫した品質が継続の契約を勝ち取った。"
+    }
+  },
+  {
+    "id": "w0842",
+    "type": "word",
+    "en": "constant",
+    "ja": [
+      "絶え間ない"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "constant",
+    "senses": [
+      "constant-continuouswithoutpause"
+    ],
+    "example": {
+      "en": "Constant vibration loosened the bolts.",
+      "ja": "絶え間ない振動が留め具を緩めた。"
+    }
+  },
+  {
+    "id": "w0843",
+    "type": "word",
+    "en": "construct",
+    "ja": [
+      "築く"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "construct2",
+    "senses": [
+      "construct-buildstructure"
+    ],
+    "example": {
+      "en": "The firm constructed a second loading dock.",
+      "ja": "会社は二つ目の荷積み場を築いた。"
+    }
+  },
+  {
+    "id": "w0844",
+    "type": "word",
+    "en": "consumption",
+    "ja": [
+      "消費"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "consumpt",
+    "senses": [
+      "consumption-actofusingup"
+    ],
+    "example": {
+      "en": "Energy consumption dropped after the retrofit.",
+      "ja": "改修の後、電力の消費は落ちた。"
+    }
+  },
+  {
+    "id": "w0845",
+    "type": "word",
+    "en": "context",
+    "ja": [
+      "文脈"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "context",
+    "senses": [
+      "context-surroundingcircumstances"
+    ],
+    "example": {
+      "en": "Read the clause in its full context.",
+      "ja": "その条項は完全な文脈で読みなさい。"
+    }
+  },
+  {
+    "id": "w0846",
+    "type": "word",
+    "en": "contract-term",
+    "ja": [
+      "契約期間"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "contractterm",
+    "senses": [
+      "contractterm-agreementduration"
+    ],
+    "example": {
+      "en": "The contract term ends next March.",
+      "ja": "契約期間は来年三月に終わる。"
+    }
+  },
+  {
+    "id": "w0847",
+    "type": "word",
+    "en": "convert",
+    "ja": [
+      "転用する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part5"
+    ],
+    "root": "convert",
+    "senses": [
+      "convert-changepurpose"
+    ],
+    "example": {
+      "en": "The owner converted the shed into offices.",
+      "ja": "所有者は小屋を事務所に転用した。"
+    }
+  },
+  {
+    "id": "w0848",
+    "type": "word",
+    "en": "cooperate",
+    "ja": [
+      "協力する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "cooper",
+    "senses": [
+      "cooperate-worktogether"
+    ],
+    "example": {
+      "en": "Both depots cooperate during peak season.",
+      "ja": "繁忙期には両方の拠点が協力する。"
+    }
+  },
+  {
+    "id": "w0849",
+    "type": "word",
+    "en": "correct",
+    "ja": [
+      "訂正する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "correct",
+    "senses": [
+      "correct-fixmistake"
+    ],
+    "example": {
+      "en": "Correct the address before you print.",
+      "ja": "印刷の前に住所を訂正しなさい。"
+    }
+  },
+  {
+    "id": "w0850",
+    "type": "word",
+    "en": "credit-note",
+    "ja": [
+      "貸方票"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "creditnote",
+    "senses": [
+      "creditnote-refunddocument"
+    ],
+    "example": {
+      "en": "A credit note was issued for the shortage.",
+      "ja": "不足分について貸方票が発行された。"
+    }
+  },
+  {
+    "id": "w0851",
+    "type": "word",
+    "en": "critical",
+    "ja": [
+      "重大な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "critic",
+    "senses": [
+      "critical-decisivelyimportant"
+    ],
+    "example": {
+      "en": "A critical valve failed during the test.",
+      "ja": "試験中に重大な弁が故障した。"
+    }
+  },
+  {
+    "id": "w0852",
+    "type": "word",
+    "en": "current-model",
+    "ja": [
+      "現行機種"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "currentmodel",
+    "senses": [
+      "currentmodel-presentversion"
+    ],
+    "example": {
+      "en": "The current model uses less power.",
+      "ja": "現行機種は電力の消費が少ない。"
+    }
+  },
+  {
+    "id": "w0853",
+    "type": "word",
+    "en": "deadline-extension",
+    "ja": [
+      "期限延長"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "deadlineext",
+    "senses": [
+      "deadlineext-grantedmoretime"
+    ],
+    "example": {
+      "en": "A deadline extension was granted twice.",
+      "ja": "期限延長は二度認められた。"
+    }
+  },
+  {
+    "id": "w0854",
+    "type": "word",
+    "en": "decline",
+    "ja": [
+      "落ち込む"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "declin",
+    "senses": [
+      "decline-decreasesteadily"
+    ],
+    "example": {
+      "en": "Orders declined during the wet season.",
+      "ja": "注文は雨季の間に落ち込んだ。"
+    }
+  },
+  {
+    "id": "w0855",
+    "type": "word",
+    "en": "decrease",
+    "ja": [
+      "下がる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "decreas",
+    "senses": [
+      "decrease-becomeless"
+    ],
+    "example": {
+      "en": "Fuel costs decreased for a third month.",
+      "ja": "燃料費は三か月続けて下がった。"
+    }
+  },
+  {
+    "id": "w0856",
+    "type": "word",
+    "en": "dedicate",
+    "ja": [
+      "専用に充てる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "dedic",
+    "senses": [
+      "dedicate-setasideforuse"
+    ],
+    "example": {
+      "en": "One bay is dedicated to returns.",
+      "ja": "一つの区画が返品の専用に充てられている。"
+    }
+  },
+  {
+    "id": "w0857",
+    "type": "word",
+    "en": "deliver-note",
+    "ja": [
+      "納品書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "delivernote",
+    "senses": [
+      "delivernote-goodsreceipt"
+    ],
+    "example": {
+      "en": "The driver left the delivery note unsigned.",
+      "ja": "運転手は納品書に署名せず置いていった。"
+    }
+  },
+  {
+    "id": "w0858",
+    "type": "word",
+    "en": "depend",
+    "ja": [
+      "左右される"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "depend",
+    "senses": [
+      "depend-becontingenton"
+    ],
+    "example": {
+      "en": "Arrival depends on the ferry timetable.",
+      "ja": "到着は渡し船の時刻表に左右される。"
+    }
+  },
+  {
+    "id": "w0859",
+    "type": "word",
+    "en": "describe",
+    "ja": [
+      "描写する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "describ",
+    "senses": [
+      "describe-giveaccountof"
+    ],
+    "example": {
+      "en": "The witness described the damaged crate.",
+      "ja": "目撃者は破損した木箱を描写した。"
+    }
+  },
+  {
+    "id": "w0860",
+    "type": "word",
+    "en": "design",
+    "ja": [
+      "設計する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "design2",
+    "senses": [
+      "design-planlayout"
+    ],
+    "example": {
+      "en": "Engineers designed a lighter frame.",
+      "ja": "技術者はより軽い枠を設計した。"
+    }
+  },
+  {
+    "id": "w0861",
+    "type": "word",
+    "en": "detect",
+    "ja": [
+      "検知する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "detect",
+    "senses": [
+      "detect-noticepresence"
+    ],
+    "example": {
+      "en": "Sensors detect smoke within seconds.",
+      "ja": "感知器は数秒で煙を検知する。"
+    }
+  },
+  {
+    "id": "w0862",
+    "type": "word",
+    "en": "device-code",
+    "ja": [
+      "機器番号"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "devicecode",
+    "senses": [
+      "devicecode-equipmentidentifier"
+    ],
+    "example": {
+      "en": "Quote the device code when you call.",
+      "ja": "電話の際は機器番号を伝えなさい。"
+    }
+  },
+  {
+    "id": "w0863",
+    "type": "word",
+    "en": "diagram",
+    "ja": [
+      "図解"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "diagram",
+    "senses": [
+      "diagram-explanatorydrawing"
+    ],
+    "example": {
+      "en": "A diagram shows the wiring order.",
+      "ja": "図解が配線の順を示している。"
+    }
+  },
+  {
+    "id": "w0864",
+    "type": "word",
+    "en": "differ",
+    "ja": [
+      "相違する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "differ",
+    "senses": [
+      "differ-benotthesame"
+    ],
+    "example": {
+      "en": "The two samples differ in thickness.",
+      "ja": "二つの見本は厚みで相違する。"
+    }
+  },
+  {
+    "id": "w0865",
+    "type": "word",
+    "en": "direct",
+    "ja": [
+      "直行の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part5"
+    ],
+    "root": "directadj",
+    "senses": [
+      "direct-withoutstops"
+    ],
+    "example": {
+      "en": "A direct train reaches the port in an hour.",
+      "ja": "直行の列車は一時間で港に着く。"
+    }
+  },
+  {
+    "id": "w0866",
+    "type": "word",
+    "en": "discuss",
+    "ja": [
+      "話し合う"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "discuss",
+    "senses": [
+      "discuss-talkoverissue"
+    ],
+    "example": {
+      "en": "The board discussed the rent increase.",
+      "ja": "取締役会は賃料の値上げを話し合った。"
+    }
+  },
+  {
+    "id": "w0867",
+    "type": "word",
+    "en": "display",
+    "ja": [
+      "陳列"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "displai",
+    "senses": [
+      "display-arrangedshowing"
+    ],
+    "example": {
+      "en": "A window display features autumn coats.",
+      "ja": "窓の陳列は秋の上着を目玉にしている。"
+    }
+  },
+  {
+    "id": "w0868",
+    "type": "word",
+    "en": "dispose",
+    "ja": [
+      "処分する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "dispos",
+    "senses": [
+      "dispose-getridof"
+    ],
+    "example": {
+      "en": "Dispose of solvent in the marked drum.",
+      "ja": "溶剤は印の付いた樽に処分しなさい。"
+    }
+  },
+  {
+    "id": "w0869",
+    "type": "word",
+    "en": "distinct",
+    "ja": [
+      "明確に異なる"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "distinct",
+    "senses": [
+      "distinct-clearlyseparate"
+    ],
+    "example": {
+      "en": "The two grades serve distinct markets.",
+      "ja": "二つの等級は明確に異なる市場に向く。"
+    }
+  },
+  {
+    "id": "w0870",
+    "type": "word",
+    "en": "divide",
+    "ja": [
+      "分割する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "divid",
+    "senses": [
+      "divide-separateintoparts"
+    ],
+    "example": {
+      "en": "Divide the shipment into three loads.",
+      "ja": "出荷を三回の積み荷に分割しなさい。"
+    }
+  },
+  {
+    "id": "w0871",
+    "type": "word",
+    "en": "domestic",
+    "ja": [
+      "国内の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "domest",
+    "senses": [
+      "domestic-withincountry"
+    ],
+    "example": {
+      "en": "Domestic sales outgrew exports last year.",
+      "ja": "昨年、国内の売上は輸出を上回って伸びた。"
+    }
+  },
+  {
+    "id": "w0872",
+    "type": "word",
+    "en": "double",
+    "ja": [
+      "倍にする"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "doubl",
+    "senses": [
+      "double-maketwiceasmuch"
+    ],
+    "example": {
+      "en": "The firm doubled its storage space.",
+      "ja": "会社は保管の空間を倍にした。"
+    }
+  },
+  {
+    "id": "w0873",
+    "type": "word",
+    "en": "draft-copy",
+    "ja": [
+      "原稿"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "draftcopy",
+    "senses": [
+      "draftcopy-unfinishedtext"
+    ],
+    "example": {
+      "en": "The draft copy has three open questions.",
+      "ja": "原稿には未解決の問いが三つある。"
+    }
+  },
+  {
+    "id": "w0874",
+    "type": "word",
+    "en": "duration",
+    "ja": [
+      "継続時間"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "durat",
+    "senses": [
+      "duration-lengthoftime"
+    ],
+    "example": {
+      "en": "The duration of the test is four hours.",
+      "ja": "試験の継続時間は四時間だ。"
+    }
+  },
+  {
+    "id": "w0875",
+    "type": "word",
+    "en": "efficiency",
+    "ja": [
+      "効率"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
+    "root": "effici2",
+    "senses": [
+      "efficiency-outputperinput"
+    ],
+    "example": {
+      "en": "Efficiency rose after the belts were replaced.",
+      "ja": "帯の交換後、効率は上がった。"
+    }
+  },
+  {
+    "id": "w0876",
+    "type": "word",
+    "en": "effective",
+    "ja": [
+      "効果的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "effect",
+    "senses": [
+      "effective-producingdesiredresult"
+    ],
+    "example": {
+      "en": "The new filter proved highly effective.",
+      "ja": "新しい濾過器はきわめて効果的だと分かった。"
+    }
+  },
+  {
+    "id": "w0877",
+    "type": "word",
+    "en": "elect",
+    "ja": [
+      "選出する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "elect",
+    "senses": [
+      "elect-choosebyvote"
+    ],
+    "example": {
+      "en": "Members elect a chair every two years.",
+      "ja": "会員は二年ごとに議長を選出する。"
+    }
+  },
+  {
+    "id": "w0878",
+    "type": "word",
+    "en": "electricity",
+    "ja": [
+      "電力"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "electr",
+    "senses": [
+      "electricity-electricpower"
+    ],
+    "example": {
+      "en": "Electricity costs make up a fifth of the bill.",
+      "ja": "電力の費用は請求の五分の一を占める。"
+    }
+  },
+  {
+    "id": "w0879",
+    "type": "word",
+    "en": "emergency",
+    "ja": [
+      "非常時"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "emerg",
+    "senses": [
+      "emergency-urgentcrisis"
+    ],
+    "example": {
+      "en": "In an emergency, use the rear stairs.",
+      "ja": "非常時には裏の階段を使いなさい。"
+    }
+  },
+  {
+    "id": "w0880",
+    "type": "word",
+    "en": "employ",
+    "ja": [
+      "就労させる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "employ3",
+    "senses": [
+      "employ-givework"
+    ],
+    "example": {
+      "en": "The plant employs ninety people locally.",
+      "ja": "工場は地元で九十人を就労させている。"
+    }
+  },
+  {
+    "id": "w0881",
+    "type": "word",
+    "en": "enable",
+    "ja": [
+      "可能にする"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "enabl",
+    "senses": [
+      "enable-makepossible"
+    ],
+    "example": {
+      "en": "The upgrade enabled overnight production.",
+      "ja": "改修が夜間の生産を可能にした。"
+    }
+  },
+  {
+    "id": "w0882",
+    "type": "word",
+    "en": "engage",
+    "ja": [
+      "従事させる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "engag",
+    "senses": [
+      "engage-occupyinwork"
+    ],
+    "example": {
+      "en": "The firm engaged a consultant for the move.",
+      "ja": "会社は移転のため助言者を従事させた。"
+    }
+  },
+  {
+    "id": "w0883",
+    "type": "word",
+    "en": "entry",
+    "ja": [
+      "記入項目"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "entri",
+    "senses": [
+      "entry-recordedline"
+    ],
+    "example": {
+      "en": "Each entry needs a date and a code.",
+      "ja": "各記入項目には日付と番号が要る。"
+    }
+  },
+  {
+    "id": "w0884",
+    "type": "word",
+    "en": "estimate-sheet",
+    "ja": [
+      "概算書"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "estimatesheet",
+    "senses": [
+      "estimatesheet-approximatecosting"
+    ],
+    "example": {
+      "en": "The estimate sheet lists labor separately.",
+      "ja": "概算書は作業費を別に記している。"
+    }
+  },
+  {
+    "id": "w0885",
+    "type": "word",
+    "en": "evident",
+    "ja": [
+      "見て取れる"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "evid2",
+    "senses": [
+      "evident-plainlynoticeable"
+    ],
+    "example": {
+      "en": "Wear on the rollers was evident.",
+      "ja": "回転部の摩耗が見て取れた。"
+    }
+  },
+  {
+    "id": "w0886",
+    "type": "word",
+    "en": "exact",
+    "ja": [
+      "寸分違わぬ"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "exact",
+    "senses": [
+      "exact-preciselycorrect"
+    ],
+    "example": {
+      "en": "Give the exact serial number, please.",
+      "ja": "寸分違わぬ通し番号を伝えてください。"
+    }
+  },
+  {
+    "id": "w0887",
+    "type": "word",
+    "en": "examine-sample",
+    "ja": [
+      "見本検査"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "examinesample",
+    "senses": [
+      "examinesample-specimentesting"
+    ],
+    "example": {
+      "en": "Sample examination happens before shipping.",
+      "ja": "見本検査は出荷の前に行われる。"
+    }
+  },
+  {
+    "id": "w0888",
+    "type": "word",
+    "en": "exhibition",
+    "ja": [
+      "展示会"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part4"
+    ],
+    "root": "exhibit2",
+    "senses": [
+      "exhibition-publicshow"
+    ],
+    "example": {
+      "en": "The exhibition runs for four days.",
+      "ja": "展示会は四日間開かれる。"
+    }
+  },
+  {
+    "id": "w0889",
+    "type": "word",
+    "en": "existing",
+    "ja": [
+      "既存の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "exist",
+    "senses": [
+      "existing-alreadyinplace"
+    ],
+    "example": {
+      "en": "The existing racks stay where they are.",
+      "ja": "既存の棚はそのままの場所に残る。"
+    }
+  },
+  {
+    "id": "w0890",
+    "type": "word",
+    "en": "expansion",
+    "ja": [
+      "拡張"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "expans",
+    "senses": [
+      "expansion-actofgrowing"
+    ],
+    "example": {
+      "en": "The expansion adds two thousand square meters.",
+      "ja": "拡張で二千平方メートルが加わる。"
+    }
+  },
+  {
+    "id": "w0891",
+    "type": "word",
+    "en": "expect",
+    "ja": [
+      "予期する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "expect",
+    "senses": [
+      "expect-anticipatearrival"
+    ],
+    "example": {
+      "en": "We expect the container on Thursday.",
+      "ja": "木曜に貨物箱を予期している。"
+    }
+  },
+  {
+    "id": "w0892",
+    "type": "word",
+    "en": "experiment",
+    "ja": [
+      "実験"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
+    "root": "experi2",
+    "senses": [
+      "experiment-scientifictrial"
+    ],
+    "example": {
+      "en": "An experiment compared three adhesives.",
+      "ja": "実験は三種の接着剤を比べた。"
+    }
+  },
+  {
+    "id": "w0893",
+    "type": "word",
+    "en": "explore",
+    "ja": [
+      "模索する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "explor",
+    "senses": [
+      "explore-investigateoptions"
+    ],
+    "example": {
+      "en": "The firm is exploring a rail option.",
+      "ja": "会社は鉄道の選択肢を模索している。"
+    }
+  },
+  {
+    "id": "w0894",
+    "type": "word",
+    "en": "export",
+    "ja": [
+      "輸出する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "export",
+    "senses": [
+      "export-sendabroad"
+    ],
+    "example": {
+      "en": "The plant exports half of its output.",
+      "ja": "工場は生産の半分を輸出する。"
+    }
+  },
+  {
+    "id": "w0895",
+    "type": "word",
+    "en": "extension",
+    "ja": [
+      "内線"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "extens",
+    "senses": [
+      "extension-phoneline"
+    ],
+    "example": {
+      "en": "Dial extension four two for the stockroom.",
+      "ja": "倉庫は内線四二を回しなさい。"
+    }
+  },
+  {
+    "id": "w0896",
+    "type": "word",
+    "en": "fabric",
+    "ja": [
+      "布地"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "fabric",
+    "senses": [
+      "fabric-wovencloth"
+    ],
+    "example": {
+      "en": "The fabric arrives on wide rolls.",
+      "ja": "布地は幅広の巻きで届く。"
+    }
+  },
+  {
+    "id": "w0897",
+    "type": "word",
+    "en": "factor",
+    "ja": [
+      "要因"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "factor2",
+    "senses": [
+      "factor-contributingcause"
+    ],
+    "example": {
+      "en": "Weather was the main factor in the delay.",
+      "ja": "天候が遅れの主な要因だった。"
+    }
+  },
+  {
+    "id": "w0898",
+    "type": "word",
+    "en": "fault",
+    "ja": [
+      "不具合"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "fault",
+    "senses": [
+      "fault-defectinoperation"
+    ],
+    "example": {
+      "en": "A fault in the pump stopped the line.",
+      "ja": "送水機の不具合が生産を止めた。"
+    }
+  },
+  {
+    "id": "w0899",
+    "type": "word",
+    "en": "favorable",
+    "ja": [
+      "好意的な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "favor",
+    "senses": [
+      "favorable-showingapproval"
+    ],
+    "example": {
+      "en": "Buyers gave favorable feedback on the handle.",
+      "ja": "買い手は取っ手に好意的な評価をした。"
+    }
+  },
+  {
+    "id": "w0900",
+    "type": "word",
+    "en": "finding",
+    "ja": [
+      "判明した事実"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "find",
+    "senses": [
+      "finding-discoveredfact"
+    ],
+    "example": {
+      "en": "The findings appear in the closing section.",
+      "ja": "判明した事実は末尾の節に載っている。"
+    }
+  },
+  {
+    "id": "w0901",
+    "type": "word",
+    "en": "fold",
+    "ja": [
+      "折りたたむ"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "fold",
+    "senses": [
+      "fold-bendover"
+    ],
+    "example": {
+      "en": "Fold the cartons flat before storage.",
+      "ja": "保管の前に箱を平らに折りたたみなさい。"
+    }
+  },
+  {
+    "id": "w0902",
+    "type": "word",
+    "en": "formal",
+    "ja": [
+      "正式な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "formal",
+    "senses": [
+      "formal-officiallyproper"
+    ],
+    "example": {
+      "en": "A formal request must be in writing.",
+      "ja": "正式な依頼は書面でなければならない。"
+    }
+  },
+  {
+    "id": "w0903",
+    "type": "word",
+    "en": "found",
+    "ja": [
+      "創業する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "found",
+    "senses": [
+      "found-startorganization"
+    ],
+    "example": {
+      "en": "Two engineers founded the firm in 1998.",
+      "ja": "二名の技術者が一九九八年に会社を創業した。"
+    }
+  },
+  {
+    "id": "w0904",
+    "type": "word",
+    "en": "frequent",
+    "ja": [
+      "頻繁な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "frequent",
+    "senses": [
+      "frequent-happeningoften"
+    ],
+    "example": {
+      "en": "Frequent stops slowed the delivery round.",
+      "ja": "頻繁な停車が配達の巡回を遅らせた。"
+    }
+  },
+  {
+    "id": "w0905",
+    "type": "word",
+    "en": "gain",
+    "ja": [
+      "得る"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "gain",
+    "senses": [
+      "gain-acquireadvantage"
+    ],
+    "example": {
+      "en": "The firm gained two large accounts.",
+      "ja": "会社は大口の取引先を二つ得た。"
+    }
+  },
+  {
+    "id": "w0906",
+    "type": "word",
+    "en": "gather",
+    "ja": [
+      "集合する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "gather",
+    "senses": [
+      "gather-cometogether"
+    ],
+    "example": {
+      "en": "Staff gather in the yard for the drill.",
+      "ja": "職員は訓練のため構内に集合する。"
+    }
+  },
+  {
+    "id": "w0907",
+    "type": "word",
+    "en": "handbook",
+    "ja": [
+      "便覧"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "handbook",
+    "senses": [
+      "handbook-referenceguide"
+    ],
+    "example": {
+      "en": "The staff handbook explains leave rules.",
+      "ja": "職員の便覧は休暇の規則を説明する。"
+    }
+  },
+  {
+    "id": "w0908",
+    "type": "word",
+    "en": "hazard",
+    "ja": [
+      "危険物"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part4"
+    ],
+    "root": "hazard",
+    "senses": [
+      "hazard-sourceofdanger"
+    ],
+    "example": {
+      "en": "Loose cables are a hazard in the aisle.",
+      "ja": "緩んだ配線は通路の危険物だ。"
+    }
+  },
+  {
+    "id": "w0909",
+    "type": "word",
+    "en": "highlight",
+    "ja": [
+      "目立たせる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "highlight",
+    "senses": [
+      "highlight-drawattentionto"
+    ],
+    "example": {
+      "en": "Highlight the changed clauses in yellow.",
+      "ja": "変わった条項を黄色で目立たせなさい。"
+    }
+  },
+  {
+    "id": "w0910",
+    "type": "word",
+    "en": "household",
+    "ja": [
+      "家庭用の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "household",
+    "senses": [
+      "household-fordomesticuse"
+    ],
+    "example": {
+      "en": "Household goods fill the ground floor.",
+      "ja": "家庭用の品が一階を埋めている。"
+    }
+  },
+  {
+    "id": "w0911",
+    "type": "word",
+    "en": "illustrate",
+    "ja": [
+      "例示する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "illustr",
+    "senses": [
+      "illustrate-explainbyexample"
+    ],
+    "example": {
+      "en": "The chart illustrates the seasonal swing.",
+      "ja": "その図表は季節の振れを例示する。"
+    }
+  },
+  {
+    "id": "w0912",
+    "type": "word",
+    "en": "imply",
+    "ja": [
+      "暗に示す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "impli",
+    "senses": [
+      "imply-suggestindirectly"
+    ],
+    "example": {
+      "en": "The wording implies a shared liability.",
+      "ja": "その文言は責任の分担を暗に示す。"
+    }
+  },
+  {
+    "id": "w0913",
+    "type": "word",
+    "en": "impose",
+    "ja": [
+      "課す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "impos",
+    "senses": [
+      "impose-forceobligation"
+    ],
+    "example": {
+      "en": "The port imposes a fee on late collection.",
+      "ja": "港は遅い引き取りに料金を課す。"
+    }
+  },
+  {
+    "id": "w0914",
+    "type": "word",
+    "en": "impression",
+    "ja": [
+      "印象"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "impress",
+    "senses": [
+      "impression-mentalfeeling"
+    ],
+    "example": {
+      "en": "The clean lobby leaves a good impression.",
+      "ja": "清潔なロビーはよい印象を残す。"
+    }
+  },
+  {
+    "id": "w0915",
+    "type": "word",
+    "en": "improvement",
+    "ja": [
+      "改良"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "improv2",
+    "senses": [
+      "improvement-madebetterchange"
+    ],
+    "example": {
+      "en": "A small improvement halved the noise.",
+      "ja": "小さな改良が騒音を半分にした。"
+    }
+  },
+  {
+    "id": "w0916",
+    "type": "word",
+    "en": "inclusive",
+    "ja": [
+      "込みの"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part5"
+    ],
+    "root": "inclus",
+    "senses": [
+      "inclusive-includingeverything"
+    ],
+    "example": {
+      "en": "The rate is inclusive of breakfast.",
+      "ja": "その料金は朝食込みだ。"
+    }
+  },
+  {
+    "id": "w0917",
+    "type": "word",
+    "en": "independent",
+    "ja": [
+      "独立した"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "independ",
+    "senses": [
+      "independent-notcontrolled"
+    ],
+    "example": {
+      "en": "An independent lab tested the samples.",
+      "ja": "独立した研究室が見本を試験した。"
+    }
+  },
+  {
+    "id": "w0918",
+    "type": "word",
+    "en": "indicate-fault",
+    "ja": [
+      "不具合表示"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "indicatefault",
+    "senses": [
+      "indicatefault-errorsignal"
+    ],
+    "example": {
+      "en": "A fault indication appeared on the panel.",
+      "ja": "操作盤に不具合表示が出た。"
+    }
+  },
+  {
+    "id": "w0919",
+    "type": "word",
+    "en": "inevitable-delay",
+    "ja": [
+      "不可避の遅れ"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "inevitdelay",
+    "senses": [
+      "inevitdelay-unavoidablelateness"
+    ],
+    "example": {
+      "en": "Some delay was inevitable in the storm.",
+      "ja": "嵐の中では不可避の遅れがあった。"
+    }
+  },
+  {
+    "id": "w0920",
+    "type": "word",
+    "en": "influence-factor",
+    "ja": [
+      "影響要素"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "influfactor",
+    "senses": [
+      "influfactor-affectingelement"
+    ],
+    "example": {
+      "en": "Fuel price is the biggest influence factor.",
+      "ja": "燃料の価格が最大の影響要素だ。"
+    }
+  },
+  {
+    "id": "w0921",
+    "type": "word",
+    "en": "inhabitant",
+    "ja": [
+      "住民"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "inhabit",
+    "senses": [
+      "inhabitant-personliving"
+    ],
+    "example": {
+      "en": "Inhabitants of the block share a courtyard.",
+      "ja": "その棟の住民は中庭を共有する。"
+    }
+  },
+  {
+    "id": "w0922",
+    "type": "word",
+    "en": "initiate",
+    "ja": [
+      "着手する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "initi2",
+    "senses": [
+      "initiate-startprocess"
+    ],
+    "example": {
+      "en": "Management initiated a review of suppliers.",
+      "ja": "経営陣は供給業者の見直しに着手した。"
+    }
+  },
+  {
+    "id": "w0923",
+    "type": "word",
+    "en": "input",
+    "ja": [
+      "入力"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "input",
+    "senses": [
+      "input-datasupplied"
+    ],
+    "example": {
+      "en": "Manual input causes most of the errors.",
+      "ja": "手作業の入力が誤りの大半を招く。"
+    }
+  },
+  {
+    "id": "w0924",
+    "type": "word",
+    "en": "install-fee",
+    "ja": [
+      "設置費"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "installfee",
+    "senses": [
+      "installfee-fittingcharge"
+    ],
+    "example": {
+      "en": "The install fee is waived for members.",
+      "ja": "会員は設置費を免れる。"
+    }
+  },
+  {
+    "id": "w0925",
+    "type": "word",
+    "en": "instant",
+    "ja": [
+      "即席の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "instant",
+    "senses": [
+      "instant-preparedquickly"
+    ],
+    "example": {
+      "en": "Instant coffee is available in the break room.",
+      "ja": "休憩室に即席のコーヒーがある。"
+    }
+  },
+  {
+    "id": "w0926",
+    "type": "word",
+    "en": "intense",
+    "ja": [
+      "激しい"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "intens",
+    "senses": [
+      "intense-verystrong"
+    ],
+    "example": {
+      "en": "Intense heat warped the plastic trays.",
+      "ja": "激しい熱が樹脂の受け皿をゆがめた。"
+    }
+  },
+  {
+    "id": "w0927",
+    "type": "word",
+    "en": "invite",
+    "ja": [
+      "招く"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "invit",
+    "senses": [
+      "invite-askattendance"
+    ],
+    "example": {
+      "en": "The firm invited buyers to the plant.",
+      "ja": "会社は買い手を工場に招いた。"
+    }
+  },
+  {
+    "id": "w0928",
+    "type": "word",
+    "en": "justify",
+    "ja": [
+      "根拠を示す"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "justif",
+    "senses": [
+      "justify-showgoodreason"
+    ],
+    "example": {
+      "en": "Justify the extra spending in your report.",
+      "ja": "報告書で追加の支出の根拠を示しなさい。"
+    }
+  },
+  {
+    "id": "w0929",
+    "type": "word",
+    "en": "knowledge",
+    "ja": [
+      "知識"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "knowledg",
+    "senses": [
+      "knowledge-informationheld"
+    ],
+    "example": {
+      "en": "Product knowledge shortens the sales call.",
+      "ja": "商品の知識が営業訪問を短くする。"
+    }
+  },
+  {
+    "id": "w0930",
+    "type": "word",
+    "en": "labor",
+    "ja": [
+      "労務"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "labor",
+    "senses": [
+      "labor-workforceeffort"
+    ],
+    "example": {
+      "en": "Labor accounts for a third of the cost.",
+      "ja": "労務が費用の三分の一を占める。"
+    }
+  },
+  {
+    "id": "w0931",
+    "type": "word",
+    "en": "lack",
+    "ja": [
+      "欠く"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "lack",
+    "senses": [
+      "lack-bewithout"
+    ],
+    "example": {
+      "en": "The depot lacks a covered loading area.",
+      "ja": "その拠点は屋根付きの荷積み場を欠く。"
+    }
+  },
+  {
+    "id": "w0932",
+    "type": "word",
+    "en": "latest",
+    "ja": [
+      "最新の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "latest",
+    "senses": [
+      "latest-mostrecent"
+    ],
+    "example": {
+      "en": "The latest catalog reached stores yesterday.",
+      "ja": "最新の商品目録が昨日、店に届いた。"
+    }
+  },
+  {
+    "id": "w0933",
+    "type": "word",
+    "en": "layout",
+    "ja": [
+      "配置"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "layout",
+    "senses": [
+      "layout-spatialarrangement"
+    ],
+    "example": {
+      "en": "The new layout shortened the walking distance.",
+      "ja": "新しい配置が歩く距離を縮めた。"
+    }
+  },
+  {
+    "id": "w0934",
+    "type": "word",
+    "en": "leading",
+    "ja": [
+      "首位の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "leading",
+    "senses": [
+      "leading-foremostinfield"
+    ],
+    "example": {
+      "en": "A leading maker supplies the bearings.",
+      "ja": "首位の製造業者が軸受けを供給する。"
+    }
+  },
+  {
+    "id": "w0935",
+    "type": "word",
+    "en": "leaflet",
+    "ja": [
+      "刷り物"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "leaflet",
+    "senses": [
+      "leaflet-printedhandout"
+    ],
+    "example": {
+      "en": "Leaflets sit in a rack by the door.",
+      "ja": "刷り物は扉のそばの棚にある。"
+    }
+  },
+  {
+    "id": "w0936",
+    "type": "word",
+    "en": "lengthy",
+    "ja": [
+      "長時間の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "lengthi",
+    "senses": [
+      "lengthy-takinglongtime"
+    ],
+    "example": {
+      "en": "A lengthy discussion delayed the vote.",
+      "ja": "長時間の議論が採決を遅らせた。"
+    }
+  },
+  {
+    "id": "w0937",
+    "type": "word",
+    "en": "lift",
+    "ja": [
+      "持ち上げる"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "liftv",
+    "senses": [
+      "lift-raiseupward"
+    ],
+    "example": {
+      "en": "Never lift the drum without a partner.",
+      "ja": "相方なしに樽を持ち上げてはならない。"
+    }
+  },
+  {
+    "id": "w0938",
+    "type": "word",
+    "en": "likely",
+    "ja": [
+      "ありそうな"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "like",
+    "senses": [
+      "likely-probablytohappen"
+    ],
+    "example": {
+      "en": "A price rise is likely before autumn.",
+      "ja": "秋の前に値上げがありそうだ。"
+    }
+  },
+  {
+    "id": "w0939",
+    "type": "word",
+    "en": "literature",
+    "ja": [
+      "印刷資料"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "literatur",
+    "senses": [
+      "literature-productdocuments"
+    ],
+    "example": {
+      "en": "Product literature is stocked at the booth.",
+      "ja": "商品の印刷資料は売り場に置いてある。"
+    }
+  },
+  {
+    "id": "w0940",
+    "type": "word",
+    "en": "loading",
+    "ja": [
+      "積み込み"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part1"
+    ],
+    "root": "loadingn",
+    "senses": [
+      "loading-puttingcargoon"
+    ],
+    "example": {
+      "en": "Loading begins at five in the morning.",
+      "ja": "積み込みは朝の五時に始まる。"
+    }
+  },
+  {
+    "id": "w0941",
+    "type": "word",
+    "en": "loyal",
+    "ja": [
+      "忠実な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "loyal",
+    "senses": [
+      "loyal-faithfullyconstant"
+    ],
+    "example": {
+      "en": "Loyal customers receive an early catalog.",
+      "ja": "忠実な顧客は商品目録を早く受け取る。"
+    }
+  },
+  {
+    "id": "w0942",
+    "type": "word",
+    "en": "maintenance-fee",
+    "ja": [
+      "維持費"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "maintfee",
+    "senses": [
+      "maintfee-upkeepcharge"
+    ],
+    "example": {
+      "en": "Maintenance fees are billed twice a year.",
+      "ja": "維持費は年二回請求される。"
+    }
+  },
+  {
+    "id": "w0943",
+    "type": "word",
+    "en": "manner",
+    "ja": [
+      "やり方"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "service",
+      "part7"
+    ],
+    "root": "manner",
+    "senses": [
+      "manner-wayofdoing"
+    ],
+    "example": {
+      "en": "Handle complaints in a calm manner.",
+      "ja": "苦情は落ち着いたやり方で扱いなさい。"
+    }
+  },
+  {
+    "id": "w0944",
+    "type": "word",
+    "en": "mark",
+    "ja": [
+      "印を付ける"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "markv",
+    "senses": [
+      "mark-putsignon"
+    ],
+    "example": {
+      "en": "Mark the fragile boxes with red tape.",
+      "ja": "壊れ物の箱に赤い帯で印を付けなさい。"
+    }
+  },
+  {
+    "id": "w0945",
+    "type": "word",
+    "en": "maximum",
+    "ja": [
+      "最大の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "maximum",
+    "senses": [
+      "maximum-highestpossible"
+    ],
+    "example": {
+      "en": "The maximum load is four hundred kilograms.",
+      "ja": "最大の積載は四百キロだ。"
+    }
+  },
+  {
+    "id": "w0946",
+    "type": "word",
+    "en": "means",
+    "ja": [
+      "手段"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "meansn",
+    "senses": [
+      "means-methodofachieving"
+    ],
+    "example": {
+      "en": "Rail is the cheapest means of transport.",
+      "ja": "鉄道は最も安い輸送の手段だ。"
+    }
+  },
+  {
+    "id": "w0947",
+    "type": "word",
+    "en": "measurement",
+    "ja": [
+      "測定値"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "measur2",
+    "senses": [
+      "measurement-recordeddimension"
+    ],
+    "example": {
+      "en": "Record every measurement on the tag.",
+      "ja": "測定値はすべて札に記録しなさい。"
+    }
+  },
+  {
+    "id": "w0948",
+    "type": "word",
+    "en": "mechanic",
+    "ja": [
+      "整備士"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "mechan",
+    "senses": [
+      "mechanic-machinerepairer"
+    ],
+    "example": {
+      "en": "A mechanic checks the vans each Monday.",
+      "ja": "整備士が毎週月曜に貨物車を点検する。"
+    }
+  },
+  {
+    "id": "w0949",
+    "type": "word",
+    "en": "merge",
+    "ja": [
+      "合流する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "merg",
+    "senses": [
+      "merge-comeintoone"
+    ],
+    "example": {
+      "en": "The two depots merged in April.",
+      "ja": "二つの拠点は四月に合流した。"
+    }
+  },
+  {
+    "id": "w0950",
+    "type": "word",
+    "en": "minor",
+    "ja": [
+      "軽微な"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "minor",
+    "senses": [
+      "minor-smallandunimportant"
+    ],
+    "example": {
+      "en": "Only minor scratches were found.",
+      "ja": "軽微な擦り傷だけが見つかった。"
+    }
+  },
+  {
+    "id": "w0951",
+    "type": "word",
+    "en": "mode",
+    "ja": [
+      "方式"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "mode",
+    "senses": [
+      "mode-operatingmanner"
+    ],
+    "example": {
+      "en": "Switch the dryer to the low mode.",
+      "ja": "乾燥機を低い方式に切り替えなさい。"
+    }
+  },
+  {
+    "id": "w0952",
+    "type": "word",
+    "en": "modify",
+    "ja": [
+      "手直しする"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "modif",
+    "senses": [
+      "modify-makesmallchange"
+    ],
+    "example": {
+      "en": "Engineers modified the guard rail.",
+      "ja": "技術者は安全柵を手直しした。"
+    }
+  },
+  {
+    "id": "w0953",
+    "type": "word",
+    "en": "motivate",
+    "ja": [
+      "意欲を高める"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "motiv",
+    "senses": [
+      "motivate-inspireeffort"
+    ],
+    "example": {
+      "en": "Clear goals motivate the packing team.",
+      "ja": "明確な目標が梱包の班の意欲を高める。"
+    }
+  },
+  {
+    "id": "w0954",
+    "type": "word",
+    "en": "narrow",
+    "ja": [
+      "狭い"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "narrow",
+    "senses": [
+      "narrow-smallinwidth"
+    ],
+    "example": {
+      "en": "The narrow gate blocks larger trucks.",
+      "ja": "狭い門は大きい貨物車を阻む。"
+    }
+  },
+  {
+    "id": "w0955",
+    "type": "word",
+    "en": "negotiation",
+    "ja": [
+      "交渉事"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "negoti3",
+    "senses": [
+      "negotiation-bargainingprocess"
+    ],
+    "example": {
+      "en": "Negotiations lasted three long days.",
+      "ja": "交渉事は長い三日間続いた。"
+    }
+  },
+  {
+    "id": "w0956",
+    "type": "word",
+    "en": "neutral",
+    "ja": [
+      "中立の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "neutral",
+    "senses": [
+      "neutral-takingnoside"
+    ],
+    "example": {
+      "en": "A neutral party reviewed both claims.",
+      "ja": "中立の第三者が双方の主張を確認した。"
+    }
+  },
+  {
+    "id": "w0957",
+    "type": "word",
+    "en": "nomination",
+    "ja": [
+      "指名"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "nomin2",
+    "senses": [
+      "nomination-proposalforpost"
+    ],
+    "example": {
+      "en": "Two nominations reached the committee.",
+      "ja": "二件の指名が委員会に届いた。"
+    }
+  },
+  {
+    "id": "w0958",
+    "type": "word",
+    "en": "numerous",
+    "ja": [
+      "多数の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "numer",
+    "senses": [
+      "numerous-verymany"
+    ],
+    "example": {
+      "en": "Numerous shops joined the loyalty scheme.",
+      "ja": "多数の店が特典の仕組みに加わった。"
+    }
+  },
+  {
+    "id": "w0959",
+    "type": "word",
+    "en": "occupy",
+    "ja": [
+      "占有する"
+    ],
+    "pos": "verb",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part5"
+    ],
+    "root": "occup2",
+    "senses": [
+      "occupy-takespace"
+    ],
+    "example": {
+      "en": "The firm occupies the top two floors.",
+      "ja": "会社は上の二階を占有している。"
+    }
+  },
+  {
+    "id": "w0960",
+    "type": "word",
+    "en": "offering",
+    "ja": [
+      "提供品"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "offering",
+    "senses": [
+      "offering-itemprovided"
+    ],
+    "example": {
+      "en": "The autumn offering includes three sizes.",
+      "ja": "秋の提供品には三つの寸法が含まれる。"
+    }
+  },
+  {
+    "id": "w0961",
+    "type": "word",
+    "en": "official",
+    "ja": [
+      "公式の"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "offici",
+    "senses": [
+      "official-authorizedbyauthority"
+    ],
+    "example": {
+      "en": "The official opening is set for June.",
+      "ja": "公式の開所は六月に決まっている。"
+    }
+  },
+  {
+    "id": "w0962",
+    "type": "word",
+    "en": "operation",
+    "ja": [
+      "運転"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
+    "root": "operat2",
+    "senses": [
+      "operation-runningofmachine"
+    ],
+    "example": {
+      "en": "Operation stops during the annual clean.",
+      "ja": "年次の清掃中は運転が止まる。"
+    }
+  },
+  {
+    "id": "w0963",
+    "type": "word",
+    "en": "opposite",
+    "ja": [
+      "向かいの"
+    ],
+    "pos": "adj",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "opposit",
+    "senses": [
+      "opposite-facingacross"
+    ],
+    "example": {
+      "en": "The parts store is on the opposite side.",
+      "ja": "部品の倉庫は向かいの側にある。"
+    }
+  },
+  {
+    "id": "w0964",
+    "type": "word",
+    "en": "outcome",
+    "ja": [
+      "成果"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "outcom",
+    "senses": [
+      "outcome-finalresult"
+    ],
+    "example": {
+      "en": "The outcome of the trial was encouraging.",
+      "ja": "試験の成果は励みになるものだった。"
+    }
+  },
+  {
+    "id": "w0965",
+    "type": "word",
+    "en": "output",
+    "ja": [
+      "産出量"
+    ],
+    "pos": "noun",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part4"
+    ],
+    "root": "output",
+    "senses": [
+      "output-quantityproduced"
+    ],
+    "example": {
+      "en": "Output per shift rose by twelve units.",
+      "ja": "一勤務あたりの産出量は十二台増えた。"
+    }
   }
 ]

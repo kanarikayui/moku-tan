@@ -438,5 +438,929 @@
       "en": "The sale was made at arm's length between the firms.",
       "ja": "その売買は両社の間で対等な立場で行われた。"
     }
+  },
+  {
+    "id": "p0286",
+    "type": "phrase",
+    "en": "be null and void",
+    "ja": [
+      "効力を失う"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "benullandvoid",
+    "senses": [
+      "benullvoid-losealllegalforce"
+    ],
+    "example": {
+      "en": "The option is null and void after May.",
+      "ja": "その選択権は五月以降、効力を失う。"
+    }
+  },
+  {
+    "id": "p0287",
+    "type": "phrase",
+    "en": "in consideration of",
+    "ja": [
+      "の対価として"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "inconsiderationof",
+    "senses": [
+      "inconsideration-inexchangefor"
+    ],
+    "example": {
+      "en": "In consideration of the fee, access is granted.",
+      "ja": "料金の対価として立入りが認められる。"
+    }
+  },
+  {
+    "id": "p0288",
+    "type": "phrase",
+    "en": "in witness whereof",
+    "ja": [
+      "以上の証として"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "inwitnesswhereof",
+    "senses": [
+      "inwitness-formalclosing"
+    ],
+    "example": {
+      "en": "In witness whereof, both parties sign below.",
+      "ja": "以上の証として、双方が下記に署名する。"
+    }
+  },
+  {
+    "id": "p0289",
+    "type": "phrase",
+    "en": "joint and several",
+    "ja": [
+      "連帯の"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "jointandseveral",
+    "senses": [
+      "jointsever-sharedandindividual"
+    ],
+    "example": {
+      "en": "Liability is joint and several among partners.",
+      "ja": "責任は出資者の間で連帯のものとなる。"
+    }
+  },
+  {
+    "id": "p0290",
+    "type": "phrase",
+    "en": "save and except",
+    "ja": [
+      "を除いては"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "saveandexcept",
+    "senses": [
+      "saveexcept-withtheexceptionof"
+    ],
+    "example": {
+      "en": "All rights transfer, save and except the trademark.",
+      "ja": "商標を除いては全ての権利が移転する。"
+    }
+  },
+  {
+    "id": "p0291",
+    "type": "phrase",
+    "en": "subject to the terms",
+    "ja": [
+      "条件に従うことを前提に"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "subjecttotheterms",
+    "senses": [
+      "subjectterms-governedbyconditions"
+    ],
+    "example": {
+      "en": "Delivery is made subject to the terms below.",
+      "ja": "納品は下記の条件に従うことを前提に行われる。"
+    }
+  },
+  {
+    "id": "p0292",
+    "type": "phrase",
+    "en": "time and materials",
+    "ja": [
+      "実費精算方式"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "timeandmaterials",
+    "senses": [
+      "timeandmaterials-costplushours"
+    ],
+    "example": {
+      "en": "The repair was billed on time and materials.",
+      "ja": "修理は実費精算方式で請求された。"
+    }
+  },
+  {
+    "id": "p0293",
+    "type": "phrase",
+    "en": "without limitation",
+    "ja": [
+      "限定なしに"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "withoutlimitation",
+    "senses": [
+      "withoutlimit-notrestrictedto"
+    ],
+    "example": {
+      "en": "The list includes, without limitation, spare parts.",
+      "ja": "一覧は限定なしに予備の部品を含む。"
+    }
+  },
+  {
+    "id": "p0458",
+    "type": "phrase",
+    "en": "ad valorem",
+    "ja": [
+      "従価の"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "advalorem",
+    "senses": [
+      "advalorem-accordingtovalue"
+    ],
+    "example": {
+      "en": "An ad valorem duty applies to these goods.",
+      "ja": "これらの品には従価の税がかかる。"
+    }
+  },
+  {
+    "id": "p0459",
+    "type": "phrase",
+    "en": "as is where is",
+    "ja": [
+      "現状有姿で"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "asiswhereis",
+    "senses": [
+      "asiswhereis-inpresentcondition"
+    ],
+    "example": {
+      "en": "The equipment is sold as is where is.",
+      "ja": "その機器は現状有姿で売られる。"
+    }
+  },
+  {
+    "id": "p0460",
+    "type": "phrase",
+    "en": "at the discretion of",
+    "ja": [
+      "の判断に委ねて"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "atthediscretionof",
+    "senses": [
+      "atdiscretionof-decidedbyparty"
+    ],
+    "example": {
+      "en": "Extensions are at the discretion of the lender.",
+      "ja": "延長は貸し手の判断に委ねて決まる。"
+    }
+  },
+  {
+    "id": "p0461",
+    "type": "phrase",
+    "en": "bona fide purchaser",
+    "ja": [
+      "善意の買主"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "bonafidepurchaser",
+    "senses": [
+      "bonafidepurch-innocentbuyer"
+    ],
+    "example": {
+      "en": "A bona fide purchaser keeps clear title.",
+      "ja": "善意の買主は瑕疵のない権利を保つ。"
+    }
+  },
+  {
+    "id": "p0462",
+    "type": "phrase",
+    "en": "by operation of law",
+    "ja": [
+      "法の作用により"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "byoperationoflaw",
+    "senses": [
+      "byoperationlaw-automaticallylegally"
+    ],
+    "example": {
+      "en": "The lease ends by operation of law.",
+      "ja": "賃貸借は法の作用により終了する。"
+    }
+  },
+  {
+    "id": "p0463",
+    "type": "phrase",
+    "en": "condition precedent",
+    "ja": [
+      "停止条件"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "conditionprecedent",
+    "senses": [
+      "condprecedent-mustoccurfirst"
+    ],
+    "example": {
+      "en": "Payment is a condition precedent to delivery.",
+      "ja": "支払いは納品の停止条件である。"
+    }
+  },
+  {
+    "id": "p0464",
+    "type": "phrase",
+    "en": "due diligence",
+    "ja": [
+      "適正評価手続"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "duediligence",
+    "senses": [
+      "duediligence-thoroughinvestigation"
+    ],
+    "example": {
+      "en": "Due diligence took six weeks to complete.",
+      "ja": "適正評価手続の完了に六週間かかった。"
+    }
+  },
+  {
+    "id": "p0465",
+    "type": "phrase",
+    "en": "force of law",
+    "ja": [
+      "法的拘束力"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "forceoflaw",
+    "senses": [
+      "forceoflaw-legallybinding"
+    ],
+    "example": {
+      "en": "The guideline lacks the force of law.",
+      "ja": "その指針に法的拘束力はない。"
+    }
+  },
+  {
+    "id": "p0466",
+    "type": "phrase",
+    "en": "free on board",
+    "ja": [
+      "本船渡しで"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "freeonboard",
+    "senses": [
+      "freeonboard-sellerloadscost"
+    ],
+    "example": {
+      "en": "Prices are quoted free on board Kobe.",
+      "ja": "価格は神戸の本船渡しで提示される。"
+    }
+  },
+  {
+    "id": "p0467",
+    "type": "phrase",
+    "en": "good faith",
+    "ja": [
+      "信義誠実"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "goodfaith",
+    "senses": [
+      "goodfaith-honestintention"
+    ],
+    "example": {
+      "en": "Both sides negotiated in good faith.",
+      "ja": "双方は信義誠実に基づいて交渉した。"
+    }
+  },
+  {
+    "id": "p0468",
+    "type": "phrase",
+    "en": "in perpetuity clause",
+    "ja": [
+      "永久条項"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "inperpetuityclause",
+    "senses": [
+      "perpetuityclause-neverendingterm"
+    ],
+    "example": {
+      "en": "A perpetuity clause troubles the lender.",
+      "ja": "永久条項は貸し手を悩ませる。"
+    }
+  },
+  {
+    "id": "p0469",
+    "type": "phrase",
+    "en": "letter of credit",
+    "ja": [
+      "信用状"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "letterofcredit",
+    "senses": [
+      "letterofcredit-bankpaymentguarantee"
+    ],
+    "example": {
+      "en": "The bank issued a letter of credit.",
+      "ja": "銀行が信用状を発行した。"
+    }
+  },
+  {
+    "id": "p0470",
+    "type": "phrase",
+    "en": "liquidated damages",
+    "ja": [
+      "予定損害賠償額"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "liquidateddamages",
+    "senses": [
+      "liquiddamages-agreedcompensation"
+    ],
+    "example": {
+      "en": "Liquidated damages accrue for each late day.",
+      "ja": "予定損害賠償額は遅延の日ごとに発生する。"
+    }
+  },
+  {
+    "id": "p0471",
+    "type": "phrase",
+    "en": "material breach",
+    "ja": [
+      "重大な違反"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "materialbreach",
+    "senses": [
+      "materialbreach-seriousviolation"
+    ],
+    "example": {
+      "en": "A material breach allows immediate termination.",
+      "ja": "重大な違反は即時の解除を認める。"
+    }
+  },
+  {
+    "id": "p0472",
+    "type": "phrase",
+    "en": "non disclosure",
+    "ja": [
+      "秘密保持"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "nondisclosure",
+    "senses": [
+      "nondisclosure-keepinginformationsecret"
+    ],
+    "example": {
+      "en": "A non disclosure clause binds both parties.",
+      "ja": "秘密保持の条項が双方を拘束する。"
+    }
+  },
+  {
+    "id": "p0473",
+    "type": "phrase",
+    "en": "of the essence",
+    "ja": [
+      "不可欠の要素で"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "oftheessence",
+    "senses": [
+      "oftheessence-criticallyimportant"
+    ],
+    "example": {
+      "en": "Punctual delivery is of the essence here.",
+      "ja": "ここでは時間どおりの納品が不可欠の要素である。"
+    }
+  },
+  {
+    "id": "p0474",
+    "type": "phrase",
+    "en": "on a pro rata basis",
+    "ja": [
+      "按分方式で"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "onaproratabasis",
+    "senses": [
+      "proratabasis-proportionalsplit"
+    ],
+    "example": {
+      "en": "Costs divide on a pro rata basis.",
+      "ja": "費用は按分方式で分けられる。"
+    }
+  },
+  {
+    "id": "p0475",
+    "type": "phrase",
+    "en": "power of attorney",
+    "ja": [
+      "委任状"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "powerofattorney",
+    "senses": [
+      "powerofattorney-legalauthorization"
+    ],
+    "example": {
+      "en": "A power of attorney allows the agent to sign.",
+      "ja": "委任状により代理人は署名できる。"
+    }
+  },
+  {
+    "id": "p0476",
+    "type": "phrase",
+    "en": "prima facie",
+    "ja": [
+      "一応の"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "primafacie",
+    "senses": [
+      "primafacie-onfirstappearance"
+    ],
+    "example": {
+      "en": "The log is prima facie evidence of delivery.",
+      "ja": "その記録は納品の一応の証拠となる。"
+    }
+  },
+  {
+    "id": "p0477",
+    "type": "phrase",
+    "en": "quiet enjoyment",
+    "ja": [
+      "平穏な使用収益"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "quietenjoyment",
+    "senses": [
+      "quietenjoyment-undisturbedoccupation"
+    ],
+    "example": {
+      "en": "The lease guarantees quiet enjoyment.",
+      "ja": "賃貸借は平穏な使用収益を保証する。"
+    }
+  },
+  {
+    "id": "p0478",
+    "type": "phrase",
+    "en": "right of first refusal",
+    "ja": [
+      "優先交渉権"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "rightoffirstrefusal",
+    "senses": [
+      "firstrefusal-priorityoption"
+    ],
+    "example": {
+      "en": "The tenant holds a right of first refusal.",
+      "ja": "賃借人は優先交渉権を持つ。"
+    }
+  },
+  {
+    "id": "p0479",
+    "type": "phrase",
+    "en": "several liability",
+    "ja": [
+      "分割責任"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "severalliability",
+    "senses": [
+      "severalliab-individualobligation"
+    ],
+    "example": {
+      "en": "Several liability limits each partner's exposure.",
+      "ja": "分割責任が各出資者の負担を限る。"
+    }
+  },
+  {
+    "id": "p0480",
+    "type": "phrase",
+    "en": "statute of limitations",
+    "ja": [
+      "出訴期限"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "statuteoflimitations",
+    "senses": [
+      "statutelimit-timebartoclaim"
+    ],
+    "example": {
+      "en": "The statute of limitations runs for three years.",
+      "ja": "出訴期限は三年間続く。"
+    }
+  },
+  {
+    "id": "p0481",
+    "type": "phrase",
+    "en": "subject matter",
+    "ja": [
+      "対象事項"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "subjectmatter",
+    "senses": [
+      "subjectmatter-topiccovered"
+    ],
+    "example": {
+      "en": "The subject matter of the clause is storage.",
+      "ja": "その条項の対象事項は保管である。"
+    }
+  },
+  {
+    "id": "p0482",
+    "type": "phrase",
+    "en": "terms and conditions",
+    "ja": [
+      "取引条件一式"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "termsandconditions",
+    "senses": [
+      "termsconditions-fullcontractterms"
+    ],
+    "example": {
+      "en": "The terms and conditions appear overleaf.",
+      "ja": "取引条件一式は裏面に載っている。"
+    }
+  },
+  {
+    "id": "p0483",
+    "type": "phrase",
+    "en": "third party",
+    "ja": [
+      "第三者"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "thirdparty",
+    "senses": [
+      "thirdparty-outsideperson"
+    ],
+    "example": {
+      "en": "No third party may inspect the records.",
+      "ja": "第三者は記録を閲覧できない。"
+    }
+  },
+  {
+    "id": "p0484",
+    "type": "phrase",
+    "en": "title deed",
+    "ja": [
+      "権利証書"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "titledeed",
+    "senses": [
+      "titledeed-ownershipdocument"
+    ],
+    "example": {
+      "en": "The title deed is held by the bank.",
+      "ja": "権利証書は銀行が保管している。"
+    }
+  },
+  {
+    "id": "p0485",
+    "type": "phrase",
+    "en": "to the best of knowledge",
+    "ja": [
+      "知る限りにおいて"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "tothebestofknowledge",
+    "senses": [
+      "bestofknowledge-asfarasaware"
+    ],
+    "example": {
+      "en": "To the best of our knowledge, the data is complete.",
+      "ja": "知る限りにおいて資料は完全である。"
+    }
+  },
+  {
+    "id": "p0486",
+    "type": "phrase",
+    "en": "under seal",
+    "ja": [
+      "捺印証書として"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "underseal",
+    "senses": [
+      "underseal-formallyexecuted"
+    ],
+    "example": {
+      "en": "The deed was executed under seal.",
+      "ja": "その証書は捺印証書として作成された。"
+    }
+  },
+  {
+    "id": "p0487",
+    "type": "phrase",
+    "en": "unjust enrichment",
+    "ja": [
+      "不当利得"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "unjustenrichment",
+    "senses": [
+      "unjustenrich-unfairgain"
+    ],
+    "example": {
+      "en": "The claim rests on unjust enrichment.",
+      "ja": "その請求は不当利得に基づく。"
+    }
+  },
+  {
+    "id": "p0488",
+    "type": "phrase",
+    "en": "vis a vis",
+    "ja": [
+      "と対比して"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "visavis",
+    "senses": [
+      "visavis-incomparisonwith"
+    ],
+    "example": {
+      "en": "Costs rose vis a vis the previous year.",
+      "ja": "費用は前年と対比して上がった。"
+    }
+  },
+  {
+    "id": "p0489",
+    "type": "phrase",
+    "en": "with immediate effect",
+    "ja": [
+      "即時発効で"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "withimmediateeffect",
+    "senses": [
+      "immediateeffect-startingnow"
+    ],
+    "example": {
+      "en": "The suspension applies with immediate effect.",
+      "ja": "停止は即時発効で適用される。"
+    }
+  },
+  {
+    "id": "p0490",
+    "type": "phrase",
+    "en": "without prejudice",
+    "ja": [
+      "権利を留保して"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "withoutprejudice2",
+    "senses": [
+      "withoutprejudice-notwaivingrights"
+    ],
+    "example": {
+      "en": "The offer is made without prejudice.",
+      "ja": "その申し出は権利を留保して行われる。"
+    }
+  },
+  {
+    "id": "p0491",
+    "type": "phrase",
+    "en": "work in progress",
+    "ja": [
+      "仕掛品"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "workinprogress",
+    "senses": [
+      "workinprogress-unfinishedgoods"
+    ],
+    "example": {
+      "en": "Work in progress is counted at month end.",
+      "ja": "仕掛品は月末に集計される。"
+    }
   }
 ]

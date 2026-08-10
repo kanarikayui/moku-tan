@@ -441,5 +441,3349 @@
       "en": "Over sixty people applied for the two openings.",
       "ja": "二つの空きに六十人以上が職に応募した。"
     }
+  },
+  {
+    "id": "p0140",
+    "type": "phrase",
+    "en": "break into",
+    "ja": [
+      "参入する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "breakinto",
+    "senses": [
+      "breakinto-enternewmarket"
+    ],
+    "example": {
+      "en": "The maker broke into the European market.",
+      "ja": "その製造業者は欧州の市場に参入した。"
+    }
+  },
+  {
+    "id": "p0141",
+    "type": "phrase",
+    "en": "bring about",
+    "ja": [
+      "引き起こす"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "bringabout",
+    "senses": [
+      "bringabout-causetohappen"
+    ],
+    "example": {
+      "en": "The upgrade brought about a sharp saving.",
+      "ja": "改修が大幅な節約を引き起こした。"
+    }
+  },
+  {
+    "id": "p0142",
+    "type": "phrase",
+    "en": "call for",
+    "ja": [
+      "必要とする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "callfor",
+    "senses": [
+      "callfor-requiresomething"
+    ],
+    "example": {
+      "en": "The clause calls for written notice.",
+      "ja": "その条項は書面の通知を必要とする。"
+    }
+  },
+  {
+    "id": "p0143",
+    "type": "phrase",
+    "en": "carry on",
+    "ja": [
+      "継続する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "carryon",
+    "senses": [
+      "carryon-continueactivity"
+    ],
+    "example": {
+      "en": "Work carries on through the lunch break.",
+      "ja": "作業は昼休みも継続する。"
+    }
+  },
+  {
+    "id": "p0144",
+    "type": "phrase",
+    "en": "check out",
+    "ja": [
+      "退室手続きをする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "checkout",
+    "senses": [
+      "checkout-leavehotel"
+    ],
+    "example": {
+      "en": "Guests check out before eleven o'clock.",
+      "ja": "客は十一時前に退室手続きをする。"
+    }
+  },
+  {
+    "id": "p0145",
+    "type": "phrase",
+    "en": "clear up",
+    "ja": [
+      "片づけて整える"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "clearup",
+    "senses": [
+      "clearup-tidyaway"
+    ],
+    "example": {
+      "en": "Clear up the yard before the inspection.",
+      "ja": "検査の前に構内を片づけて整えなさい。"
+    }
+  },
+  {
+    "id": "p0146",
+    "type": "phrase",
+    "en": "count on",
+    "ja": [
+      "頼りにする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "counton",
+    "senses": [
+      "counton-relyupon"
+    ],
+    "example": {
+      "en": "We count on the ferry for island orders.",
+      "ja": "島への注文は渡し船を頼りにしている。"
+    }
+  },
+  {
+    "id": "p0147",
+    "type": "phrase",
+    "en": "draw on",
+    "ja": [
+      "引き出して使う"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "drawon",
+    "senses": [
+      "drawon-useresource"
+    ],
+    "example": {
+      "en": "The firm drew on its reserve fund.",
+      "ja": "会社は準備金を引き出して使った。"
+    }
+  },
+  {
+    "id": "p0148",
+    "type": "phrase",
+    "en": "end up",
+    "ja": [
+      "結局そうなる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "endup",
+    "senses": [
+      "endup-finallybecome"
+    ],
+    "example": {
+      "en": "The crate ended up at the wrong depot.",
+      "ja": "その木箱は結局、誤った拠点に着いた。"
+    }
+  },
+  {
+    "id": "p0149",
+    "type": "phrase",
+    "en": "figure out",
+    "ja": [
+      "解き明かす"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "figureout",
+    "senses": [
+      "figureout-workoutsolution"
+    ],
+    "example": {
+      "en": "Engineers figured out the jamming cause.",
+      "ja": "技術者が詰まりの原因を解き明かした。"
+    }
+  },
+  {
+    "id": "p0150",
+    "type": "phrase",
+    "en": "fill in",
+    "ja": [
+      "書き込む"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "fillin",
+    "senses": [
+      "fillin-completeblanks"
+    ],
+    "example": {
+      "en": "Fill in the blank fields with a pen.",
+      "ja": "空欄はペンで書き込みなさい。"
+    }
+  },
+  {
+    "id": "p0151",
+    "type": "phrase",
+    "en": "get through",
+    "ja": [
+      "やり終える"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "getthrough",
+    "senses": [
+      "getthrough-finishtask"
+    ],
+    "example": {
+      "en": "We got through the backlog by Friday.",
+      "ja": "金曜までに滞りをやり終えた。"
+    }
+  },
+  {
+    "id": "p0152",
+    "type": "phrase",
+    "en": "give up",
+    "ja": [
+      "断念する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part3"
+    ],
+    "root": "giveup",
+    "senses": [
+      "giveup-abandoneffort"
+    ],
+    "example": {
+      "en": "The firm gave up the overseas plan.",
+      "ja": "会社は海外の計画を断念した。"
+    }
+  },
+  {
+    "id": "p0153",
+    "type": "phrase",
+    "en": "go through",
+    "ja": [
+      "くまなく調べる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "gothrough",
+    "senses": [
+      "gothrough-examineindetail"
+    ],
+    "example": {
+      "en": "Go through the receipts one by one.",
+      "ja": "領収書を一枚ずつくまなく調べなさい。"
+    }
+  },
+  {
+    "id": "p0154",
+    "type": "phrase",
+    "en": "hand out",
+    "ja": [
+      "手渡しで配る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "handout",
+    "senses": [
+      "handout-distributebyhand"
+    ],
+    "example": {
+      "en": "Staff hand out samples near the door.",
+      "ja": "職員が扉の近くで見本を手渡しで配る。"
+    }
+  },
+  {
+    "id": "p0155",
+    "type": "phrase",
+    "en": "hold up",
+    "ja": [
+      "遅らせる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "holdup",
+    "senses": [
+      "holdup-delayprogress"
+    ],
+    "example": {
+      "en": "Customs held up the container for days.",
+      "ja": "通関が貨物箱を何日も遅らせた。"
+    }
+  },
+  {
+    "id": "p0156",
+    "type": "phrase",
+    "en": "keep up with",
+    "ja": [
+      "遅れずについていく"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "keepupwith",
+    "senses": [
+      "keepupwith-maintainpace"
+    ],
+    "example": {
+      "en": "The line struggles to keep up with demand.",
+      "ja": "生産設備は需要に遅れずについていくのに苦労する。"
+    }
+  },
+  {
+    "id": "p0157",
+    "type": "phrase",
+    "en": "lay off",
+    "ja": [
+      "一時解雇する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "layoff",
+    "senses": [
+      "layoff-dismissstaff"
+    ],
+    "example": {
+      "en": "The plant laid off thirty seasonal workers.",
+      "ja": "工場は季節の労働者三十名を一時解雇した。"
+    }
+  },
+  {
+    "id": "p0158",
+    "type": "phrase",
+    "en": "leave out",
+    "ja": [
+      "抜かす"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "leaveout",
+    "senses": [
+      "leaveout-omititem"
+    ],
+    "example": {
+      "en": "Do not leave out the model number.",
+      "ja": "型式の番号を抜かしてはならない。"
+    }
+  },
+  {
+    "id": "p0159",
+    "type": "phrase",
+    "en": "look up",
+    "ja": [
+      "調べて探す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "lookup",
+    "senses": [
+      "lookup-searchreference"
+    ],
+    "example": {
+      "en": "Look up the code in the parts list.",
+      "ja": "部品の一覧で番号を調べて探しなさい。"
+    }
+  },
+  {
+    "id": "p0160",
+    "type": "phrase",
+    "en": "make out",
+    "ja": [
+      "判読する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "makeout",
+    "senses": [
+      "makeout-managetoread"
+    ],
+    "example": {
+      "en": "I cannot make out the faded stamp.",
+      "ja": "薄れた印章が判読できない。"
+    }
+  },
+  {
+    "id": "p0161",
+    "type": "phrase",
+    "en": "pay off",
+    "ja": [
+      "完済する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "payoff",
+    "senses": [
+      "payoff-repayfully"
+    ],
+    "example": {
+      "en": "The firm paid off the loan early.",
+      "ja": "会社は融資を早く完済した。"
+    }
+  },
+  {
+    "id": "p0162",
+    "type": "phrase",
+    "en": "pick out",
+    "ja": [
+      "選び出す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part3"
+    ],
+    "root": "pickout",
+    "senses": [
+      "pickout-selectfromgroup"
+    ],
+    "example": {
+      "en": "Pick out three samples for the buyer.",
+      "ja": "買い手のために見本を三つ選び出しなさい。"
+    }
+  },
+  {
+    "id": "p0163",
+    "type": "phrase",
+    "en": "put up with",
+    "ja": [
+      "我慢する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "putupwith",
+    "senses": [
+      "putupwith-toleratesituation"
+    ],
+    "example": {
+      "en": "Guests put up with noise during the works.",
+      "ja": "客は工事の間、騒音を我慢した。"
+    }
+  },
+  {
+    "id": "p0164",
+    "type": "phrase",
+    "en": "set aside",
+    "ja": [
+      "取っておく"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "setaside",
+    "senses": [
+      "setaside-reserveforlater"
+    ],
+    "example": {
+      "en": "Set aside funds for winter repairs.",
+      "ja": "冬の修理のために資金を取っておきなさい。"
+    }
+  },
+  {
+    "id": "p0165",
+    "type": "phrase",
+    "en": "settle down",
+    "ja": [
+      "落ち着く"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "settledown",
+    "senses": [
+      "settledown-becomecalm"
+    ],
+    "example": {
+      "en": "Order volumes settled down after May.",
+      "ja": "注文の量は五月以降落ち着いた。"
+    }
+  },
+  {
+    "id": "p0166",
+    "type": "phrase",
+    "en": "sign off",
+    "ja": [
+      "承認の署名をする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part7"
+    ],
+    "root": "signoff",
+    "senses": [
+      "signoff-approveinwriting"
+    ],
+    "example": {
+      "en": "The chief signs off on every purchase.",
+      "ja": "主任がすべての購入に承認の署名をする。"
+    }
+  },
+  {
+    "id": "p0167",
+    "type": "phrase",
+    "en": "sort out",
+    "ja": [
+      "整理して解決する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "sortout",
+    "senses": [
+      "sortout-organizeandfix"
+    ],
+    "example": {
+      "en": "Sort out the mismatched labels today.",
+      "ja": "合わない表示を本日、整理して解決しなさい。"
+    }
+  },
+  {
+    "id": "p0168",
+    "type": "phrase",
+    "en": "speed up",
+    "ja": [
+      "加速する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "speedup",
+    "senses": [
+      "speedup-gofaster"
+    ],
+    "example": {
+      "en": "The second oven speeds up drying.",
+      "ja": "二基目の炉が乾燥を加速する。"
+    }
+  },
+  {
+    "id": "p0169",
+    "type": "phrase",
+    "en": "step down",
+    "ja": [
+      "辞任する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "stepdown",
+    "senses": [
+      "stepdown-resignpost"
+    ],
+    "example": {
+      "en": "The chair steps down at the annual meeting.",
+      "ja": "議長は年次総会で辞任する。"
+    }
+  },
+  {
+    "id": "p0170",
+    "type": "phrase",
+    "en": "take up",
+    "ja": [
+      "占有して使う"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "takeup",
+    "senses": [
+      "takeup-occupyspace"
+    ],
+    "example": {
+      "en": "The racks take up most of the floor.",
+      "ja": "棚が床の大半を占有して使う。"
+    }
+  },
+  {
+    "id": "p0171",
+    "type": "phrase",
+    "en": "turn over",
+    "ja": [
+      "引き渡す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "turnover2",
+    "senses": [
+      "turnoverphr-handcontrolto"
+    ],
+    "example": {
+      "en": "The builder turned over the keys in March.",
+      "ja": "建設業者は三月に鍵を引き渡した。"
+    }
+  },
+  {
+    "id": "p0172",
+    "type": "phrase",
+    "en": "watch out for",
+    "ja": [
+      "警戒する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "watchoutfor",
+    "senses": [
+      "watchoutfor-bealertto"
+    ],
+    "example": {
+      "en": "Watch out for forklifts in this aisle.",
+      "ja": "この通路では荷役車を警戒しなさい。"
+    }
+  },
+  {
+    "id": "p0173",
+    "type": "phrase",
+    "en": "wind up",
+    "ja": [
+      "終わりにする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "windup",
+    "senses": [
+      "windup-bringtoclose"
+    ],
+    "example": {
+      "en": "Let us wind up the session at four.",
+      "ja": "四時に回を終わりにしよう。"
+    }
+  },
+  {
+    "id": "p0174",
+    "type": "phrase",
+    "en": "according to",
+    "ja": [
+      "によれば"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "accordingto",
+    "senses": [
+      "accordingto-assaidby"
+    ],
+    "example": {
+      "en": "According to the log, the pump ran all night.",
+      "ja": "記録によれば送水機は一晩中動いた。"
+    }
+  },
+  {
+    "id": "p0175",
+    "type": "phrase",
+    "en": "ahead of",
+    "ja": [
+      "より先に"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "aheadof",
+    "senses": [
+      "aheadof-inadvanceof"
+    ],
+    "example": {
+      "en": "The order shipped ahead of schedule.",
+      "ja": "注文は予定より先に発送された。"
+    }
+  },
+  {
+    "id": "p0176",
+    "type": "phrase",
+    "en": "along with",
+    "ja": [
+      "とともに"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "alongwith",
+    "senses": [
+      "alongwith-togetherwithitem"
+    ],
+    "example": {
+      "en": "Send the manual along with the unit.",
+      "ja": "手引書を本体とともに送りなさい。"
+    }
+  },
+  {
+    "id": "p0177",
+    "type": "phrase",
+    "en": "apart from",
+    "ja": [
+      "を除いて"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "apartfrom",
+    "senses": [
+      "apartfrom-exceptfor"
+    ],
+    "example": {
+      "en": "Apart from one crate, all arrived intact.",
+      "ja": "木箱一つを除いて、すべて無傷で届いた。"
+    }
+  },
+  {
+    "id": "p0178",
+    "type": "phrase",
+    "en": "as a result",
+    "ja": [
+      "その結果"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "asaresult",
+    "senses": [
+      "asaresult-consequently"
+    ],
+    "example": {
+      "en": "As a result, waste fell by a third.",
+      "ja": "その結果、廃棄物は三分の一減った。"
+    }
+  },
+  {
+    "id": "p0179",
+    "type": "phrase",
+    "en": "at all times",
+    "ja": [
+      "常時"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "atalltimes",
+    "senses": [
+      "atalltimes-continuously"
+    ],
+    "example": {
+      "en": "Fire doors stay closed at all times.",
+      "ja": "防火扉は常時閉めておく。"
+    }
+  },
+  {
+    "id": "p0180",
+    "type": "phrase",
+    "en": "by means of",
+    "ja": [
+      "によって"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "bymeansof",
+    "senses": [
+      "bymeansof-throughuseof"
+    ],
+    "example": {
+      "en": "Parts move by means of an overhead rail.",
+      "ja": "部品は頭上の軌道によって運ばれる。"
+    }
+  },
+  {
+    "id": "p0181",
+    "type": "phrase",
+    "en": "during the course of",
+    "ja": [
+      "の間ずっと"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "duringcourse",
+    "senses": [
+      "duringcourse-throughoutperiod"
+    ],
+    "example": {
+      "en": "Temperature is logged during the course of the run.",
+      "ja": "運転の間ずっと温度が記録される。"
+    }
+  },
+  {
+    "id": "p0182",
+    "type": "phrase",
+    "en": "for the sake of",
+    "ja": [
+      "のために"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "forthesake",
+    "senses": [
+      "forthesake-forbenefitof"
+    ],
+    "example": {
+      "en": "Speed limits exist for the sake of safety.",
+      "ja": "速度の制限は安全のためにある。"
+    }
+  },
+  {
+    "id": "p0183",
+    "type": "phrase",
+    "en": "in addition to",
+    "ja": [
+      "に加えて別に"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "inadditionto",
+    "senses": [
+      "inaddition-plusalso"
+    ],
+    "example": {
+      "en": "In addition to rent, tenants pay a service charge.",
+      "ja": "賃料に加えて別に賃借人は管理費を払う。"
+    }
+  },
+  {
+    "id": "p0184",
+    "type": "phrase",
+    "en": "in case of",
+    "ja": [
+      "に備えて"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "incaseof",
+    "senses": [
+      "incaseof-preparingfor"
+    ],
+    "example": {
+      "en": "Keep a torch in case of a power cut.",
+      "ja": "停電に備えて懐中電灯を用意しておきなさい。"
+    }
+  },
+  {
+    "id": "p0185",
+    "type": "phrase",
+    "en": "in charge",
+    "ja": [
+      "責任者で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "inchargephr",
+    "senses": [
+      "inchargephr-havingcontrol"
+    ],
+    "example": {
+      "en": "Who is in charge while the manager is away.",
+      "ja": "支配人の不在中は誰が責任者ですか。"
+    }
+  },
+  {
+    "id": "p0186",
+    "type": "phrase",
+    "en": "in general",
+    "ja": [
+      "概して"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "ingeneral",
+    "senses": [
+      "ingeneral-usuallyoverall"
+    ],
+    "example": {
+      "en": "In general, autumn orders exceed spring ones.",
+      "ja": "概して秋の注文は春を上回る。"
+    }
+  },
+  {
+    "id": "p0187",
+    "type": "phrase",
+    "en": "in place of",
+    "ja": [
+      "に取って代えて"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "inplaceof",
+    "senses": [
+      "inplaceof-asreplacementfor"
+    ],
+    "example": {
+      "en": "Use the steel bracket in place of plastic.",
+      "ja": "樹脂に取って代えて鋼の金具を使いなさい。"
+    }
+  },
+  {
+    "id": "p0188",
+    "type": "phrase",
+    "en": "in terms of",
+    "ja": [
+      "の点では"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "intermsof",
+    "senses": [
+      "intermsof-regardingaspect"
+    ],
+    "example": {
+      "en": "In terms of cost, rail wins easily.",
+      "ja": "費用の点では鉄道が容易に勝る。"
+    }
+  },
+  {
+    "id": "p0189",
+    "type": "phrase",
+    "en": "on account of",
+    "ja": [
+      "のせいで"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "onaccountof",
+    "senses": [
+      "onaccountof-becauseofcause"
+    ],
+    "example": {
+      "en": "The ferry stopped on account of high winds.",
+      "ja": "強風のせいで渡し船が止まった。"
+    }
+  },
+  {
+    "id": "p0190",
+    "type": "phrase",
+    "en": "on behalf",
+    "ja": [
+      "代理として"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "onbehalfphr",
+    "senses": [
+      "onbehalfphr-representingother"
+    ],
+    "example": {
+      "en": "He signed on behalf of the buyer.",
+      "ja": "彼は買い手の代理として署名した。"
+    }
+  },
+  {
+    "id": "p0191",
+    "type": "phrase",
+    "en": "regardless of",
+    "ja": [
+      "に関係なく"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "regardlessof",
+    "senses": [
+      "regardlessof-withoutbeingaffected"
+    ],
+    "example": {
+      "en": "The fee applies regardless of order size.",
+      "ja": "料金は注文の大きさに関係なくかかる。"
+    }
+  },
+  {
+    "id": "p0192",
+    "type": "phrase",
+    "en": "thanks to",
+    "ja": [
+      "のおかげで"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "thanksto",
+    "senses": [
+      "thanksto-becauseofhelp"
+    ],
+    "example": {
+      "en": "Thanks to the new dryer, output doubled.",
+      "ja": "新しい乾燥機のおかげで生産が倍になった。"
+    }
+  },
+  {
+    "id": "p0193",
+    "type": "phrase",
+    "en": "up to date",
+    "ja": [
+      "最新の状態で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "uptodate",
+    "senses": [
+      "uptodate-currentandcorrect"
+    ],
+    "example": {
+      "en": "Keep the contact list up to date.",
+      "ja": "連絡先の一覧を最新の状態で保ちなさい。"
+    }
+  },
+  {
+    "id": "p0194",
+    "type": "phrase",
+    "en": "with respect to",
+    "ja": [
+      "に関しては"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "withrespectto",
+    "senses": [
+      "withrespectto-concerningmatter"
+    ],
+    "example": {
+      "en": "With respect to storage, clause nine applies.",
+      "ja": "保管に関しては第九条が適用される。"
+    }
+  },
+  {
+    "id": "p0294",
+    "type": "phrase",
+    "en": "account for it",
+    "ja": [
+      "説明がつく"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "accountforit",
+    "senses": [
+      "accountforit-explainreason"
+    ],
+    "example": {
+      "en": "A power dip accounts for the reading.",
+      "ja": "電圧の低下でその測定値は説明がつく。"
+    }
+  },
+  {
+    "id": "p0295",
+    "type": "phrase",
+    "en": "add up",
+    "ja": [
+      "計算が合う"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part3"
+    ],
+    "root": "addup",
+    "senses": [
+      "addup-totalcorrectly"
+    ],
+    "example": {
+      "en": "The figures do not add up this month.",
+      "ja": "今月は数字の計算が合わない。"
+    }
+  },
+  {
+    "id": "p0296",
+    "type": "phrase",
+    "en": "be about to",
+    "ja": [
+      "しようとしている"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "beaboutto",
+    "senses": [
+      "beabout-ontheverge"
+    ],
+    "example": {
+      "en": "The ferry is about to leave the pier.",
+      "ja": "渡し船は桟橋を離れようとしている。"
+    }
+  },
+  {
+    "id": "p0297",
+    "type": "phrase",
+    "en": "be accustomed to",
+    "ja": [
+      "慣れ親しんでいる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "beaccustomedto",
+    "senses": [
+      "beaccustomed-usedtodoing"
+    ],
+    "example": {
+      "en": "Staff are accustomed to the new layout.",
+      "ja": "職員は新しい配置に慣れ親しんでいる。"
+    }
+  },
+  {
+    "id": "p0298",
+    "type": "phrase",
+    "en": "be busy with",
+    "ja": [
+      "手が離せない"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "bebusywith",
+    "senses": [
+      "bebusywith-occupiedwithtask"
+    ],
+    "example": {
+      "en": "The clerk is busy with the year-end count.",
+      "ja": "事務員は年末の集計で手が離せない。"
+    }
+  },
+  {
+    "id": "p0299",
+    "type": "phrase",
+    "en": "be famous for",
+    "ja": [
+      "有名である"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "befamousfor",
+    "senses": [
+      "befamousfor-wellknownfor"
+    ],
+    "example": {
+      "en": "The bakery is famous for its rye bread.",
+      "ja": "そのパン屋はライ麦のパンで有名である。"
+    }
+  },
+  {
+    "id": "p0300",
+    "type": "phrase",
+    "en": "be full of",
+    "ja": [
+      "いっぱいである"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part1"
+    ],
+    "root": "befullof",
+    "senses": [
+      "befullof-completelyfilled"
+    ],
+    "example": {
+      "en": "The rack is full of empty cartons.",
+      "ja": "棚は空の箱でいっぱいである。"
+    }
+  },
+  {
+    "id": "p0301",
+    "type": "phrase",
+    "en": "be in short supply",
+    "ja": [
+      "不足している"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "beinshortsupply",
+    "senses": [
+      "beinshort-scarceavailability"
+    ],
+    "example": {
+      "en": "Spare belts are in short supply.",
+      "ja": "予備の帯が不足している。"
+    }
+  },
+  {
+    "id": "p0302",
+    "type": "phrase",
+    "en": "be made of",
+    "ja": [
+      "でできている"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "bemadeof",
+    "senses": [
+      "bemadeof-composedofmaterial"
+    ],
+    "example": {
+      "en": "The tray is made of recycled plastic.",
+      "ja": "その受け皿は再生した樹脂でできている。"
+    }
+  },
+  {
+    "id": "p0303",
+    "type": "phrase",
+    "en": "be similar to",
+    "ja": [
+      "似通っている"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "besimilarto",
+    "senses": [
+      "besimilarto-resembleclosely"
+    ],
+    "example": {
+      "en": "The layout is similar to the Kobe plant.",
+      "ja": "配置は神戸工場と似通っている。"
+    }
+  },
+  {
+    "id": "p0304",
+    "type": "phrase",
+    "en": "be supposed to",
+    "ja": [
+      "することになっている"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "besupposedto",
+    "senses": [
+      "besupposed-expectedtodo"
+    ],
+    "example": {
+      "en": "You are supposed to log every entry.",
+      "ja": "入場は毎回記録することになっている。"
+    }
+  },
+  {
+    "id": "p0305",
+    "type": "phrase",
+    "en": "be worth",
+    "ja": [
+      "価値がある"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "beworth",
+    "senses": [
+      "beworth-havingvalue"
+    ],
+    "example": {
+      "en": "The old press is still worth repairing.",
+      "ja": "古い印刷機はまだ修理する価値がある。"
+    }
+  },
+  {
+    "id": "p0306",
+    "type": "phrase",
+    "en": "bring in",
+    "ja": [
+      "呼び入れる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "bringin",
+    "senses": [
+      "bringin-hiretemporarily"
+    ],
+    "example": {
+      "en": "The depot brought in extra drivers.",
+      "ja": "拠点は運転手を追加で呼び入れた。"
+    }
+  },
+  {
+    "id": "p0307",
+    "type": "phrase",
+    "en": "call on",
+    "ja": [
+      "訪問する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part3"
+    ],
+    "root": "callon",
+    "senses": [
+      "callon-visitclient"
+    ],
+    "example": {
+      "en": "Our agent calls on twenty shops weekly.",
+      "ja": "当社の担当は週に二十店を訪問する。"
+    }
+  },
+  {
+    "id": "p0308",
+    "type": "phrase",
+    "en": "carry out a survey",
+    "ja": [
+      "調査を行う"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part4"
+    ],
+    "root": "carryoutsurvey",
+    "senses": [
+      "carryoutsurvey-conductstudy"
+    ],
+    "example": {
+      "en": "The team carried out a customer survey.",
+      "ja": "その班は顧客の調査を行った。"
+    }
+  },
+  {
+    "id": "p0309",
+    "type": "phrase",
+    "en": "catch on",
+    "ja": [
+      "定着する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part3"
+    ],
+    "root": "catchon",
+    "senses": [
+      "catchon-becomepopular"
+    ],
+    "example": {
+      "en": "The refill pack caught on quickly.",
+      "ja": "詰め替えの袋はすぐに定着した。"
+    }
+  },
+  {
+    "id": "p0310",
+    "type": "phrase",
+    "en": "check on",
+    "ja": [
+      "様子を見る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "checkon",
+    "senses": [
+      "checkon-monitorcondition"
+    ],
+    "example": {
+      "en": "Check on the dryer every two hours.",
+      "ja": "二時間ごとに乾燥機の様子を見なさい。"
+    }
+  },
+  {
+    "id": "p0311",
+    "type": "phrase",
+    "en": "clean up",
+    "ja": [
+      "清掃を済ませる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "cleanup",
+    "senses": [
+      "cleanup-tidythoroughly"
+    ],
+    "example": {
+      "en": "Crews clean up the yard before dusk.",
+      "ja": "作業班は日暮れ前に構内の清掃を済ませる。"
+    }
+  },
+  {
+    "id": "p0312",
+    "type": "phrase",
+    "en": "come across",
+    "ja": [
+      "ふと見つける"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "comeacross",
+    "senses": [
+      "comeacross-findbychance"
+    ],
+    "example": {
+      "en": "I came across the missing invoice today.",
+      "ja": "本日、行方不明の請求書をふと見つけた。"
+    }
+  },
+  {
+    "id": "p0313",
+    "type": "phrase",
+    "en": "come back",
+    "ja": [
+      "戻る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "comeback",
+    "senses": [
+      "comeback-returntoplace"
+    ],
+    "example": {
+      "en": "The driver comes back before noon.",
+      "ja": "運転手は正午前に戻る。"
+    }
+  },
+  {
+    "id": "p0314",
+    "type": "phrase",
+    "en": "cross out",
+    "ja": [
+      "線を引いて消す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "crossout",
+    "senses": [
+      "crossout-strikethroughtext"
+    ],
+    "example": {
+      "en": "Cross out the old price on the tag.",
+      "ja": "札の古い価格に線を引いて消しなさい。"
+    }
+  },
+  {
+    "id": "p0315",
+    "type": "phrase",
+    "en": "cut in half",
+    "ja": [
+      "半分にする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "cutinhalf",
+    "senses": [
+      "cutinhalf-reducebyfifty"
+    ],
+    "example": {
+      "en": "The jig cut setup time in half.",
+      "ja": "その治具は段取りの時間を半分にした。"
+    }
+  },
+  {
+    "id": "p0316",
+    "type": "phrase",
+    "en": "drop in",
+    "ja": [
+      "不意に立ち寄る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "dropin",
+    "senses": [
+      "dropin-visitunannounced"
+    ],
+    "example": {
+      "en": "An inspector may drop in without notice.",
+      "ja": "検査員が予告なく不意に立ち寄ることがある。"
+    }
+  },
+  {
+    "id": "p0317",
+    "type": "phrase",
+    "en": "fill up",
+    "ja": [
+      "満タンにする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part1"
+    ],
+    "root": "fillup",
+    "senses": [
+      "fillup-fillcompletely"
+    ],
+    "example": {
+      "en": "Drivers fill up before the long route.",
+      "ja": "運転手は長い経路の前に満タンにする。"
+    }
+  },
+  {
+    "id": "p0318",
+    "type": "phrase",
+    "en": "get along with",
+    "ja": [
+      "うまくやっていく"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "getalongwith",
+    "senses": [
+      "getalong-havegoodrelations"
+    ],
+    "example": {
+      "en": "The two teams get along well.",
+      "ja": "二つの班はうまくやっていっている。"
+    }
+  },
+  {
+    "id": "p0319",
+    "type": "phrase",
+    "en": "get by",
+    "ja": [
+      "何とかやりくりする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "getby",
+    "senses": [
+      "getby-manageminimally"
+    ],
+    "example": {
+      "en": "We got by with one van for a week.",
+      "ja": "一週間、貨物車一台で何とかやりくりした。"
+    }
+  },
+  {
+    "id": "p0320",
+    "type": "phrase",
+    "en": "give away",
+    "ja": [
+      "無償で配る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "giveaway",
+    "senses": [
+      "giveaway-distributefree"
+    ],
+    "example": {
+      "en": "The stand gives away sample sachets.",
+      "ja": "その売り場は見本の小袋を無償で配る。"
+    }
+  },
+  {
+    "id": "p0321",
+    "type": "phrase",
+    "en": "go on",
+    "ja": [
+      "続く"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "goon",
+    "senses": [
+      "goon-continueintime"
+    ],
+    "example": {
+      "en": "The talks went on until late evening.",
+      "ja": "交渉は夜遅くまで続いた。"
+    }
+  },
+  {
+    "id": "p0322",
+    "type": "phrase",
+    "en": "grow into",
+    "ja": [
+      "成長して収まる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "growinto",
+    "senses": [
+      "growinto-developtofit"
+    ],
+    "example": {
+      "en": "The firm grew into its new premises.",
+      "ja": "会社は新しい敷地に成長して収まった。"
+    }
+  },
+  {
+    "id": "p0323",
+    "type": "phrase",
+    "en": "hand back",
+    "ja": [
+      "返却する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "handback",
+    "senses": [
+      "handback-returntoowner"
+    ],
+    "example": {
+      "en": "Hand back the keys at the gate house.",
+      "ja": "門衛所で鍵を返却しなさい。"
+    }
+  },
+  {
+    "id": "p0324",
+    "type": "phrase",
+    "en": "head off",
+    "ja": [
+      "未然に防ぐ"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "headoff",
+    "senses": [
+      "headoff-preventinadvance"
+    ],
+    "example": {
+      "en": "Regular checks head off major faults.",
+      "ja": "定期の点検が大きな不具合を未然に防ぐ。"
+    }
+  },
+  {
+    "id": "p0325",
+    "type": "phrase",
+    "en": "help out",
+    "ja": [
+      "助けに入る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "helpout",
+    "senses": [
+      "helpout-assisttemporarily"
+    ],
+    "example": {
+      "en": "Office staff helped out in the warehouse.",
+      "ja": "事務の職員が倉庫の助けに入った。"
+    }
+  },
+  {
+    "id": "p0326",
+    "type": "phrase",
+    "en": "join in",
+    "ja": [
+      "加わって参加する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "joinin",
+    "senses": [
+      "joinin-participatewithothers"
+    ],
+    "example": {
+      "en": "Everyone joined in the safety drill.",
+      "ja": "全員が避難訓練に加わって参加した。"
+    }
+  },
+  {
+    "id": "p0327",
+    "type": "phrase",
+    "en": "keep away from",
+    "ja": [
+      "近づかない"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part2"
+    ],
+    "root": "keepawayfrom",
+    "senses": [
+      "keepaway-stayclear"
+    ],
+    "example": {
+      "en": "Keep away from the moving belt.",
+      "ja": "動いている帯に近づかないこと。"
+    }
+  },
+  {
+    "id": "p0328",
+    "type": "phrase",
+    "en": "knock down",
+    "ja": [
+      "取り壊す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "knockdown",
+    "senses": [
+      "knockdown-demolishbuilding"
+    ],
+    "example": {
+      "en": "The old shed was knocked down in May.",
+      "ja": "古い小屋は五月に取り壊された。"
+    }
+  },
+  {
+    "id": "p0329",
+    "type": "phrase",
+    "en": "lay out",
+    "ja": [
+      "並べて配置する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "layout2",
+    "senses": [
+      "layoutphr-arrangeondisplay"
+    ],
+    "example": {
+      "en": "Staff lay out the samples before opening.",
+      "ja": "職員は開店前に見本を並べて配置する。"
+    }
+  },
+  {
+    "id": "p0330",
+    "type": "phrase",
+    "en": "let go of",
+    "ja": [
+      "手放す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "letgoof",
+    "senses": [
+      "letgoof-releasegrip"
+    ],
+    "example": {
+      "en": "Never let go of the strap while lifting.",
+      "ja": "持ち上げる間は帯を手放してはならない。"
+    }
+  },
+  {
+    "id": "p0331",
+    "type": "phrase",
+    "en": "look into it",
+    "ja": [
+      "調べてみる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part2"
+    ],
+    "root": "lookintoit",
+    "senses": [
+      "lookintoit-investigatebriefly"
+    ],
+    "example": {
+      "en": "I will look into it and call you back.",
+      "ja": "調べてみて折り返し電話する。"
+    }
+  },
+  {
+    "id": "p0332",
+    "type": "phrase",
+    "en": "make a note",
+    "ja": [
+      "書き付ける"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "makeanote",
+    "senses": [
+      "makeanote-writereminder"
+    ],
+    "example": {
+      "en": "Make a note of the batch number.",
+      "ja": "生産分の番号を書き付けなさい。"
+    }
+  },
+  {
+    "id": "p0333",
+    "type": "phrase",
+    "en": "move in",
+    "ja": [
+      "入居する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "realestate",
+      "part7"
+    ],
+    "root": "movein",
+    "senses": [
+      "movein-startliving"
+    ],
+    "example": {
+      "en": "Tenants move in on the first of April.",
+      "ja": "賃借人は四月一日に入居する。"
+    }
+  },
+  {
+    "id": "p0334",
+    "type": "phrase",
+    "en": "pack up",
+    "ja": [
+      "荷造りする"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part1"
+    ],
+    "root": "packup",
+    "senses": [
+      "packup-putintoboxes"
+    ],
+    "example": {
+      "en": "Crews pack up the booth after the fair.",
+      "ja": "作業班は見本市の後、売り場を荷造りする。"
+    }
+  },
+  {
+    "id": "p0335",
+    "type": "phrase",
+    "en": "pass by",
+    "ja": [
+      "通り過ぎる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "travel",
+      "part1"
+    ],
+    "root": "passby",
+    "senses": [
+      "passby-movepast"
+    ],
+    "example": {
+      "en": "The shuttle passes by the north gate.",
+      "ja": "送迎車は北門を通り過ぎる。"
+    }
+  },
+  {
+    "id": "p0336",
+    "type": "phrase",
+    "en": "pay back",
+    "ja": [
+      "返済する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "payback",
+    "senses": [
+      "payback-repayborrowed"
+    ],
+    "example": {
+      "en": "The firm pays back the advance monthly.",
+      "ja": "会社は前払金を毎月返済する。"
+    }
+  },
+  {
+    "id": "p0337",
+    "type": "phrase",
+    "en": "pile up",
+    "ja": [
+      "積み上がる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part1"
+    ],
+    "root": "pileup",
+    "senses": [
+      "pileup-accumulatehigh"
+    ],
+    "example": {
+      "en": "Cartons piled up near the loading door.",
+      "ja": "箱が荷積みの扉の近くに積み上がった。"
+    }
+  },
+  {
+    "id": "p0338",
+    "type": "phrase",
+    "en": "put back",
+    "ja": [
+      "元に戻す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part2"
+    ],
+    "root": "putback",
+    "senses": [
+      "putback-returntoplace"
+    ],
+    "example": {
+      "en": "Put back the tools after each job.",
+      "ja": "作業のたびに工具を元に戻しなさい。"
+    }
+  },
+  {
+    "id": "p0339",
+    "type": "phrase",
+    "en": "put down",
+    "ja": [
+      "下に置く"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "putdown",
+    "senses": [
+      "putdown-setondown"
+    ],
+    "example": {
+      "en": "Put down the crate before you sign.",
+      "ja": "署名する前に木箱を下に置きなさい。"
+    }
+  },
+  {
+    "id": "p0340",
+    "type": "phrase",
+    "en": "ring up",
+    "ja": [
+      "会計を打つ"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part1"
+    ],
+    "root": "ringup",
+    "senses": [
+      "ringup-registersale"
+    ],
+    "example": {
+      "en": "The clerk rings up each item separately.",
+      "ja": "係員は品ごとに会計を打つ。"
+    }
+  },
+  {
+    "id": "p0341",
+    "type": "phrase",
+    "en": "run over",
+    "ja": [
+      "時間を超過する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "runover",
+    "senses": [
+      "runover-exceedallottedtime"
+    ],
+    "example": {
+      "en": "The session ran over by twenty minutes.",
+      "ja": "その回は二十分、時間を超過した。"
+    }
+  },
+  {
+    "id": "p0342",
+    "type": "phrase",
+    "en": "send back",
+    "ja": [
+      "送り返す"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "sendback",
+    "senses": [
+      "sendback-returnbypost"
+    ],
+    "example": {
+      "en": "Send back any carton with a torn seal.",
+      "ja": "封が破れた箱は送り返しなさい。"
+    }
+  },
+  {
+    "id": "p0343",
+    "type": "phrase",
+    "en": "set a date",
+    "ja": [
+      "日取りを決める"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "setadate",
+    "senses": [
+      "setadate-fixday"
+    ],
+    "example": {
+      "en": "Let us set a date for the site visit.",
+      "ja": "現場訪問の日取りを決めよう。"
+    }
+  },
+  {
+    "id": "p0344",
+    "type": "phrase",
+    "en": "show around",
+    "ja": [
+      "案内して回る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "showaround",
+    "senses": [
+      "showaround-guidethroughplace"
+    ],
+    "example": {
+      "en": "A guide shows visitors around the plant.",
+      "ja": "案内係が訪問者を工場で案内して回る。"
+    }
+  },
+  {
+    "id": "p0345",
+    "type": "phrase",
+    "en": "shut down",
+    "ja": [
+      "停止させる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "shutdown",
+    "senses": [
+      "shutdown-turnoffsystem"
+    ],
+    "example": {
+      "en": "Engineers shut down the line for cleaning.",
+      "ja": "技術者は清掃のため生産設備を停止させる。"
+    }
+  },
+  {
+    "id": "p0346",
+    "type": "phrase",
+    "en": "sign in",
+    "ja": [
+      "記帳する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "signin",
+    "senses": [
+      "signin-registerentry"
+    ],
+    "example": {
+      "en": "All visitors sign in at reception.",
+      "ja": "来訪者は全員、受付で記帳する。"
+    }
+  },
+  {
+    "id": "p0347",
+    "type": "phrase",
+    "en": "sort by",
+    "ja": [
+      "順に並べる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "sortby",
+    "senses": [
+      "sortby-arrangebycriterion"
+    ],
+    "example": {
+      "en": "Sort the parcels by postal code.",
+      "ja": "小包は郵便番号の順に並べなさい。"
+    }
+  },
+  {
+    "id": "p0348",
+    "type": "phrase",
+    "en": "stand for",
+    "ja": [
+      "の略である"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "standfor",
+    "senses": [
+      "standfor-representabbreviation"
+    ],
+    "example": {
+      "en": "The letters stand for the plant code.",
+      "ja": "その文字は工場の記号の略である。"
+    }
+  },
+  {
+    "id": "p0349",
+    "type": "phrase",
+    "en": "stay on",
+    "ja": [
+      "留任する"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "stayon",
+    "senses": [
+      "stayon-remaininpost"
+    ],
+    "example": {
+      "en": "The chief engineer stayed on another year.",
+      "ja": "主任技術者はもう一年留任した。"
+    }
+  },
+  {
+    "id": "p0350",
+    "type": "phrase",
+    "en": "take away",
+    "ja": [
+      "持ち去る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part1"
+    ],
+    "root": "takeaway",
+    "senses": [
+      "takeaway-removefromplace"
+    ],
+    "example": {
+      "en": "Take away the empty drums this evening.",
+      "ja": "今夕、空の樽を持ち去りなさい。"
+    }
+  },
+  {
+    "id": "p0351",
+    "type": "phrase",
+    "en": "take back",
+    "ja": [
+      "引き取る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part3"
+    ],
+    "root": "takeback",
+    "senses": [
+      "takeback-acceptreturn"
+    ],
+    "example": {
+      "en": "The store takes back unused items.",
+      "ja": "その店は未使用の品を引き取る。"
+    }
+  },
+  {
+    "id": "p0352",
+    "type": "phrase",
+    "en": "take down",
+    "ja": [
+      "書き取る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part2"
+    ],
+    "root": "takedown",
+    "senses": [
+      "takedown-recordbywriting"
+    ],
+    "example": {
+      "en": "Take down the caller's reference number.",
+      "ja": "電話の相手の参照番号を書き取りなさい。"
+    }
+  },
+  {
+    "id": "p0353",
+    "type": "phrase",
+    "en": "try out",
+    "ja": [
+      "試してみる"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "tryout",
+    "senses": [
+      "tryout-testinuse"
+    ],
+    "example": {
+      "en": "The plant tried out a lighter pallet.",
+      "ja": "工場はより軽い荷台を試してみた。"
+    }
+  },
+  {
+    "id": "p0354",
+    "type": "phrase",
+    "en": "turn to",
+    "ja": [
+      "頼る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "turnto",
+    "senses": [
+      "turnto-seekhelpfrom"
+    ],
+    "example": {
+      "en": "Turn to the night desk for urgent faults.",
+      "ja": "急な不具合は夜間の窓口に頼りなさい。"
+    }
+  },
+  {
+    "id": "p0355",
+    "type": "phrase",
+    "en": "use up",
+    "ja": [
+      "使い切る"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "useup",
+    "senses": [
+      "useup-consumeentirely"
+    ],
+    "example": {
+      "en": "Use up the older stock first.",
+      "ja": "古い在庫から先に使い切りなさい。"
+    }
+  },
+  {
+    "id": "p0356",
+    "type": "phrase",
+    "en": "wash up",
+    "ja": [
+      "洗って片づける"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part1"
+    ],
+    "root": "washup",
+    "senses": [
+      "washup-cleandishes"
+    ],
+    "example": {
+      "en": "Kitchen staff wash up after each service.",
+      "ja": "厨房の職員は営業のたびに洗って片づける。"
+    }
+  },
+  {
+    "id": "p0357",
+    "type": "phrase",
+    "en": "wrap up",
+    "ja": [
+      "包装を終える"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part1"
+    ],
+    "root": "wrapup",
+    "senses": [
+      "wrapup-finishpacking"
+    ],
+    "example": {
+      "en": "Wrap up the fragile items in foam.",
+      "ja": "壊れやすい品は緩衝材で包装を終えなさい。"
+    }
+  },
+  {
+    "id": "p0358",
+    "type": "phrase",
+    "en": "a variety of",
+    "ja": [
+      "さまざまな"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "avarietyof",
+    "senses": [
+      "avarietyof-manydifferentkinds"
+    ],
+    "example": {
+      "en": "The shop stocks a variety of sizes.",
+      "ja": "その店はさまざまな寸法を置いている。"
+    }
+  },
+  {
+    "id": "p0359",
+    "type": "phrase",
+    "en": "all at once",
+    "ja": [
+      "一斉に"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "allatonce",
+    "senses": [
+      "allatonce-simultaneously"
+    ],
+    "example": {
+      "en": "The alarms sounded all at once.",
+      "ja": "警報が一斉に鳴った。"
+    }
+  },
+  {
+    "id": "p0360",
+    "type": "phrase",
+    "en": "as soon as",
+    "ja": [
+      "次第"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "assoonas",
+    "senses": [
+      "assoonas-immediatelywhen"
+    ],
+    "example": {
+      "en": "Ship the goods as soon as payment clears.",
+      "ja": "入金が確認でき次第、商品を発送しなさい。"
+    }
+  },
+  {
+    "id": "p0361",
+    "type": "phrase",
+    "en": "at any rate",
+    "ja": [
+      "いずれにせよ"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "atanyrate",
+    "senses": [
+      "atanyrate-inanycase"
+    ],
+    "example": {
+      "en": "At any rate, the audit begins on Monday.",
+      "ja": "いずれにせよ監査は月曜に始まる。"
+    }
+  },
+  {
+    "id": "p0362",
+    "type": "phrase",
+    "en": "by and large",
+    "ja": [
+      "全体としては"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "byandlarge",
+    "senses": [
+      "byandlarge-generallyspeaking"
+    ],
+    "example": {
+      "en": "By and large, the trial went smoothly.",
+      "ja": "全体としては試験は滑らかに進んだ。"
+    }
+  },
+  {
+    "id": "p0363",
+    "type": "phrase",
+    "en": "for the time being",
+    "ja": [
+      "当面は"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "forthetimebeing",
+    "senses": [
+      "forthetimebeing-fornow"
+    ],
+    "example": {
+      "en": "For the time being, use the side entrance.",
+      "ja": "当面は横の入口を使いなさい。"
+    }
+  },
+  {
+    "id": "p0364",
+    "type": "phrase",
+    "en": "in advance of",
+    "ja": [
+      "に先立って"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "inadvanceof",
+    "senses": [
+      "inadvanceof-beforeevent"
+    ],
+    "example": {
+      "en": "Papers circulate in advance of the meeting.",
+      "ja": "資料は会議に先立って回覧される。"
+    }
+  },
+  {
+    "id": "p0365",
+    "type": "phrase",
+    "en": "in bulk",
+    "ja": [
+      "まとめて"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "inbulk",
+    "senses": [
+      "inbulk-largequantityatonce"
+    ],
+    "example": {
+      "en": "Buying in bulk lowers the unit price.",
+      "ja": "まとめて買うと単価が下がる。"
+    }
+  },
+  {
+    "id": "p0366",
+    "type": "phrase",
+    "en": "in contrast",
+    "ja": [
+      "対照的に"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "incontrast",
+    "senses": [
+      "incontrast-showingdifference"
+    ],
+    "example": {
+      "en": "In contrast, online orders kept rising.",
+      "ja": "対照的に画面上の注文は伸び続けた。"
+    }
+  },
+  {
+    "id": "p0367",
+    "type": "phrase",
+    "en": "in detail",
+    "ja": [
+      "詳細に"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "indetail",
+    "senses": [
+      "indetail-withfullparticulars"
+    ],
+    "example": {
+      "en": "The manual explains the steps in detail.",
+      "ja": "手引書は手順を詳細に説明する。"
+    }
+  },
+  {
+    "id": "p0368",
+    "type": "phrase",
+    "en": "in effect",
+    "ja": [
+      "事実上"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "ineffect",
+    "senses": [
+      "ineffect-inpracticalterms"
+    ],
+    "example": {
+      "en": "The clause is in effect a penalty.",
+      "ja": "その条項は事実上の違約金だ。"
+    }
+  },
+  {
+    "id": "p0369",
+    "type": "phrase",
+    "en": "in exchange for",
+    "ja": [
+      "と引き換えに"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "inexchangefor",
+    "senses": [
+      "inexchangefor-inreturnfor"
+    ],
+    "example": {
+      "en": "A discount applies in exchange for prepayment.",
+      "ja": "前払いと引き換えに割引がかかる。"
+    }
+  },
+  {
+    "id": "p0370",
+    "type": "phrase",
+    "en": "in favor of",
+    "ja": [
+      "に賛成して"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "infavorof",
+    "senses": [
+      "infavorof-supportingoption"
+    ],
+    "example": {
+      "en": "Nine members voted in favor of the plan.",
+      "ja": "会員九名がその計画に賛成して投じた。"
+    }
+  },
+  {
+    "id": "p0371",
+    "type": "phrase",
+    "en": "in full",
+    "ja": [
+      "全額で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "infull",
+    "senses": [
+      "infull-completeamount"
+    ],
+    "example": {
+      "en": "The invoice was settled in full.",
+      "ja": "請求書は全額で清算された。"
+    }
+  },
+  {
+    "id": "p0372",
+    "type": "phrase",
+    "en": "in general terms",
+    "ja": [
+      "大まかに言えば"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "ingeneralterms",
+    "senses": [
+      "ingeneralterms-broadlyspeaking"
+    ],
+    "example": {
+      "en": "In general terms, costs held steady.",
+      "ja": "大まかに言えば費用は横ばいだった。"
+    }
+  },
+  {
+    "id": "p0373",
+    "type": "phrase",
+    "en": "in line with",
+    "ja": [
+      "に沿った"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "inlinewith",
+    "senses": [
+      "inlinewith-consistentwith"
+    ],
+    "example": {
+      "en": "Results were in line with the forecast.",
+      "ja": "結果は見通しに沿ったものだった。"
+    }
+  },
+  {
+    "id": "p0374",
+    "type": "phrase",
+    "en": "in particular",
+    "ja": [
+      "とりわけ"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "inparticular",
+    "senses": [
+      "inparticular-especiallyone"
+    ],
+    "example": {
+      "en": "Compact models sold well in particular.",
+      "ja": "とりわけ小型の型式がよく売れた。"
+    }
+  },
+  {
+    "id": "p0375",
+    "type": "phrase",
+    "en": "in person",
+    "ja": [
+      "直接会って"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "inperson",
+    "senses": [
+      "inperson-facetoface"
+    ],
+    "example": {
+      "en": "The buyer wants to inspect it in person.",
+      "ja": "買い手は直接会って検分したがっている。"
+    }
+  },
+  {
+    "id": "p0376",
+    "type": "phrase",
+    "en": "in principle",
+    "ja": [
+      "原則として"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "inprinciple",
+    "senses": [
+      "inprinciple-basicallyagreed"
+    ],
+    "example": {
+      "en": "In principle, both sides accept the terms.",
+      "ja": "原則として双方は条件を受け入れる。"
+    }
+  },
+  {
+    "id": "p0377",
+    "type": "phrase",
+    "en": "in progress",
+    "ja": [
+      "進行中で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "inprogress",
+    "senses": [
+      "inprogress-currentlyhappening"
+    ],
+    "example": {
+      "en": "Repairs are in progress on the third floor.",
+      "ja": "三階では修理が進行中である。"
+    }
+  },
+  {
+    "id": "p0378",
+    "type": "phrase",
+    "en": "in return",
+    "ja": [
+      "見返りに"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "inreturn",
+    "senses": [
+      "inreturn-asrecompense"
+    ],
+    "example": {
+      "en": "In return, the supplier gains a longer term.",
+      "ja": "見返りに供給業者は長い期間を得る。"
+    }
+  },
+  {
+    "id": "p0379",
+    "type": "phrase",
+    "en": "in short",
+    "ja": [
+      "要するに"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "inshort",
+    "senses": [
+      "inshort-brieflyput"
+    ],
+    "example": {
+      "en": "In short, the route change saved fuel.",
+      "ja": "要するに経路の変更が燃料を節約した。"
+    }
+  },
+  {
+    "id": "p0380",
+    "type": "phrase",
+    "en": "in stock",
+    "ja": [
+      "在庫があって"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "instock",
+    "senses": [
+      "instock-availableforsale"
+    ],
+    "example": {
+      "en": "Both sizes are in stock this week.",
+      "ja": "今週は両方の寸法の在庫があって出せる。"
+    }
+  },
+  {
+    "id": "p0381",
+    "type": "phrase",
+    "en": "in total",
+    "ja": [
+      "合計で"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "intotal",
+    "senses": [
+      "intotal-addedtogether"
+    ],
+    "example": {
+      "en": "In total, forty pallets left the yard.",
+      "ja": "合計で四十の荷台が構内を出た。"
+    }
+  },
+  {
+    "id": "p0382",
+    "type": "phrase",
+    "en": "in turn",
+    "ja": [
+      "順番に"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "inturn",
+    "senses": [
+      "inturn-oneaftertheother"
+    ],
+    "example": {
+      "en": "Each team reports in turn at the briefing.",
+      "ja": "各班は説明会で順番に報告する。"
+    }
+  },
+  {
+    "id": "p0383",
+    "type": "phrase",
+    "en": "on average",
+    "ja": [
+      "平均して"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "onaverage",
+    "senses": [
+      "onaverage-typicallyover"
+    ],
+    "example": {
+      "en": "On average, repairs take three hours.",
+      "ja": "平均して修理は三時間かかる。"
+    }
+  },
+  {
+    "id": "p0384",
+    "type": "phrase",
+    "en": "on behalf of the firm",
+    "ja": [
+      "会社を代表して"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "onbehalffirm",
+    "senses": [
+      "onbehalffirm-representingcompany"
+    ],
+    "example": {
+      "en": "He accepted the award on behalf of the firm.",
+      "ja": "彼は会社を代表して表彰を受けた。"
+    }
+  },
+  {
+    "id": "p0385",
+    "type": "phrase",
+    "en": "on hand",
+    "ja": [
+      "手元にあって"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "onhand",
+    "senses": [
+      "onhand-readilyavailable"
+    ],
+    "example": {
+      "en": "Keep two spare belts on hand.",
+      "ja": "予備の帯を二本、手元にあって使えるようにしておきなさい。"
+    }
+  },
+  {
+    "id": "p0386",
+    "type": "phrase",
+    "en": "on purpose",
+    "ja": [
+      "わざと"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "onpurpose",
+    "senses": [
+      "onpurpose-intentionally"
+    ],
+    "example": {
+      "en": "The valve was closed on purpose.",
+      "ja": "その弁はわざと閉められていた。"
+    }
+  },
+  {
+    "id": "p0387",
+    "type": "phrase",
+    "en": "on schedule",
+    "ja": [
+      "予定どおりに"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "onschedule",
+    "senses": [
+      "onschedule-astimed"
+    ],
+    "example": {
+      "en": "The build finished on schedule.",
+      "ja": "建設は予定どおりに終わった。"
+    }
+  },
+  {
+    "id": "p0388",
+    "type": "phrase",
+    "en": "on the whole",
+    "ja": [
+      "概ね"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "onthewhole",
+    "senses": [
+      "onthewhole-consideringeverything"
+    ],
+    "example": {
+      "en": "On the whole, the season went well.",
+      "ja": "概ねその季節はうまくいった。"
+    }
+  },
+  {
+    "id": "p0389",
+    "type": "phrase",
+    "en": "under way",
+    "ja": [
+      "進行して"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "underway",
+    "senses": [
+      "underway-alreadystarted"
+    ],
+    "example": {
+      "en": "Roof work is under way this month.",
+      "ja": "屋根の工事が今月進行して行われている。"
+    }
+  },
+  {
+    "id": "p0390",
+    "type": "phrase",
+    "en": "up to now",
+    "ja": [
+      "今までは"
+    ],
+    "pos": "phrase",
+    "level": 2,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "uptonow",
+    "senses": [
+      "uptonow-untilthepresent"
+    ],
+    "example": {
+      "en": "Up to now the seal has held.",
+      "ja": "今までは封が保っている。"
+    }
   }
 ]

@@ -441,5 +441,1435 @@
       "en": "Installation is free of charge for members.",
       "ja": "会員は設置を無料で受けられる。"
     }
+  },
+  {
+    "id": "p0195",
+    "type": "phrase",
+    "en": "adhere to",
+    "ja": [
+      "厳守する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "adhereto",
+    "senses": [
+      "adhereto-followstrictly"
+    ],
+    "example": {
+      "en": "Drivers adhere to the posted speed limit.",
+      "ja": "運転手は掲示された速度の制限を厳守する。"
+    }
+  },
+  {
+    "id": "p0196",
+    "type": "phrase",
+    "en": "allow for",
+    "ja": [
+      "見込んでおく"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "allowfor",
+    "senses": [
+      "allowfor-includeinplanning"
+    ],
+    "example": {
+      "en": "Allow for two days of customs handling.",
+      "ja": "通関の処理に二日見込んでおきなさい。"
+    }
+  },
+  {
+    "id": "p0197",
+    "type": "phrase",
+    "en": "attend to",
+    "ja": [
+      "対応にあたる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "attendto",
+    "senses": [
+      "attendto-dealwithneed"
+    ],
+    "example": {
+      "en": "A porter will attend to your luggage.",
+      "ja": "係員が手荷物の対応にあたる。"
+    }
+  },
+  {
+    "id": "p0198",
+    "type": "phrase",
+    "en": "back out of",
+    "ja": [
+      "手を引く"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part3"
+    ],
+    "root": "backoutof",
+    "senses": [
+      "backoutof-withdrawfromdeal"
+    ],
+    "example": {
+      "en": "The buyer backed out of the lease.",
+      "ja": "買い手は賃貸借から手を引いた。"
+    }
+  },
+  {
+    "id": "p0199",
+    "type": "phrase",
+    "en": "be based on",
+    "ja": [
+      "基礎を置く"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "bebasedon",
+    "senses": [
+      "bebasedon-restonfoundation"
+    ],
+    "example": {
+      "en": "The fee is based on floor area.",
+      "ja": "料金は床の面積に基礎を置く。"
+    }
+  },
+  {
+    "id": "p0200",
+    "type": "phrase",
+    "en": "be bound by",
+    "ja": [
+      "拘束される"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "beboundby",
+    "senses": [
+      "beboundby-legallytied"
+    ],
+    "example": {
+      "en": "Both firms are bound by the same terms.",
+      "ja": "両社は同じ条件に拘束される。"
+    }
+  },
+  {
+    "id": "p0201",
+    "type": "phrase",
+    "en": "be composed of",
+    "ja": [
+      "から成る"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "becomposedof",
+    "senses": [
+      "becomposedof-consistofparts"
+    ],
+    "example": {
+      "en": "The panel is composed of five experts.",
+      "ja": "審査団は五名の専門家から成る。"
+    }
+  },
+  {
+    "id": "p0202",
+    "type": "phrase",
+    "en": "be eligible for",
+    "ja": [
+      "受ける資格がある"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "beeligiblefor",
+    "senses": [
+      "beeligiblefor-qualifytoreceive"
+    ],
+    "example": {
+      "en": "Full-time staff are eligible for the bonus.",
+      "ja": "常勤の職員は賞与を受ける資格がある。"
+    }
+  },
+  {
+    "id": "p0203",
+    "type": "phrase",
+    "en": "be exposed to",
+    "ja": [
+      "さらされる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "beexposedto",
+    "senses": [
+      "beexposedto-leftunprotected"
+    ],
+    "example": {
+      "en": "Stock exposed to damp may spoil.",
+      "ja": "湿気にさらされる在庫は傷むことがある。"
+    }
+  },
+  {
+    "id": "p0204",
+    "type": "phrase",
+    "en": "be intended for",
+    "ja": [
+      "向けである"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "beintendedfor",
+    "senses": [
+      "beintendedfor-designedforuse"
+    ],
+    "example": {
+      "en": "The kit is intended for indoor use only.",
+      "ja": "その一式は屋内での使用向けである。"
+    }
+  },
+  {
+    "id": "p0205",
+    "type": "phrase",
+    "en": "be limited to",
+    "ja": [
+      "に限られる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "belimitedto",
+    "senses": [
+      "belimitedto-restrictedwithin"
+    ],
+    "example": {
+      "en": "Access is limited to authorized staff.",
+      "ja": "立入りは許可された職員に限られる。"
+    }
+  },
+  {
+    "id": "p0206",
+    "type": "phrase",
+    "en": "be renowned for",
+    "ja": [
+      "名を知られる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "berenownedfor",
+    "senses": [
+      "berenownedfor-famousbecauseof"
+    ],
+    "example": {
+      "en": "The town is renowned for its glassware.",
+      "ja": "その町はガラス器具で名を知られる。"
+    }
+  },
+  {
+    "id": "p0207",
+    "type": "phrase",
+    "en": "bear in mind",
+    "ja": [
+      "心に留める"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "bearinmind",
+    "senses": [
+      "bearinmind-rememberfact"
+    ],
+    "example": {
+      "en": "Bear in mind that the gate shuts at seven.",
+      "ja": "門が七時に閉まることを心に留めなさい。"
+    }
+  },
+  {
+    "id": "p0208",
+    "type": "phrase",
+    "en": "break even",
+    "ja": [
+      "収支が均衡する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "breakeven",
+    "senses": [
+      "breakeven-nogainnoloss"
+    ],
+    "example": {
+      "en": "The branch broke even in its second year.",
+      "ja": "その支店は二年目に収支が均衡した。"
+    }
+  },
+  {
+    "id": "p0209",
+    "type": "phrase",
+    "en": "bring forward",
+    "ja": [
+      "前倒しする"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "bringforward",
+    "senses": [
+      "bringforward-moveearlier"
+    ],
+    "example": {
+      "en": "The audit was brought forward to June.",
+      "ja": "監査は六月に前倒しされた。"
+    }
+  },
+  {
+    "id": "p0210",
+    "type": "phrase",
+    "en": "call in",
+    "ja": [
+      "呼び寄せる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "callin",
+    "senses": [
+      "callin-summonhelp"
+    ],
+    "example": {
+      "en": "We called in a specialist for the boiler.",
+      "ja": "ボイラーのため専門家を呼び寄せた。"
+    }
+  },
+  {
+    "id": "p0211",
+    "type": "phrase",
+    "en": "carry weight",
+    "ja": [
+      "重みを持つ"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "carryweight",
+    "senses": [
+      "carryweight-haveinfluence"
+    ],
+    "example": {
+      "en": "Her opinion carries weight with the board.",
+      "ja": "彼女の意見は取締役会で重みを持つ。"
+    }
+  },
+  {
+    "id": "p0212",
+    "type": "phrase",
+    "en": "close down",
+    "ja": [
+      "閉鎖する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "closedown",
+    "senses": [
+      "closedown-shutpermanently"
+    ],
+    "example": {
+      "en": "The old depot closed down last winter.",
+      "ja": "古い拠点は昨冬、閉鎖した。"
+    }
+  },
+  {
+    "id": "p0213",
+    "type": "phrase",
+    "en": "come into effect",
+    "ja": [
+      "発効する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "comeintoeffect",
+    "senses": [
+      "comeintoeffect-becomevalid"
+    ],
+    "example": {
+      "en": "The new rate comes into effect in April.",
+      "ja": "新しい料金は四月に発効する。"
+    }
+  },
+  {
+    "id": "p0214",
+    "type": "phrase",
+    "en": "comply with",
+    "ja": [
+      "要件を満たす"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "complywith",
+    "senses": [
+      "complywith-meetrequirement"
+    ],
+    "example": {
+      "en": "Packaging must comply with export rules.",
+      "ja": "包装は輸出の要件を満たさねばならない。"
+    }
+  },
+  {
+    "id": "p0215",
+    "type": "phrase",
+    "en": "consist of",
+    "ja": [
+      "構成されている"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "consistof",
+    "senses": [
+      "consistof-bemadeupof"
+    ],
+    "example": {
+      "en": "The set consists of four cutting heads.",
+      "ja": "その一式は四つの切削頭で構成されている。"
+    }
+  },
+  {
+    "id": "p0216",
+    "type": "phrase",
+    "en": "cope with",
+    "ja": [
+      "乗り切る"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "copewith",
+    "senses": [
+      "copewith-managedifficulty"
+    ],
+    "example": {
+      "en": "The depot coped with a record December.",
+      "ja": "拠点は記録的な十二月を乗り切った。"
+    }
+  },
+  {
+    "id": "p0217",
+    "type": "phrase",
+    "en": "draw up a list",
+    "ja": [
+      "一覧を作る"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "drawuplist",
+    "senses": [
+      "drawuplist-makewrittenlist"
+    ],
+    "example": {
+      "en": "Draw up a list of pending repairs.",
+      "ja": "保留中の修理の一覧を作りなさい。"
+    }
+  },
+  {
+    "id": "p0218",
+    "type": "phrase",
+    "en": "fall behind",
+    "ja": [
+      "遅れを取る"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "fallbehind",
+    "senses": [
+      "fallbehind-losepace"
+    ],
+    "example": {
+      "en": "The line fell behind after the outage.",
+      "ja": "停電の後、生産設備は遅れを取った。"
+    }
+  },
+  {
+    "id": "p0219",
+    "type": "phrase",
+    "en": "fall short of",
+    "ja": [
+      "届かない"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "fallshortof",
+    "senses": [
+      "fallshortof-failtoreach"
+    ],
+    "example": {
+      "en": "Sales fell short of the quarterly target.",
+      "ja": "売上は四半期の目標値に届かなかった。"
+    }
+  },
+  {
+    "id": "p0220",
+    "type": "phrase",
+    "en": "get rid of",
+    "ja": [
+      "処分して手放す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "getridof",
+    "senses": [
+      "getridof-disposeofthing"
+    ],
+    "example": {
+      "en": "Get rid of the damaged pallets today.",
+      "ja": "破損した荷台を本日、処分して手放しなさい。"
+    }
+  },
+  {
+    "id": "p0221",
+    "type": "phrase",
+    "en": "give rise to",
+    "ja": [
+      "生じさせる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "giverisrto",
+    "senses": [
+      "giverise-causetoappear"
+    ],
+    "example": {
+      "en": "The clause gave rise to a long dispute.",
+      "ja": "その条項は長い紛争を生じさせた。"
+    }
+  },
+  {
+    "id": "p0222",
+    "type": "phrase",
+    "en": "go into effect",
+    "ja": [
+      "実施される"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "gointoeffect",
+    "senses": [
+      "gointoeffect-startbeingapplied"
+    ],
+    "example": {
+      "en": "The ban goes into effect next Monday.",
+      "ja": "その禁止は来週月曜に実施される。"
+    }
+  },
+  {
+    "id": "p0223",
+    "type": "phrase",
+    "en": "hand over",
+    "ja": [
+      "移管する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "handover",
+    "senses": [
+      "handover-transferresponsibility"
+    ],
+    "example": {
+      "en": "The team handed over the site in May.",
+      "ja": "その班は五月に現場を移管した。"
+    }
+  },
+  {
+    "id": "p0224",
+    "type": "phrase",
+    "en": "head for",
+    "ja": [
+      "向かう"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "travel",
+      "part3"
+    ],
+    "root": "headfor",
+    "senses": [
+      "headfor-travelindirection"
+    ],
+    "example": {
+      "en": "The convoy heads for the northern plant.",
+      "ja": "車列は北の工場へ向かう。"
+    }
+  },
+  {
+    "id": "p0225",
+    "type": "phrase",
+    "en": "hold a meeting",
+    "ja": [
+      "会合を持つ"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "holdameeting",
+    "senses": [
+      "holdameeting-conveneassembly"
+    ],
+    "example": {
+      "en": "The union holds a meeting every quarter.",
+      "ja": "組合は四半期ごとに会合を持つ。"
+    }
+  },
+  {
+    "id": "p0226",
+    "type": "phrase",
+    "en": "keep in mind",
+    "ja": [
+      "念頭に置く"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "keepinmind",
+    "senses": [
+      "keepinmind-rememberwhenacting"
+    ],
+    "example": {
+      "en": "Keep the humidity limit in mind.",
+      "ja": "湿度の上限を念頭に置きなさい。"
+    }
+  },
+  {
+    "id": "p0227",
+    "type": "phrase",
+    "en": "lead to",
+    "ja": [
+      "につながる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "leadto",
+    "senses": [
+      "leadto-resultin"
+    ],
+    "example": {
+      "en": "Poor lubrication leads to early wear.",
+      "ja": "潤滑の不足は早い摩耗につながる。"
+    }
+  },
+  {
+    "id": "p0228",
+    "type": "phrase",
+    "en": "live up to",
+    "ja": [
+      "期待に応える"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part3"
+    ],
+    "root": "liveupto",
+    "senses": [
+      "liveupto-meetexpectation"
+    ],
+    "example": {
+      "en": "The model lived up to its reviews.",
+      "ja": "その型式は評価の期待に応えた。"
+    }
+  },
+  {
+    "id": "p0229",
+    "type": "phrase",
+    "en": "make up",
+    "ja": [
+      "構成比を占める"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "makeup",
+    "senses": [
+      "makeup-formtotalpart"
+    ],
+    "example": {
+      "en": "Exports make up a third of turnover.",
+      "ja": "輸出が売上高の構成比を占める三分の一だ。"
+    }
+  },
+  {
+    "id": "p0230",
+    "type": "phrase",
+    "en": "narrow down",
+    "ja": [
+      "絞り込む"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "narrowdown",
+    "senses": [
+      "narrowdown-reduceoptions"
+    ],
+    "example": {
+      "en": "We narrowed down the list to four firms.",
+      "ja": "一覧を四社に絞り込んだ。"
+    }
+  },
+  {
+    "id": "p0231",
+    "type": "phrase",
+    "en": "opt out",
+    "ja": [
+      "離脱する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "optout",
+    "senses": [
+      "optout-choosenottojoin"
+    ],
+    "example": {
+      "en": "Two branches opted out of the scheme.",
+      "ja": "二支店がその仕組みから離脱した。"
+    }
+  },
+  {
+    "id": "p0232",
+    "type": "phrase",
+    "en": "pave the way",
+    "ja": [
+      "道筋をつける"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "pavetheway",
+    "senses": [
+      "pavetheway-prepareforfuture"
+    ],
+    "example": {
+      "en": "The trial paved the way for full rollout.",
+      "ja": "試験は全面展開への道筋をつけた。"
+    }
+  },
+  {
+    "id": "p0233",
+    "type": "phrase",
+    "en": "pull out of",
+    "ja": [
+      "撤退する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "pulloutof",
+    "senses": [
+      "pulloutof-leavemarket"
+    ],
+    "example": {
+      "en": "The maker pulled out of the island trade.",
+      "ja": "製造業者は島との取引から撤退した。"
+    }
+  },
+  {
+    "id": "p0234",
+    "type": "phrase",
+    "en": "put forward",
+    "ja": [
+      "提出して示す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "putforward",
+    "senses": [
+      "putforward-submitidea"
+    ],
+    "example": {
+      "en": "She put forward a simpler packing plan.",
+      "ja": "彼女はより単純な梱包の案を提出して示した。"
+    }
+  },
+  {
+    "id": "p0235",
+    "type": "phrase",
+    "en": "put into practice",
+    "ja": [
+      "実践に移す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "putintopractice",
+    "senses": [
+      "putintopractice-applyinreality"
+    ],
+    "example": {
+      "en": "The team put the new method into practice.",
+      "ja": "その班は新しい方法を実践に移した。"
+    }
+  },
+  {
+    "id": "p0236",
+    "type": "phrase",
+    "en": "refer to",
+    "ja": [
+      "参照して当たる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "office",
+      "part5"
+    ],
+    "root": "referto",
+    "senses": [
+      "referto-consultsource"
+    ],
+    "example": {
+      "en": "Refer to the diagram on page nine.",
+      "ja": "九頁の図解を参照して当たりなさい。"
+    }
+  },
+  {
+    "id": "p0237",
+    "type": "phrase",
+    "en": "resort to",
+    "ja": [
+      "やむなく用いる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "resortto",
+    "senses": [
+      "resortto-turntolastoption"
+    ],
+    "example": {
+      "en": "The depot resorted to air freight.",
+      "ja": "拠点はやむなく航空貨物を用いた。"
+    }
+  },
+  {
+    "id": "p0238",
+    "type": "phrase",
+    "en": "result from",
+    "ja": [
+      "に起因する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "resultfrom",
+    "senses": [
+      "resultfrom-becausedby"
+    ],
+    "example": {
+      "en": "The crack resulted from rapid cooling.",
+      "ja": "その割れは急な冷却に起因する。"
+    }
+  },
+  {
+    "id": "p0239",
+    "type": "phrase",
+    "en": "rule of thumb",
+    "ja": [
+      "経験則"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "ruleofthumb",
+    "senses": [
+      "ruleofthumb-roughguideline"
+    ],
+    "example": {
+      "en": "A rule of thumb sets the gap at two millimeters.",
+      "ja": "経験則では隙間を二ミリとする。"
+    }
+  },
+  {
+    "id": "p0240",
+    "type": "phrase",
+    "en": "set out",
+    "ja": [
+      "明記して示す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "setout",
+    "senses": [
+      "setout-statelistedterms"
+    ],
+    "example": {
+      "en": "Clause four sets out the payment steps.",
+      "ja": "第四条が支払いの手順を明記して示す。"
+    }
+  },
+  {
+    "id": "p0241",
+    "type": "phrase",
+    "en": "step up",
+    "ja": [
+      "強める"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "stepup",
+    "senses": [
+      "stepup-increaseeffort"
+    ],
+    "example": {
+      "en": "Guards stepped up patrols after the theft.",
+      "ja": "盗難の後、警備員は巡回を強めた。"
+    }
+  },
+  {
+    "id": "p0242",
+    "type": "phrase",
+    "en": "stick to",
+    "ja": [
+      "やり通す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "stickto",
+    "senses": [
+      "stickto-continuewithoutchange"
+    ],
+    "example": {
+      "en": "Stick to the sequence in the manual.",
+      "ja": "手引書の順序をやり通しなさい。"
+    }
+  },
+  {
+    "id": "p0243",
+    "type": "phrase",
+    "en": "take charge of",
+    "ja": [
+      "指揮を執る"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "takechargeof",
+    "senses": [
+      "takechargeof-assumecommand"
+    ],
+    "example": {
+      "en": "She took charge of the relocation project.",
+      "ja": "彼女は移転の事業計画の指揮を執った。"
+    }
+  },
+  {
+    "id": "p0244",
+    "type": "phrase",
+    "en": "take effect",
+    "ja": [
+      "効力を生じる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "takeeffect",
+    "senses": [
+      "takeeffect-becomeoperative"
+    ],
+    "example": {
+      "en": "The revised terms take effect on the first.",
+      "ja": "改めた条件は一日に効力を生じる。"
+    }
+  },
+  {
+    "id": "p0245",
+    "type": "phrase",
+    "en": "take place",
+    "ja": [
+      "開かれる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "takeplace",
+    "senses": [
+      "takeplace-happenatlocation"
+    ],
+    "example": {
+      "en": "The ceremony takes place in the atrium.",
+      "ja": "式典は吹き抜けで開かれる。"
+    }
+  },
+  {
+    "id": "p0246",
+    "type": "phrase",
+    "en": "take steps",
+    "ja": [
+      "手立てを講じる"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "takesteps",
+    "senses": [
+      "takesteps-actpurposefully"
+    ],
+    "example": {
+      "en": "The firm took steps to reduce noise.",
+      "ja": "会社は騒音を減らす手立てを講じた。"
+    }
+  },
+  {
+    "id": "p0247",
+    "type": "phrase",
+    "en": "tie up",
+    "ja": [
+      "拘束する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "tieup",
+    "senses": [
+      "tieup-occupyresources"
+    ],
+    "example": {
+      "en": "The recall tied up two whole shifts.",
+      "ja": "回収が丸二勤務を拘束した。"
+    }
+  },
+  {
+    "id": "p0248",
+    "type": "phrase",
+    "en": "wear out",
+    "ja": [
+      "すり減る"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "wearout",
+    "senses": [
+      "wearout-becomeunusable"
+    ],
+    "example": {
+      "en": "Belts wear out after about a year.",
+      "ja": "帯は約一年ですり減る。"
+    }
+  },
+  {
+    "id": "p0249",
+    "type": "phrase",
+    "en": "weigh up",
+    "ja": [
+      "比べて判断する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part3"
+    ],
+    "root": "weighup",
+    "senses": [
+      "weighup-considercarefully"
+    ],
+    "example": {
+      "en": "Management weighed up two sites.",
+      "ja": "経営陣は二か所を比べて判断した。"
+    }
+  },
+  {
+    "id": "p0250",
+    "type": "phrase",
+    "en": "work around",
+    "ja": [
+      "回避して進める"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "workaround",
+    "senses": [
+      "workaround-avoidobstacle"
+    ],
+    "example": {
+      "en": "Engineers worked around the missing part.",
+      "ja": "技術者は欠けた部品を回避して進めた。"
+    }
+  },
+  {
+    "id": "p0492",
+    "type": "phrase",
+    "en": "be in charge of the site",
+    "ja": [
+      "現場を統括する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "beinchargesite",
+    "senses": [
+      "inchargesite-managelocation"
+    ],
+    "example": {
+      "en": "A foreman is in charge of the site daily.",
+      "ja": "職長が日々、現場を統括する。"
+    }
+  },
+  {
+    "id": "p0493",
+    "type": "phrase",
+    "en": "call attention to",
+    "ja": [
+      "注意を促す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "callattentionto",
+    "senses": [
+      "callattention-makeaware"
+    ],
+    "example": {
+      "en": "Signs call attention to the low ceiling.",
+      "ja": "標示が低い天井への注意を促す。"
+    }
+  },
+  {
+    "id": "p0494",
+    "type": "phrase",
+    "en": "carry out repairs",
+    "ja": [
+      "修理を実施する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "carryoutrepairs",
+    "senses": [
+      "carryoutrepairs-performfixing"
+    ],
+    "example": {
+      "en": "Contractors carry out repairs at night.",
+      "ja": "請負業者は夜間に修理を実施する。"
+    }
+  },
+  {
+    "id": "p0495",
+    "type": "phrase",
+    "en": "come to an end",
+    "ja": [
+      "終了する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "cometoanend",
+    "senses": [
+      "cometoanend-finishcompletely"
+    ],
+    "example": {
+      "en": "The trial period comes to an end in June.",
+      "ja": "試用の期間は六月に終了する。"
+    }
+  },
+  {
+    "id": "p0496",
+    "type": "phrase",
+    "en": "go out of business",
+    "ja": [
+      "廃業する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "gooutofbusiness",
+    "senses": [
+      "gooutofbusiness-ceasetrading"
+    ],
+    "example": {
+      "en": "The supplier went out of business last year.",
+      "ja": "その供給業者は昨年、廃業した。"
+    }
+  },
+  {
+    "id": "p0497",
+    "type": "phrase",
+    "en": "in the long run",
+    "ja": [
+      "長い目で見れば"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "inthelongrun",
+    "senses": [
+      "inthelongrun-overextendedtime"
+    ],
+    "example": {
+      "en": "In the long run, rail proves cheaper.",
+      "ja": "長い目で見れば鉄道の方が安い。"
+    }
+  },
+  {
+    "id": "p0498",
+    "type": "phrase",
+    "en": "make an exception",
+    "ja": [
+      "例外を認める"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "makeanexception",
+    "senses": [
+      "makeanexception-allowdeviation"
+    ],
+    "example": {
+      "en": "The desk made an exception for the late guest.",
+      "ja": "窓口は遅れた客に例外を認めた。"
+    }
+  },
+  {
+    "id": "p0499",
+    "type": "phrase",
+    "en": "put pressure on",
+    "ja": [
+      "圧力をかける"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "putpressureon",
+    "senses": [
+      "putpressureon-urgeforcefully"
+    ],
+    "example": {
+      "en": "Rising costs put pressure on margins.",
+      "ja": "費用の上昇が利幅に圧力をかける。"
+    }
+  },
+  {
+    "id": "p0500",
+    "type": "phrase",
+    "en": "take advantage of",
+    "ja": [
+      "うまく利用する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "takeadvantageof",
+    "senses": [
+      "takeadvantage-usebeneficially"
+    ],
+    "example": {
+      "en": "Buyers took advantage of the early discount.",
+      "ja": "買い手は早期の割引をうまく利用した。"
+    }
   }
 ]

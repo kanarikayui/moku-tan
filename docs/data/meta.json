@@ -19,11 +19,11 @@
   },
   "progress": {
     "words": {
-      "current": 300,
+      "current": 2000,
       "target": 2000
     },
     "phrases": {
-      "current": 100,
+      "current": 500,
       "target": 500
     }
   }
