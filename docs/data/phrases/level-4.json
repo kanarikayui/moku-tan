@@ -438,5 +438,775 @@
       "en": "The timetable is subject to change without notice.",
       "ja": "この時刻表は予告なく変更の可能性がある。"
     }
+  },
+  {
+    "id": "p0251",
+    "type": "phrase",
+    "en": "at the outset",
+    "ja": [
+      "当初から"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "attheoutset",
+    "senses": [
+      "attheoutset-fromthebeginning"
+    ],
+    "example": {
+      "en": "The risk was flagged at the outset.",
+      "ja": "その危険は当初から指摘されていた。"
+    }
+  },
+  {
+    "id": "p0252",
+    "type": "phrase",
+    "en": "be attributable to",
+    "ja": [
+      "に帰する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "beattributableto",
+    "senses": [
+      "beattributable-causedby"
+    ],
+    "example": {
+      "en": "The gain is attributable to lower freight.",
+      "ja": "増益は運賃の低下に帰する。"
+    }
+  },
+  {
+    "id": "p0253",
+    "type": "phrase",
+    "en": "be conducive to",
+    "ja": [
+      "に資する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "beconduciveto",
+    "senses": [
+      "beconducive-helpfultowards"
+    ],
+    "example": {
+      "en": "Short breaks are conducive to accuracy.",
+      "ja": "短い休憩は正確さに資する。"
+    }
+  },
+  {
+    "id": "p0254",
+    "type": "phrase",
+    "en": "be contingent upon",
+    "ja": [
+      "を条件とする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "becontingentupon",
+    "senses": [
+      "becontingent-dependentonevent"
+    ],
+    "example": {
+      "en": "Payment is contingent upon inspection.",
+      "ja": "支払いは検査を条件とする。"
+    }
+  },
+  {
+    "id": "p0255",
+    "type": "phrase",
+    "en": "be devoid of",
+    "ja": [
+      "を欠いている"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "bedevoidof",
+    "senses": [
+      "bedevoid-completelylacking"
+    ],
+    "example": {
+      "en": "The file was devoid of supporting data.",
+      "ja": "その書類は裏づけの資料を欠いていた。"
+    }
+  },
+  {
+    "id": "p0256",
+    "type": "phrase",
+    "en": "be incumbent on",
+    "ja": [
+      "の責務である"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "beincumbenton",
+    "senses": [
+      "beincumbent-dutyofsomeone"
+    ],
+    "example": {
+      "en": "It is incumbent on the seller to insure.",
+      "ja": "保険を掛けるのは売り主の責務である。"
+    }
+  },
+  {
+    "id": "p0257",
+    "type": "phrase",
+    "en": "be liable for",
+    "ja": [
+      "責任を問われる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "beliablefor",
+    "senses": [
+      "beliable-legallyresponsible"
+    ],
+    "example": {
+      "en": "The carrier is liable for transit damage.",
+      "ja": "運送会社は輸送中の破損の責任を問われる。"
+    }
+  },
+  {
+    "id": "p0258",
+    "type": "phrase",
+    "en": "be prone to",
+    "ja": [
+      "起こしやすい"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "bepronto",
+    "senses": [
+      "beprone-likelytosuffer"
+    ],
+    "example": {
+      "en": "Thin coatings are prone to chipping.",
+      "ja": "薄い塗膜は欠けを起こしやすい。"
+    }
+  },
+  {
+    "id": "p0259",
+    "type": "phrase",
+    "en": "be tantamount to",
+    "ja": [
+      "に等しい"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "betantamountto",
+    "senses": [
+      "betantamount-equivalentineffect"
+    ],
+    "example": {
+      "en": "Silence is tantamount to acceptance.",
+      "ja": "沈黙は承諾に等しい。"
+    }
+  },
+  {
+    "id": "p0260",
+    "type": "phrase",
+    "en": "bring to light",
+    "ja": [
+      "明るみに出す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "bringtolight",
+    "senses": [
+      "bringtolight-revealhiddenfact"
+    ],
+    "example": {
+      "en": "The audit brought two errors to light.",
+      "ja": "監査が二件の誤りを明るみに出した。"
+    }
+  },
+  {
+    "id": "p0261",
+    "type": "phrase",
+    "en": "call into question",
+    "ja": [
+      "疑問を投げかける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "callintoquestion",
+    "senses": [
+      "callintoquestion-castdoubton"
+    ],
+    "example": {
+      "en": "The delay called the schedule into question.",
+      "ja": "遅れが日程に疑問を投げかけた。"
+    }
+  },
+  {
+    "id": "p0262",
+    "type": "phrase",
+    "en": "come to terms with",
+    "ja": [
+      "折り合いをつける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part3"
+    ],
+    "root": "cometotermswith",
+    "senses": [
+      "cometoterms-reachacceptance"
+    ],
+    "example": {
+      "en": "Both sides came to terms with the loss.",
+      "ja": "双方は損失に折り合いをつけた。"
+    }
+  },
+  {
+    "id": "p0263",
+    "type": "phrase",
+    "en": "cut corners",
+    "ja": [
+      "手を抜く"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part3"
+    ],
+    "root": "cutcorners",
+    "senses": [
+      "cutcorners-skipproperssteps"
+    ],
+    "example": {
+      "en": "Never cut corners on the pressure test.",
+      "ja": "圧力の試験で手を抜いてはならない。"
+    }
+  },
+  {
+    "id": "p0264",
+    "type": "phrase",
+    "en": "draw a distinction",
+    "ja": [
+      "区別を設ける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "drawdistinction",
+    "senses": [
+      "drawdistinction-separateconcepts"
+    ],
+    "example": {
+      "en": "The code draws a distinction between the two.",
+      "ja": "規定は両者に区別を設ける。"
+    }
+  },
+  {
+    "id": "p0265",
+    "type": "phrase",
+    "en": "fall within",
+    "ja": [
+      "範囲に入る"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "fallwithin",
+    "senses": [
+      "fallwithin-beinsidescope"
+    ],
+    "example": {
+      "en": "The claim falls within the policy limits.",
+      "ja": "その請求は保険の上限の範囲に入る。"
+    }
+  },
+  {
+    "id": "p0266",
+    "type": "phrase",
+    "en": "get around to",
+    "ja": [
+      "着手にこぎつける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "getaroundto",
+    "senses": [
+      "getaroundto-finallydotask"
+    ],
+    "example": {
+      "en": "We finally got around to the archive.",
+      "ja": "ようやく書庫の整理に着手にこぎつけた。"
+    }
+  },
+  {
+    "id": "p0267",
+    "type": "phrase",
+    "en": "give way to",
+    "ja": [
+      "取って代わられる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "givewayto",
+    "senses": [
+      "givewayto-bereplacedby"
+    ],
+    "example": {
+      "en": "Manual sorting gave way to machines.",
+      "ja": "手作業の仕分けは機械に取って代わられた。"
+    }
+  },
+  {
+    "id": "p0268",
+    "type": "phrase",
+    "en": "go hand in hand",
+    "ja": [
+      "表裏一体である"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "gohandinhand",
+    "senses": [
+      "gohandinhand-occurtogether"
+    ],
+    "example": {
+      "en": "Quality and training go hand in hand.",
+      "ja": "品質と研修は表裏一体である。"
+    }
+  },
+  {
+    "id": "p0269",
+    "type": "phrase",
+    "en": "hinge on",
+    "ja": [
+      "かかっている"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "hingeon",
+    "senses": [
+      "hingeon-dependcritically"
+    ],
+    "example": {
+      "en": "The deal hinges on the survey result.",
+      "ja": "その取引は調査の結果にかかっている。"
+    }
+  },
+  {
+    "id": "p0270",
+    "type": "phrase",
+    "en": "in the wake of",
+    "ja": [
+      "を受けて"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "inthewakeof",
+    "senses": [
+      "inthewake-followingevent"
+    ],
+    "example": {
+      "en": "Rules tightened in the wake of the fire.",
+      "ja": "火災を受けて規則が厳しくなった。"
+    }
+  },
+  {
+    "id": "p0271",
+    "type": "phrase",
+    "en": "lay the groundwork",
+    "ja": [
+      "下地を整える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "laythegroundwork",
+    "senses": [
+      "laygroundwork-prepareforlater"
+    ],
+    "example": {
+      "en": "The pilot laid the groundwork for the rollout.",
+      "ja": "試行が展開の下地を整えた。"
+    }
+  },
+  {
+    "id": "p0272",
+    "type": "phrase",
+    "en": "lend itself to",
+    "ja": [
+      "に適している"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "lenditselfto",
+    "senses": [
+      "lenditself-besuitablefor"
+    ],
+    "example": {
+      "en": "The alloy lends itself to thin castings.",
+      "ja": "その合金は薄い鋳物に適している。"
+    }
+  },
+  {
+    "id": "p0273",
+    "type": "phrase",
+    "en": "make headway",
+    "ja": [
+      "前進する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part3"
+    ],
+    "root": "makeheadway",
+    "senses": [
+      "makeheadway-progresssteadily"
+    ],
+    "example": {
+      "en": "Talks made headway on the pricing clause.",
+      "ja": "交渉は価格の条項で前進した。"
+    }
+  },
+  {
+    "id": "p0274",
+    "type": "phrase",
+    "en": "make provision for",
+    "ja": [
+      "備えを設ける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "makeprovisionfor",
+    "senses": [
+      "makeprovision-setasidefor"
+    ],
+    "example": {
+      "en": "The budget makes provision for repairs.",
+      "ja": "予算は修理の備えを設けている。"
+    }
+  },
+  {
+    "id": "p0275",
+    "type": "phrase",
+    "en": "on the grounds that",
+    "ja": [
+      "という理由で"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "onthegroundsthat",
+    "senses": [
+      "onthegrounds-becauseofreason"
+    ],
+    "example": {
+      "en": "The claim failed on the grounds that notice was late.",
+      "ja": "通知が遅れたという理由で請求は退けられた。"
+    }
+  },
+  {
+    "id": "p0276",
+    "type": "phrase",
+    "en": "put in place",
+    "ja": [
+      "整備する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "putinplace",
+    "senses": [
+      "putinplace-establishsystem"
+    ],
+    "example": {
+      "en": "New controls were put in place last spring.",
+      "ja": "新しい管理は昨春に整備された。"
+    }
+  },
+  {
+    "id": "p0277",
+    "type": "phrase",
+    "en": "rule in favor of",
+    "ja": [
+      "に有利な判断をする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "ruleinfavorof",
+    "senses": [
+      "ruleinfavor-decidefor"
+    ],
+    "example": {
+      "en": "The panel ruled in favor of the tenant.",
+      "ja": "審査団は賃借人に有利な判断をした。"
+    }
+  },
+  {
+    "id": "p0278",
+    "type": "phrase",
+    "en": "run counter to",
+    "ja": [
+      "に反する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "runcounterto",
+    "senses": [
+      "runcounter-opposeprinciple"
+    ],
+    "example": {
+      "en": "The practice runs counter to the guidelines.",
+      "ja": "その慣行は指針に反する。"
+    }
+  },
+  {
+    "id": "p0279",
+    "type": "phrase",
+    "en": "set a precedent",
+    "ja": [
+      "先例をつくる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "setaprecedent",
+    "senses": [
+      "setaprecedent-establishexample"
+    ],
+    "example": {
+      "en": "The ruling set a precedent for similar claims.",
+      "ja": "その判断は類似の請求の先例をつくった。"
+    }
+  },
+  {
+    "id": "p0280",
+    "type": "phrase",
+    "en": "shed light on",
+    "ja": [
+      "解明の手がかりを与える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "shedlighton",
+    "senses": [
+      "shedlight-clarifymatter"
+    ],
+    "example": {
+      "en": "The log shed light on the sudden stop.",
+      "ja": "記録が突然の停止に解明の手がかりを与えた。"
+    }
+  },
+  {
+    "id": "p0281",
+    "type": "phrase",
+    "en": "take precedence over",
+    "ja": [
+      "に優先する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "takeprecedenceover",
+    "senses": [
+      "takeprecedence-rankhigher"
+    ],
+    "example": {
+      "en": "Safety takes precedence over output.",
+      "ja": "安全は生産に優先する。"
+    }
+  },
+  {
+    "id": "p0282",
+    "type": "phrase",
+    "en": "take its toll",
+    "ja": [
+      "痛手を与える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part7"
+    ],
+    "root": "takeitstoll",
+    "senses": [
+      "takeitstoll-causedamageovertime"
+    ],
+    "example": {
+      "en": "The salt air took its toll on the roof.",
+      "ja": "潮風が屋根に痛手を与えた。"
+    }
+  },
+  {
+    "id": "p0283",
+    "type": "phrase",
+    "en": "touch on",
+    "ja": [
+      "軽く触れる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part3"
+    ],
+    "root": "touchon",
+    "senses": [
+      "touchon-mentionbriefly"
+    ],
+    "example": {
+      "en": "The report touches on staffing only briefly.",
+      "ja": "報告書は人員配置に軽く触れるだけだ。"
+    }
+  },
+  {
+    "id": "p0284",
+    "type": "phrase",
+    "en": "turn a profit",
+    "ja": [
+      "黒字を出す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "turnaprofit",
+    "senses": [
+      "turnaprofit-becomeprofitable"
+    ],
+    "example": {
+      "en": "The café turned a profit in its first year.",
+      "ja": "その喫茶店は初年度に黒字を出した。"
+    }
+  },
+  {
+    "id": "p0285",
+    "type": "phrase",
+    "en": "weigh heavily on",
+    "ja": [
+      "重くのしかかる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "weighheavilyon",
+    "senses": [
+      "weighheavily-burdengreatly"
+    ],
+    "example": {
+      "en": "Fuel costs weigh heavily on margins.",
+      "ja": "燃料費が利幅に重くのしかかる。"
+    }
   }
 ]

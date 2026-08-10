@@ -438,5 +438,181 @@
       "en": "The sale was made at arm's length between the firms.",
       "ja": "その売買は両社の間で対等な立場で行われた。"
     }
+  },
+  {
+    "id": "p0286",
+    "type": "phrase",
+    "en": "be null and void",
+    "ja": [
+      "効力を失う"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "benullandvoid",
+    "senses": [
+      "benullvoid-losealllegalforce"
+    ],
+    "example": {
+      "en": "The option is null and void after May.",
+      "ja": "その選択権は五月以降、効力を失う。"
+    }
+  },
+  {
+    "id": "p0287",
+    "type": "phrase",
+    "en": "in consideration of",
+    "ja": [
+      "の対価として"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "inconsiderationof",
+    "senses": [
+      "inconsideration-inexchangefor"
+    ],
+    "example": {
+      "en": "In consideration of the fee, access is granted.",
+      "ja": "料金の対価として立入りが認められる。"
+    }
+  },
+  {
+    "id": "p0288",
+    "type": "phrase",
+    "en": "in witness whereof",
+    "ja": [
+      "以上の証として"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "inwitnesswhereof",
+    "senses": [
+      "inwitness-formalclosing"
+    ],
+    "example": {
+      "en": "In witness whereof, both parties sign below.",
+      "ja": "以上の証として、双方が下記に署名する。"
+    }
+  },
+  {
+    "id": "p0289",
+    "type": "phrase",
+    "en": "joint and several",
+    "ja": [
+      "連帯の"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "jointandseveral",
+    "senses": [
+      "jointsever-sharedandindividual"
+    ],
+    "example": {
+      "en": "Liability is joint and several among partners.",
+      "ja": "責任は出資者の間で連帯のものとなる。"
+    }
+  },
+  {
+    "id": "p0290",
+    "type": "phrase",
+    "en": "save and except",
+    "ja": [
+      "を除いては"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "saveandexcept",
+    "senses": [
+      "saveexcept-withtheexceptionof"
+    ],
+    "example": {
+      "en": "All rights transfer, save and except the trademark.",
+      "ja": "商標を除いては全ての権利が移転する。"
+    }
+  },
+  {
+    "id": "p0291",
+    "type": "phrase",
+    "en": "subject to the terms",
+    "ja": [
+      "条件に従うことを前提に"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "subjecttotheterms",
+    "senses": [
+      "subjectterms-governedbyconditions"
+    ],
+    "example": {
+      "en": "Delivery is made subject to the terms below.",
+      "ja": "納品は下記の条件に従うことを前提に行われる。"
+    }
+  },
+  {
+    "id": "p0292",
+    "type": "phrase",
+    "en": "time and materials",
+    "ja": [
+      "実費精算方式"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "timeandmaterials",
+    "senses": [
+      "timeandmaterials-costplushours"
+    ],
+    "example": {
+      "en": "The repair was billed on time and materials.",
+      "ja": "修理は実費精算方式で請求された。"
+    }
+  },
+  {
+    "id": "p0293",
+    "type": "phrase",
+    "en": "without limitation",
+    "ja": [
+      "限定なしに"
+    ],
+    "pos": "phrase",
+    "level": 5,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "withoutlimitation",
+    "senses": [
+      "withoutlimit-notrestrictedto"
+    ],
+    "example": {
+      "en": "The list includes, without limitation, spare parts.",
+      "ja": "一覧は限定なしに予備の部品を含む。"
+    }
   }
 ]
