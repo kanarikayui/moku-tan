@@ -1208,5 +1208,1479 @@
       "en": "Fuel costs weigh heavily on margins.",
       "ja": "燃料費が利幅に重くのしかかる。"
     }
+  },
+  {
+    "id": "p0391",
+    "type": "phrase",
+    "en": "abide by the rules",
+    "ja": [
+      "規則に従う"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "abidebyrules",
+    "senses": [
+      "abiderules-obeyregulations"
+    ],
+    "example": {
+      "en": "All contractors abide by the site rules.",
+      "ja": "請負業者は全員、現場の規則に従う。"
+    }
+  },
+  {
+    "id": "p0392",
+    "type": "phrase",
+    "en": "account for the difference",
+    "ja": [
+      "差額を説明する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "accountdiff",
+    "senses": [
+      "accountdiff-explaingap"
+    ],
+    "example": {
+      "en": "The clerk accounted for the difference.",
+      "ja": "事務員が差額を説明した。"
+    }
+  },
+  {
+    "id": "p0393",
+    "type": "phrase",
+    "en": "act on",
+    "ja": [
+      "に基づいて動く"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "acton",
+    "senses": [
+      "acton-takeactionfrom"
+    ],
+    "example": {
+      "en": "The depot acted on the revised forecast.",
+      "ja": "拠点は改めた見通しに基づいて動いた。"
+    }
+  },
+  {
+    "id": "p0394",
+    "type": "phrase",
+    "en": "adapt to",
+    "ja": [
+      "適応する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "adaptto",
+    "senses": [
+      "adaptto-adjusttochange"
+    ],
+    "example": {
+      "en": "Staff adapted to the new shift pattern.",
+      "ja": "職員は新しい勤務の型に適応した。"
+    }
+  },
+  {
+    "id": "p0395",
+    "type": "phrase",
+    "en": "appeal to",
+    "ja": [
+      "心をつかむ"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "appealto",
+    "senses": [
+      "appealto-attractinterest"
+    ],
+    "example": {
+      "en": "The lighter pack appeals to older buyers.",
+      "ja": "軽い包装は年配の買い手の心をつかむ。"
+    }
+  },
+  {
+    "id": "p0396",
+    "type": "phrase",
+    "en": "argue for",
+    "ja": [
+      "擁護して論じる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "arguefor",
+    "senses": [
+      "arguefor-speakinsupport"
+    ],
+    "example": {
+      "en": "Two directors argued for the rail option.",
+      "ja": "取締役二名が鉄道案を擁護して論じた。"
+    }
+  },
+  {
+    "id": "p0397",
+    "type": "phrase",
+    "en": "arrive at a decision",
+    "ja": [
+      "決定に至る"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part7"
+    ],
+    "root": "arriveatdecision",
+    "senses": [
+      "arrivedecision-reachconclusion"
+    ],
+    "example": {
+      "en": "The board arrived at a decision in an hour.",
+      "ja": "取締役会は一時間で決定に至った。"
+    }
+  },
+  {
+    "id": "p0398",
+    "type": "phrase",
+    "en": "assign to",
+    "ja": [
+      "担当に付ける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "assignto",
+    "senses": [
+      "assignto-allocateperson"
+    ],
+    "example": {
+      "en": "Two clerks were assigned to the audit.",
+      "ja": "事務員二名が監査の担当に付けられた。"
+    }
+  },
+  {
+    "id": "p0399",
+    "type": "phrase",
+    "en": "attribute to",
+    "ja": [
+      "のおかげとする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "attributeto",
+    "senses": [
+      "attributeto-creditcause"
+    ],
+    "example": {
+      "en": "Management attributed the gain to training.",
+      "ja": "経営陣は増益を研修のおかげとした。"
+    }
+  },
+  {
+    "id": "p0400",
+    "type": "phrase",
+    "en": "be aimed at",
+    "ja": [
+      "狙いとする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "beaimedat",
+    "senses": [
+      "beaimedat-targetedtoward"
+    ],
+    "example": {
+      "en": "The campaign is aimed at small workshops.",
+      "ja": "その販売活動は小さな工房を狙いとする。"
+    }
+  },
+  {
+    "id": "p0401",
+    "type": "phrase",
+    "en": "be applicable to",
+    "ja": [
+      "適用がある"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "beapplicableto",
+    "senses": [
+      "beapplicable-relevanttocase"
+    ],
+    "example": {
+      "en": "The discount is applicable to bulk orders.",
+      "ja": "割引は大量の注文に適用がある。"
+    }
+  },
+  {
+    "id": "p0402",
+    "type": "phrase",
+    "en": "be charged with",
+    "ja": [
+      "任される"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "bechargedwith",
+    "senses": [
+      "becharged-givenresponsibility"
+    ],
+    "example": {
+      "en": "She is charged with the site handover.",
+      "ja": "彼女は現場の引き渡しを任される。"
+    }
+  },
+  {
+    "id": "p0403",
+    "type": "phrase",
+    "en": "be committed",
+    "ja": [
+      "専心する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "becommitted",
+    "senses": [
+      "becommitted-fullydedicated"
+    ],
+    "example": {
+      "en": "The firm is committed to zero waste.",
+      "ja": "会社は廃棄物ゼロに専心する。"
+    }
+  },
+  {
+    "id": "p0404",
+    "type": "phrase",
+    "en": "be dependent on",
+    "ja": [
+      "依存する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "bedependenton",
+    "senses": [
+      "bedependent-relyingupon"
+    ],
+    "example": {
+      "en": "The island depot is dependent on the ferry.",
+      "ja": "島の拠点は渡し船に依存する。"
+    }
+  },
+  {
+    "id": "p0405",
+    "type": "phrase",
+    "en": "be entitled to compensation",
+    "ja": [
+      "補償を受けられる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "beentitledcomp",
+    "senses": [
+      "beentitledcomp-righttopayment"
+    ],
+    "example": {
+      "en": "Buyers are entitled to compensation for delay.",
+      "ja": "買い手は遅延の補償を受けられる。"
+    }
+  },
+  {
+    "id": "p0406",
+    "type": "phrase",
+    "en": "be geared toward",
+    "ja": [
+      "向けに作られる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "begearedtoward",
+    "senses": [
+      "begeared-designedfortarget"
+    ],
+    "example": {
+      "en": "The model is geared toward heavy use.",
+      "ja": "その型式は酷使向けに作られる。"
+    }
+  },
+  {
+    "id": "p0407",
+    "type": "phrase",
+    "en": "be indicative of",
+    "ja": [
+      "の表れである"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "beindicativeof",
+    "senses": [
+      "beindicative-showingsign"
+    ],
+    "example": {
+      "en": "Rising returns are indicative of a fault.",
+      "ja": "返品の増加は不具合の表れである。"
+    }
+  },
+  {
+    "id": "p0408",
+    "type": "phrase",
+    "en": "be obliged to",
+    "ja": [
+      "しなければならない"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "beobligedto",
+    "senses": [
+      "beobliged-legallyrequired"
+    ],
+    "example": {
+      "en": "The seller is obliged to insure the cargo.",
+      "ja": "売り主は貨物に保険を掛けなければならない。"
+    }
+  },
+  {
+    "id": "p0409",
+    "type": "phrase",
+    "en": "be subject to inspection",
+    "ja": [
+      "検査対象となる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "besubjinspect",
+    "senses": [
+      "besubjinspect-openforchecking"
+    ],
+    "example": {
+      "en": "All imports are subject to inspection.",
+      "ja": "全ての輸入品は検査対象となる。"
+    }
+  },
+  {
+    "id": "p0410",
+    "type": "phrase",
+    "en": "be well versed in",
+    "ja": [
+      "精通している"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "bewellversedin",
+    "senses": [
+      "bewellversed-highlyknowledgeable"
+    ],
+    "example": {
+      "en": "He is well versed in customs procedure.",
+      "ja": "彼は通関の手続きに精通している。"
+    }
+  },
+  {
+    "id": "p0411",
+    "type": "phrase",
+    "en": "bear the cost",
+    "ja": [
+      "費用を負担する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "bearthecost",
+    "senses": [
+      "bearthecost-payexpense"
+    ],
+    "example": {
+      "en": "The buyer bears the cost of crating.",
+      "ja": "買い手が木箱詰めの費用を負担する。"
+    }
+  },
+  {
+    "id": "p0412",
+    "type": "phrase",
+    "en": "bring into line",
+    "ja": [
+      "足並みをそろえる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "bringintoline",
+    "senses": [
+      "bringintoline-makeconsistent"
+    ],
+    "example": {
+      "en": "The audit brought both plants into line.",
+      "ja": "監査が両工場の足並みをそろえた。"
+    }
+  },
+  {
+    "id": "p0413",
+    "type": "phrase",
+    "en": "build on",
+    "ja": [
+      "土台にして伸ばす"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "buildon",
+    "senses": [
+      "buildon-developfurtherfrom"
+    ],
+    "example": {
+      "en": "The plan builds on last year's savings.",
+      "ja": "その計画は昨年の節約を土台にして伸ばす。"
+    }
+  },
+  {
+    "id": "p0414",
+    "type": "phrase",
+    "en": "carry the risk",
+    "ja": [
+      "危険を伴う"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "carrytherisk",
+    "senses": [
+      "carrytherisk-involvedanger"
+    ],
+    "example": {
+      "en": "Air freight carries the risk of damage.",
+      "ja": "航空貨物は破損の危険を伴う。"
+    }
+  },
+  {
+    "id": "p0415",
+    "type": "phrase",
+    "en": "come under",
+    "ja": [
+      "の対象範囲に入る"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "comeunder",
+    "senses": [
+      "comeunder-fallwithincategory"
+    ],
+    "example": {
+      "en": "These parts come under the export ban.",
+      "ja": "これらの部品は輸出禁止の対象範囲に入る。"
+    }
+  },
+  {
+    "id": "p0416",
+    "type": "phrase",
+    "en": "comply in full",
+    "ja": [
+      "完全に順守する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "complyinfull",
+    "senses": [
+      "complyinfull-obeycompletely"
+    ],
+    "example": {
+      "en": "The plant complies in full with the code.",
+      "ja": "工場は規定を完全に順守する。"
+    }
+  },
+  {
+    "id": "p0417",
+    "type": "phrase",
+    "en": "consist largely of",
+    "ja": [
+      "大部分を占める"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "consistlargely",
+    "senses": [
+      "consistlargely-mainlymadeof"
+    ],
+    "example": {
+      "en": "The load consists largely of packaging.",
+      "ja": "積み荷は包装材が大部分を占める。"
+    }
+  },
+  {
+    "id": "p0418",
+    "type": "phrase",
+    "en": "deal in",
+    "ja": [
+      "取り扱う"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "dealin",
+    "senses": [
+      "dealin-tradeingoods"
+    ],
+    "example": {
+      "en": "The firm deals in industrial fasteners.",
+      "ja": "その会社は工業用の留め具を取り扱う。"
+    }
+  },
+  {
+    "id": "p0419",
+    "type": "phrase",
+    "en": "depart from",
+    "ja": [
+      "逸脱する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "departfrom",
+    "senses": [
+      "departfrom-deviatefromnorm"
+    ],
+    "example": {
+      "en": "Never depart from the written procedure.",
+      "ja": "書かれた手続きから逸脱してはならない。"
+    }
+  },
+  {
+    "id": "p0420",
+    "type": "phrase",
+    "en": "draw attention to",
+    "ja": [
+      "注意を向けさせる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "drawattentionto",
+    "senses": [
+      "drawattention-makenoticed"
+    ],
+    "example": {
+      "en": "The report draws attention to the backlog.",
+      "ja": "報告書は滞留に注意を向けさせる。"
+    }
+  },
+  {
+    "id": "p0421",
+    "type": "phrase",
+    "en": "enter into",
+    "ja": [
+      "締結する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "enterinto",
+    "senses": [
+      "enterinto-formallyagree"
+    ],
+    "example": {
+      "en": "The firms entered into a supply contract.",
+      "ja": "両社は供給の契約を締結した。"
+    }
+  },
+  {
+    "id": "p0422",
+    "type": "phrase",
+    "en": "factor in",
+    "ja": [
+      "織り込む"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "factorin",
+    "senses": [
+      "factorin-includeincalculation"
+    ],
+    "example": {
+      "en": "Factor in the customs delay when quoting.",
+      "ja": "見積もる際は通関の遅れを織り込みなさい。"
+    }
+  },
+  {
+    "id": "p0423",
+    "type": "phrase",
+    "en": "follow suit",
+    "ja": [
+      "同じ動きをする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "followsuit",
+    "senses": [
+      "followsuit-dothesame"
+    ],
+    "example": {
+      "en": "Rivals followed suit within a month.",
+      "ja": "競合は一か月以内に同じ動きをした。"
+    }
+  },
+  {
+    "id": "p0424",
+    "type": "phrase",
+    "en": "gain access to",
+    "ja": [
+      "利用できるようになる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "gainaccessto",
+    "senses": [
+      "gainaccess-obtainentry"
+    ],
+    "example": {
+      "en": "Contractors gain access with a day pass.",
+      "ja": "請負業者は一日券で利用できるようになる。"
+    }
+  },
+  {
+    "id": "p0425",
+    "type": "phrase",
+    "en": "give notice",
+    "ja": [
+      "通知を出す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "givenotice",
+    "senses": [
+      "givenotice-informformally"
+    ],
+    "example": {
+      "en": "Tenants must give notice two months ahead.",
+      "ja": "賃借人は二か月前に通知を出さねばならない。"
+    }
+  },
+  {
+    "id": "p0426",
+    "type": "phrase",
+    "en": "go over budget",
+    "ja": [
+      "予算を超える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "gooverbudget",
+    "senses": [
+      "gooverbudget-exceedallocation"
+    ],
+    "example": {
+      "en": "The refit went over budget by a tenth.",
+      "ja": "改修は予算を一割超えた。"
+    }
+  },
+  {
+    "id": "p0427",
+    "type": "phrase",
+    "en": "hold liable",
+    "ja": [
+      "責任を負わせる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "holdliable",
+    "senses": [
+      "holdliable-blamelegally"
+    ],
+    "example": {
+      "en": "The court held the carrier liable.",
+      "ja": "裁判所は運送会社に責任を負わせた。"
+    }
+  },
+  {
+    "id": "p0428",
+    "type": "phrase",
+    "en": "impose on",
+    "ja": [
+      "に課される"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "imposeon",
+    "senses": [
+      "imposeon-placedutyupon"
+    ],
+    "example": {
+      "en": "A surcharge is imposed on late payment.",
+      "ja": "遅い支払いには追加料金が課される。"
+    }
+  },
+  {
+    "id": "p0429",
+    "type": "phrase",
+    "en": "keep abreast of",
+    "ja": [
+      "遅れずに把握する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "keepabreastof",
+    "senses": [
+      "keepabreast-staycurrentwith"
+    ],
+    "example": {
+      "en": "Managers keep abreast of the safety code.",
+      "ja": "管理職は安全の規定を遅れずに把握する。"
+    }
+  },
+  {
+    "id": "p0430",
+    "type": "phrase",
+    "en": "look to",
+    "ja": [
+      "期待して目を向ける"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "lookto",
+    "senses": [
+      "lookto-relyonforfuture"
+    ],
+    "example": {
+      "en": "The firm looks to exports for growth.",
+      "ja": "会社は成長を輸出に期待して目を向ける。"
+    }
+  },
+  {
+    "id": "p0431",
+    "type": "phrase",
+    "en": "make allowance for",
+    "ja": [
+      "考慮して余裕を見る"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "makeallowancefor",
+    "senses": [
+      "makeallowance-leavemargin"
+    ],
+    "example": {
+      "en": "Make allowance for winter road closures.",
+      "ja": "冬の道路閉鎖を考慮して余裕を見なさい。"
+    }
+  },
+  {
+    "id": "p0432",
+    "type": "phrase",
+    "en": "make good",
+    "ja": [
+      "埋め合わせて直す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "makegood",
+    "senses": [
+      "makegood-repairdamage"
+    ],
+    "example": {
+      "en": "The builder will make good the plaster.",
+      "ja": "建設業者が壁を埋め合わせて直す。"
+    }
+  },
+  {
+    "id": "p0433",
+    "type": "phrase",
+    "en": "meet the deadline",
+    "ja": [
+      "期限に間に合わせる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "office",
+      "part3"
+    ],
+    "root": "meetthedeadline",
+    "senses": [
+      "meetdeadline-finishintime"
+    ],
+    "example": {
+      "en": "The team met the deadline by working late.",
+      "ja": "その班は遅くまで働いて期限に間に合わせた。"
+    }
+  },
+  {
+    "id": "p0434",
+    "type": "phrase",
+    "en": "object to",
+    "ja": [
+      "異議を唱える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "objectto",
+    "senses": [
+      "objectto-expressopposition"
+    ],
+    "example": {
+      "en": "Two members objected to the new fee.",
+      "ja": "会員二名が新しい料金に異議を唱えた。"
+    }
+  },
+  {
+    "id": "p0435",
+    "type": "phrase",
+    "en": "outline the terms",
+    "ja": [
+      "条件の概要を示す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "outlinetheterms",
+    "senses": [
+      "outlineterms-summarizeconditions"
+    ],
+    "example": {
+      "en": "The letter outlines the payment terms.",
+      "ja": "その手紙は支払いの条件の概要を示す。"
+    }
+  },
+  {
+    "id": "p0436",
+    "type": "phrase",
+    "en": "place an order",
+    "ja": [
+      "発注を行う"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "placeanorder",
+    "senses": [
+      "placeanorder-submitpurchase"
+    ],
+    "example": {
+      "en": "The depot places an order every Monday.",
+      "ja": "拠点は毎週月曜に発注を行う。"
+    }
+  },
+  {
+    "id": "p0437",
+    "type": "phrase",
+    "en": "point to",
+    "ja": [
+      "指し示す"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "pointto",
+    "senses": [
+      "pointto-indicateevidence"
+    ],
+    "example": {
+      "en": "The data points to a bearing failure.",
+      "ja": "そのデータは軸受けの故障を指し示す。"
+    }
+  },
+  {
+    "id": "p0438",
+    "type": "phrase",
+    "en": "provide for",
+    "ja": [
+      "定めて備える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "providefor",
+    "senses": [
+      "providefor-makeprovision"
+    ],
+    "example": {
+      "en": "The contract provides for annual review.",
+      "ja": "契約は年次の見直しを定めて備える。"
+    }
+  },
+  {
+    "id": "p0439",
+    "type": "phrase",
+    "en": "reach an agreement",
+    "ja": [
+      "合意に達する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "reachanagreement",
+    "senses": [
+      "reachagreement-settleterms"
+    ],
+    "example": {
+      "en": "Both sides reached an agreement in June.",
+      "ja": "双方は六月に合意に達した。"
+    }
+  },
+  {
+    "id": "p0440",
+    "type": "phrase",
+    "en": "refrain from",
+    "ja": [
+      "控える"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "refrainfrom",
+    "senses": [
+      "refrainfrom-avoiddoing"
+    ],
+    "example": {
+      "en": "Please refrain from using the freight lift.",
+      "ja": "貨物用の昇降機の使用は控えてください。"
+    }
+  },
+  {
+    "id": "p0441",
+    "type": "phrase",
+    "en": "relate to",
+    "ja": [
+      "関わる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "relateto",
+    "senses": [
+      "relateto-concernsubject"
+    ],
+    "example": {
+      "en": "Clause eight relates to insurance cover.",
+      "ja": "第八条は保険の補償に関わる。"
+    }
+  },
+  {
+    "id": "p0442",
+    "type": "phrase",
+    "en": "rely on",
+    "ja": [
+      "当てにする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "relyon",
+    "senses": [
+      "relyon-dependupon"
+    ],
+    "example": {
+      "en": "The plant relies on a single supplier.",
+      "ja": "工場は一社の供給業者を当てにする。"
+    }
+  },
+  {
+    "id": "p0443",
+    "type": "phrase",
+    "en": "resign from",
+    "ja": [
+      "退く"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "resignfrom",
+    "senses": [
+      "resignfrom-leavepost"
+    ],
+    "example": {
+      "en": "She resigned from the committee in May.",
+      "ja": "彼女は五月に委員会を退いた。"
+    }
+  },
+  {
+    "id": "p0444",
+    "type": "phrase",
+    "en": "respond to",
+    "ja": [
+      "応じる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "service",
+      "part5"
+    ],
+    "root": "respondto",
+    "senses": [
+      "respondto-reactformally"
+    ],
+    "example": {
+      "en": "The maker responded to every complaint.",
+      "ja": "製造業者は全ての苦情に応じた。"
+    }
+  },
+  {
+    "id": "p0445",
+    "type": "phrase",
+    "en": "result in delay",
+    "ja": [
+      "遅延を招く"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "resultindelay",
+    "senses": [
+      "resultdelay-causelateness"
+    ],
+    "example": {
+      "en": "Customs checks resulted in delay.",
+      "ja": "通関の検査が遅延を招いた。"
+    }
+  },
+  {
+    "id": "p0446",
+    "type": "phrase",
+    "en": "run short of",
+    "ja": [
+      "足りなくなる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part3"
+    ],
+    "root": "runshortof",
+    "senses": [
+      "runshortof-lackenough"
+    ],
+    "example": {
+      "en": "The kitchen ran short of clean trays.",
+      "ja": "厨房は清潔な受け皿が足りなくなった。"
+    }
+  },
+  {
+    "id": "p0447",
+    "type": "phrase",
+    "en": "serve as",
+    "ja": [
+      "役割を果たす"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "serveas",
+    "senses": [
+      "serveas-functionasrole"
+    ],
+    "example": {
+      "en": "The annex serves as a training room.",
+      "ja": "別館は研修室の役割を果たす。"
+    }
+  },
+  {
+    "id": "p0448",
+    "type": "phrase",
+    "en": "set forth",
+    "ja": [
+      "規定して述べる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "setforth",
+    "senses": [
+      "setforth-statefully"
+    ],
+    "example": {
+      "en": "The schedule sets forth every milestone.",
+      "ja": "その日程表は節目をすべて規定して述べる。"
+    }
+  },
+  {
+    "id": "p0449",
+    "type": "phrase",
+    "en": "sign a contract",
+    "ja": [
+      "契約を交わす"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "signacontract",
+    "senses": [
+      "signcontract-formalizeagreement"
+    ],
+    "example": {
+      "en": "The parties signed a contract on Friday.",
+      "ja": "当事者は金曜に契約を交わした。"
+    }
+  },
+  {
+    "id": "p0450",
+    "type": "phrase",
+    "en": "stand by",
+    "ja": [
+      "待機する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "standby",
+    "senses": [
+      "standby-remainready"
+    ],
+    "example": {
+      "en": "A spare crew stands by during the test.",
+      "ja": "試験の間、予備の作業班が待機する。"
+    }
+  },
+  {
+    "id": "p0451",
+    "type": "phrase",
+    "en": "subscribe to",
+    "ja": [
+      "同調する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "subscribeto",
+    "senses": [
+      "subscribeto-agreewithview"
+    ],
+    "example": {
+      "en": "Few managers subscribe to that view.",
+      "ja": "その見方に同調する管理職は少ない。"
+    }
+  },
+  {
+    "id": "p0452",
+    "type": "phrase",
+    "en": "take account of",
+    "ja": [
+      "勘案する"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "takeaccountof",
+    "senses": [
+      "takeaccountof-considerfactor"
+    ],
+    "example": {
+      "en": "The quote takes account of the exchange rate.",
+      "ja": "見積もりは為替の率を勘案している。"
+    }
+  },
+  {
+    "id": "p0453",
+    "type": "phrase",
+    "en": "take issue with",
+    "ja": [
+      "異論を述べる"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "takeissuewith",
+    "senses": [
+      "takeissuewith-disagreeopenly"
+    ],
+    "example": {
+      "en": "The auditor took issue with the method.",
+      "ja": "監査人はその方法に異論を述べた。"
+    }
+  },
+  {
+    "id": "p0454",
+    "type": "phrase",
+    "en": "take on",
+    "ja": [
+      "引き受ける仕事とする"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "takeon",
+    "senses": [
+      "takeon-acceptwork"
+    ],
+    "example": {
+      "en": "The depot took on two extra routes.",
+      "ja": "拠点は追加の経路を二つ引き受ける仕事とした。"
+    }
+  },
+  {
+    "id": "p0455",
+    "type": "phrase",
+    "en": "tend to",
+    "ja": [
+      "しがちである"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "tendto",
+    "senses": [
+      "tendto-havetendency"
+    ],
+    "example": {
+      "en": "Thin sheets tend to curl in the dryer.",
+      "ja": "薄い板は乾燥機で反りがちである。"
+    }
+  },
+  {
+    "id": "p0456",
+    "type": "phrase",
+    "en": "work toward",
+    "ja": [
+      "目指して取り組む"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "worktoward",
+    "senses": [
+      "worktoward-strivefor"
+    ],
+    "example": {
+      "en": "The plant works toward a lower reject rate.",
+      "ja": "工場は不良率の低下を目指して取り組む。"
+    }
+  },
+  {
+    "id": "p0457",
+    "type": "phrase",
+    "en": "yield to",
+    "ja": [
+      "譲る"
+    ],
+    "pos": "phrase",
+    "level": 4,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "yieldto",
+    "senses": [
+      "yieldto-givewaypriority"
+    ],
+    "example": {
+      "en": "Forklifts yield to pedestrians in the aisle.",
+      "ja": "荷役車は通路で歩行者に譲る。"
+    }
   }
 ]

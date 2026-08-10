@@ -1673,5 +1673,203 @@
       "en": "Engineers worked around the missing part.",
       "ja": "技術者は欠けた部品を回避して進めた。"
     }
+  },
+  {
+    "id": "p0492",
+    "type": "phrase",
+    "en": "be in charge of the site",
+    "ja": [
+      "現場を統括する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part3"
+    ],
+    "root": "beinchargesite",
+    "senses": [
+      "inchargesite-managelocation"
+    ],
+    "example": {
+      "en": "A foreman is in charge of the site daily.",
+      "ja": "職長が日々、現場を統括する。"
+    }
+  },
+  {
+    "id": "p0493",
+    "type": "phrase",
+    "en": "call attention to",
+    "ja": [
+      "注意を促す"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "callattentionto",
+    "senses": [
+      "callattention-makeaware"
+    ],
+    "example": {
+      "en": "Signs call attention to the low ceiling.",
+      "ja": "標示が低い天井への注意を促す。"
+    }
+  },
+  {
+    "id": "p0494",
+    "type": "phrase",
+    "en": "carry out repairs",
+    "ja": [
+      "修理を実施する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part3"
+    ],
+    "root": "carryoutrepairs",
+    "senses": [
+      "carryoutrepairs-performfixing"
+    ],
+    "example": {
+      "en": "Contractors carry out repairs at night.",
+      "ja": "請負業者は夜間に修理を実施する。"
+    }
+  },
+  {
+    "id": "p0495",
+    "type": "phrase",
+    "en": "come to an end",
+    "ja": [
+      "終了する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "cometoanend",
+    "senses": [
+      "cometoanend-finishcompletely"
+    ],
+    "example": {
+      "en": "The trial period comes to an end in June.",
+      "ja": "試用の期間は六月に終了する。"
+    }
+  },
+  {
+    "id": "p0496",
+    "type": "phrase",
+    "en": "go out of business",
+    "ja": [
+      "廃業する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "gooutofbusiness",
+    "senses": [
+      "gooutofbusiness-ceasetrading"
+    ],
+    "example": {
+      "en": "The supplier went out of business last year.",
+      "ja": "その供給業者は昨年、廃業した。"
+    }
+  },
+  {
+    "id": "p0497",
+    "type": "phrase",
+    "en": "in the long run",
+    "ja": [
+      "長い目で見れば"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "inthelongrun",
+    "senses": [
+      "inthelongrun-overextendedtime"
+    ],
+    "example": {
+      "en": "In the long run, rail proves cheaper.",
+      "ja": "長い目で見れば鉄道の方が安い。"
+    }
+  },
+  {
+    "id": "p0498",
+    "type": "phrase",
+    "en": "make an exception",
+    "ja": [
+      "例外を認める"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "service",
+      "part3"
+    ],
+    "root": "makeanexception",
+    "senses": [
+      "makeanexception-allowdeviation"
+    ],
+    "example": {
+      "en": "The desk made an exception for the late guest.",
+      "ja": "窓口は遅れた客に例外を認めた。"
+    }
+  },
+  {
+    "id": "p0499",
+    "type": "phrase",
+    "en": "put pressure on",
+    "ja": [
+      "圧力をかける"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "putpressureon",
+    "senses": [
+      "putpressureon-urgeforcefully"
+    ],
+    "example": {
+      "en": "Rising costs put pressure on margins.",
+      "ja": "費用の上昇が利幅に圧力をかける。"
+    }
+  },
+  {
+    "id": "p0500",
+    "type": "phrase",
+    "en": "take advantage of",
+    "ja": [
+      "うまく利用する"
+    ],
+    "pos": "phrase",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "takeadvantageof",
+    "senses": [
+      "takeadvantage-usebeneficially"
+    ],
+    "example": {
+      "en": "Buyers took advantage of the early discount.",
+      "ja": "買い手は早期の割引をうまく利用した。"
+    }
   }
 ]
