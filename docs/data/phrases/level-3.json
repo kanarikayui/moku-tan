@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p0013",
+    "type": "phrase",
+    "en": "come up with",
+    "ja": ["思いつく"],
+    "pos": "phrase",
+    "level": 3,
+    "tags": ["meeting", "part3"],
+    "root": "comeupwith",
+    "senses": ["comeupwith-produceidea"],
+    "example": {
+      "en": "The team came up with a cheaper packing method.",
+      "ja": "その班はより安価な梱包方法を思いついた。"
+    }
+  },
+  {
+    "id": "p0014",
+    "type": "phrase",
+    "en": "run out of",
+    "ja": ["使い果たす"],
+    "pos": "phrase",
+    "level": 3,
+    "tags": ["logistics", "part3"],
+    "root": "runoutof",
+    "senses": ["runoutof-exhaustsupply"],
+    "example": {
+      "en": "The branch ran out of printer toner before the audit.",
+      "ja": "その支店は監査の前に印刷機の粉末を使い果たした。"
+    }
+  },
+  {
+    "id": "p0015",
+    "type": "phrase",
+    "en": "keep track of",
+    "ja": ["把握しておく"],
+    "pos": "phrase",
+    "level": 3,
+    "tags": ["office", "part7"],
+    "root": "keeptrack",
+    "senses": ["keeptrack-stayinformedabout"],
+    "example": {
+      "en": "Use the log sheet to keep track of tool loans.",
+      "ja": "工具の貸し出しを把握しておくために記録用紙を使いなさい。"
+    }
+  },
+  {
+    "id": "p0016",
+    "type": "phrase",
+    "en": "on behalf of",
+    "ja": ["〜を代表して"],
+    "pos": "phrase",
+    "level": 3,
+    "tags": ["corporate", "part7"],
+    "root": "onbehalf",
+    "senses": ["onbehalf-actingfor"],
+    "example": {
+      "en": "She signed the agreement on behalf of the parent company.",
+      "ja": "彼女は親会社を代表して協定に署名した。"
+    }
+  },
+  {
+    "id": "p0017",
+    "type": "phrase",
+    "en": "in accordance with",
+    "ja": ["〜に沿って"],
+    "pos": "phrase",
+    "level": 3,
+    "tags": ["contract", "part5"],
+    "root": "inaccordance",
+    "senses": ["comply-obey"],
+    "example": {
+      "en": "Goods are stored in accordance with the safety manual.",
+      "ja": "商品は安全手引に沿って保管されている。"
+    }
+  },
+  {
+    "id": "p0018",
+    "type": "phrase",
+    "en": "be entitled to",
+    "ja": ["〜の権利がある"],
+    "pos": "phrase",
+    "level": 3,
+    "tags": ["hr", "part7"],
+    "root": "entitledto",
+    "senses": ["entitledto-haveright"],
+    "example": {
+      "en": "Full-time staff are entitled to fifteen paid days off.",
+      "ja": "常勤の従業員には有給休暇十五日の権利がある。"
+    }
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p0001",
+    "type": "phrase",
+    "en": "take part in",
+    "ja": ["参加する"],
+    "pos": "phrase",
+    "level": 1,
+    "tags": ["meeting", "part2"],
+    "root": "takepartin",
+    "senses": ["attend-participate"],
+    "example": {
+      "en": "Every new hire must take part in the orientation session.",
+      "ja": "新入社員は全員、説明会に参加しなければならない。"
+    }
+  },
+  {
+    "id": "p0002",
+    "type": "phrase",
+    "en": "look for",
+    "ja": ["探す"],
+    "pos": "phrase",
+    "level": 1,
+    "tags": ["office", "part2"],
+    "root": "lookfor",
+    "senses": ["lookfor-trytofind"],
+    "example": {
+      "en": "We are looking for a vendor that can print on metal.",
+      "ja": "金属に印刷できる業者を探している。"
+    }
+  },
+  {
+    "id": "p0003",
+    "type": "phrase",
+    "en": "pick up",
+    "ja": ["車で迎えに行く"],
+    "pos": "phrase",
+    "level": 1,
+    "tags": ["travel", "part3"],
+    "root": "pickup",
+    "senses": ["pickup-collectbycar"],
+    "example": {
+      "en": "A driver will pick up the guests at the north exit.",
+      "ja": "運転手が北口で来客を車で迎えに行く。"
+    }
+  },
+  {
+    "id": "p0004",
+    "type": "phrase",
+    "en": "turn on",
+    "ja": ["電源を入れる"],
+    "pos": "phrase",
+    "level": 1,
+    "tags": ["facility", "part1"],
+    "root": "turnon",
+    "senses": ["turnon-startdevice"],
+    "example": {
+      "en": "Turn on the projector ten minutes before the briefing.",
+      "ja": "説明会の十分前に投影機の電源を入れなさい。"
+    }
+  },
+  {
+    "id": "p0005",
+    "type": "phrase",
+    "en": "fill out",
+    "ja": ["記入する"],
+    "pos": "phrase",
+    "level": 1,
+    "tags": ["office", "part7"],
+    "root": "fillout",
+    "senses": ["fillout-completeform"],
+    "example": {
+      "en": "Please fill out the visitor card at the front desk.",
+      "ja": "受付で来訪者カードに記入してください。"
+    }
+  },
+  {
+    "id": "p0006",
+    "type": "phrase",
+    "en": "get in touch with",
+    "ja": ["連絡を取る"],
+    "pos": "phrase",
+    "level": 1,
+    "tags": ["service", "part3"],
+    "root": "getintouch",
+    "senses": ["getintouch-makecontact"],
+    "example": {
+      "en": "Get in touch with the carrier about the delayed pallet.",
+      "ja": "遅れている荷台について運送業者と連絡を取りなさい。"
+    }
+  }
+]

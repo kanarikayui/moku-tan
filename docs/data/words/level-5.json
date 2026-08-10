@@ -1,0 +1,305 @@
+[
+  {
+    "id": "w0081",
+    "type": "word",
+    "en": "amortize",
+    "ja": ["分割償却する"],
+    "pos": "verb",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "amortiz",
+    "senses": ["amortize-spreadcostovertime"],
+    "exclude": ["w0097"],
+    "example": {
+      "en": "The company will amortize the software over five years.",
+      "ja": "同社はその情報処理設備を五年で分割償却する。"
+    }
+  },
+  {
+    "id": "w0082",
+    "type": "word",
+    "en": "arbitration",
+    "ja": ["仲裁"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "arbitrat",
+    "senses": ["arbitration-thirdpartysettlement"],
+    "example": {
+      "en": "Disputes go to arbitration rather than to the courts.",
+      "ja": "紛争は裁判ではなく仲裁に付される。"
+    }
+  },
+  {
+    "id": "w0083",
+    "type": "word",
+    "en": "covenant",
+    "ja": ["約款"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "covenant",
+    "senses": ["covenant-bindingpromise"],
+    "example": {
+      "en": "A covenant in the loan limits further borrowing.",
+      "ja": "融資の約款が追加の借入を制限している。"
+    }
+  },
+  {
+    "id": "w0084",
+    "type": "word",
+    "en": "embargo",
+    "ja": ["通商禁止"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["logistics", "part7"],
+    "root": "embargo",
+    "senses": ["embargo-tradeban"],
+    "example": {
+      "en": "The embargo halted shipments to two overseas ports.",
+      "ja": "通商禁止により二つの海外港への出荷が止まった。"
+    }
+  },
+  {
+    "id": "w0085",
+    "type": "word",
+    "en": "lucrative",
+    "ja": ["もうかる"],
+    "pos": "adj",
+    "level": 5,
+    "tags": ["finance", "part5"],
+    "root": "lucrativ",
+    "senses": ["lucrative-highlyprofitable"],
+    "example": {
+      "en": "Maintenance contracts proved more lucrative than sales.",
+      "ja": "保守契約は販売よりもうかることが分かった。"
+    }
+  },
+  {
+    "id": "w0086",
+    "type": "word",
+    "en": "indemnify",
+    "ja": ["賠償する"],
+    "pos": "verb",
+    "level": 5,
+    "tags": ["contract", "part7"],
+    "root": "indemnif",
+    "senses": ["indemnify-coverlosses"],
+    "example": {
+      "en": "The carrier agrees to indemnify the client for damaged cargo.",
+      "ja": "運送業者は破損した貨物について顧客に賠償することに同意する。"
+    }
+  },
+  {
+    "id": "w0087",
+    "type": "word",
+    "en": "quorum",
+    "ja": ["定足数"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["meeting", "part7"],
+    "root": "quorum",
+    "senses": ["quorum-minimumattendance"],
+    "example": {
+      "en": "The vote was delayed because no quorum was present.",
+      "ja": "定足数に達しなかったため採決は先送りされた。"
+    }
+  },
+  {
+    "id": "w0088",
+    "type": "word",
+    "en": "moratorium",
+    "ja": ["一時停止"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["corporate", "part7"],
+    "root": "moratori",
+    "senses": ["moratorium-officialpause"],
+    "example": {
+      "en": "The city placed a moratorium on new warehouse permits.",
+      "ja": "市は新しい倉庫の許可について一時停止を定めた。"
+    }
+  },
+  {
+    "id": "w0089",
+    "type": "word",
+    "en": "remittance",
+    "ja": ["送金"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "remit",
+    "senses": ["remittance-moneysent"],
+    "example": {
+      "en": "Please note the invoice number on your remittance.",
+      "ja": "送金の際は請求書番号を明記してください。"
+    }
+  },
+  {
+    "id": "w0090",
+    "type": "word",
+    "en": "stipulate",
+    "ja": ["明記する"],
+    "pos": "verb",
+    "level": 5,
+    "tags": ["contract", "part5"],
+    "root": "stipulat",
+    "senses": ["stipulate-statecondition"],
+    "example": {
+      "en": "The lease stipulates that repairs begin within ten days.",
+      "ja": "賃貸借契約は修理を十日以内に始めると明記している。"
+    }
+  },
+  {
+    "id": "w0091",
+    "type": "word",
+    "en": "surcharge",
+    "ja": ["追加料金"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["logistics", "part7"],
+    "root": "surcharg",
+    "senses": ["surcharge-extrafee"],
+    "example": {
+      "en": "A fuel surcharge applies to deliveries outside the city.",
+      "ja": "市外への配達には燃料の追加料金がかかる。"
+    }
+  },
+  {
+    "id": "w0092",
+    "type": "word",
+    "en": "turnover",
+    "ja": ["離職率"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["hr", "part7"],
+    "root": "turnover",
+    "senses": ["turnover-staffleavingrate"],
+    "example": {
+      "en": "Night shift turnover fell after the bonus was introduced.",
+      "ja": "手当の導入後、夜勤の離職率は下がった。"
+    }
+  },
+  {
+    "id": "w0093",
+    "type": "word",
+    "en": "underwrite",
+    "ja": ["引き受ける"],
+    "pos": "verb",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "underwrit",
+    "senses": ["underwrite-acceptfinancialrisk"],
+    "example": {
+      "en": "A local bank agreed to underwrite the bond issue.",
+      "ja": "地元の銀行が債券の発行を引き受けることに同意した。"
+    }
+  },
+  {
+    "id": "w0094",
+    "type": "word",
+    "en": "collateral",
+    "ja": ["担保"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "collater",
+    "senses": ["collateral-loansecurity"],
+    "example": {
+      "en": "The firm offered its delivery fleet as collateral.",
+      "ja": "同社は配送車両を担保として差し出した。"
+    }
+  },
+  {
+    "id": "w0095",
+    "type": "word",
+    "en": "insolvent",
+    "ja": ["支払い不能の"],
+    "pos": "adj",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "insolven",
+    "senses": ["insolvent-unabletopaydebts"],
+    "example": {
+      "en": "The supplier became insolvent after losing its largest client.",
+      "ja": "最大の取引先を失い、その供給業者は支払い不能になった。"
+    }
+  },
+  {
+    "id": "w0096",
+    "type": "word",
+    "en": "audit",
+    "ja": ["監査する"],
+    "pos": "verb",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "audit",
+    "senses": ["audit-officiallycheckaccounts"],
+    "exclude": ["w0079"],
+    "example": {
+      "en": "An outside firm will audit the accounts every autumn.",
+      "ja": "外部の事務所が毎秋、会計を監査する。"
+    }
+  },
+  {
+    "id": "w0097",
+    "type": "word",
+    "en": "depreciation",
+    "ja": ["減価償却"],
+    "pos": "noun",
+    "level": 5,
+    "tags": ["finance", "part7"],
+    "root": "depreciat",
+    "senses": ["depreciation-assetvaluedecline"],
+    "exclude": ["w0081"],
+    "example": {
+      "en": "Depreciation on the new presses starts in April.",
+      "ja": "新しい印刷機の減価償却は四月に始まる。"
+    }
+  },
+  {
+    "id": "w0098",
+    "type": "word",
+    "en": "proprietary",
+    "ja": ["独占的な"],
+    "pos": "adj",
+    "level": 5,
+    "tags": ["corporate", "part7"],
+    "root": "propriet",
+    "senses": ["proprietary-privatelyowned"],
+    "example": {
+      "en": "The coating uses a proprietary blend of resins.",
+      "ja": "その塗膜は独占的な樹脂の配合を用いている。"
+    }
+  },
+  {
+    "id": "w0099",
+    "type": "word",
+    "en": "fiscal",
+    "ja": ["会計上の"],
+    "pos": "adj",
+    "level": 5,
+    "tags": ["finance", "part4"],
+    "root": "fisc",
+    "senses": ["fiscal-relatingtopublicfinance"],
+    "example": {
+      "en": "The fiscal year ends on the last day of March.",
+      "ja": "会計上の年度は三月の末日に終わる。"
+    }
+  },
+  {
+    "id": "w0100",
+    "type": "word",
+    "en": "vested",
+    "ja": ["確定した"],
+    "pos": "adj",
+    "level": 5,
+    "tags": ["hr", "part7"],
+    "root": "vest",
+    "senses": ["vested-legallysecured"],
+    "example": {
+      "en": "Retirement benefits become vested after five years of service.",
+      "ja": "退職給付は勤続五年で確定したものになる。"
+    }
+  }
+]

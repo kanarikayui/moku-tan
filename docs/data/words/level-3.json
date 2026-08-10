@@ -1,0 +1,304 @@
+[
+  {
+    "id": "w0041",
+    "type": "word",
+    "en": "comply",
+    "ja": ["従う"],
+    "pos": "verb",
+    "level": 3,
+    "tags": ["contract", "part5"],
+    "root": "compl",
+    "senses": ["comply-obey"],
+    "example": {
+      "en": "All contractors must comply with the site safety rules.",
+      "ja": "すべての請負業者は現場の安全規則に従わなければならない。"
+    }
+  },
+  {
+    "id": "w0042",
+    "type": "word",
+    "en": "procurement",
+    "ja": ["調達"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["logistics", "part7"],
+    "root": "procur",
+    "senses": ["procurement-sourcinggoods"],
+    "example": {
+      "en": "The procurement team reviews every bid over one million yen.",
+      "ja": "調達部門は百万円を超える入札をすべて審査する。"
+    }
+  },
+  {
+    "id": "w0043",
+    "type": "word",
+    "en": "subsidiary",
+    "ja": ["子会社"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["corporate", "part7"],
+    "root": "subsidiar",
+    "senses": ["subsidiary-ownedcompany"],
+    "example": {
+      "en": "Its Thai subsidiary assembles parts for the whole region.",
+      "ja": "タイの子会社が地域全体向けの部品を組み立てている。"
+    }
+  },
+  {
+    "id": "w0044",
+    "type": "word",
+    "en": "reimburse",
+    "ja": ["払い戻す"],
+    "pos": "verb",
+    "level": 3,
+    "tags": ["finance", "part7"],
+    "root": "reimburs",
+    "senses": ["reimburse-payback"],
+    "example": {
+      "en": "The firm will reimburse taxi fares taken after ten o'clock.",
+      "ja": "会社は十時以降に利用したタクシー代を払い戻す。"
+    }
+  },
+  {
+    "id": "w0045",
+    "type": "word",
+    "en": "itinerary",
+    "ja": ["旅程"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["travel", "part4"],
+    "root": "itinerar",
+    "senses": ["itinerary-travelplan"],
+    "example": {
+      "en": "Your itinerary includes a factory tour on the second day.",
+      "ja": "あなたの旅程には二日目の工場見学が含まれている。"
+    }
+  },
+  {
+    "id": "w0046",
+    "type": "word",
+    "en": "mandatory",
+    "ja": ["必須の"],
+    "pos": "adj",
+    "level": 3,
+    "tags": ["hr", "part5"],
+    "root": "mandat",
+    "senses": ["mandatory-required"],
+    "example": {
+      "en": "Safety training is mandatory for all warehouse staff.",
+      "ja": "安全講習は倉庫の全従業員にとって必須だ。"
+    }
+  },
+  {
+    "id": "w0047",
+    "type": "word",
+    "en": "tenant",
+    "ja": ["賃借人"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["realestate", "part7"],
+    "root": "tenant",
+    "senses": ["tenant-renter"],
+    "example": {
+      "en": "Each tenant receives two keys and one parking pass.",
+      "ja": "各賃借人は鍵二本と駐車証一枚を受け取る。"
+    }
+  },
+  {
+    "id": "w0048",
+    "type": "word",
+    "en": "premises",
+    "ja": ["敷地"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["realestate", "part4"],
+    "root": "premis",
+    "senses": ["premises-groundsofbuilding"],
+    "example": {
+      "en": "Visitors must sign in before entering the premises.",
+      "ja": "来訪者は敷地に入る前に記帳しなければならない。"
+    }
+  },
+  {
+    "id": "w0049",
+    "type": "word",
+    "en": "warranty",
+    "ja": ["保証"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["service", "part7"],
+    "root": "warrant",
+    "senses": ["warranty-repairpledge"],
+    "example": {
+      "en": "The warranty covers parts and labor for three years.",
+      "ja": "この保証は部品代と作業費を三年間対象とする。"
+    }
+  },
+  {
+    "id": "w0050",
+    "type": "word",
+    "en": "appraisal",
+    "ja": ["査定"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["hr", "part7"],
+    "root": "apprais",
+    "senses": ["appraisal-formalassessment"],
+    "exclude": ["w0026"],
+    "example": {
+      "en": "Each manager submits a written appraisal every autumn.",
+      "ja": "各管理職は毎秋、書面の査定を提出する。"
+    }
+  },
+  {
+    "id": "w0051",
+    "type": "word",
+    "en": "diligent",
+    "ja": ["勤勉な"],
+    "pos": "adj",
+    "level": 3,
+    "tags": ["hr", "part5"],
+    "root": "dilig",
+    "senses": ["diligent-hardworking"],
+    "example": {
+      "en": "A diligent clerk noticed the error in the shipping label.",
+      "ja": "勤勉な事務員が配送票の誤りに気づいた。"
+    }
+  },
+  {
+    "id": "w0052",
+    "type": "word",
+    "en": "vacancy",
+    "ja": ["空室"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["realestate", "part7"],
+    "root": "vacan",
+    "senses": ["vacancy-unoccupiedroom"],
+    "example": {
+      "en": "The hotel has no vacancy during the trade fair.",
+      "ja": "見本市の期間中、そのホテルに空室はない。"
+    }
+  },
+  {
+    "id": "w0053",
+    "type": "word",
+    "en": "obsolete",
+    "ja": ["時代遅れの"],
+    "pos": "adj",
+    "level": 3,
+    "tags": ["manufacturing", "part5"],
+    "root": "obsolet",
+    "senses": ["obsolete-outofdate"],
+    "example": {
+      "en": "The plant replaced its obsolete labeling machines last spring.",
+      "ja": "工場は昨春、時代遅れのラベル貼付機を入れ替えた。"
+    }
+  },
+  {
+    "id": "w0054",
+    "type": "word",
+    "en": "streamline",
+    "ja": ["合理化する"],
+    "pos": "verb",
+    "level": 3,
+    "tags": ["manufacturing", "part7"],
+    "root": "streamlin",
+    "senses": ["streamline-makesimpler"],
+    "example": {
+      "en": "The new system will streamline the approval process.",
+      "ja": "新しい仕組みが承認手続きを合理化する。"
+    }
+  },
+  {
+    "id": "w0055",
+    "type": "word",
+    "en": "compensation",
+    "ja": ["報酬"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["hr", "part7"],
+    "root": "compensat",
+    "senses": ["compensation-payforwork"],
+    "example": {
+      "en": "The offer letter details compensation and yearly leave.",
+      "ja": "採用通知書には報酬と年次休暇が詳しく書かれている。"
+    }
+  },
+  {
+    "id": "w0056",
+    "type": "word",
+    "en": "durable",
+    "ja": ["耐久性のある"],
+    "pos": "adj",
+    "level": 3,
+    "tags": ["manufacturing", "part5"],
+    "root": "durab",
+    "senses": ["durable-longwearing"],
+    "example": {
+      "en": "These crates are durable enough for overseas shipping.",
+      "ja": "これらの木箱は海外輸送に十分耐久性のあるものだ。"
+    }
+  },
+  {
+    "id": "w0057",
+    "type": "word",
+    "en": "forecast",
+    "ja": ["予測する"],
+    "pos": "verb",
+    "level": 3,
+    "tags": ["finance", "part4"],
+    "root": "forecast",
+    "senses": ["forecast-predictfuture"],
+    "example": {
+      "en": "Analysts forecast steady demand through the winter season.",
+      "ja": "分析担当は冬の期間を通じて堅調な需要を予測している。"
+    }
+  },
+  {
+    "id": "w0058",
+    "type": "word",
+    "en": "liability",
+    "ja": ["負債"],
+    "pos": "noun",
+    "level": 3,
+    "tags": ["finance", "part7"],
+    "root": "liab",
+    "senses": ["liability-moneyowed"],
+    "example": {
+      "en": "The report lists total liability at the end of each quarter.",
+      "ja": "報告書は各四半期末の負債総額を示している。"
+    }
+  },
+  {
+    "id": "w0059",
+    "type": "word",
+    "en": "dispatch",
+    "ja": ["発送する"],
+    "pos": "verb",
+    "level": 3,
+    "tags": ["logistics", "part7"],
+    "root": "dispatch",
+    "senses": ["dispatch-sendoff"],
+    "exclude": ["w0005"],
+    "example": {
+      "en": "We dispatch bulk orders from the northern warehouse.",
+      "ja": "大口の注文は北の倉庫から発送する。"
+    }
+  },
+  {
+    "id": "w0060",
+    "type": "word",
+    "en": "alternative",
+    "ja": ["代替の"],
+    "pos": "adj",
+    "level": 3,
+    "tags": ["logistics", "part5"],
+    "root": "altern",
+    "senses": ["alternative-otherchoice"],
+    "example": {
+      "en": "The driver took an alternative route around the closed bridge.",
+      "ja": "運転手は閉鎖された橋を避けて代替の経路を通った。"
+    }
+  }
+]

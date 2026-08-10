@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p0007",
+    "type": "phrase",
+    "en": "take over",
+    "ja": ["引き継ぐ"],
+    "pos": "phrase",
+    "level": 2,
+    "tags": ["hr", "part3"],
+    "root": "takeover",
+    "senses": ["takeover-assumeduty"],
+    "example": {
+      "en": "Ms. Ito will take over the account while I am abroad.",
+      "ja": "私の海外出張中は伊藤さんがその取引先を引き継ぐ。"
+    }
+  },
+  {
+    "id": "p0008",
+    "type": "phrase",
+    "en": "in charge of",
+    "ja": ["担当して"],
+    "pos": "phrase",
+    "level": 2,
+    "tags": ["hr", "part7"],
+    "root": "incharge",
+    "senses": ["incharge-responsiblefor"],
+    "example": {
+      "en": "The clerk in charge of returns works only on weekdays.",
+      "ja": "返品を担当している事務員は平日のみ勤務している。"
+    }
+  },
+  {
+    "id": "p0009",
+    "type": "phrase",
+    "en": "be subject to",
+    "ja": ["〜の対象となる"],
+    "pos": "phrase",
+    "level": 2,
+    "tags": ["contract", "part5"],
+    "root": "subjectto",
+    "senses": ["subjectto-liabletoundergo"],
+    "example": {
+      "en": "Late payments are subject to a two percent charge.",
+      "ja": "支払いの遅延は二パーセントの手数料の対象となる。"
+    }
+  },
+  {
+    "id": "p0010",
+    "type": "phrase",
+    "en": "set up",
+    "ja": ["設置する"],
+    "pos": "phrase",
+    "level": 2,
+    "tags": ["facility", "part1"],
+    "root": "setup",
+    "senses": ["setup-putinplace"],
+    "example": {
+      "en": "Workers set up the display racks before the store opens.",
+      "ja": "開店前に作業員が陳列棚を設置する。"
+    }
+  },
+  {
+    "id": "p0011",
+    "type": "phrase",
+    "en": "carry out",
+    "ja": ["実施する"],
+    "pos": "phrase",
+    "level": 2,
+    "tags": ["manufacturing", "part4"],
+    "root": "carryout",
+    "senses": ["carryout-putintoaction"],
+    "example": {
+      "en": "Engineers carry out safety checks on every second Monday.",
+      "ja": "技術者は隔週の月曜に安全点検を実施する。"
+    }
+  },
+  {
+    "id": "p0012",
+    "type": "phrase",
+    "en": "look forward to",
+    "ja": ["楽しみに待つ"],
+    "pos": "phrase",
+    "level": 2,
+    "tags": ["service", "part7"],
+    "root": "lookforward",
+    "senses": ["lookforward-awaitwithpleasure"],
+    "example": {
+      "en": "We look forward to your visit to our Nagoya plant.",
+      "ja": "名古屋工場へのご訪問を楽しみに待っている。"
+    }
+  }
+]

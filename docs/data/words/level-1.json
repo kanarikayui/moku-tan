@@ -1,0 +1,303 @@
+[
+  {
+    "id": "w0001",
+    "type": "word",
+    "en": "attend",
+    "ja": ["出席する"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["meeting", "part2"],
+    "root": "attend",
+    "senses": ["attend-participate"],
+    "example": {
+      "en": "All department heads must attend the quarterly review.",
+      "ja": "全部門長は四半期の検討会議に出席しなければならない。"
+    }
+  },
+  {
+    "id": "w0002",
+    "type": "word",
+    "en": "arrive",
+    "ja": ["到着する"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["logistics", "part1"],
+    "root": "arrive",
+    "senses": ["arrive-reach"],
+    "example": {
+      "en": "The replacement parts will arrive at the plant on Friday.",
+      "ja": "交換部品は金曜日に工場へ到着する。"
+    }
+  },
+  {
+    "id": "w0003",
+    "type": "word",
+    "en": "customer",
+    "ja": ["顧客"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["sales", "part7"],
+    "root": "custom",
+    "senses": ["customer-client"],
+    "example": {
+      "en": "A customer called about a missing item in the box.",
+      "ja": "顧客から箱の中の品物が足りないと電話があった。"
+    }
+  },
+  {
+    "id": "w0004",
+    "type": "word",
+    "en": "order",
+    "ja": ["注文"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["sales", "part7"],
+    "root": "order",
+    "senses": ["order-purchase"],
+    "example": {
+      "en": "Your order will ship as soon as payment clears.",
+      "ja": "入金が確認でき次第、注文品を発送する。"
+    }
+  },
+  {
+    "id": "w0005",
+    "type": "word",
+    "en": "deliver",
+    "ja": ["配達する"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["logistics", "part3"],
+    "root": "deliver",
+    "senses": ["deliver-carry"],
+    "exclude": ["w0059"],
+    "example": {
+      "en": "The courier will deliver the samples before noon tomorrow.",
+      "ja": "配送業者が明日の正午前にサンプルを配達する。"
+    }
+  },
+  {
+    "id": "w0006",
+    "type": "word",
+    "en": "price",
+    "ja": ["価格"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["sales", "part5"],
+    "root": "price",
+    "senses": ["price-amountcharged"],
+    "example": {
+      "en": "The price includes installation but not annual maintenance.",
+      "ja": "この価格には設置費が含まれるが年間保守費は含まれない。"
+    }
+  },
+  {
+    "id": "w0007",
+    "type": "word",
+    "en": "employee",
+    "ja": ["従業員"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["hr", "part7"],
+    "root": "employ",
+    "senses": ["employee-worker"],
+    "example": {
+      "en": "Every employee receives a badge on the first day.",
+      "ja": "全従業員は初日に社員証を受け取る。"
+    }
+  },
+  {
+    "id": "w0008",
+    "type": "word",
+    "en": "supervisor",
+    "ja": ["上司"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["hr", "part3"],
+    "root": "supervis",
+    "senses": ["supervisor-boss"],
+    "example": {
+      "en": "Ask your supervisor before changing the delivery schedule.",
+      "ja": "配送予定を変える前に上司に確認しなさい。"
+    }
+  },
+  {
+    "id": "w0009",
+    "type": "word",
+    "en": "conference",
+    "ja": ["会議"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["meeting", "part4"],
+    "root": "confer",
+    "senses": ["conference-gathering"],
+    "example": {
+      "en": "The annual sales conference takes place in Osaka this year.",
+      "ja": "年次営業会議は今年大阪で開かれる。"
+    }
+  },
+  {
+    "id": "w0010",
+    "type": "word",
+    "en": "office",
+    "ja": ["事務所"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["facility", "part1"],
+    "root": "office",
+    "senses": ["office-workplace"],
+    "example": {
+      "en": "Our office moves to the fifth floor next month.",
+      "ja": "当社の事務所は来月五階へ移転する。"
+    }
+  },
+  {
+    "id": "w0011",
+    "type": "word",
+    "en": "receive",
+    "ja": ["受け取る"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["logistics", "part5"],
+    "root": "receiv",
+    "senses": ["receive-getdelivered"],
+    "example": {
+      "en": "We receive shipments from the supplier every Tuesday.",
+      "ja": "毎週火曜日に供給業者から荷物を受け取る。"
+    }
+  },
+  {
+    "id": "w0012",
+    "type": "word",
+    "en": "schedule",
+    "ja": ["予定表"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["meeting", "part4"],
+    "root": "schedul",
+    "senses": ["schedule-timetable"],
+    "example": {
+      "en": "Please check the schedule posted near the staff entrance.",
+      "ja": "従業員入口の近くに掲示された予定表を確認してください。"
+    }
+  },
+  {
+    "id": "w0013",
+    "type": "word",
+    "en": "available",
+    "ja": ["利用できる"],
+    "pos": "adj",
+    "level": 1,
+    "tags": ["facility", "part5"],
+    "root": "avail",
+    "senses": ["available-usable"],
+    "example": {
+      "en": "Meeting room B is available after three o'clock.",
+      "ja": "会議室Bは三時以降利用できる。"
+    }
+  },
+  {
+    "id": "w0014",
+    "type": "word",
+    "en": "provide",
+    "ja": ["提供する"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["service", "part5"],
+    "root": "provid",
+    "senses": ["provide-supply"],
+    "example": {
+      "en": "The hotel will provide shuttle service to the venue.",
+      "ja": "ホテルが会場までの送迎便を提供する。"
+    }
+  },
+  {
+    "id": "w0015",
+    "type": "word",
+    "en": "request",
+    "ja": ["依頼する"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["service", "part7"],
+    "root": "request",
+    "senses": ["request-askfor"],
+    "example": {
+      "en": "Tenants may request extra parking passes at the front desk.",
+      "ja": "賃借人は受付で追加の駐車証を依頼できる。"
+    }
+  },
+  {
+    "id": "w0016",
+    "type": "word",
+    "en": "report",
+    "ja": ["報告書"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["office", "part7"],
+    "root": "report",
+    "senses": ["report-writtenaccount"],
+    "example": {
+      "en": "The safety report lists three items for immediate repair.",
+      "ja": "安全報告書には至急修理すべき三点が挙げられている。"
+    }
+  },
+  {
+    "id": "w0017",
+    "type": "word",
+    "en": "product",
+    "ja": ["製品"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["manufacturing", "part4"],
+    "root": "produc",
+    "senses": ["product-manufactureditem"],
+    "example": {
+      "en": "The new product goes on sale in the spring catalog.",
+      "ja": "新製品は春のカタログで発売される。"
+    }
+  },
+  {
+    "id": "w0018",
+    "type": "word",
+    "en": "branch",
+    "ja": ["支店"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["facility", "part7"],
+    "root": "branch",
+    "senses": ["branch-localunit"],
+    "example": {
+      "en": "The Kobe branch handles all orders from western Japan.",
+      "ja": "神戸支店が西日本からの注文をすべて扱う。"
+    }
+  },
+  {
+    "id": "w0019",
+    "type": "word",
+    "en": "invoice",
+    "ja": ["請求書"],
+    "pos": "noun",
+    "level": 1,
+    "tags": ["finance", "part7"],
+    "root": "invoic",
+    "senses": ["invoice-billingdocument"],
+    "example": {
+      "en": "Attach the invoice when you submit the expense form.",
+      "ja": "経費申請書を提出するときは請求書を添付しなさい。"
+    }
+  },
+  {
+    "id": "w0020",
+    "type": "word",
+    "en": "repair",
+    "ja": ["修理する"],
+    "pos": "verb",
+    "level": 1,
+    "tags": ["facility", "part3"],
+    "root": "repair",
+    "senses": ["repair-fixbroken"],
+    "example": {
+      "en": "A technician came to repair the copier on the third floor.",
+      "ja": "技術者が三階のコピー機を修理しに来た。"
+    }
+  }
+]

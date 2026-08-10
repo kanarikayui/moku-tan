@@ -1,0 +1,303 @@
+[
+  {
+    "id": "w0021",
+    "type": "word",
+    "en": "allocate",
+    "ja": ["割り当てる", "配分する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["finance", "part5"],
+    "root": "alloc",
+    "senses": ["assign-distribute"],
+    "example": {
+      "en": "The manager will allocate the budget next quarter.",
+      "ja": "部長は来四半期に予算を配分する。"
+    }
+  },
+  {
+    "id": "w0022",
+    "type": "word",
+    "en": "approve",
+    "ja": ["承認する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["office", "part5"],
+    "root": "approv",
+    "senses": ["approve-authorize"],
+    "example": {
+      "en": "The board must approve the merger before the deadline.",
+      "ja": "取締役会は期限までに合併を承認しなければならない。"
+    }
+  },
+  {
+    "id": "w0023",
+    "type": "word",
+    "en": "budget",
+    "ja": ["予算"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["finance", "part4"],
+    "root": "budget",
+    "senses": ["budget-plannedfunds"],
+    "example": {
+      "en": "The marketing budget doubled after the product launch.",
+      "ja": "製品の発売後、宣伝の予算は倍になった。"
+    }
+  },
+  {
+    "id": "w0024",
+    "type": "word",
+    "en": "negotiate",
+    "ja": ["交渉する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["contract", "part7"],
+    "root": "negoti",
+    "senses": ["negotiate-bargain"],
+    "example": {
+      "en": "Our team will negotiate the shipping rates in person.",
+      "ja": "当社の担当が直接、輸送料金を交渉する。"
+    }
+  },
+  {
+    "id": "w0025",
+    "type": "word",
+    "en": "revenue",
+    "ja": ["収益"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["finance", "part4"],
+    "root": "revenu",
+    "senses": ["revenue-income"],
+    "example": {
+      "en": "Overseas revenue accounted for half of last year's total.",
+      "ja": "海外の収益は昨年の総額の半分を占めた。"
+    }
+  },
+  {
+    "id": "w0026",
+    "type": "word",
+    "en": "estimate",
+    "ja": ["見積もる"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["finance", "part5"],
+    "root": "estimat",
+    "senses": ["estimate-quote"],
+    "exclude": ["w0050"],
+    "example": {
+      "en": "Please estimate the repair cost before Thursday's meeting.",
+      "ja": "木曜の会議までに修理費を見積もってください。"
+    }
+  },
+  {
+    "id": "w0027",
+    "type": "word",
+    "en": "recruit",
+    "ja": ["採用する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["hr", "part7"],
+    "root": "recruit",
+    "senses": ["recruit-hire"],
+    "example": {
+      "en": "We plan to recruit six engineers before the plant opens.",
+      "ja": "工場の開設前に技術者を六名採用する予定だ。"
+    }
+  },
+  {
+    "id": "w0028",
+    "type": "word",
+    "en": "promote",
+    "ja": ["昇進させる"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["hr", "part5"],
+    "root": "promot",
+    "senses": ["promote-raiserank"],
+    "example": {
+      "en": "The company will promote her to regional director.",
+      "ja": "会社は彼女を地域統括責任者に昇進させる。"
+    }
+  },
+  {
+    "id": "w0029",
+    "type": "word",
+    "en": "inventory",
+    "ja": ["在庫"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["logistics", "part4"],
+    "root": "inventor",
+    "senses": ["inventory-goodsinstock"],
+    "example": {
+      "en": "Store staff count the inventory on the last day of the month.",
+      "ja": "店舗の従業員は月末に在庫を数える。"
+    }
+  },
+  {
+    "id": "w0030",
+    "type": "word",
+    "en": "warehouse",
+    "ja": ["倉庫"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["logistics", "part1"],
+    "root": "warehous",
+    "senses": ["warehouse-storagebuilding"],
+    "example": {
+      "en": "Boxes are stacked along the warehouse wall.",
+      "ja": "箱が倉庫の壁沿いに積み上げられている。"
+    }
+  },
+  {
+    "id": "w0031",
+    "type": "word",
+    "en": "supplier",
+    "ja": ["供給業者"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["logistics", "part7"],
+    "root": "supply",
+    "senses": ["supplier-vendorfirm"],
+    "example": {
+      "en": "Our main supplier raised its prices for the third time.",
+      "ja": "主要な供給業者が三度目の値上げをした。"
+    }
+  },
+  {
+    "id": "w0032",
+    "type": "word",
+    "en": "contract",
+    "ja": ["契約"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["contract", "part7"],
+    "root": "contract",
+    "senses": ["contract-legalagreement"],
+    "example": {
+      "en": "The contract runs for two years with an option to extend.",
+      "ja": "この契約は二年間で、延長の選択権が付いている。"
+    }
+  },
+  {
+    "id": "w0033",
+    "type": "word",
+    "en": "deadline",
+    "ja": ["締め切り"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["office", "part3"],
+    "root": "deadlin",
+    "senses": ["deadline-duedate"],
+    "example": {
+      "en": "The deadline for travel claims is the tenth of each month.",
+      "ja": "出張費請求の締め切りは毎月十日だ。"
+    }
+  },
+  {
+    "id": "w0034",
+    "type": "word",
+    "en": "postpone",
+    "ja": ["延期する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["meeting", "part5"],
+    "root": "postpon",
+    "senses": ["postpone-delay"],
+    "example": {
+      "en": "Heavy snow forced the organizers to postpone the fair.",
+      "ja": "大雪のため主催者は見本市を延期した。"
+    }
+  },
+  {
+    "id": "w0035",
+    "type": "word",
+    "en": "attach",
+    "ja": ["添付する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["office", "part7"],
+    "root": "attach",
+    "senses": ["attach-appendfile"],
+    "example": {
+      "en": "Attach the signed form to your reply by Friday.",
+      "ja": "金曜までに署名済みの用紙を返信に添付しなさい。"
+    }
+  },
+  {
+    "id": "w0036",
+    "type": "word",
+    "en": "confirm",
+    "ja": ["確認する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["service", "part2"],
+    "root": "confirm",
+    "senses": ["confirm-verify"],
+    "example": {
+      "en": "Call the vendor to confirm the installation date.",
+      "ja": "業者に電話して設置日を確認しなさい。"
+    }
+  },
+  {
+    "id": "w0037",
+    "type": "word",
+    "en": "expense",
+    "ja": ["経費"],
+    "pos": "noun",
+    "level": 2,
+    "tags": ["finance", "part7"],
+    "root": "expens",
+    "senses": ["expense-businesscost"],
+    "example": {
+      "en": "Travel expense claims require original receipts.",
+      "ja": "出張経費の請求には原本の領収書が必要だ。"
+    }
+  },
+  {
+    "id": "w0038",
+    "type": "word",
+    "en": "renovate",
+    "ja": ["改装する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["facility", "part4"],
+    "root": "renovat",
+    "senses": ["renovate-remodel"],
+    "example": {
+      "en": "The owner plans to renovate the lobby over the holidays.",
+      "ja": "所有者は休暇中にロビーを改装する予定だ。"
+    }
+  },
+  {
+    "id": "w0039",
+    "type": "word",
+    "en": "replace",
+    "ja": ["交換する"],
+    "pos": "verb",
+    "level": 2,
+    "tags": ["facility", "part5"],
+    "root": "replac",
+    "senses": ["replace-swapout"],
+    "example": {
+      "en": "Maintenance will replace the filters twice a year.",
+      "ja": "保守担当が年二回フィルターを交換する。"
+    }
+  },
+  {
+    "id": "w0040",
+    "type": "word",
+    "en": "efficient",
+    "ja": ["効率的な"],
+    "pos": "adj",
+    "level": 2,
+    "tags": ["manufacturing", "part5"],
+    "root": "effici",
+    "senses": ["efficient-wastefree"],
+    "example": {
+      "en": "The new sorting line is far more efficient than the old one.",
+      "ja": "新しい仕分け設備は旧型よりはるかに効率的だ。"
+    }
+  }
+]
