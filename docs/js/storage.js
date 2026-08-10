@@ -55,9 +55,12 @@ function writeRaw(key, value) {
   }
 }
 
-/** 空の学習進捗。 */
+/**
+ * 空の学習進捗。
+ * recent / newFlags は抽選のガードで、ブラウザを更新しても続きから出題するために保存する。
+ */
 export function createProgress() {
-  return { schemaVersion: SCHEMA_VERSION, counter: 0, entries: {} };
+  return { schemaVersion: SCHEMA_VERSION, counter: 0, recent: [], newFlags: [], entries: {} };
 }
 
 /**
@@ -135,7 +138,14 @@ function normalizeProgress(value) {
       lastAskedAt: typeof state.lastAskedAt === 'string' ? state.lastAskedAt : null,
     };
   }
-  return { schemaVersion: SCHEMA_VERSION, counter: value.counter, entries };
+  // recent / newFlags を持たない旧データは空配列で補う
+  return {
+    schemaVersion: SCHEMA_VERSION,
+    counter: value.counter,
+    recent: Array.isArray(value.recent) ? value.recent.filter((id) => typeof id === 'string') : [],
+    newFlags: Array.isArray(value.newFlags) ? value.newFlags.map(Boolean) : [],
+    entries,
+  };
 }
 
 function normalizeStats(value) {

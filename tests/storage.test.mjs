@@ -221,3 +221,58 @@ test('skipped を含む進捗を読み書きできる', () => {
   });
   assert.equal(loadProgress().value.entries.w0001.skipped, 2);
 });
+
+test('抽選のガード（recent / newFlags）を保存して読み戻せる', () => {
+  reset();
+  saveProgress({
+    ...createProgress(),
+    counter: 12,
+    recent: ['w0001', 'w0002', 'w0003'],
+    newFlags: [true, false, true],
+  });
+  const { value, recovered } = loadProgress();
+  assert.equal(recovered, false);
+  assert.equal(value.counter, 12);
+  assert.deepEqual(value.recent, ['w0001', 'w0002', 'w0003']);
+  assert.deepEqual(value.newFlags, [true, false, true]);
+});
+
+test('recent / newFlags を持たない旧データは空配列で補う', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.progress,
+    JSON.stringify({ schemaVersion: 1, counter: 4, entries: {} }),
+  );
+  const { value, recovered } = loadProgress();
+  assert.equal(recovered, false);
+  assert.equal(value.counter, 4);
+  assert.deepEqual(value.recent, []);
+  assert.deepEqual(value.newFlags, []);
+});
+
+test('recent に文字列以外が混じっていても落として読む', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.progress,
+    JSON.stringify({
+      schemaVersion: 1,
+      counter: 1,
+      recent: ['w0001', 42, null, 'w0002'],
+      newFlags: 'こわれている',
+      entries: {},
+    }),
+  );
+  const { value } = loadProgress();
+  assert.deepEqual(value.recent, ['w0001', 'w0002']);
+  assert.deepEqual(value.newFlags, []);
+});
+
+test('学習進捗を初期化すると抽選のガードも消える', () => {
+  reset();
+  saveProgress({ ...createProgress(), counter: 9, recent: ['w0001'], newFlags: [true] });
+  resetProgress();
+  const { value } = loadProgress();
+  assert.equal(value.counter, 0);
+  assert.deepEqual(value.recent, []);
+  assert.deepEqual(value.newFlags, []);
+});
