@@ -5048,8 +5048,8 @@
       "futile-producingnoresult"
     ],
     "example": {
-      "en": "Further heating proved futile.",
-      "ja": "さらに加熱しても無駄なことが分かった。"
+      "en": "Further heating proved futile once the resin had set.",
+      "ja": "樹脂が固まってしまうと、さらに加熱しても無駄だった。"
     }
   },
   {
@@ -5422,8 +5422,8 @@
       "incentivize-encouragebyreward"
     ],
     "example": {
-      "en": "Bonuses incentivize accurate picking.",
-      "ja": "賞与が正確な仕分けを動機づける。"
+      "en": "Quarterly bonuses incentivize accurate picking in the warehouse.",
+      "ja": "四半期ごとの賞与が倉庫での正確な仕分けを動機づける。"
     }
   },
   {
@@ -8700,8 +8700,8 @@
       "superfluous-morethanrequired"
     ],
     "example": {
-      "en": "Superfluous packaging was removed.",
-      "ja": "余分な包装は取り除かれた。"
+      "en": "Superfluous packaging was removed to cut the freight cost.",
+      "ja": "運賃を下げるため余分な包装は取り除かれた。"
     }
   },
   {
@@ -9668,8 +9668,8 @@
       "wholesale-sellinginbulk"
     ],
     "example": {
-      "en": "Wholesale prices exclude delivery.",
-      "ja": "卸売の価格は配達を含まない。"
+      "en": "Wholesale prices exclude delivery to sites outside the city.",
+      "ja": "卸売の価格は市外の現場への配達を含まない。"
     }
   },
   {
