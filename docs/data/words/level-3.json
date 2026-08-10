@@ -1339,5 +1339,643 @@
       "en": "Either side may terminate the deal with notice.",
       "ja": "いずれの側も通知により取引を打ち切ることができる。"
     }
+  },
+  {
+    "id": "w0966",
+    "type": "word",
+    "en": "adverse-effect",
+    "ja": [
+      "悪影響"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "adverseffect",
+    "senses": [
+      "adverseffect-harmfulresult"
+    ],
+    "example": {
+      "en": "Dust has an adverse effect on the sensors.",
+      "ja": "粉じんは感知器に悪影響を及ぼす。"
+    }
+  },
+  {
+    "id": "w0967",
+    "type": "word",
+    "en": "advocate",
+    "ja": [
+      "擁護する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "advoc",
+    "senses": [
+      "advocate-publiclysupport"
+    ],
+    "example": {
+      "en": "The union advocates shorter night shifts.",
+      "ja": "組合は短い夜勤を擁護する。"
+    }
+  },
+  {
+    "id": "w0968",
+    "type": "word",
+    "en": "aggravate",
+    "ja": [
+      "悪化させる"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "aggrav",
+    "senses": [
+      "aggravate-makeworse"
+    ],
+    "example": {
+      "en": "Heavy trucks aggravate the cracked surface.",
+      "ja": "重い貨物車がひび割れた路面を悪化させる。"
+    }
+  },
+  {
+    "id": "w0969",
+    "type": "word",
+    "en": "allegation",
+    "ja": [
+      "申し立て"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "alleg",
+    "senses": [
+      "allegation-unprovedclaim"
+    ],
+    "example": {
+      "en": "The allegation of overcharging was withdrawn.",
+      "ja": "過大請求の申し立ては撤回された。"
+    }
+  },
+  {
+    "id": "w0970",
+    "type": "word",
+    "en": "allocate-space",
+    "ja": [
+      "区画割当"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "allocspace",
+    "senses": [
+      "allocspace-assignedarea"
+    ],
+    "example": {
+      "en": "Space allocation changes every quarter.",
+      "ja": "区画割当は四半期ごとに変わる。"
+    }
+  },
+  {
+    "id": "w0971",
+    "type": "word",
+    "en": "amend",
+    "ja": [
+      "修正する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "amend",
+    "senses": [
+      "amend-alterofficially"
+    ],
+    "example": {
+      "en": "The parties amended the delivery clause.",
+      "ja": "当事者は納品の条項を修正した。"
+    }
+  },
+  {
+    "id": "w0972",
+    "type": "word",
+    "en": "ample",
+    "ja": [
+      "十分すぎる"
+    ],
+    "pos": "adj",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "ampl",
+    "senses": [
+      "ample-morethanenough"
+    ],
+    "example": {
+      "en": "The yard offers ample turning space.",
+      "ja": "構内には十分すぎる転回の場所がある。"
+    }
+  },
+  {
+    "id": "w0973",
+    "type": "word",
+    "en": "appoint",
+    "ja": [
+      "任命する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "appoint2",
+    "senses": [
+      "appoint-assignposition"
+    ],
+    "example": {
+      "en": "The board appointed a new plant manager.",
+      "ja": "取締役会は新しい工場長を任命した。"
+    }
+  },
+  {
+    "id": "w0974",
+    "type": "word",
+    "en": "apprentice",
+    "ja": [
+      "見習い"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "apprentic",
+    "senses": [
+      "apprentice-traineeworker"
+    ],
+    "example": {
+      "en": "An apprentice works beside each welder.",
+      "ja": "各溶接工の横に見習いが付く。"
+    }
+  },
+  {
+    "id": "w0975",
+    "type": "word",
+    "en": "arbitrary",
+    "ja": [
+      "恣意的な"
+    ],
+    "pos": "adj",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "arbitrari",
+    "senses": [
+      "arbitrary-basedonwhim"
+    ],
+    "example": {
+      "en": "The cut-off date seemed arbitrary to buyers.",
+      "ja": "締めの日は買い手には恣意的に見えた。"
+    }
+  },
+  {
+    "id": "w0976",
+    "type": "word",
+    "en": "articulate",
+    "ja": [
+      "明快に述べる"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "articul",
+    "senses": [
+      "articulate-expressclearly"
+    ],
+    "example": {
+      "en": "She articulated the risks in three minutes.",
+      "ja": "彼女は危険を三分で明快に述べた。"
+    }
+  },
+  {
+    "id": "w0977",
+    "type": "word",
+    "en": "aspire",
+    "ja": [
+      "志す"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "aspir",
+    "senses": [
+      "aspire-strivetoward"
+    ],
+    "example": {
+      "en": "He aspires to manage the northern region.",
+      "ja": "彼は北の地域の統括を志している。"
+    }
+  },
+  {
+    "id": "w0978",
+    "type": "word",
+    "en": "assemble-line",
+    "ja": [
+      "組立設備"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part1"
+    ],
+    "root": "assemblyline",
+    "senses": [
+      "assemblyline-productionline"
+    ],
+    "example": {
+      "en": "The assembly line runs two shifts daily.",
+      "ja": "組立設備は毎日二交代で動く。"
+    }
+  },
+  {
+    "id": "w0979",
+    "type": "word",
+    "en": "assert",
+    "ja": [
+      "主張する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "assert",
+    "senses": [
+      "assert-stateforcefully"
+    ],
+    "example": {
+      "en": "The seller asserts the goods left intact.",
+      "ja": "売り主は品が無傷で出たと主張する。"
+    }
+  },
+  {
+    "id": "w0980",
+    "type": "word",
+    "en": "asset",
+    "ja": [
+      "資産"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "asset",
+    "senses": [
+      "asset-ownedvaluable"
+    ],
+    "example": {
+      "en": "The vans are the firm's largest asset.",
+      "ja": "貨物車が会社の最大の資産だ。"
+    }
+  },
+  {
+    "id": "w0981",
+    "type": "word",
+    "en": "attain",
+    "ja": [
+      "達成する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "attain",
+    "senses": [
+      "attain-reachgoal"
+    ],
+    "example": {
+      "en": "The plant attained its zero-defect target.",
+      "ja": "工場は無欠陥の目標を達成した。"
+    }
+  },
+  {
+    "id": "w0982",
+    "type": "word",
+    "en": "authentic",
+    "ja": [
+      "本物の"
+    ],
+    "pos": "adj",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "authent",
+    "senses": [
+      "authentic-genuinenotfake"
+    ],
+    "example": {
+      "en": "Only authentic parts carry the hologram.",
+      "ja": "本物の部品だけに光る印が付く。"
+    }
+  },
+  {
+    "id": "w0983",
+    "type": "word",
+    "en": "autonomy",
+    "ja": [
+      "自主性"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "autonom",
+    "senses": [
+      "autonomy-independentcontrol"
+    ],
+    "example": {
+      "en": "Branch managers enjoy wide autonomy.",
+      "ja": "支店長は広い自主性を持つ。"
+    }
+  },
+  {
+    "id": "w0984",
+    "type": "word",
+    "en": "avert",
+    "ja": [
+      "回避する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "avert",
+    "senses": [
+      "avert-preventbeforehand"
+    ],
+    "example": {
+      "en": "Quick action averted a full shutdown.",
+      "ja": "素早い対応が全面停止を回避した。"
+    }
+  },
+  {
+    "id": "w0985",
+    "type": "word",
+    "en": "barrier-free",
+    "ja": [
+      "段差のない"
+    ],
+    "pos": "adj",
+    "level": 3,
+    "tags": [
+      "facility",
+      "part5"
+    ],
+    "root": "barrierfree",
+    "senses": [
+      "barrierfree-accessibledesign"
+    ],
+    "example": {
+      "en": "The lobby has a barrier-free entrance.",
+      "ja": "ロビーには段差のない入口がある。"
+    }
+  },
+  {
+    "id": "w0986",
+    "type": "word",
+    "en": "beneficiary",
+    "ja": [
+      "受益者"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "beneficiari",
+    "senses": [
+      "beneficiary-personreceivingbenefit"
+    ],
+    "example": {
+      "en": "The named beneficiary receives the payout.",
+      "ja": "指名された受益者が給付を受け取る。"
+    }
+  },
+  {
+    "id": "w0987",
+    "type": "word",
+    "en": "bilingual",
+    "ja": [
+      "二か国語の"
+    ],
+    "pos": "adj",
+    "level": 3,
+    "tags": [
+      "hr",
+      "part5"
+    ],
+    "root": "bilingu",
+    "senses": [
+      "bilingual-usingtwolanguages"
+    ],
+    "example": {
+      "en": "The manual comes in a bilingual edition.",
+      "ja": "手引書は二か国語の版で出ている。"
+    }
+  },
+  {
+    "id": "w0988",
+    "type": "word",
+    "en": "breach",
+    "ja": [
+      "違反"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "breach",
+    "senses": [
+      "breach-violationofterms"
+    ],
+    "example": {
+      "en": "A breach of the clause voids the warranty.",
+      "ja": "条項の違反は保証を無効にする。"
+    }
+  },
+  {
+    "id": "w0989",
+    "type": "word",
+    "en": "brief-session",
+    "ja": [
+      "説明会"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "meeting",
+      "part4"
+    ],
+    "root": "briefsession",
+    "senses": [
+      "briefsession-informationmeeting"
+    ],
+    "example": {
+      "en": "A briefing session precedes every audit.",
+      "ja": "監査の前には必ず説明会がある。"
+    }
+  },
+  {
+    "id": "w0990",
+    "type": "word",
+    "en": "broaden",
+    "ja": [
+      "広げる"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "broaden",
+    "senses": [
+      "broaden-makewider"
+    ],
+    "example": {
+      "en": "The chain broadened its range of sizes.",
+      "ja": "その連鎖店は寸法の幅を広げた。"
+    }
+  },
+  {
+    "id": "w0991",
+    "type": "word",
+    "en": "bureau",
+    "ja": [
+      "局"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "bureau",
+    "senses": [
+      "bureau-governmentoffice"
+    ],
+    "example": {
+      "en": "The tax bureau requested three years of records.",
+      "ja": "税の局が三年分の記録を求めた。"
+    }
+  },
+  {
+    "id": "w0992",
+    "type": "word",
+    "en": "capitalize",
+    "ja": [
+      "活用する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "capit",
+    "senses": [
+      "capitalize-takeadvantageof"
+    ],
+    "example": {
+      "en": "The shop capitalized on the festival crowds.",
+      "ja": "その店は祭りの人出を活用した。"
+    }
+  },
+  {
+    "id": "w0993",
+    "type": "word",
+    "en": "cease",
+    "ja": [
+      "停止する"
+    ],
+    "pos": "verb",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "ceas",
+    "senses": [
+      "cease-stopcompletely"
+    ],
+    "example": {
+      "en": "Production ceased during the power cut.",
+      "ja": "停電の間、生産は停止した。"
+    }
+  },
+  {
+    "id": "w0994",
+    "type": "word",
+    "en": "certification",
+    "ja": [
+      "認証"
+    ],
+    "pos": "noun",
+    "level": 3,
+    "tags": [
+      "manufacturing",
+      "part7"
+    ],
+    "root": "certif3",
+    "senses": [
+      "certification-officialapprovalproof"
+    ],
+    "example": {
+      "en": "Export certification takes about a month.",
+      "ja": "輸出の認証には約一か月かかる。"
+    }
   }
 ]
