@@ -1333,5 +1333,775 @@
       "en": "Three hotels stand in the vicinity of the hall.",
       "ja": "会場の付近にホテルが三軒ある。"
     }
+  },
+  {
+    "id": "w1351",
+    "type": "word",
+    "en": "levy",
+    "ja": [
+      "課徴金"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "levi",
+    "senses": [
+      "levy-imposedcharge"
+    ],
+    "example": {
+      "en": "A new levy applies to imported packaging.",
+      "ja": "新しい課徴金が輸入の包装にかかる。"
+    }
+  },
+  {
+    "id": "w1352",
+    "type": "word",
+    "en": "mediocre",
+    "ja": [
+      "平凡な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "mediocr",
+    "senses": [
+      "mediocre-onlyaverage"
+    ],
+    "example": {
+      "en": "Mediocre sales followed the rainy summer.",
+      "ja": "雨の多い夏の後、平凡な売上が続いた。"
+    }
+  },
+  {
+    "id": "w1353",
+    "type": "word",
+    "en": "mitigation",
+    "ja": [
+      "緩和策"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "mitig2",
+    "senses": [
+      "mitigation-reducingharm"
+    ],
+    "example": {
+      "en": "The plan sets out flood mitigation steps.",
+      "ja": "その計画は洪水の緩和策を示す。"
+    }
+  },
+  {
+    "id": "w1354",
+    "type": "word",
+    "en": "monopoly",
+    "ja": [
+      "独占"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "monopol",
+    "senses": [
+      "monopoly-exclusivemarketcontrol"
+    ],
+    "example": {
+      "en": "The bureau investigated a possible monopoly.",
+      "ja": "局は独占の可能性を調査した。"
+    }
+  },
+  {
+    "id": "w1355",
+    "type": "word",
+    "en": "negligible",
+    "ja": [
+      "取るに足らない"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "neglig2",
+    "senses": [
+      "negligible-toosmalltomatter"
+    ],
+    "example": {
+      "en": "The variance was negligible this quarter.",
+      "ja": "今四半期の差異は取るに足らないものだった。"
+    }
+  },
+  {
+    "id": "w1356",
+    "type": "word",
+    "en": "nominate",
+    "ja": [
+      "推挙する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "nomin3",
+    "senses": [
+      "nominate-proposeforpost"
+    ],
+    "example": {
+      "en": "Two members nominated her for the chair.",
+      "ja": "会員二名が彼女を議長に推挙した。"
+    }
+  },
+  {
+    "id": "w1357",
+    "type": "word",
+    "en": "obsolete-stock",
+    "ja": [
+      "滞留在庫"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part7"
+    ],
+    "root": "obsstock",
+    "senses": [
+      "obsstock-unsellablegoods"
+    ],
+    "example": {
+      "en": "Obsolete stock was written off in March.",
+      "ja": "滞留在庫は三月に評価減された。"
+    }
+  },
+  {
+    "id": "w1358",
+    "type": "word",
+    "en": "onerous",
+    "ja": [
+      "負担の重い"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "oner",
+    "senses": [
+      "onerous-burdensomeandheavy"
+    ],
+    "example": {
+      "en": "The reporting duty proved onerous for staff.",
+      "ja": "報告の義務は職員に負担の重いものだった。"
+    }
+  },
+  {
+    "id": "w1359",
+    "type": "word",
+    "en": "opaque",
+    "ja": [
+      "不透明な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "opaqu",
+    "senses": [
+      "opaque-hardtounderstand"
+    ],
+    "example": {
+      "en": "The pricing structure remained opaque.",
+      "ja": "価格の仕組みは不透明なままだった。"
+    }
+  },
+  {
+    "id": "w1360",
+    "type": "word",
+    "en": "outright",
+    "ja": [
+      "完全な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "outright",
+    "senses": [
+      "outright-completeandtotal"
+    ],
+    "example": {
+      "en": "The firm made an outright purchase of the site.",
+      "ja": "会社はその土地を完全な買い取りで取得した。"
+    }
+  },
+  {
+    "id": "w1361",
+    "type": "word",
+    "en": "overdue",
+    "ja": [
+      "期限超過の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "overdu",
+    "senses": [
+      "overdue-pastthedeadline"
+    ],
+    "example": {
+      "en": "Two overdue invoices remain unpaid.",
+      "ja": "期限超過の請求書が二通、未払いのままだ。"
+    }
+  },
+  {
+    "id": "w1362",
+    "type": "word",
+    "en": "overstate",
+    "ja": [
+      "過大に述べる"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "overstat",
+    "senses": [
+      "overstate-exaggerateamount"
+    ],
+    "example": {
+      "en": "The forecast overstated the summer demand.",
+      "ja": "その見通しは夏の需要を過大に述べていた。"
+    }
+  },
+  {
+    "id": "w1363",
+    "type": "word",
+    "en": "paradigm",
+    "ja": [
+      "枠組みの型"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "paradigm",
+    "senses": [
+      "paradigm-modelofthinking"
+    ],
+    "example": {
+      "en": "A new service paradigm shaped the redesign.",
+      "ja": "新しい業務の枠組みの型が設計変更を形づくった。"
+    }
+  },
+  {
+    "id": "w1364",
+    "type": "word",
+    "en": "peripheral",
+    "ja": [
+      "周辺的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "peripher",
+    "senses": [
+      "peripheral-notcentral"
+    ],
+    "example": {
+      "en": "Peripheral tasks moved to the shared desk.",
+      "ja": "周辺的な作業は共用の机へ移った。"
+    }
+  },
+  {
+    "id": "w1365",
+    "type": "word",
+    "en": "persistent",
+    "ja": [
+      "根強い"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "persist",
+    "senses": [
+      "persistent-continuingstubbornly"
+    ],
+    "example": {
+      "en": "A persistent leak defied three repairs.",
+      "ja": "根強い漏れが三度の修理をはねつけた。"
+    }
+  },
+  {
+    "id": "w1366",
+    "type": "word",
+    "en": "pervasive",
+    "ja": [
+      "広く行き渡った"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "pervas",
+    "senses": [
+      "pervasive-spreadeverywhere"
+    ],
+    "example": {
+      "en": "Safety culture is pervasive at this plant.",
+      "ja": "安全の意識はこの工場に広く行き渡った。"
+    }
+  },
+  {
+    "id": "w1367",
+    "type": "word",
+    "en": "pinpoint",
+    "ja": [
+      "正確に突き止める"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "manufacturing",
+      "part5"
+    ],
+    "root": "pinpoint",
+    "senses": [
+      "pinpoint-locateexactly"
+    ],
+    "example": {
+      "en": "Sensors pinpoint the source of vibration.",
+      "ja": "感知器が振動の源を正確に突き止める。"
+    }
+  },
+  {
+    "id": "w1368",
+    "type": "word",
+    "en": "posterity",
+    "ja": [
+      "後世"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part7"
+    ],
+    "root": "poster2",
+    "senses": [
+      "posterity-futuregenerations"
+    ],
+    "example": {
+      "en": "The archive preserves records for posterity.",
+      "ja": "書庫は後世のために記録を保存する。"
+    }
+  },
+  {
+    "id": "w1369",
+    "type": "word",
+    "en": "pragmatic",
+    "ja": [
+      "実際的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "corporate",
+      "part5"
+    ],
+    "root": "pragmat",
+    "senses": [
+      "pragmatic-practicallyminded"
+    ],
+    "example": {
+      "en": "A pragmatic choice kept the line running.",
+      "ja": "実際的な選択が生産を続けさせた。"
+    }
+  },
+  {
+    "id": "w1370",
+    "type": "word",
+    "en": "preliminary-round",
+    "ja": [
+      "一次選考"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "prelimround",
+    "senses": [
+      "prelimround-firstscreening"
+    ],
+    "example": {
+      "en": "The preliminary round narrowed the field.",
+      "ja": "一次選考が候補を絞った。"
+    }
+  },
+  {
+    "id": "w1371",
+    "type": "word",
+    "en": "prerequisite",
+    "ja": [
+      "前提条件"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "hr",
+      "part7"
+    ],
+    "root": "prerequis",
+    "senses": [
+      "prerequisite-requiredbefore"
+    ],
+    "example": {
+      "en": "A safety card is a prerequisite for entry.",
+      "ja": "安全の証は入場の前提条件だ。"
+    }
+  },
+  {
+    "id": "w1372",
+    "type": "word",
+    "en": "presumption",
+    "ja": [
+      "推定される前提"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "presumpt",
+    "senses": [
+      "presumption-assumedstartingpoint"
+    ],
+    "example": {
+      "en": "The presumption favors the recorded time.",
+      "ja": "推定される前提は記録された時刻を支持する。"
+    }
+  },
+  {
+    "id": "w1373",
+    "type": "word",
+    "en": "prevalent",
+    "ja": [
+      "広く見られる"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "preval",
+    "senses": [
+      "prevalent-commonlyoccurring"
+    ],
+    "example": {
+      "en": "Card payment is prevalent in city stores.",
+      "ja": "札での支払いは都市の店で広く見られる。"
+    }
+  },
+  {
+    "id": "w1374",
+    "type": "word",
+    "en": "proliferate",
+    "ja": [
+      "急速に増える"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part5"
+    ],
+    "root": "prolifer",
+    "senses": [
+      "proliferate-increaserapidly"
+    ],
+    "example": {
+      "en": "Small online sellers proliferated last year.",
+      "ja": "小規模な画面上の売り手が昨年、急速に増えた。"
+    }
+  },
+  {
+    "id": "w1375",
+    "type": "word",
+    "en": "propensity",
+    "ja": [
+      "傾向性"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "sales",
+      "part7"
+    ],
+    "root": "propens",
+    "senses": [
+      "propensity-naturaltendency"
+    ],
+    "example": {
+      "en": "Buyers show a propensity for larger packs.",
+      "ja": "買い手は大きな包装への傾向性を示す。"
+    }
+  },
+  {
+    "id": "w1376",
+    "type": "word",
+    "en": "proportionate",
+    "ja": [
+      "比例した"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "proport2",
+    "senses": [
+      "proportionate-inrelativeratio"
+    ],
+    "example": {
+      "en": "Charges are proportionate to floor area.",
+      "ja": "料金は床の面積に比例したものとなる。"
+    }
+  },
+  {
+    "id": "w1377",
+    "type": "word",
+    "en": "provisional-sum",
+    "ja": [
+      "概算計上額"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part7"
+    ],
+    "root": "provsum",
+    "senses": [
+      "provsum-estimatedallowance"
+    ],
+    "example": {
+      "en": "A provisional sum covers unforeseen work.",
+      "ja": "概算計上額が予見できない工事を賄う。"
+    }
+  },
+  {
+    "id": "w1378",
+    "type": "word",
+    "en": "proximate",
+    "ja": [
+      "直近の"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "proxim2",
+    "senses": [
+      "proximate-immediatelynearest"
+    ],
+    "example": {
+      "en": "The proximate cause was operator error.",
+      "ja": "直近の原因は操作者の誤りだった。"
+    }
+  },
+  {
+    "id": "w1379",
+    "type": "word",
+    "en": "punitive",
+    "ja": [
+      "懲罰的な"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "punit",
+    "senses": [
+      "punitive-intendedaspunishment"
+    ],
+    "example": {
+      "en": "Punitive charges apply after two warnings.",
+      "ja": "警告二回の後に懲罰的な料金がかかる。"
+    }
+  },
+  {
+    "id": "w1380",
+    "type": "word",
+    "en": "quantify",
+    "ja": [
+      "数量化する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "quantif",
+    "senses": [
+      "quantify-expressasnumber"
+    ],
+    "example": {
+      "en": "It is hard to quantify the goodwill gained.",
+      "ja": "得られた信用を数量化するのは難しい。"
+    }
+  },
+  {
+    "id": "w1381",
+    "type": "word",
+    "en": "quarterly",
+    "ja": [
+      "四半期ごとの"
+    ],
+    "pos": "adj",
+    "level": 4,
+    "tags": [
+      "finance",
+      "part5"
+    ],
+    "root": "quarter",
+    "senses": [
+      "quarterly-everythreemonths"
+    ],
+    "example": {
+      "en": "Quarterly reviews replaced the annual one.",
+      "ja": "四半期ごとの見直しが年次のものに取って代わった。"
+    }
+  },
+  {
+    "id": "w1382",
+    "type": "word",
+    "en": "rebut",
+    "ja": [
+      "反論する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part5"
+    ],
+    "root": "rebut",
+    "senses": [
+      "rebut-arguagainstclaim"
+    ],
+    "example": {
+      "en": "The supplier rebutted the damage claim.",
+      "ja": "供給業者は破損の請求に反論した。"
+    }
+  },
+  {
+    "id": "w1383",
+    "type": "word",
+    "en": "reclassify",
+    "ja": [
+      "分類し直す"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "logistics",
+      "part5"
+    ],
+    "root": "reclassif",
+    "senses": [
+      "reclassify-changecategory"
+    ],
+    "example": {
+      "en": "Customs reclassified the goods as spare parts.",
+      "ja": "通関はその品を予備の部品に分類し直した。"
+    }
+  },
+  {
+    "id": "w1384",
+    "type": "word",
+    "en": "reconvene",
+    "ja": [
+      "再招集する"
+    ],
+    "pos": "verb",
+    "level": 4,
+    "tags": [
+      "meeting",
+      "part5"
+    ],
+    "root": "reconven",
+    "senses": [
+      "reconvene-meetagain"
+    ],
+    "example": {
+      "en": "The panel reconvened after the site visit.",
+      "ja": "審査団は現場訪問の後、再招集された。"
+    }
+  },
+  {
+    "id": "w1385",
+    "type": "word",
+    "en": "redress",
+    "ja": [
+      "救済"
+    ],
+    "pos": "noun",
+    "level": 4,
+    "tags": [
+      "contract",
+      "part7"
+    ],
+    "root": "redress",
+    "senses": [
+      "redress-remedyforwrong"
+    ],
+    "example": {
+      "en": "The buyer sought redress through arbitration.",
+      "ja": "買い手は仲裁を通じて救済を求めた。"
+    }
   }
 ]
