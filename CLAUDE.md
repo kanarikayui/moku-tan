@@ -24,9 +24,19 @@ UI 表示・コミットメッセージ・コメントはすべて日本語で�
 ES モジュールは `file://` では読めないため、必ず HTTP サーバー経由で開く。
 
 ```sh
-python3 -m http.server 8000 --directory docs
+node tools/serve.mjs
 # → http://localhost:8000/
 ```
+
+**`python3 -m http.server` は使わない。** `Cache-Control` を返さないため、ブラウザが
+`main.js` や `style.css` を再検証せずに使い回す。語彙データは `data.js` が
+`cache: 'no-cache'` で読むので常に新しく、古い JS と新しいデータが噛み合わずに
+「意味は出るのに発音記号と由来だけ出ない」といった、原因の分かりにくい食い違いが起きる。
+`tools/serve.mjs` は全応答に `Cache-Control: no-store` を付けてこれを防ぐ。
+
+画面の変更が反映されないときは、まずスーパーリロード（`Ctrl`/`Cmd` + `Shift` + `R`）で
+キャッシュを捨ててから疑う。GitHub Pages 側は `max-age=600` で配信されるため、
+公開直後は最大 10 分ほど古い版が見えることがある。
 
 ---
 
@@ -62,6 +72,7 @@ python3 -m http.server 8000 --directory docs
 │       └── phrases/
 │           └── level-1.json … level-5.json
 ├── tools/
+│   ├── serve.mjs              # ローカル確認用の静的サーバー（キャッシュ無効）
 │   └── validate-data.mjs      # 語彙データの検証スクリプト
 └── tests/
     ├── fixtures.mjs           # テスト用データと決定的な乱数生成器

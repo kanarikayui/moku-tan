@@ -19,7 +19,7 @@ TOEIC 頻出の英単語と熟語を 4 択クイズで反復学習する、静�
 ES モジュールは `file://` では読めないため、HTTP サーバー経由で開く。
 
 ```sh
-python3 -m http.server 8000 --directory docs
+node tools/serve.mjs
 # → http://localhost:8000/
 ```
 
