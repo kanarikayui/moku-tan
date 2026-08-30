@@ -3,6 +3,7 @@
     "id": "w0041",
     "type": "word",
     "en": "comply",
+    "ipa": "/kəmˈplaɪ/",
     "ja": [
       "従う"
     ],
@@ -16,6 +17,7 @@
     "senses": [
       "comply-obey"
     ],
+    "origin": "com-（すっかり）＋ ラテン語 plere（満たす）。求めを満たすこと。complete と同語源",
     "example": {
       "en": "All contractors must comply with the site safety rules.",
       "ja": "すべての請負業者は現場の安全規則に従わなければならない。"
@@ -25,6 +27,7 @@
     "id": "w0042",
     "type": "word",
     "en": "procurement",
+    "ipa": "/prəˈkjʊrmənt/",
     "ja": [
       "調達"
     ],
@@ -38,6 +41,7 @@
     "senses": [
       "procurement-sourcinggoods"
     ],
+    "origin": "pro-（〜のために）＋ ラテン語 curare（世話する）。必要な物を手当てすること。cure と同語源",
     "example": {
       "en": "The procurement team reviews every bid over one million yen.",
       "ja": "調達部門は百万円を超える入札をすべて審査する。"
@@ -47,6 +51,7 @@
     "id": "w0043",
     "type": "word",
     "en": "subsidiary",
+    "ipa": "/səbˈsɪdieri/",
     "ja": [
       "子会社"
     ],
@@ -60,6 +65,7 @@
     "senses": [
       "subsidiary-ownedcompany"
     ],
+    "origin": "sub-（下に）＋ ラテン語 sedere（座る）。親会社の下に座る会社",
     "example": {
       "en": "Its Thai subsidiary assembles parts for the whole region.",
       "ja": "タイの子会社が地域全体向けの部品を組み立てている。"
@@ -69,6 +75,7 @@
     "id": "w0044",
     "type": "word",
     "en": "reimburse",
+    "ipa": "/ˌriːɪmˈbɜːrs/",
     "ja": [
       "払い戻す"
     ],
@@ -82,6 +89,7 @@
     "senses": [
       "reimburse-payback"
     ],
+    "origin": "re-（元へ）＋ im-（中へ）＋ 後期ラテン語 bursa（財布）。財布へ戻すこと。purse と同語源",
     "example": {
       "en": "The firm will reimburse taxi fares taken after ten o'clock.",
       "ja": "会社は十時以降に利用したタクシー代を払い戻す。"
@@ -91,6 +99,7 @@
     "id": "w0045",
     "type": "word",
     "en": "itinerary",
+    "ipa": "/aɪˈtɪnəreri/",
     "ja": [
       "旅程"
     ],
@@ -104,6 +113,7 @@
     "senses": [
       "itinerary-travelplan"
     ],
+    "origin": "ラテン語 iter（旅路）。たどる道筋を書いたもの",
     "example": {
       "en": "Your itinerary includes a factory tour on the second day.",
       "ja": "あなたの旅程には二日目の工場見学が含まれている。"
@@ -113,6 +123,7 @@
     "id": "w0046",
     "type": "word",
     "en": "mandatory",
+    "ipa": "/ˈmændətɔːri/",
     "ja": [
       "必須の"
     ],
@@ -126,6 +137,7 @@
     "senses": [
       "mandatory-required"
     ],
+    "origin": "ラテン語 manus（手）＋ dare（与える）。手渡された命令。command と同語源",
     "example": {
       "en": "Safety training is mandatory for all warehouse staff.",
       "ja": "安全講習は倉庫の全従業員にとって必須だ。"
@@ -135,6 +147,7 @@
     "id": "w0047",
     "type": "word",
     "en": "tenant",
+    "ipa": "/ˈtenənt/",
     "ja": [
       "賃借人"
     ],
@@ -148,6 +161,7 @@
     "senses": [
       "tenant-renter"
     ],
+    "origin": "ラテン語 tenere（保つ）。借りて占有している人。maintain, retain と同語源",
     "example": {
       "en": "Each tenant receives two keys and one parking pass.",
       "ja": "各賃借人は鍵二本と駐車証一枚を受け取る。"
@@ -157,6 +171,7 @@
     "id": "w0048",
     "type": "word",
     "en": "premises",
+    "ipa": "/ˈpremɪsɪz/",
     "ja": [
       "敷地"
     ],
@@ -170,6 +185,7 @@
     "senses": [
       "premises-groundsofbuilding"
     ],
+    "origin": "pre-（前に）＋ ラテン語 mittere（送る）。契約書の前段で示した土地建物",
     "example": {
       "en": "Visitors must sign in before entering the premises.",
       "ja": "来訪者は敷地に入る前に記帳しなければならない。"
@@ -179,6 +195,7 @@
     "id": "w0049",
     "type": "word",
     "en": "warranty",
+    "ipa": "/ˈwɔːrənti/",
     "ja": [
       "保証"
     ],
@@ -192,6 +209,7 @@
     "senses": [
       "warranty-repairpledge"
     ],
+    "origin": "ゲルマン語 warjan（守る）。守ると請け合う約束。guarantee と同語源",
     "example": {
       "en": "The warranty covers parts and labor for three years.",
       "ja": "この保証は部品代と作業費を三年間対象とする。"
@@ -201,6 +219,7 @@
     "id": "w0050",
     "type": "word",
     "en": "appraisal",
+    "ipa": "/əˈpreɪzl/",
     "ja": [
       "査定"
     ],
@@ -217,6 +236,7 @@
     "exclude": [
       "w0026"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 pretium（値）。値を付けること。price と同語源",
     "example": {
       "en": "Each manager submits a written appraisal every autumn.",
       "ja": "各管理職は毎秋、書面の査定を提出する。"
@@ -226,6 +246,7 @@
     "id": "w0051",
     "type": "word",
     "en": "diligent",
+    "ipa": "/ˈdɪlɪdʒənt/",
     "ja": [
       "勤勉な"
     ],
@@ -239,6 +260,7 @@
     "senses": [
       "diligent-hardworking"
     ],
+    "origin": "dis-（別々に）＋ ラテン語 legere（選ぶ）。よく選び分けて丁寧に働くこと",
     "example": {
       "en": "A diligent clerk noticed the error in the shipping label.",
       "ja": "勤勉な事務員が配送票の誤りに気づいた。"
@@ -248,6 +270,7 @@
     "id": "w0052",
     "type": "word",
     "en": "vacancy",
+    "ipa": "/ˈveɪkənsi/",
     "ja": [
       "空室"
     ],
@@ -261,6 +284,7 @@
     "senses": [
       "vacancy-unoccupiedroom"
     ],
+    "origin": "ラテン語 vacare（空である）。空いている状態。vacation, vacuum と同語源",
     "example": {
       "en": "The hotel has no vacancy during the trade fair.",
       "ja": "見本市の期間中、そのホテルに空室はない。"
@@ -270,6 +294,7 @@
     "id": "w0053",
     "type": "word",
     "en": "obsolete",
+    "ipa": "/ˌɑːbsəˈliːt/",
     "ja": [
       "時代遅れの"
     ],
@@ -283,6 +308,7 @@
     "senses": [
       "obsolete-outofdate"
     ],
+    "origin": "ob-（すっかり）＋ ラテン語 solere（習慣とする）。使う習慣が絶えたこと",
     "example": {
       "en": "The plant replaced its obsolete labeling machines last spring.",
       "ja": "工場は昨春、時代遅れのラベル貼付機を入れ替えた。"
@@ -292,6 +318,7 @@
     "id": "w0054",
     "type": "word",
     "en": "streamline",
+    "ipa": "/ˈstriːmlaɪn/",
     "ja": [
       "合理化する"
     ],
@@ -305,6 +332,7 @@
     "senses": [
       "streamline-makesimpler"
     ],
+    "origin": "stream（流れ）＋ line（線）。水の流れに沿う形、そこから無駄を削ること",
     "example": {
       "en": "The new system will streamline the approval process.",
       "ja": "新しい仕組みが承認手続きを合理化する。"
@@ -314,6 +342,7 @@
     "id": "w0055",
     "type": "word",
     "en": "compensation",
+    "ipa": "/ˌkɑːmpenˈseɪʃn/",
     "ja": [
       "報酬"
     ],
@@ -327,6 +356,7 @@
     "senses": [
       "compensation-payforwork"
     ],
+    "origin": "com-（共に）＋ ラテン語 pendere（量る）。釣り合うだけ量って返すもの",
     "example": {
       "en": "The offer letter details compensation and yearly leave.",
       "ja": "採用通知書には報酬と年次休暇が詳しく書かれている。"
@@ -336,6 +366,7 @@
     "id": "w0056",
     "type": "word",
     "en": "durable",
+    "ipa": "/ˈdʊrəbl/",
     "ja": [
       "耐久性のある"
     ],
@@ -349,6 +380,7 @@
     "senses": [
       "durable-longwearing"
     ],
+    "origin": "ラテン語 durare（続く）。長くもつこと。duration, during と同語源",
     "example": {
       "en": "These crates are durable enough for overseas shipping.",
       "ja": "これらの木箱は海外輸送に十分耐久性のあるものだ。"
@@ -358,6 +390,7 @@
     "id": "w0057",
     "type": "word",
     "en": "forecast",
+    "ipa": "/ˈfɔːrkæst/",
     "ja": [
       "予測する"
     ],
@@ -371,6 +404,7 @@
     "senses": [
       "forecast-predictfuture"
     ],
+    "origin": "fore（前もって）＋ cast（投げる）。先へ目算を投げること",
     "example": {
       "en": "Analysts forecast steady demand through the winter season.",
       "ja": "分析担当は冬の期間を通じて堅調な需要を予測している。"
@@ -380,6 +414,7 @@
     "id": "w0058",
     "type": "word",
     "en": "liability",
+    "ipa": "/ˌlaɪəˈbɪləti/",
     "ja": [
       "負債"
     ],
@@ -393,6 +428,7 @@
     "senses": [
       "liability-moneyowed"
     ],
+    "origin": "ラテン語 ligare（結ぶ）。支払いに縛られている分。ally, oblige と同語源",
     "example": {
       "en": "The report lists total liability at the end of each quarter.",
       "ja": "報告書は各四半期末の負債総額を示している。"
@@ -402,6 +438,7 @@
     "id": "w0059",
     "type": "word",
     "en": "dispatch",
+    "ipa": "/dɪˈspætʃ/",
     "ja": [
       "発送する"
     ],
@@ -418,6 +455,7 @@
     "exclude": [
       "w0005"
     ],
+    "origin": "dis-（外して）＋ 俗ラテン語 pactare（縛る）。縛りを解いて送り出すこと",
     "example": {
       "en": "We dispatch bulk orders from the northern warehouse.",
       "ja": "大口の注文は北の倉庫から発送する。"
@@ -427,6 +465,7 @@
     "id": "w0060",
     "type": "word",
     "en": "alternative",
+    "ipa": "/ɔːlˈtɜːrnətɪv/",
     "ja": [
       "代替の"
     ],
@@ -440,6 +479,7 @@
     "senses": [
       "alternative-otherchoice"
     ],
+    "origin": "ラテン語 alter（二つのうち他方）。もう一方の選択肢。alter と同語源",
     "example": {
       "en": "The driver took an alternative route around the closed bridge.",
       "ja": "運転手は閉鎖された橋を避けて代替の経路を通った。"
@@ -449,6 +489,7 @@
     "id": "w0181",
     "type": "word",
     "en": "acquisition",
+    "ipa": "/ˌækwɪˈzɪʃn/",
     "ja": [
       "買収"
     ],
@@ -462,6 +503,7 @@
     "senses": [
       "acquisition-buyingcompany"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 quaerere（求める）。求めて手に入れること。require と同語源",
     "example": {
       "en": "The acquisition added two plants in the south.",
       "ja": "その買収により南部の工場が二つ加わった。"
@@ -471,6 +513,7 @@
     "id": "w0182",
     "type": "word",
     "en": "adhere",
+    "ipa": "/ədˈhɪr/",
     "ja": [
       "遵守する"
     ],
@@ -484,6 +527,7 @@
     "senses": [
       "comply-obey"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 haerere（くっつく）。離れずくっついていること",
     "example": {
       "en": "Drivers must adhere to the posted loading hours.",
       "ja": "運転手は掲示された荷積み時間を遵守しなければならない。"
@@ -493,6 +537,7 @@
     "id": "w0183",
     "type": "word",
     "en": "allowance",
+    "ipa": "/əˈlaʊəns/",
     "ja": [
       "手当"
     ],
@@ -506,6 +551,7 @@
     "senses": [
       "allowance-extrapayment"
     ],
+    "origin": "allow（認める）＋ -ance。認めて渡す分",
     "example": {
       "en": "Night shift workers receive a monthly allowance.",
       "ja": "夜勤の作業員は月々の手当を受け取る。"
@@ -515,6 +561,7 @@
     "id": "w0184",
     "type": "word",
     "en": "ambiguous",
+    "ipa": "/æmˈbɪɡjuəs/",
     "ja": [
       "あいまいな"
     ],
@@ -528,6 +575,7 @@
     "senses": [
       "ambiguous-unclear"
     ],
+    "origin": "ambi-（両方）＋ ラテン語 agere（進む）。二通りに取れて定まらないこと",
     "example": {
       "en": "The wording of the clause is ambiguous.",
       "ja": "その条項の書き方はあいまいだ。"
@@ -537,6 +585,7 @@
     "id": "w0185",
     "type": "word",
     "en": "anticipate",
+    "ipa": "/ænˈtɪsɪpeɪt/",
     "ja": [
       "見越す"
     ],
@@ -553,6 +602,7 @@
     "exclude": [
       "w0057"
     ],
+    "origin": "ante-（前に）＋ ラテン語 capere（取る）。先回りしてつかむこと",
     "example": {
       "en": "We anticipate higher demand before the holidays.",
       "ja": "休暇の前に需要が高まると見越している。"
@@ -562,6 +612,7 @@
     "id": "w0186",
     "type": "word",
     "en": "appliance",
+    "ipa": "/əˈplaɪəns/",
     "ja": [
       "家電製品"
     ],
@@ -575,6 +626,7 @@
     "senses": [
       "appliance-householddevice"
     ],
+    "origin": "apply（当てる）＋ -ance。用途に当てて使う器具",
     "example": {
       "en": "Every appliance carries a two-year repair pledge.",
       "ja": "すべての家電製品に二年間の修理の約束が付く。"
@@ -584,6 +636,7 @@
     "id": "w0187",
     "type": "word",
     "en": "assess",
+    "ipa": "/əˈses/",
     "ja": [
       "判定する"
     ],
@@ -600,6 +653,7 @@
     "exclude": [
       "w0050"
     ],
+    "origin": "ad-（そばに）＋ ラテン語 sedere（座る）。裁判官の隣に座って税額を定めたことから",
     "example": {
       "en": "Inspectors assess the damage after every storm.",
       "ja": "検査員は嵐のたびに被害を判定する。"
@@ -609,6 +663,7 @@
     "id": "w0188",
     "type": "word",
     "en": "authorize",
+    "ipa": "/ˈɔːθəraɪz/",
     "ja": [
       "権限を与える"
     ],
@@ -622,6 +677,7 @@
     "senses": [
       "approve-authorize"
     ],
+    "origin": "ラテン語 auctor（作り手・権威）。権威をもって認めること。author と同語源",
     "example": {
       "en": "Only the director can authorize overtime work.",
       "ja": "残業を認める権限を与えられるのは部長だけだ。"
@@ -631,6 +687,7 @@
     "id": "w0189",
     "type": "word",
     "en": "bid",
+    "ipa": "/bɪd/",
     "ja": [
       "入札"
     ],
@@ -644,6 +701,7 @@
     "senses": [
       "bid-priceoffer"
     ],
+    "origin": "古英語 beodan（申し出る）。値を申し出ること",
     "example": {
       "en": "The lowest bid came from a local builder.",
       "ja": "最も安い入札は地元の建設業者からだった。"
@@ -653,6 +711,7 @@
     "id": "w0190",
     "type": "word",
     "en": "clarify",
+    "ipa": "/ˈklærəfaɪ/",
     "ja": [
       "明確にする"
     ],
@@ -666,6 +725,7 @@
     "senses": [
       "clarify-makeexplicit"
     ],
+    "origin": "ラテン語 clarus（澄んだ）＋ facere（作る）。濁りを取って澄ませること。clear と同語源",
     "example": {
       "en": "Please clarify who pays the customs charges.",
       "ja": "通関の費用を誰が払うのかを明確にしてください。"
@@ -675,6 +735,7 @@
     "id": "w0191",
     "type": "word",
     "en": "comprise",
+    "ipa": "/kəmˈpraɪz/",
     "ja": [
       "構成する"
     ],
@@ -688,6 +749,7 @@
     "senses": [
       "comprise-consistof"
     ],
+    "origin": "com-（共に）＋ ラテン語 prehendere（つかむ）。まとめて抱え込むこと。comprehend と同語源",
     "example": {
       "en": "The board comprises seven members from four countries.",
       "ja": "取締役会は四か国から集まった七名で構成する。"
@@ -697,6 +759,7 @@
     "id": "w0192",
     "type": "word",
     "en": "confidential",
+    "ipa": "/ˌkɑːnfɪˈdenʃl/",
     "ja": [
       "機密の"
     ],
@@ -710,6 +773,7 @@
     "senses": [
       "confidential-secret"
     ],
+    "origin": "con-（強め）＋ ラテン語 fidere（信じる）。信頼した相手にだけ明かすこと",
     "example": {
       "en": "Keep the pricing sheet confidential until the launch.",
       "ja": "発売まで価格表は機密の扱いにしておきなさい。"
@@ -719,6 +783,7 @@
     "id": "w0193",
     "type": "word",
     "en": "conform",
+    "ipa": "/kənˈfɔːrm/",
     "ja": [
       "適合する"
     ],
@@ -732,6 +797,7 @@
     "senses": [
       "conform-matchstandard"
     ],
+    "origin": "con-（共に）＋ ラテン語 forma（形）。同じ形に合わせること。form と同語源",
     "example": {
       "en": "All packaging must conform to export standards.",
       "ja": "すべての包装は輸出の基準に適合しなければならない。"
@@ -741,6 +807,7 @@
     "id": "w0194",
     "type": "word",
     "en": "consecutive",
+    "ipa": "/kənˈsekjətɪv/",
     "ja": [
       "連続した"
     ],
@@ -754,6 +821,7 @@
     "senses": [
       "consecutive-inarow"
     ],
+    "origin": "con-（共に）＋ ラテン語 sequi（続く）。切れ目なく続くこと。sequence と同語源",
     "example": {
       "en": "Staff may not work six consecutive night shifts.",
       "ja": "従業員は連続した六回の夜勤に就いてはならない。"
@@ -763,6 +831,7 @@
     "id": "w0195",
     "type": "word",
     "en": "counterpart",
+    "ipa": "/ˈkaʊntərpɑːrt/",
     "ja": [
       "相手方"
     ],
@@ -776,6 +845,7 @@
     "senses": [
       "counterpart-equivalentperson"
     ],
+    "origin": "counter（対する）＋ part（部分）。割り印のように対をなす側",
     "example": {
       "en": "Our counterpart in Seoul handles the same accounts.",
       "ja": "ソウルの相手方が同じ取引先を担当している。"
@@ -785,6 +855,7 @@
     "id": "w0196",
     "type": "word",
     "en": "deficit",
+    "ipa": "/ˈdefɪsɪt/",
     "ja": [
       "赤字"
     ],
@@ -798,6 +869,7 @@
     "senses": [
       "deficit-shortfall"
     ],
+    "origin": "de-（欠けて）＋ ラテン語 facere（作る）。足りずに欠けている分",
     "example": {
       "en": "The branch closed the year with a small deficit.",
       "ja": "その支店は小幅な赤字で年度を終えた。"
@@ -807,6 +879,7 @@
     "id": "w0197",
     "type": "word",
     "en": "detour",
+    "ipa": "/ˈdiːtʊr/",
     "ja": [
       "迂回路"
     ],
@@ -820,6 +893,7 @@
     "senses": [
       "detour-alternateroute"
     ],
+    "origin": "de-（外れて）＋ 古仏語 tour（回る）。本道を外れて回る道。tour と同語源",
     "example": {
       "en": "A detour adds twenty minutes to the delivery run.",
       "ja": "迂回路を通ると配達に二十分余計にかかる。"
@@ -829,6 +903,7 @@
     "id": "w0198",
     "type": "word",
     "en": "eligible",
+    "ipa": "/ˈelɪdʒəbl/",
     "ja": [
       "資格のある"
     ],
@@ -845,6 +920,7 @@
     "exclude": [
       "p0018"
     ],
+    "origin": "e-（外へ）＋ ラテン語 legere（選ぶ）。選び出される資格があること。elect と同語源",
     "example": {
       "en": "Part-time staff become eligible after six months.",
       "ja": "非常勤の従業員は六か月で資格のある状態になる。"
@@ -854,6 +930,7 @@
     "id": "w0199",
     "type": "word",
     "en": "endeavor",
+    "ipa": "/ɪnˈdevər/",
     "ja": [
       "努力"
     ],
@@ -867,6 +944,7 @@
     "senses": [
       "endeavor-seriouseffort"
     ],
+    "origin": "en-（〜にする）＋ 古仏語 deveir（務め）。務めとして力を尽くすこと",
     "example": {
       "en": "The recycling endeavor cut waste by a quarter.",
       "ja": "再利用の努力で廃棄物が四分の一減った。"
@@ -876,6 +954,7 @@
     "id": "w0200",
     "type": "word",
     "en": "entrepreneur",
+    "ipa": "/ˌɑːntrəprəˈnɜːr/",
     "ja": [
       "起業家"
     ],
@@ -889,6 +968,7 @@
     "senses": [
       "entrepreneur-businessfounder"
     ],
+    "origin": "仏語 entreprendre（引き受ける）。事業を自ら引き受ける人。enterprise と同語源",
     "example": {
       "en": "A young entrepreneur opened three cafes downtown.",
       "ja": "若い起業家が中心街に喫茶店を三軒開いた。"
@@ -898,6 +978,7 @@
     "id": "w0201",
     "type": "word",
     "en": "excerpt",
+    "ipa": "/ˈeksɜːrpt/",
     "ja": [
       "抜粋"
     ],
@@ -911,6 +992,7 @@
     "senses": [
       "excerpt-shortextract"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 carpere（摘む）。本文から摘み取った一節",
     "example": {
       "en": "The newsletter printed an excerpt from the speech.",
       "ja": "社内報は演説の抜粋を載せた。"
@@ -920,6 +1002,7 @@
     "id": "w0202",
     "type": "word",
     "en": "expedite",
+    "ipa": "/ˈekspədaɪt/",
     "ja": [
       "迅速に処理する"
     ],
@@ -933,6 +1016,7 @@
     "senses": [
       "expedite-speedup"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 pes（足）。足かせを外して早く進ませること",
     "example": {
       "en": "We can expedite the order for an extra fee.",
       "ja": "追加料金で注文を迅速に処理できる。"
@@ -942,6 +1026,7 @@
     "id": "w0203",
     "type": "word",
     "en": "fluctuate",
+    "ipa": "/ˈflʌktʃueɪt/",
     "ja": [
       "変動する"
     ],
@@ -955,6 +1040,7 @@
     "senses": [
       "fluctuate-riseandfall"
     ],
+    "origin": "ラテン語 fluctus（波）。波のように上下すること。fluid, influence と同語源",
     "example": {
       "en": "Fuel prices fluctuate sharply during the winter.",
       "ja": "燃料の価格は冬の間に大きく変動する。"
@@ -964,6 +1050,7 @@
     "id": "w0204",
     "type": "word",
     "en": "hospitality",
+    "ipa": "/ˌhɑːspɪˈtæləti/",
     "ja": [
       "接客"
     ],
@@ -977,6 +1064,7 @@
     "senses": [
       "hospitality-guestservice"
     ],
+    "origin": "ラテン語 hospes（客・主）。客をもてなすこと。hotel, hospital と同語源",
     "example": {
       "en": "The hotel is known for its careful hospitality.",
       "ja": "そのホテルは丁寧な接客で知られている。"
@@ -986,6 +1074,7 @@
     "id": "w0205",
     "type": "word",
     "en": "initiative",
+    "ipa": "/ɪˈnɪʃətɪv/",
     "ja": [
       "新構想"
     ],
@@ -999,6 +1088,7 @@
     "senses": [
       "initiative-newplan"
     ],
+    "origin": "ラテン語 initium（始まり）。自ら口火を切る動き。initial と同語源",
     "example": {
       "en": "The safety initiative begins at the Osaka plant.",
       "ja": "安全に関する新構想は大阪工場から始まる。"
@@ -1008,6 +1098,7 @@
     "id": "w0206",
     "type": "word",
     "en": "inspect",
+    "ipa": "/ɪnˈspekt/",
     "ja": [
       "点検する"
     ],
@@ -1024,6 +1115,7 @@
     "exclude": [
       "w0079"
     ],
+    "origin": "in-（中を）＋ ラテン語 specere（見る）。中まで見て確かめること",
     "example": {
       "en": "Crews inspect the lifts on the first Monday.",
       "ja": "作業班は第一月曜に昇降機を点検する。"
@@ -1033,6 +1125,7 @@
     "id": "w0207",
     "type": "word",
     "en": "lease",
+    "ipa": "/liːs/",
     "ja": [
       "賃貸借契約"
     ],
@@ -1046,6 +1139,7 @@
     "senses": [
       "lease-rentalcontract"
     ],
+    "origin": "古仏語 laissier（手放す）。使う権利を手放して貸すこと",
     "example": {
       "en": "The lease runs for five years from April.",
       "ja": "その賃貸借契約は四月から五年間続く。"
@@ -1055,6 +1149,7 @@
     "id": "w0208",
     "type": "word",
     "en": "legitimate",
+    "ipa": "/lɪˈdʒɪtɪmət/",
     "ja": [
       "正当な"
     ],
@@ -1068,6 +1163,7 @@
     "senses": [
       "legitimate-lawful"
     ],
+    "origin": "ラテン語 lex（法）。法にかなっていること。legal, loyal と同語源",
     "example": {
       "en": "The buyer raised a legitimate concern about delays.",
       "ja": "買い手は遅延について正当な懸念を示した。"
@@ -1077,6 +1173,7 @@
     "id": "w0209",
     "type": "word",
     "en": "mediate",
+    "ipa": "/ˈmiːdieɪt/",
     "ja": [
       "調停する"
     ],
@@ -1090,6 +1187,7 @@
     "senses": [
       "arbitration-thirdpartysettlement"
     ],
+    "origin": "ラテン語 medius（中間）。両者の間に立つこと。medium と同語源",
     "example": {
       "en": "A retired judge will mediate between the two firms.",
       "ja": "退職した裁判官が二社の間を調停する。"
@@ -1099,6 +1197,7 @@
     "id": "w0210",
     "type": "word",
     "en": "negligence",
+    "ipa": "/ˈneɡlɪdʒəns/",
     "ja": [
       "過失"
     ],
@@ -1112,6 +1211,7 @@
     "senses": [
       "negligence-carelessness"
     ],
+    "origin": "neg-（否定）＋ ラテン語 legere（拾い上げる）。拾うべきものを拾わない怠り",
     "example": {
       "en": "The report found no negligence by the operator.",
       "ja": "報告書は操作者に過失はなかったとした。"
@@ -1121,6 +1221,7 @@
     "id": "w0211",
     "type": "word",
     "en": "obligation",
+    "ipa": "/ˌɑːblɪˈɡeɪʃn/",
     "ja": [
       "義務"
     ],
@@ -1134,6 +1235,7 @@
     "senses": [
       "obligation-duty"
     ],
+    "origin": "ob-（〜へ）＋ ラテン語 ligare（縛る）。果たすよう縛られていること。liability と同語源",
     "example": {
       "en": "The seller has an obligation to repair defects.",
       "ja": "売り主には欠陥を修理する義務がある。"
@@ -1143,6 +1245,7 @@
     "id": "w0212",
     "type": "word",
     "en": "outsource",
+    "ipa": "/ˈaʊtsɔːrs/",
     "ja": [
       "外部委託する"
     ],
@@ -1156,6 +1259,7 @@
     "senses": [
       "outsource-contractout"
     ],
+    "origin": "out（外の）＋ source（調達先）。外の調達先に任せること",
     "example": {
       "en": "The firm outsources payroll to a local agency.",
       "ja": "同社は給与計算を地元の事業者に外部委託している。"
@@ -1165,6 +1269,7 @@
     "id": "w0213",
     "type": "word",
     "en": "overhaul",
+    "ipa": "/ˈoʊvərhɔːl/",
     "ja": [
       "分解修理する"
     ],
@@ -1178,6 +1283,7 @@
     "senses": [
       "overhaul-completerepair"
     ],
+    "origin": "over（すっかり）＋ haul（引く）。綱を総点検した船乗り言葉から",
     "example": {
       "en": "Engineers overhaul each press every four years.",
       "ja": "技術者は四年ごとに各印刷機を分解修理する。"
@@ -1187,6 +1293,7 @@
     "id": "w0214",
     "type": "word",
     "en": "pending",
+    "ipa": "/ˈpendɪŋ/",
     "ja": [
       "保留中の"
     ],
@@ -1200,6 +1307,7 @@
     "senses": [
       "pending-awaitingdecision"
     ],
+    "origin": "ラテン語 pendere（ぶら下がる）。決着せず宙づりのこと。depend と同語源",
     "example": {
       "en": "Two pending requests still need a signature.",
       "ja": "保留中の依頼が二件、まだ署名を要する。"
@@ -1209,6 +1317,7 @@
     "id": "w0215",
     "type": "word",
     "en": "proximity",
+    "ipa": "/prɑːkˈsɪməti/",
     "ja": [
       "近さ"
     ],
@@ -1225,6 +1334,7 @@
     "exclude": [
       "w0260"
     ],
+    "origin": "ラテン語 proximus（最も近い）。近さの度合い。approach と同語源",
     "example": {
       "en": "Proximity to the port lowered our shipping costs.",
       "ja": "港への近さが輸送費を下げた。"
@@ -1234,6 +1344,7 @@
     "id": "w0216",
     "type": "word",
     "en": "reluctant",
+    "ipa": "/rɪˈlʌktənt/",
     "ja": [
       "気が進まない"
     ],
@@ -1247,6 +1358,7 @@
     "senses": [
       "reluctant-unwilling"
     ],
+    "origin": "re-（逆らって）＋ ラテン語 luctari（もがく）。心が逆らってもがくこと",
     "example": {
       "en": "The owner was reluctant to raise the rent.",
       "ja": "所有者は賃料を上げることに気が進まなかった。"
@@ -1256,6 +1368,7 @@
     "id": "w0217",
     "type": "word",
     "en": "revise",
+    "ipa": "/rɪˈvaɪz/",
     "ja": [
       "改訂する"
     ],
@@ -1269,6 +1382,7 @@
     "senses": [
       "revise-updatedocument"
     ],
+    "origin": "re-（再び）＋ ラテン語 videre（見る）。見直して直すこと。vision と同語源",
     "example": {
       "en": "We revise the handbook at the start of each year.",
       "ja": "毎年の初めに手引を改訂する。"
@@ -1278,6 +1392,7 @@
     "id": "w0218",
     "type": "word",
     "en": "sufficient",
+    "ipa": "/səˈfɪʃnt/",
     "ja": [
       "十分な"
     ],
@@ -1291,6 +1406,7 @@
     "senses": [
       "sufficient-enough"
     ],
+    "origin": "sub-（下から）＋ ラテン語 facere（作る）。足りるだけ間に合うこと",
     "example": {
       "en": "We have sufficient stock for the spring campaign.",
       "ja": "春の販売に十分な在庫がある。"
@@ -1300,6 +1416,7 @@
     "id": "w0219",
     "type": "word",
     "en": "supervise",
+    "ipa": "/ˈsuːpərvaɪz/",
     "ja": [
       "監督する"
     ],
@@ -1313,6 +1430,7 @@
     "senses": [
       "supervise-overseework"
     ],
+    "origin": "super-（上から）＋ ラテン語 videre（見る）。上から見て取り仕切ること",
     "example": {
       "en": "She supervises twelve technicians on the night shift.",
       "ja": "彼女は夜勤の技術者十二名を監督している。"
@@ -1322,6 +1440,7 @@
     "id": "w0220",
     "type": "word",
     "en": "terminate",
+    "ipa": "/ˈtɜːrmɪneɪt/",
     "ja": [
       "打ち切る"
     ],
@@ -1335,6 +1454,7 @@
     "senses": [
       "terminate-bringtoend"
     ],
+    "origin": "ラテン語 terminus（境）。境まで来て終わらせること。term と同語源",
     "example": {
       "en": "Either side may terminate the deal with notice.",
       "ja": "いずれの側も通知により取引を打ち切ることができる。"
@@ -1344,6 +1464,7 @@
     "id": "w0966",
     "type": "word",
     "en": "adverse-effect",
+    "ipa": "/ˈædvɜːrs ɪˈfekt/",
     "ja": [
       "悪影響"
     ],
@@ -1357,6 +1478,7 @@
     "senses": [
       "adverseffect-harmfulresult"
     ],
+    "origin": "adverse（逆らう）＋ effect（作用）。望みに逆らって出る作用",
     "example": {
       "en": "Dust has an adverse effect on the sensors.",
       "ja": "粉じんは感知器に悪影響を及ぼす。"
@@ -1366,6 +1488,7 @@
     "id": "w0967",
     "type": "word",
     "en": "advocate",
+    "ipa": "/ˈædvəkeɪt/",
     "ja": [
       "擁護する"
     ],
@@ -1379,6 +1502,7 @@
     "senses": [
       "advocate-publiclysupport"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 vocare（呼ぶ）。助けに呼ばれて弁護すること。voice と同語源",
     "example": {
       "en": "The union advocates shorter night shifts.",
       "ja": "組合は短い夜勤を擁護する。"
@@ -1388,6 +1512,7 @@
     "id": "w0968",
     "type": "word",
     "en": "aggravate",
+    "ipa": "/ˈæɡrəveɪt/",
     "ja": [
       "悪化させる"
     ],
@@ -1401,6 +1526,7 @@
     "senses": [
       "aggravate-makeworse"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 gravis（重い）。重荷を増して悪くすること。grave と同語源",
     "example": {
       "en": "Heavy trucks aggravate the cracked surface.",
       "ja": "重い貨物車がひび割れた路面を悪化させる。"
@@ -1410,6 +1536,7 @@
     "id": "w0969",
     "type": "word",
     "en": "allegation",
+    "ipa": "/ˌælɪˈɡeɪʃn/",
     "ja": [
       "申し立て"
     ],
@@ -1423,6 +1550,7 @@
     "senses": [
       "allegation-unprovedclaim"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 legare（送る）。証拠なしに持ち出す申し立て",
     "example": {
       "en": "The allegation of overcharging was withdrawn.",
       "ja": "過大請求の申し立ては撤回された。"
@@ -1432,6 +1560,7 @@
     "id": "w0970",
     "type": "word",
     "en": "allocate-space",
+    "ipa": "/ˈæləkeɪt speɪs/",
     "ja": [
       "区画割当"
     ],
@@ -1445,6 +1574,7 @@
     "senses": [
       "allocspace-assignedarea"
     ],
+    "origin": "allocate（割り当てる）＋ space（場所）。場所を割り振ること",
     "example": {
       "en": "Space allocation changes every quarter.",
       "ja": "区画割当は四半期ごとに変わる。"
@@ -1454,6 +1584,7 @@
     "id": "w0971",
     "type": "word",
     "en": "amend",
+    "ipa": "/əˈmend/",
     "ja": [
       "修正する"
     ],
@@ -1467,6 +1598,7 @@
     "senses": [
       "amend-alterofficially"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 menda（欠点）。欠点を取り除くこと。mend と同語源",
     "example": {
       "en": "The parties amended the delivery clause.",
       "ja": "当事者は納品の条項を修正した。"
@@ -1476,6 +1608,7 @@
     "id": "w0972",
     "type": "word",
     "en": "ample",
+    "ipa": "/ˈæmpl/",
     "ja": [
       "十分すぎる"
     ],
@@ -1489,6 +1622,7 @@
     "senses": [
       "ample-morethanenough"
     ],
+    "origin": "ラテン語 amplus（広い）。余るほど広いこと。amplify と同語源",
     "example": {
       "en": "The yard offers ample turning space.",
       "ja": "構内には十分すぎる転回の場所がある。"
@@ -1498,6 +1632,7 @@
     "id": "w0973",
     "type": "word",
     "en": "appoint",
+    "ipa": "/əˈpɔɪnt/",
     "ja": [
       "任命する"
     ],
@@ -1511,6 +1646,7 @@
     "senses": [
       "appoint-assignposition"
     ],
+    "origin": "ad-（〜へ）＋ point（点）。人や日時を一点に定めること",
     "example": {
       "en": "The board appointed a new plant manager.",
       "ja": "取締役会は新しい工場長を任命した。"
@@ -1520,6 +1656,7 @@
     "id": "w0974",
     "type": "word",
     "en": "apprentice",
+    "ipa": "/əˈprentɪs/",
     "ja": [
       "見習い"
     ],
@@ -1533,6 +1670,7 @@
     "senses": [
       "apprentice-traineeworker"
     ],
+    "origin": "ラテン語 apprehendere（つかむ）。技を学び取っている途中の人",
     "example": {
       "en": "An apprentice works beside each welder.",
       "ja": "各溶接工の横に見習いが付く。"
@@ -1542,6 +1680,7 @@
     "id": "w0975",
     "type": "word",
     "en": "arbitrary",
+    "ipa": "/ˈɑːrbətreri/",
     "ja": [
       "恣意的な"
     ],
@@ -1555,6 +1694,7 @@
     "senses": [
       "arbitrary-basedonwhim"
     ],
+    "origin": "ラテン語 arbiter（裁定者）。裁定者の胸三寸で決まること",
     "example": {
       "en": "The cut-off date seemed arbitrary to buyers.",
       "ja": "締めの日は買い手には恣意的に見えた。"
@@ -1564,6 +1704,7 @@
     "id": "w0976",
     "type": "word",
     "en": "articulate",
+    "ipa": "/ɑːrˈtɪkjuleɪt/",
     "ja": [
       "明快に述べる"
     ],
@@ -1577,6 +1718,7 @@
     "senses": [
       "articulate-expressclearly"
     ],
+    "origin": "ラテン語 articulus（節）。節ごとに区切ってはっきり言うこと。article と同語源",
     "example": {
       "en": "She articulated the risks in three minutes.",
       "ja": "彼女は危険を三分で明快に述べた。"
@@ -1586,6 +1728,7 @@
     "id": "w0977",
     "type": "word",
     "en": "aspire",
+    "ipa": "/əˈspaɪər/",
     "ja": [
       "志す"
     ],
@@ -1599,6 +1742,7 @@
     "senses": [
       "aspire-strivetoward"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 spirare（息をする）。息を向けるほど強く望むこと。spirit と同語源",
     "example": {
       "en": "He aspires to manage the northern region.",
       "ja": "彼は北の地域の統括を志している。"
@@ -1608,6 +1752,7 @@
     "id": "w0978",
     "type": "word",
     "en": "assemble-line",
+    "ipa": "/əˈsembl laɪn/",
     "ja": [
       "組立設備"
     ],
@@ -1621,6 +1766,7 @@
     "senses": [
       "assemblyline-productionline"
     ],
+    "origin": "assemble（組み立てる）＋ line（列）。組み立てが流れる列",
     "example": {
       "en": "The assembly line runs two shifts daily.",
       "ja": "組立設備は毎日二交代で動く。"
@@ -1630,6 +1776,7 @@
     "id": "w0979",
     "type": "word",
     "en": "assert",
+    "ipa": "/əˈsɜːrt/",
     "ja": [
       "主張する"
     ],
@@ -1643,6 +1790,7 @@
     "senses": [
       "assert-stateforcefully"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 serere（つなぐ）。自分に結び付けて言い切ること。series と同語源",
     "example": {
       "en": "The seller asserts the goods left intact.",
       "ja": "売り主は品が無傷で出たと主張する。"
@@ -1652,6 +1800,7 @@
     "id": "w0980",
     "type": "word",
     "en": "asset",
+    "ipa": "/ˈæset/",
     "ja": [
       "資産"
     ],
@@ -1665,6 +1814,7 @@
     "senses": [
       "asset-ownedvaluable"
     ],
+    "origin": "ラテン語 ad satis（十分に）。負債を払うに足るもの。satisfy と同語源",
     "example": {
       "en": "The vans are the firm's largest asset.",
       "ja": "貨物車が会社の最大の資産だ。"
@@ -1674,6 +1824,7 @@
     "id": "w0981",
     "type": "word",
     "en": "attain",
+    "ipa": "/əˈteɪn/",
     "ja": [
       "達成する"
     ],
@@ -1687,6 +1838,7 @@
     "senses": [
       "attain-reachgoal"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 tangere（触れる）。手が届いて触れること。contact と同語源",
     "example": {
       "en": "The plant attained its zero-defect target.",
       "ja": "工場は無欠陥の目標を達成した。"
@@ -1696,6 +1848,7 @@
     "id": "w0982",
     "type": "word",
     "en": "authentic",
+    "ipa": "/ɔːˈθentɪk/",
     "ja": [
       "本物の"
     ],
@@ -1709,6 +1862,7 @@
     "senses": [
       "authentic-genuinenotfake"
     ],
+    "origin": "ギリシャ語 authentes（自ら行う者）。本人の手による本物であること",
     "example": {
       "en": "Only authentic parts carry the hologram.",
       "ja": "本物の部品だけに光る印が付く。"
@@ -1718,6 +1872,7 @@
     "id": "w0983",
     "type": "word",
     "en": "autonomy",
+    "ipa": "/ɔːˈtɑːnəmi/",
     "ja": [
       "自主性"
     ],
@@ -1731,6 +1886,7 @@
     "senses": [
       "autonomy-independentcontrol"
     ],
+    "origin": "ギリシャ語 autos（自ら）＋ nomos（法）。自らの法で動くこと",
     "example": {
       "en": "Branch managers enjoy wide autonomy.",
       "ja": "支店長は広い自主性を持つ。"
@@ -1740,6 +1896,7 @@
     "id": "w0984",
     "type": "word",
     "en": "avert",
+    "ipa": "/əˈvɜːrt/",
     "ja": [
       "回避する"
     ],
@@ -1753,6 +1910,7 @@
     "senses": [
       "avert-preventbeforehand"
     ],
+    "origin": "ab-（離れて）＋ ラテン語 vertere（回す）。向きを変えて避けること。convert と同語源",
     "example": {
       "en": "Quick action averted a full shutdown.",
       "ja": "素早い対応が全面停止を回避した。"
@@ -1762,6 +1920,7 @@
     "id": "w0985",
     "type": "word",
     "en": "barrier-free",
+    "ipa": "/ˈbæriər friː/",
     "ja": [
       "段差のない"
     ],
@@ -1775,6 +1934,7 @@
     "senses": [
       "barrierfree-accessibledesign"
     ],
+    "origin": "barrier（障壁）＋ free（〜がない）。行く手を遮る段差がないこと",
     "example": {
       "en": "The lobby has a barrier-free entrance.",
       "ja": "ロビーには段差のない入口がある。"
@@ -1784,6 +1944,7 @@
     "id": "w0986",
     "type": "word",
     "en": "beneficiary",
+    "ipa": "/ˌbenɪˈfɪʃieri/",
     "ja": [
       "受益者"
     ],
@@ -1797,6 +1958,7 @@
     "senses": [
       "beneficiary-personreceivingbenefit"
     ],
+    "origin": "ラテン語 bene（よく）＋ facere（作る）。恩恵を受け取る側。benefit と同語源",
     "example": {
       "en": "The named beneficiary receives the payout.",
       "ja": "指名された受益者が給付を受け取る。"
@@ -1806,6 +1968,7 @@
     "id": "w0987",
     "type": "word",
     "en": "bilingual",
+    "ipa": "/ˌbaɪˈlɪŋɡwəl/",
     "ja": [
       "二か国語の"
     ],
@@ -1819,6 +1982,7 @@
     "senses": [
       "bilingual-usingtwolanguages"
     ],
+    "origin": "bi-（二つ）＋ ラテン語 lingua（舌・言語）。二つの言語を使うこと。language と同語源",
     "example": {
       "en": "The manual comes in a bilingual edition.",
       "ja": "手引書は二か国語の版で出ている。"
@@ -1828,6 +1992,7 @@
     "id": "w0988",
     "type": "word",
     "en": "breach",
+    "ipa": "/briːtʃ/",
     "ja": [
       "違反"
     ],
@@ -1841,6 +2006,7 @@
     "senses": [
       "breach-violationofterms"
     ],
+    "origin": "古英語 brecan（壊す）。約束や壁を破ること。break と同語源",
     "example": {
       "en": "A breach of the clause voids the warranty.",
       "ja": "条項の違反は保証を無効にする。"
@@ -1850,6 +2016,7 @@
     "id": "w0989",
     "type": "word",
     "en": "brief-session",
+    "ipa": "/briːf ˈseʃn/",
     "ja": [
       "説明会"
     ],
@@ -1863,6 +2030,7 @@
     "senses": [
       "briefsession-informationmeeting"
     ],
+    "origin": "brief（手短な）＋ session（会）。要点だけを伝える短い会",
     "example": {
       "en": "A briefing session precedes every audit.",
       "ja": "監査の前には必ず説明会がある。"
@@ -1872,6 +2040,7 @@
     "id": "w0990",
     "type": "word",
     "en": "broaden",
+    "ipa": "/ˈbrɔːdn/",
     "ja": [
       "広げる"
     ],
@@ -1885,6 +2054,7 @@
     "senses": [
       "broaden-makewider"
     ],
+    "origin": "broad（広い）＋ -en（〜にする）。幅を広くすること",
     "example": {
       "en": "The chain broadened its range of sizes.",
       "ja": "その連鎖店は寸法の幅を広げた。"
@@ -1894,6 +2064,7 @@
     "id": "w0991",
     "type": "word",
     "en": "bureau",
+    "ipa": "/ˈbjʊroʊ/",
     "ja": [
       "局"
     ],
@@ -1907,6 +2078,7 @@
     "senses": [
       "bureau-governmentoffice"
     ],
+    "origin": "古仏語 burel（机を覆う粗布）。役所の机、そこから部局",
     "example": {
       "en": "The tax bureau requested three years of records.",
       "ja": "税の局が三年分の記録を求めた。"
@@ -1916,6 +2088,7 @@
     "id": "w0992",
     "type": "word",
     "en": "capitalize",
+    "ipa": "/ˈkæpɪtəlaɪz/",
     "ja": [
       "活用する"
     ],
@@ -1929,6 +2102,7 @@
     "senses": [
       "capitalize-takeadvantageof"
     ],
+    "origin": "ラテン語 caput（頭）。元手として頭に据え、有利に使うこと。capital と同語源",
     "example": {
       "en": "The shop capitalized on the festival crowds.",
       "ja": "その店は祭りの人出を活用した。"
@@ -1938,6 +2112,7 @@
     "id": "w0993",
     "type": "word",
     "en": "cease",
+    "ipa": "/siːs/",
     "ja": [
       "停止する"
     ],
@@ -1951,6 +2126,7 @@
     "senses": [
       "cease-stopcompletely"
     ],
+    "origin": "ラテン語 cedere（退く）。手を引いてやめること。proceed と同語源",
     "example": {
       "en": "Production ceased during the power cut.",
       "ja": "停電の間、生産は停止した。"
@@ -1960,6 +2136,7 @@
     "id": "w0994",
     "type": "word",
     "en": "certification",
+    "ipa": "/ˌsɜːrtɪfɪˈkeɪʃn/",
     "ja": [
       "認証"
     ],
@@ -1973,6 +2150,7 @@
     "senses": [
       "certification-officialapprovalproof"
     ],
+    "origin": "ラテン語 certus（確かな）＋ facere（作る）。確かだと証すること",
     "example": {
       "en": "Export certification takes about a month.",
       "ja": "輸出の認証には約一か月かかる。"
@@ -1982,6 +2160,7 @@
     "id": "w0995",
     "type": "word",
     "en": "chronic",
+    "ipa": "/ˈkrɑːnɪk/",
     "ja": [
       "慢性的な"
     ],
@@ -1995,6 +2174,7 @@
     "senses": [
       "chronic-longcontinuing"
     ],
+    "origin": "ギリシャ語 chronos（時）。長い時にわたって続くこと。chronicle と同語源",
     "example": {
       "en": "Chronic staff shortages slowed the night shift.",
       "ja": "慢性的な人手不足が夜勤を鈍らせた。"
@@ -2004,6 +2184,7 @@
     "id": "w0996",
     "type": "word",
     "en": "circulate",
+    "ipa": "/ˈsɜːrkjəleɪt/",
     "ja": [
       "回覧する"
     ],
@@ -2017,6 +2198,7 @@
     "senses": [
       "circulate-passaround"
     ],
+    "origin": "ラテン語 circulus（輪）。輪を描いて回ること。circle と同語源",
     "example": {
       "en": "Circulate the minutes before Friday.",
       "ja": "金曜までに議事録を回覧しなさい。"
@@ -2026,6 +2208,7 @@
     "id": "w0997",
     "type": "word",
     "en": "cite",
+    "ipa": "/saɪt/",
     "ja": [
       "引用する"
     ],
@@ -2039,6 +2222,7 @@
     "senses": [
       "cite-quoteassource"
     ],
+    "origin": "ラテン語 citare（呼び出す）。文言を呼び出して示すこと。excite と同語源",
     "example": {
       "en": "The lawyer cited two earlier rulings.",
       "ja": "弁護士は過去の判断を二件引用した。"
@@ -2048,6 +2232,7 @@
     "id": "w0998",
     "type": "word",
     "en": "clarity",
+    "ipa": "/ˈklærəti/",
     "ja": [
       "明瞭さ"
     ],
@@ -2061,6 +2246,7 @@
     "senses": [
       "clarity-easeofunderstanding"
     ],
+    "origin": "ラテン語 clarus（澄んだ）。濁りのない状態。clear, clarify と同語源",
     "example": {
       "en": "The revised text gained in clarity.",
       "ja": "改めた文章は明瞭さを増した。"
@@ -2070,6 +2256,7 @@
     "id": "w0999",
     "type": "word",
     "en": "coherent",
+    "ipa": "/koʊˈhɪrənt/",
     "ja": [
       "筋の通った"
     ],
@@ -2083,6 +2270,7 @@
     "senses": [
       "coherent-logicallyconsistent"
     ],
+    "origin": "co-（共に）＋ ラテン語 haerere（くっつく）。話の筋がつながっていること。adhere と同語源",
     "example": {
       "en": "She gave a coherent account of the fault.",
       "ja": "彼女は不具合について筋の通った説明をした。"
@@ -2092,6 +2280,7 @@
     "id": "w1000",
     "type": "word",
     "en": "collateral-damage",
+    "ipa": "/kəˈlætərəl ˈdæmɪdʒ/",
     "ja": [
       "付随的損害"
     ],
@@ -2105,6 +2294,7 @@
     "senses": [
       "colldamage-incidentalharm"
     ],
+    "origin": "collateral（付随の）＋ damage（損害）。本筋の脇で生じる損害",
     "example": {
       "en": "The flood caused collateral damage to stock.",
       "ja": "洪水は在庫に付随的損害をもたらした。"
@@ -2114,6 +2304,7 @@
     "id": "w1001",
     "type": "word",
     "en": "commodity",
+    "ipa": "/kəˈmɑːdəti/",
     "ja": [
       "商品相場品"
     ],
@@ -2127,6 +2318,7 @@
     "senses": [
       "commodity-tradedrawmaterial"
     ],
+    "origin": "ラテン語 commodus（都合のよい）。売り買いしやすい品。accommodate と同語源",
     "example": {
       "en": "Copper is the plant's key commodity.",
       "ja": "銅は工場の主要な商品相場品だ。"
@@ -2136,6 +2328,7 @@
     "id": "w1002",
     "type": "word",
     "en": "compatible",
+    "ipa": "/kəmˈpætəbl/",
     "ja": [
       "互換性のある"
     ],
@@ -2149,6 +2342,7 @@
     "senses": [
       "compatible-abletoworktogether"
     ],
+    "origin": "com-（共に）＋ ラテン語 pati（耐える）。並べても差し支えないこと。patient と同語源",
     "example": {
       "en": "The cartridge is compatible with older printers.",
       "ja": "その筒は古い印刷機と互換性がある。"
@@ -2158,6 +2352,7 @@
     "id": "w1003",
     "type": "word",
     "en": "compile",
+    "ipa": "/kəmˈpaɪl/",
     "ja": [
       "まとめ上げる"
     ],
@@ -2171,6 +2366,7 @@
     "senses": [
       "compile-gatherintowhole"
     ],
+    "origin": "com-（共に）＋ ラテン語 pilare（積む）。集めて積み上げること",
     "example": {
       "en": "The clerk compiled the monthly totals.",
       "ja": "事務員が月次の合計をまとめ上げた。"
@@ -2180,6 +2376,7 @@
     "id": "w1004",
     "type": "word",
     "en": "complement",
+    "ipa": "/ˈkɑːmplɪment/",
     "ja": [
       "補完する"
     ],
@@ -2193,6 +2390,7 @@
     "senses": [
       "complement-completewell"
     ],
+    "origin": "ラテン語 complere（満たす）。欠けを埋めて満たすもの。complete と同語源",
     "example": {
       "en": "The new line complements the existing range.",
       "ja": "新しい品目が既存の品ぞろえを補完する。"
@@ -2202,6 +2400,7 @@
     "id": "w1005",
     "type": "word",
     "en": "compliance",
+    "ipa": "/kəmˈplaɪəns/",
     "ja": [
       "法令順守"
     ],
@@ -2215,6 +2414,7 @@
     "senses": [
       "compliance-actofobeyingrules"
     ],
+    "origin": "comply（従う）＋ -ance。決まりに従っている状態",
     "example": {
       "en": "Compliance training runs every autumn.",
       "ja": "法令順守の研修は毎秋行われる。"
@@ -2224,6 +2424,7 @@
     "id": "w1006",
     "type": "word",
     "en": "compound",
+    "ipa": "/kəmˈpaʊnd/",
     "ja": [
       "悪化を招く"
     ],
@@ -2237,6 +2438,7 @@
     "senses": [
       "compound-makeproblemworse"
     ],
+    "origin": "com-（共に）＋ ラテン語 ponere（置く）。重ね置いて度を増すこと",
     "example": {
       "en": "The strike compounded the port backlog.",
       "ja": "争議が港の滞留の悪化を招いた。"
@@ -2246,6 +2448,7 @@
     "id": "w1007",
     "type": "word",
     "en": "concede",
+    "ipa": "/kənˈsiːd/",
     "ja": [
       "譲歩する"
     ],
@@ -2259,6 +2462,7 @@
     "senses": [
       "concede-yieldpoint"
     ],
+    "origin": "con-（すっかり）＋ ラテン語 cedere（退く）。一歩退いて認めること",
     "example": {
       "en": "The seller conceded on the delivery date.",
       "ja": "売り主は納期で譲歩した。"
@@ -2268,6 +2472,7 @@
     "id": "w1008",
     "type": "word",
     "en": "concise",
+    "ipa": "/kənˈsaɪs/",
     "ja": [
       "簡潔な"
     ],
@@ -2281,6 +2486,7 @@
     "senses": [
       "concise-briefandclear"
     ],
+    "origin": "con-（すっかり）＋ ラテン語 caedere（切る）。余分を切り落としてあること。precise と同語源",
     "example": {
       "en": "Keep the summary concise and factual.",
       "ja": "要約は簡潔で事実に即したものにしなさい。"
@@ -2290,6 +2496,7 @@
     "id": "w1009",
     "type": "word",
     "en": "condense",
+    "ipa": "/kənˈdens/",
     "ja": [
       "要約して短くする"
     ],
@@ -2303,6 +2510,7 @@
     "senses": [
       "condense-shortentext"
     ],
+    "origin": "con-（すっかり）＋ ラテン語 densus（濃い）。濃く縮めること。dense と同語源",
     "example": {
       "en": "Condense the report into two pages.",
       "ja": "報告書を二頁に要約して短くしなさい。"
@@ -2312,6 +2520,7 @@
     "id": "w1010",
     "type": "word",
     "en": "confer",
+    "ipa": "/kənˈfɜːr/",
     "ja": [
       "協議する"
     ],
@@ -2325,6 +2534,7 @@
     "senses": [
       "confer-discusstogether"
     ],
+    "origin": "con-（共に）＋ ラテン語 ferre（運ぶ）。意見を持ち寄ること。conference と同語源",
     "example": {
       "en": "The directors conferred behind closed doors.",
       "ja": "取締役は非公開で協議した。"
@@ -2334,6 +2544,7 @@
     "id": "w1011",
     "type": "word",
     "en": "consecutive-day",
+    "ipa": "/kənˈsekjətɪv deɪ/",
     "ja": [
       "連日"
     ],
@@ -2347,6 +2558,7 @@
     "senses": [
       "consecday-successivedays"
     ],
+    "origin": "consecutive（連続の）＋ day（日）。切れ目なく続く日",
     "example": {
       "en": "Six consecutive days of rain stopped work.",
       "ja": "連日六日の雨が作業を止めた。"
@@ -2356,6 +2568,7 @@
     "id": "w1012",
     "type": "word",
     "en": "consensus",
+    "ipa": "/kənˈsensəs/",
     "ja": [
       "総意"
     ],
@@ -2369,6 +2582,7 @@
     "senses": [
       "consensus-generalagreement"
     ],
+    "origin": "con-（共に）＋ ラテン語 sentire（感じる）。皆が同じに感じている状態。sense と同語源",
     "example": {
       "en": "The group reached a consensus on the budget.",
       "ja": "一同は予算について総意に達した。"
@@ -2378,6 +2592,7 @@
     "id": "w1013",
     "type": "word",
     "en": "constrain",
+    "ipa": "/kənˈstreɪn/",
     "ja": [
       "制約する"
     ],
@@ -2391,6 +2606,7 @@
     "senses": [
       "constrain-limitseverely"
     ],
+    "origin": "con-（すっかり）＋ ラテン語 stringere（締める）。締め付けて動きを狭めること",
     "example": {
       "en": "Narrow roads constrain the delivery size.",
       "ja": "狭い道が配達の大きさを制約する。"
@@ -2400,6 +2616,7 @@
     "id": "w1014",
     "type": "word",
     "en": "consultant",
+    "ipa": "/kənˈsʌltənt/",
     "ja": [
       "助言者"
     ],
@@ -2413,6 +2630,7 @@
     "senses": [
       "consultant-outsideadviser"
     ],
+    "origin": "ラテン語 consulere（相談する）。相談を受ける人。consult, counsel と同語源",
     "example": {
       "en": "A consultant reviewed the packing workflow.",
       "ja": "助言者が梱包の流れを確認した。"
@@ -2422,6 +2640,7 @@
     "id": "w1015",
     "type": "word",
     "en": "contend",
+    "ipa": "/kənˈtend/",
     "ja": [
       "対処に努める"
     ],
@@ -2435,6 +2654,7 @@
     "senses": [
       "contend-strugglewith"
     ],
+    "origin": "con-（共に）＋ ラテン語 tendere（張る）。張り合って取り組むこと。tension と同語源",
     "example": {
       "en": "Drivers contend with heavy snow each winter.",
       "ja": "運転手は毎冬、大雪への対処に努める。"
@@ -2444,6 +2664,7 @@
     "id": "w1016",
     "type": "word",
     "en": "contractor",
+    "ipa": "/ˈkɑːntræktər/",
     "ja": [
       "請負業者"
     ],
@@ -2457,6 +2678,7 @@
     "senses": [
       "contractor-hiredfirm"
     ],
+    "origin": "contract（契約）＋ -or。契約を受けて工事を担う者",
     "example": {
       "en": "The contractor finished the roof in a week.",
       "ja": "請負業者は一週間で屋根を仕上げた。"
@@ -2466,6 +2688,7 @@
     "id": "w1017",
     "type": "word",
     "en": "convene",
+    "ipa": "/kənˈviːn/",
     "ja": [
       "招集する"
     ],
@@ -2479,6 +2702,7 @@
     "senses": [
       "convene-callmeeting"
     ],
+    "origin": "con-（共に）＋ ラテン語 venire（来る）。一堂に来させること。convention と同語源",
     "example": {
       "en": "The chair convened an extra session.",
       "ja": "議長は臨時の回を招集した。"
@@ -2488,6 +2712,7 @@
     "id": "w1018",
     "type": "word",
     "en": "conversion",
+    "ipa": "/kənˈvɜːrʒn/",
     "ja": [
       "転換"
     ],
@@ -2501,6 +2726,7 @@
     "senses": [
       "conversion-changeofuse"
     ],
+    "origin": "con-（すっかり）＋ ラテン語 vertere（回す）。向きを回して別のものにすること",
     "example": {
       "en": "The conversion of the mill took two years.",
       "ja": "工場の転換には二年かかった。"
@@ -2510,6 +2736,7 @@
     "id": "w1019",
     "type": "word",
     "en": "convey",
+    "ipa": "/kənˈveɪ/",
     "ja": [
       "伝達する"
     ],
@@ -2523,6 +2750,7 @@
     "senses": [
       "convey-communicateinformation"
     ],
+    "origin": "con-（共に）＋ ラテン語 via（道）。道に載せて運び届けること",
     "example": {
       "en": "Please convey our thanks to the crew.",
       "ja": "作業班に感謝を伝達してください。"
@@ -2532,6 +2760,7 @@
     "id": "w1020",
     "type": "word",
     "en": "credible",
+    "ipa": "/ˈkredəbl/",
     "ja": [
       "信用できる"
     ],
@@ -2545,6 +2774,7 @@
     "senses": [
       "credible-worthyofbelief"
     ],
+    "origin": "ラテン語 credere（信じる）。信じるに足ること。credit と同語源",
     "example": {
       "en": "The audit found the figures credible.",
       "ja": "監査は数字を信用できるものと認めた。"
@@ -2554,6 +2784,7 @@
     "id": "w1021",
     "type": "word",
     "en": "criterion",
+    "ipa": "/kraɪˈtɪriən/",
     "ja": [
       "判断基準"
     ],
@@ -2567,6 +2798,7 @@
     "senses": [
       "criterion-standardforjudging"
     ],
+    "origin": "ギリシャ語 krinein（見分ける）。見分けるための物差し。critical と同語源",
     "example": {
       "en": "Cost is only one criterion in the tender.",
       "ja": "費用は入札の判断基準の一つにすぎない。"
@@ -2576,6 +2808,7 @@
     "id": "w1022",
     "type": "word",
     "en": "cumulative",
+    "ipa": "/ˈkjuːmjəleɪtɪv/",
     "ja": [
       "累積の"
     ],
@@ -2589,6 +2822,7 @@
     "senses": [
       "cumulative-addingupovertime"
     ],
+    "origin": "ラテン語 cumulus（山積み）。積み上がっていくこと",
     "example": {
       "en": "Cumulative sales passed one billion yen.",
       "ja": "累積の売上は十億円を超えた。"
@@ -2598,6 +2832,7 @@
     "id": "w1023",
     "type": "word",
     "en": "curtail",
+    "ipa": "/kɜːrˈteɪl/",
     "ja": [
       "切り詰める"
     ],
@@ -2611,6 +2846,7 @@
     "senses": [
       "curtail-cutshort"
     ],
+    "origin": "ラテン語 curtus（短い）。短く切り詰めること。short と同系",
     "example": {
       "en": "The firm curtailed travel spending sharply.",
       "ja": "会社は出張の支出を大きく切り詰めた。"
@@ -2620,6 +2856,7 @@
     "id": "w1024",
     "type": "word",
     "en": "custody",
+    "ipa": "/ˈkʌstədi/",
     "ja": [
       "保管責任"
     ],
@@ -2633,6 +2870,7 @@
     "senses": [
       "custody-legalkeeping"
     ],
+    "origin": "ラテン語 custos（見張り）。預かって見張ること",
     "example": {
       "en": "The carrier takes custody at the dock gate.",
       "ja": "運送会社は埠頭の門で保管責任を負う。"
@@ -2642,6 +2880,7 @@
     "id": "w1025",
     "type": "word",
     "en": "deem",
+    "ipa": "/diːm/",
     "ja": [
       "みなす"
     ],
@@ -2655,6 +2894,7 @@
     "senses": [
       "deem-considerofficially"
     ],
+    "origin": "古英語 deman（裁く）。判断してそう見ること。doom と同語源",
     "example": {
       "en": "Unclaimed goods are deemed abandoned.",
       "ja": "引き取りのない品は放棄されたとみなす。"
@@ -2664,6 +2904,7 @@
     "id": "w1026",
     "type": "word",
     "en": "default",
+    "ipa": "/dɪˈfɔːlt/",
     "ja": [
       "不履行"
     ],
@@ -2677,6 +2918,7 @@
     "senses": [
       "default-failuretomeetobligation"
     ],
+    "origin": "de-（欠けて）＋ ラテン語 fallere（そこなう）。果たすべきことが欠けること。fault と同語源",
     "example": {
       "en": "Default on rent triggers a written notice.",
       "ja": "賃料の不履行は書面の通知を招く。"
@@ -2686,6 +2928,7 @@
     "id": "w1027",
     "type": "word",
     "en": "deficiency",
+    "ipa": "/dɪˈfɪʃnsi/",
     "ja": [
       "不備"
     ],
@@ -2699,6 +2942,7 @@
     "senses": [
       "deficiency-lackorshortcoming"
     ],
+    "origin": "de-（欠けて）＋ ラテン語 facere（作る）。足りず欠けている点。deficit と同語源",
     "example": {
       "en": "The report listed three deficiencies.",
       "ja": "報告書は不備を三点挙げた。"
@@ -2708,6 +2952,7 @@
     "id": "w1028",
     "type": "word",
     "en": "delegate-power",
+    "ipa": "/ˈdelɪɡət ˈpaʊər/",
     "ja": [
       "権限移譲"
     ],
@@ -2721,6 +2966,7 @@
     "senses": [
       "delegpower-transferofauthority"
     ],
+    "origin": "delegate（委ねる）＋ power（権限）。権限を人に委ねること",
     "example": {
       "en": "Delegation of authority sped up approvals.",
       "ja": "権限移譲が承認を早めた。"
@@ -2730,6 +2976,7 @@
     "id": "w1029",
     "type": "word",
     "en": "deliberate",
+    "ipa": "/dɪˈlɪbərət/",
     "ja": [
       "意図的な"
     ],
@@ -2743,6 +2990,7 @@
     "senses": [
       "deliberate-doneonpurpose"
     ],
+    "origin": "de-（すっかり）＋ ラテン語 librare（秤にかける）。よく量ったうえでのこと",
     "example": {
       "en": "The damage was accidental, not deliberate.",
       "ja": "破損は偶発で、意図的なものではなかった。"
@@ -2752,6 +3000,7 @@
     "id": "w1030",
     "type": "word",
     "en": "denote",
+    "ipa": "/dɪˈnoʊt/",
     "ja": [
       "表す"
     ],
@@ -2765,6 +3014,7 @@
     "senses": [
       "denote-standassymbol"
     ],
+    "origin": "de-（はっきり）＋ ラテン語 nota（印）。印を付けて指し示すこと。note と同語源",
     "example": {
       "en": "A blue tag denotes a tested unit.",
       "ja": "青い札は試験済みの台を表す。"
@@ -2774,6 +3024,7 @@
     "id": "w1031",
     "type": "word",
     "en": "deplete",
+    "ipa": "/dɪˈpliːt/",
     "ja": [
       "使い尽くす"
     ],
@@ -2787,6 +3038,7 @@
     "senses": [
       "deplete-reducetonothing"
     ],
+    "origin": "de-（外へ）＋ ラテン語 plere（満たす）。満ちていたものを空にすること",
     "example": {
       "en": "The rush depleted the spare parts store.",
       "ja": "殺到が予備の部品の倉庫を使い尽くした。"
@@ -2796,6 +3048,7 @@
     "id": "w1032",
     "type": "word",
     "en": "deploy",
+    "ipa": "/dɪˈplɔɪ/",
     "ja": [
       "配備する"
     ],
@@ -2809,6 +3062,7 @@
     "senses": [
       "deploy-positionforuse"
     ],
+    "origin": "dis-（外へ）＋ ラテン語 plicare（折る）。折りたたみを広げて配置すること。display と同語源",
     "example": {
       "en": "Two extra vans were deployed at peak.",
       "ja": "繁忙期に貨物車二台が追加で配備された。"
@@ -2818,6 +3072,7 @@
     "id": "w1033",
     "type": "word",
     "en": "deputy",
+    "ipa": "/ˈdepjuti/",
     "ja": [
       "副責任者"
     ],
@@ -2831,6 +3086,7 @@
     "senses": [
       "deputy-secondincommand"
     ],
+    "origin": "de-（下に）＋ ラテン語 putare（定める）。代わりに立てられた者",
     "example": {
       "en": "The deputy signs in the director's absence.",
       "ja": "部長の不在時は副責任者が署名する。"
@@ -2840,6 +3096,7 @@
     "id": "w1034",
     "type": "word",
     "en": "derive",
+    "ipa": "/dɪˈraɪv/",
     "ja": [
       "導き出す"
     ],
@@ -2853,6 +3110,7 @@
     "senses": [
       "derive-obtainfromsource"
     ],
+    "origin": "de-（〜から）＋ ラテン語 rivus（流れ）。源流から引いてくること。river と同語源",
     "example": {
       "en": "The figure derives from last year's audit.",
       "ja": "その数値は昨年の監査から導き出される。"
@@ -2862,6 +3120,7 @@
     "id": "w1035",
     "type": "word",
     "en": "designation",
+    "ipa": "/ˌdezɪɡˈneɪʃn/",
     "ja": [
       "名称指定"
     ],
@@ -2875,6 +3134,7 @@
     "senses": [
       "designation-officialnaming"
     ],
+    "origin": "de-（はっきり）＋ ラテン語 signum（印）。印を付けて呼び名を定めること",
     "example": {
       "en": "The model designation changed last spring.",
       "ja": "型式の名称指定は昨春変わった。"
@@ -2884,6 +3144,7 @@
     "id": "w1036",
     "type": "word",
     "en": "deterrent",
+    "ipa": "/dɪˈtɜːrənt/",
     "ja": [
       "抑止となるもの"
     ],
@@ -2897,6 +3158,7 @@
     "senses": [
       "deterrent-thingthatdiscourages"
     ],
+    "origin": "de-（離れて）＋ ラテン語 terrere（怖がらせる）。怖じ気づかせて止めるもの。terror と同語源",
     "example": {
       "en": "Bright lighting is an effective deterrent.",
       "ja": "明るい照明は効果的な抑止となるものだ。"
@@ -2906,6 +3168,7 @@
     "id": "w1037",
     "type": "word",
     "en": "devise",
+    "ipa": "/dɪˈvaɪz/",
     "ja": [
       "考案する"
     ],
@@ -2919,6 +3182,7 @@
     "senses": [
       "devise-inventmethod"
     ],
+    "origin": "ラテン語 dividere（分ける）。切り分けて工夫を組み立てること。divide, device と同語源",
     "example": {
       "en": "The team devised a faster loading order.",
       "ja": "その班はより速い積み込みの順を考案した。"
@@ -2928,6 +3192,7 @@
     "id": "w1038",
     "type": "word",
     "en": "diagnose",
+    "ipa": "/ˈdaɪəɡnoʊs/",
     "ja": [
       "原因を特定する"
     ],
@@ -2941,6 +3206,7 @@
     "senses": [
       "diagnose-identifyproblem"
     ],
+    "origin": "dia-（通して）＋ ギリシャ語 gnosis（知）。徹底して知り原因を見極めること",
     "example": {
       "en": "The engineer diagnosed a worn seal.",
       "ja": "技術者は摩耗した封を原因と特定した。"
@@ -2950,6 +3216,7 @@
     "id": "w1039",
     "type": "word",
     "en": "dimension",
+    "ipa": "/dɪˈmenʃn/",
     "ja": [
       "寸法規格"
     ],
@@ -2963,6 +3230,7 @@
     "senses": [
       "dimension-measuredextent"
     ],
+    "origin": "dis-（すっかり）＋ ラテン語 metiri（測る）。測って得た寸法。measure と同語源",
     "example": {
       "en": "Check the dimensions against the drawing.",
       "ja": "寸法規格を図面と照合しなさい。"
@@ -2972,6 +3240,7 @@
     "id": "w1040",
     "type": "word",
     "en": "discard",
+    "ipa": "/dɪsˈkɑːrd/",
     "ja": [
       "廃棄する"
     ],
@@ -2985,6 +3254,7 @@
     "senses": [
       "discard-throwaway"
     ],
+    "origin": "dis-（外へ）＋ card（札）。手札を捨てるところから",
     "example": {
       "en": "Discard any carton with a broken seal.",
       "ja": "封が破れた箱は廃棄しなさい。"
@@ -2994,6 +3264,7 @@
     "id": "w1041",
     "type": "word",
     "en": "discern",
+    "ipa": "/dɪˈsɜːrn/",
     "ja": [
       "識別する"
     ],
@@ -3007,6 +3278,7 @@
     "senses": [
       "discern-perceivedifference"
     ],
+    "origin": "dis-（分けて）＋ ラテン語 cernere（ふるい分ける）。ふるって見分けること",
     "example": {
       "en": "Inspectors discern hairline cracks by touch.",
       "ja": "検査員は触れて細い割れを識別する。"
@@ -3016,6 +3288,7 @@
     "id": "w1042",
     "type": "word",
     "en": "disclosure",
+    "ipa": "/dɪsˈkloʊʒər/",
     "ja": [
       "情報開示"
     ],
@@ -3029,6 +3302,7 @@
     "senses": [
       "disclosure-actofrevealing"
     ],
+    "origin": "dis-（反対）＋ close（閉じる）。閉じていたものを開くこと",
     "example": {
       "en": "Full disclosure of costs is required.",
       "ja": "費用の完全な情報開示が求められる。"
@@ -3038,6 +3312,7 @@
     "id": "w1043",
     "type": "word",
     "en": "discourage",
+    "ipa": "/dɪsˈkɜːrɪdʒ/",
     "ja": [
       "思いとどまらせる"
     ],
@@ -3051,6 +3326,7 @@
     "senses": [
       "discourage-persuadeagainst"
     ],
+    "origin": "dis-（奪う）＋ courage（勇気）。勇気をそいでやめさせること",
     "example": {
       "en": "Signs discourage parking near the gate.",
       "ja": "標識が門の近くの駐車を思いとどまらせる。"
@@ -3060,6 +3336,7 @@
     "id": "w1044",
     "type": "word",
     "en": "dismiss",
+    "ipa": "/dɪsˈmɪs/",
     "ja": [
       "退ける"
     ],
@@ -3073,6 +3350,7 @@
     "senses": [
       "dismiss-rejectclaim"
     ],
+    "origin": "dis-（離れて）＋ ラテン語 mittere（送る）。向こうへ送り返すこと。mission と同語源",
     "example": {
       "en": "The panel dismissed the second complaint.",
       "ja": "審査団は二件目の苦情を退けた。"
@@ -3082,6 +3360,7 @@
     "id": "w1045",
     "type": "word",
     "en": "disperse",
+    "ipa": "/dɪˈspɜːrs/",
     "ja": [
       "分散させる"
     ],
@@ -3095,6 +3374,7 @@
     "senses": [
       "disperse-scatterwidely"
     ],
+    "origin": "dis-（ばらばらに）＋ ラテン語 spargere（まく）。まき散らすこと",
     "example": {
       "en": "The firm disperses stock across three sites.",
       "ja": "会社は在庫を三か所に分散させる。"
@@ -3104,6 +3384,7 @@
     "id": "w1046",
     "type": "word",
     "en": "displace",
+    "ipa": "/dɪsˈpleɪs/",
     "ja": [
       "置き換える"
     ],
@@ -3117,6 +3398,7 @@
     "senses": [
       "displace-forceoutofplace"
     ],
+    "origin": "dis-（外へ）＋ place（場所）。元の場所から押しのけること",
     "example": {
       "en": "Automation displaced two manual steps.",
       "ja": "自動化が手作業の手順を二つ置き換えた。"
@@ -3126,6 +3408,7 @@
     "id": "w1047",
     "type": "word",
     "en": "disproportionate",
+    "ipa": "/ˌdɪsprəˈpɔːrʃənət/",
     "ja": [
       "不釣り合いな"
     ],
@@ -3139,6 +3422,7 @@
     "senses": [
       "disproportionate-outofbalance"
     ],
+    "origin": "dis-（否定）＋ proportion（釣り合い）。釣り合いを欠くこと",
     "example": {
       "en": "Freight takes a disproportionate share of costs.",
       "ja": "運賃が費用の不釣り合いな割合を占める。"
@@ -3148,6 +3432,7 @@
     "id": "w1048",
     "type": "word",
     "en": "disrupt",
+    "ipa": "/dɪsˈrʌpt/",
     "ja": [
       "混乱させる"
     ],
@@ -3161,6 +3446,7 @@
     "senses": [
       "disrupt-interruptflow"
     ],
+    "origin": "dis-（ばらばらに）＋ ラテン語 rumpere（破る）。流れを断ち切ること。interrupt と同語源",
     "example": {
       "en": "The road works disrupted morning deliveries.",
       "ja": "道路工事が午前の配達を混乱させた。"
@@ -3170,6 +3456,7 @@
     "id": "w1049",
     "type": "word",
     "en": "distinguish",
+    "ipa": "/dɪˈstɪŋɡwɪʃ/",
     "ja": [
       "区別する"
     ],
@@ -3183,6 +3470,7 @@
     "senses": [
       "distinguish-tellapart"
     ],
+    "origin": "dis-（分けて）＋ ラテン語 stinguere（刺す）。刺し分けて見分けること。distinct と同語源",
     "example": {
       "en": "Color codes distinguish the two grades.",
       "ja": "色の記号が二つの等級を区別する。"
@@ -3192,6 +3480,7 @@
     "id": "w1050",
     "type": "word",
     "en": "distributor",
+    "ipa": "/dɪˈstrɪbjətər/",
     "ja": [
       "卸売業者"
     ],
@@ -3205,6 +3494,7 @@
     "senses": [
       "distributor-wholesalefirm"
     ],
+    "origin": "distribute（配る）＋ -or。仕入れて配る業者",
     "example": {
       "en": "A single distributor covers all of Kyushu.",
       "ja": "一社の卸売業者が九州全域を担う。"
@@ -3214,6 +3504,7 @@
     "id": "w1051",
     "type": "word",
     "en": "diverse",
+    "ipa": "/daɪˈvɜːrs/",
     "ja": [
       "多様な"
     ],
@@ -3227,6 +3518,7 @@
     "senses": [
       "diverse-variedinkind"
     ],
+    "origin": "dis-（別々に）＋ ラテン語 vertere（回す）。別々の方を向いていること",
     "example": {
       "en": "The team brings diverse technical backgrounds.",
       "ja": "その班は多様な技術の経歴を持ち寄る。"
@@ -3236,6 +3528,7 @@
     "id": "w1052",
     "type": "word",
     "en": "document-set",
+    "ipa": "/ˈdɑːkjumənt set/",
     "ja": [
       "一式の書類"
     ],
@@ -3249,6 +3542,7 @@
     "senses": [
       "documentset-completepapers"
     ],
+    "origin": "document（書類）＋ set（一組）。そろえて一組にした書類",
     "example": {
       "en": "The document set includes the survey report.",
       "ja": "一式の書類には調査の報告が含まれる。"
@@ -3258,6 +3552,7 @@
     "id": "w1053",
     "type": "word",
     "en": "domain",
+    "ipa": "/doʊˈmeɪn/",
     "ja": [
       "領域"
     ],
@@ -3271,6 +3566,7 @@
     "senses": [
       "domain-areaofactivity"
     ],
+    "origin": "ラテン語 dominus（主人）。主人が治める範囲。dominate と同語源",
     "example": {
       "en": "Packaging falls outside her domain.",
       "ja": "包装は彼女の領域の外にある。"
@@ -3280,6 +3576,7 @@
     "id": "w1054",
     "type": "word",
     "en": "downturn",
+    "ipa": "/ˈdaʊntɜːrn/",
     "ja": [
       "景気後退"
     ],
@@ -3293,6 +3590,7 @@
     "senses": [
       "downturn-economicdecline"
     ],
+    "origin": "down（下へ）＋ turn（向く）。景気が下向きに転じること",
     "example": {
       "en": "The downturn hit the export division hardest.",
       "ja": "景気後退は輸出部門を最も打撃した。"
@@ -3302,6 +3600,7 @@
     "id": "w1055",
     "type": "word",
     "en": "draft-agreement",
+    "ipa": "/dræft əˈɡriːmənt/",
     "ja": [
       "協定案"
     ],
@@ -3315,6 +3614,7 @@
     "senses": [
       "draftagree-proposedcontract"
     ],
+    "origin": "draft（草案）＋ agreement（協定）。まだ固まっていない協定",
     "example": {
       "en": "The draft agreement runs to twelve pages.",
       "ja": "協定案は十二頁に及ぶ。"
@@ -3324,6 +3624,7 @@
     "id": "w1056",
     "type": "word",
     "en": "durable-goods",
+    "ipa": "/ˈdʊrəbl ɡʊdz/",
     "ja": [
       "耐久消費財"
     ],
@@ -3337,6 +3638,7 @@
     "senses": [
       "durablegoods-longlastingproducts"
     ],
+    "origin": "durable（長もちする）＋ goods（品）。長く使える品",
     "example": {
       "en": "Durable goods sales rose for two quarters.",
       "ja": "耐久消費財の売上は二期続けて伸びた。"
@@ -3346,6 +3648,7 @@
     "id": "w1057",
     "type": "word",
     "en": "elaborate",
+    "ipa": "/ɪˈlæbəreɪt/",
     "ja": [
       "詳しく述べる"
     ],
@@ -3359,6 +3662,7 @@
     "senses": [
       "elaborate-explainindetail"
     ],
+    "origin": "e-（外へ）＋ ラテン語 labor（骨折り）。手間をかけて練り上げること",
     "example": {
       "en": "Could you elaborate on the second point.",
       "ja": "二点目について詳しく述べていただけますか。"
@@ -3368,6 +3672,7 @@
     "id": "w1058",
     "type": "word",
     "en": "embark",
+    "ipa": "/ɪmˈbɑːrk/",
     "ja": [
       "着手して始める"
     ],
@@ -3381,6 +3686,7 @@
     "senses": [
       "embark-startnewventure"
     ],
+    "origin": "em-（中へ）＋ 仏語 barque（小舟）。舟に乗り込む、そこから事を起こすこと",
     "example": {
       "en": "The firm embarked on a plant upgrade.",
       "ja": "会社は工場の改修に着手して始めた。"
@@ -3390,6 +3696,7 @@
     "id": "w1059",
     "type": "word",
     "en": "eminent",
+    "ipa": "/ˈemɪnənt/",
     "ja": [
       "著名な"
     ],
@@ -3403,6 +3710,7 @@
     "senses": [
       "eminent-widelyrespected"
     ],
+    "origin": "e-（外へ）＋ ラテン語 minere（突き出る）。周りより抜きん出ていること",
     "example": {
       "en": "An eminent engineer opened the seminar.",
       "ja": "著名な技術者が講習会を開いた。"
@@ -3412,6 +3720,7 @@
     "id": "w1060",
     "type": "word",
     "en": "empower",
+    "ipa": "/ɪmˈpaʊər/",
     "ja": [
       "権限を持たせる"
     ],
@@ -3425,6 +3734,7 @@
     "senses": [
       "empower-giveauthorityto"
     ],
+    "origin": "em-（〜にする）＋ power（力）。力を持たせること",
     "example": {
       "en": "The rule empowers clerks to issue refunds.",
       "ja": "その規則は事務員に返金の権限を持たせる。"
@@ -3434,6 +3744,7 @@
     "id": "w1061",
     "type": "word",
     "en": "enact",
+    "ipa": "/ɪˈnækt/",
     "ja": [
       "制定する"
     ],
@@ -3447,6 +3758,7 @@
     "senses": [
       "enact-makelaw"
     ],
+    "origin": "en-（〜にする）＋ act（法令）。法として効力を持たせること",
     "example": {
       "en": "The city enacted stricter noise limits.",
       "ja": "市はより厳しい騒音の上限を制定した。"
@@ -3456,6 +3768,7 @@
     "id": "w1062",
     "type": "word",
     "en": "encompass",
+    "ipa": "/ɪnˈkʌmpəs/",
     "ja": [
       "包含する"
     ],
@@ -3469,6 +3782,7 @@
     "senses": [
       "encompass-includewithinscope"
     ],
+    "origin": "en-（中に）＋ compass（円を描く）。ぐるりと囲んで含めること",
     "example": {
       "en": "The policy encompasses all three sites.",
       "ja": "その方針は三か所すべてを包含する。"
@@ -3478,6 +3792,7 @@
     "id": "w1063",
     "type": "word",
     "en": "endorsement",
+    "ipa": "/ɪnˈdɔːrsmənt/",
     "ja": [
       "裏書き"
     ],
@@ -3491,6 +3806,7 @@
     "senses": [
       "endorsement-signedbacking"
     ],
+    "origin": "en-（〜に）＋ ラテン語 dorsum（背）。証書の裏へ署名すること",
     "example": {
       "en": "The check requires an endorsement.",
       "ja": "その小切手には裏書きが必要だ。"
@@ -3500,6 +3816,7 @@
     "id": "w1064",
     "type": "word",
     "en": "enforce",
+    "ipa": "/ɪnˈfɔːrs/",
     "ja": [
       "強制的に守らせる"
     ],
@@ -3513,6 +3830,7 @@
     "senses": [
       "enforce-compelobedience"
     ],
+    "origin": "en-（〜にする）＋ force（力）。力をもって守らせること",
     "example": {
       "en": "Guards enforce the badge rule at both gates.",
       "ja": "警備員は両方の門で名札の規則を強制的に守らせる。"
@@ -3522,6 +3840,7 @@
     "id": "w1065",
     "type": "word",
     "en": "enroll",
+    "ipa": "/ɪnˈroʊl/",
     "ja": [
       "入会させる"
     ],
@@ -3535,6 +3854,7 @@
     "senses": [
       "enroll-registerasmember"
     ],
+    "origin": "en-（中へ）＋ roll（名簿）。名簿に書き入れること",
     "example": {
       "en": "The scheme enrolled six hundred members.",
       "ja": "その仕組みは六百名を入会させた。"
@@ -3544,6 +3864,7 @@
     "id": "w1066",
     "type": "word",
     "en": "entail",
+    "ipa": "/ɪnˈteɪl/",
     "ja": [
       "必然的に伴う"
     ],
@@ -3557,6 +3878,7 @@
     "senses": [
       "entail-involvenecessarily"
     ],
+    "origin": "en-（〜にする）＋ 古仏語 taille（切り分け）。切り離せず付いてくること",
     "example": {
       "en": "The move entails a two-week closure.",
       "ja": "移転は二週間の閉鎖を必然的に伴う。"
@@ -3566,6 +3888,7 @@
     "id": "w1067",
     "type": "word",
     "en": "enterprise",
+    "ipa": "/ˈentərpraɪz/",
     "ja": [
       "企業"
     ],
@@ -3579,6 +3902,7 @@
     "senses": [
       "enterprise-businessorganization"
     ],
+    "origin": "entre-（間に）＋ 仏語 prendre（取る）。自ら引き受けた事業。entrepreneur と同語源",
     "example": {
       "en": "Small enterprises received a rent discount.",
       "ja": "小規模な企業は賃料の割引を受けた。"
@@ -3588,6 +3912,7 @@
     "id": "w1068",
     "type": "word",
     "en": "entity",
+    "ipa": "/ˈentəti/",
     "ja": [
       "事業体"
     ],
@@ -3601,6 +3926,7 @@
     "senses": [
       "entity-separatelegalbody"
     ],
+    "origin": "ラテン語 esse（在る）。それ自体で在るもの。essential と同語源",
     "example": {
       "en": "The branch is a separate legal entity.",
       "ja": "その支店は別の法的な事業体だ。"
@@ -3610,6 +3936,7 @@
     "id": "w1069",
     "type": "word",
     "en": "equity",
+    "ipa": "/ˈekwəti/",
     "ja": [
       "自己資本"
     ],
@@ -3623,6 +3950,7 @@
     "senses": [
       "equity-ownershipcapital"
     ],
+    "origin": "ラテン語 aequus（等しい）。公平な取り分、そこから自己資本。equal と同語源",
     "example": {
       "en": "Equity funded most of the expansion.",
       "ja": "自己資本が拡張の大半を賄った。"
@@ -3632,6 +3960,7 @@
     "id": "w1070",
     "type": "word",
     "en": "erode",
+    "ipa": "/ɪˈroʊd/",
     "ja": [
       "徐々に損なう"
     ],
@@ -3645,6 +3974,7 @@
     "senses": [
       "erode-wearawaygradually"
     ],
+    "origin": "e-（外へ）＋ ラテン語 rodere（かじる）。少しずつかじり取ること。rodent と同語源",
     "example": {
       "en": "Rising costs eroded the profit margin.",
       "ja": "費用の上昇が利幅を徐々に損なった。"
@@ -3654,6 +3984,7 @@
     "id": "w1071",
     "type": "word",
     "en": "escalate",
+    "ipa": "/ˈeskəleɪt/",
     "ja": [
       "段階的に上げる"
     ],
@@ -3667,6 +3998,7 @@
     "senses": [
       "escalate-raisetohigherlevel"
     ],
+    "origin": "ラテン語 scala（はしご）。はしごを上るように段を上げること。scale と同語源",
     "example": {
       "en": "Unsolved complaints escalate to the director.",
       "ja": "未解決の苦情は部長へ段階的に上げる。"
@@ -3676,6 +4008,7 @@
     "id": "w1072",
     "type": "word",
     "en": "exceed-limit",
+    "ipa": "/ɪkˈsiːd ˈlɪmɪt/",
     "ja": [
       "限度超過"
     ],
@@ -3689,6 +4022,7 @@
     "senses": [
       "exceedlimit-goingoverallowance"
     ],
+    "origin": "exceed（超える）＋ limit（限度）。定めた限度を上回ること",
     "example": {
       "en": "Weight excess triggers an extra charge.",
       "ja": "限度超過は追加の請求を招く。"
@@ -3698,6 +4032,7 @@
     "id": "w1073",
     "type": "word",
     "en": "exclusive",
+    "ipa": "/ɪkˈskluːsɪv/",
     "ja": [
       "専属の"
     ],
@@ -3711,6 +4046,7 @@
     "senses": [
       "exclusive-restrictedtoone"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 claudere（閉じる）。他を締め出していること。exclude と同語源",
     "example": {
       "en": "The dealer holds an exclusive supply right.",
       "ja": "その販売店は専属の供給権を持つ。"
@@ -3720,6 +4056,7 @@
     "id": "w1074",
     "type": "word",
     "en": "execute",
+    "ipa": "/ˈeksɪkjuːt/",
     "ja": [
       "履行する"
     ],
@@ -3733,6 +4070,7 @@
     "senses": [
       "execute-carryoutcontract"
     ],
+    "origin": "ex-（すっかり）＋ ラテン語 sequi（続ける）。最後まで運んで果たすこと",
     "example": {
       "en": "Both sides executed the agreement in May.",
       "ja": "双方は五月に協定を履行した。"
@@ -3742,6 +4080,7 @@
     "id": "w1075",
     "type": "word",
     "en": "exert",
+    "ipa": "/ɪɡˈzɜːrt/",
     "ja": [
       "行使する"
     ],
@@ -3755,6 +4094,7 @@
     "senses": [
       "exert-applyinfluence"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 serere（つなぐ）。内にある力を外へ差し向けること",
     "example": {
       "en": "The parent firm exerts little control.",
       "ja": "親会社はほとんど支配を行使しない。"
@@ -3764,6 +4104,7 @@
     "id": "w1076",
     "type": "word",
     "en": "exhaustive",
+    "ipa": "/ɪɡˈzɔːstɪv/",
     "ja": [
       "網羅的な"
     ],
@@ -3777,6 +4118,7 @@
     "senses": [
       "exhaustive-completelythorough"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 haurire（汲む）。汲み尽くすほど調べ切ること",
     "example": {
       "en": "An exhaustive check found no leaks.",
       "ja": "網羅的な点検で漏れは見つからなかった。"
@@ -3786,6 +4128,7 @@
     "id": "w1077",
     "type": "word",
     "en": "expenditure",
+    "ipa": "/ɪkˈspendɪtʃər/",
     "ja": [
       "出費"
     ],
@@ -3799,6 +4142,7 @@
     "senses": [
       "expenditure-actofspending"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 pendere（量る・払う）。払い出した額。spend と同語源",
     "example": {
       "en": "Capital expenditure doubled this year.",
       "ja": "設備の出費は今年倍になった。"
@@ -3808,6 +4152,7 @@
     "id": "w1078",
     "type": "word",
     "en": "expire-date",
+    "ipa": "/ɪkˈspaɪər deɪt/",
     "ja": [
       "使用期限"
     ],
@@ -3821,6 +4166,7 @@
     "senses": [
       "expiredate-lastusableday"
     ],
+    "origin": "expire（切れる）＋ date（日）。効力が切れる日",
     "example": {
       "en": "Check the expiry date on every drum.",
       "ja": "各樽の使用期限を確かめなさい。"
@@ -3830,6 +4176,7 @@
     "id": "w1079",
     "type": "word",
     "en": "explicit",
+    "ipa": "/ɪkˈsplɪsɪt/",
     "ja": [
       "明示的な"
     ],
@@ -3843,6 +4190,7 @@
     "senses": [
       "explicit-statedclearly"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 plicare（折る）。折り目を広げて言い切ってあること",
     "example": {
       "en": "The contract gives explicit delivery windows.",
       "ja": "契約は明示的な配達の時間帯を定める。"
@@ -3852,6 +4200,7 @@
     "id": "w1080",
     "type": "word",
     "en": "exploit",
+    "ipa": "/ɪkˈsplɔɪt/",
     "ja": [
       "活かし切る"
     ],
@@ -3865,6 +4214,7 @@
     "senses": [
       "exploit-makefulluseof"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 plicare（折る）。畳まれた値打ちを開いて使い切ること",
     "example": {
       "en": "The firm exploited the gap in weekend service.",
       "ja": "会社は週末の業務の隙間を活かし切った。"
@@ -3874,6 +4224,7 @@
     "id": "w1081",
     "type": "word",
     "en": "extensive",
+    "ipa": "/ɪkˈstensɪv/",
     "ja": [
       "広範囲の"
     ],
@@ -3887,6 +4238,7 @@
     "senses": [
       "extensive-coveringlargearea"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 tendere（伸ばす）。広く伸び渡っていること",
     "example": {
       "en": "Extensive repairs closed the west wing.",
       "ja": "広範囲の修理で西棟が閉鎖された。"
@@ -3896,6 +4248,7 @@
     "id": "w1082",
     "type": "word",
     "en": "facilitate",
+    "ipa": "/fəˈsɪləteɪt/",
     "ja": [
       "円滑にする"
     ],
@@ -3909,6 +4262,7 @@
     "senses": [
       "facilitate-makeeasier"
     ],
+    "origin": "ラテン語 facilis（たやすい）。やりやすくすること。facility と同語源",
     "example": {
       "en": "A single form facilitates customs clearance.",
       "ja": "一枚の用紙が通関を円滑にする。"
@@ -3918,6 +4272,7 @@
     "id": "w1083",
     "type": "word",
     "en": "faculty",
+    "ipa": "/ˈfæklti/",
     "ja": [
       "教職員"
     ],
@@ -3931,6 +4286,7 @@
     "senses": [
       "faculty-teachingstaff"
     ],
+    "origin": "ラテン語 facilis（たやすい）。物事をこなす力、そこから学部の教員団",
     "example": {
       "en": "Faculty from the college judged the contest.",
       "ja": "大学の教職員が競技を審査した。"
@@ -3940,6 +4296,7 @@
     "id": "w1084",
     "type": "word",
     "en": "feasibility",
+    "ipa": "/ˌfiːzəˈbɪləti/",
     "ja": [
       "実現可能性"
     ],
@@ -3953,6 +4310,7 @@
     "senses": [
       "feasibility-practicalworkability"
     ],
+    "origin": "ラテン語 facere（作る）。実際に作れるかどうかの度合い",
     "example": {
       "en": "A feasibility study begins next month.",
       "ja": "実現可能性の調査は来月始まる。"
@@ -3962,6 +4320,7 @@
     "id": "w1085",
     "type": "word",
     "en": "fiscal-year",
+    "ipa": "/ˈfɪskl jɪr/",
     "ja": [
       "会計年度"
     ],
@@ -3975,6 +4334,7 @@
     "senses": [
       "fiscalyear-accountingperiod"
     ],
+    "origin": "ラテン語 fiscus（国庫のかご）＋ year（年）。会計を締める一年",
     "example": {
       "en": "The fiscal year closes at the end of March.",
       "ja": "会計年度は三月末に締まる。"
@@ -3984,6 +4344,7 @@
     "id": "w1086",
     "type": "word",
     "en": "foresee",
+    "ipa": "/fɔːrˈsiː/",
     "ja": [
       "予見する"
     ],
@@ -3997,6 +4358,7 @@
     "senses": [
       "foresee-expectbeforehand"
     ],
+    "origin": "fore（前もって）＋ see（見る）。先に見ておくこと",
     "example": {
       "en": "Nobody foresaw the port closure.",
       "ja": "誰も港の閉鎖を予見しなかった。"
@@ -4006,6 +4368,7 @@
     "id": "w1087",
     "type": "word",
     "en": "formulate",
+    "ipa": "/ˈfɔːrmjuleɪt/",
     "ja": [
       "策定する"
     ],
@@ -4019,6 +4382,7 @@
     "senses": [
       "formulate-devisecarefully"
     ],
+    "origin": "ラテン語 forma（形）。言葉や案をきちんと形にすること",
     "example": {
       "en": "Management formulated a three-year plan.",
       "ja": "経営陣は三か年の計画を策定した。"
@@ -4028,6 +4392,7 @@
     "id": "w1088",
     "type": "word",
     "en": "foster",
+    "ipa": "/ˈfɔːstər/",
     "ja": [
       "育成する"
     ],
@@ -4041,6 +4406,7 @@
     "senses": [
       "foster-encouragegrowth"
     ],
+    "origin": "古英語 fostor（食べ物・養い）。養って育てること。food と同語源",
     "example": {
       "en": "The scheme fosters young technicians.",
       "ja": "その仕組みは若い技術者を育成する。"
@@ -4050,6 +4416,7 @@
     "id": "w1089",
     "type": "word",
     "en": "fraction",
+    "ipa": "/ˈfrækʃn/",
     "ja": [
       "わずかな部分"
     ],
@@ -4063,6 +4430,7 @@
     "senses": [
       "fraction-smallportion"
     ],
+    "origin": "ラテン語 frangere（砕く）。砕いた一片。fragile, fragment と同語源",
     "example": {
       "en": "Only a fraction of stock was damaged.",
       "ja": "在庫のわずかな部分だけが破損した。"
@@ -4072,6 +4440,7 @@
     "id": "w1090",
     "type": "word",
     "en": "framework",
+    "ipa": "/ˈfreɪmwɜːrk/",
     "ja": [
       "枠組み"
     ],
@@ -4085,6 +4454,7 @@
     "senses": [
       "framework-basicstructure"
     ],
+    "origin": "frame（骨組み）＋ work（造り）。中身を支える骨組み",
     "example": {
       "en": "A new framework governs subcontracting.",
       "ja": "新しい枠組みが下請けを規律する。"
@@ -4094,6 +4464,7 @@
     "id": "w1091",
     "type": "word",
     "en": "fulfill",
+    "ipa": "/fʊlˈfɪl/",
     "ja": [
       "果たす"
     ],
@@ -4107,6 +4478,7 @@
     "senses": [
       "fulfill-completeobligation"
     ],
+    "origin": "full（いっぱい）＋ fill（満たす）。すっかり満たして果たすこと",
     "example": {
       "en": "The supplier fulfilled every order on time.",
       "ja": "供給業者は全ての注文を期日どおり果たした。"
@@ -4116,6 +4488,7 @@
     "id": "w1092",
     "type": "word",
     "en": "fundamental",
+    "ipa": "/ˌfʌndəˈmentl/",
     "ja": [
       "根本的な"
     ],
@@ -4129,6 +4502,7 @@
     "senses": [
       "fundamental-basicandessential"
     ],
+    "origin": "ラテン語 fundus（底）。底を成していること。found, fund と同語源",
     "example": {
       "en": "A fundamental design flaw caused the recall.",
       "ja": "根本的な設計の欠点が回収を招いた。"
@@ -4138,6 +4512,7 @@
     "id": "w1093",
     "type": "word",
     "en": "generic",
+    "ipa": "/dʒəˈnerɪk/",
     "ja": [
       "一般名称の"
     ],
@@ -4151,6 +4526,7 @@
     "senses": [
       "generic-notbrandname"
     ],
+    "origin": "ラテン語 genus（種類）。特定の商標でなく種類全体を指すこと。gene と同語源",
     "example": {
       "en": "Generic cartridges cost half as much.",
       "ja": "一般名称の筒は半額で済む。"
@@ -4160,6 +4536,7 @@
     "id": "w1094",
     "type": "word",
     "en": "governance",
+    "ipa": "/ˈɡʌvərnəns/",
     "ja": [
       "統治体制"
     ],
@@ -4173,6 +4550,7 @@
     "senses": [
       "governance-systemofcontrol"
     ],
+    "origin": "ギリシャ語 kybernan（舵を取る）。組織の舵取りの仕組み。govern と同語源",
     "example": {
       "en": "Good governance reassured the lenders.",
       "ja": "良好な統治体制が貸し手を安心させた。"
@@ -4182,6 +4560,7 @@
     "id": "w1095",
     "type": "word",
     "en": "gradual",
+    "ipa": "/ˈɡrædʒuəl/",
     "ja": [
       "緩やかな"
     ],
@@ -4195,6 +4574,7 @@
     "senses": [
       "gradual-happeningslowly"
     ],
+    "origin": "ラテン語 gradus（段）。一段ずつ進むこと。grade, progress と同語源",
     "example": {
       "en": "A gradual rise in orders began in June.",
       "ja": "注文の緩やかな増加が六月に始まった。"
@@ -4204,6 +4584,7 @@
     "id": "w1096",
     "type": "word",
     "en": "grievance",
+    "ipa": "/ˈɡriːvəns/",
     "ja": [
       "苦情申し立て"
     ],
@@ -4217,6 +4598,7 @@
     "senses": [
       "grievance-formalcomplaint"
     ],
+    "origin": "ラテン語 gravis（重い）。重く受け止めている不満。grave, aggravate と同語源",
     "example": {
       "en": "The grievance was settled within a month.",
       "ja": "苦情申し立ては一か月で解決した。"
@@ -4226,6 +4608,7 @@
     "id": "w1097",
     "type": "word",
     "en": "halt",
+    "ipa": "/hɔːlt/",
     "ja": [
       "中断させる"
     ],
@@ -4239,6 +4622,7 @@
     "senses": [
       "halt-bringtostop"
     ],
+    "origin": "ドイツ語 Halt（停止）。行軍を止める号令から",
     "example": {
       "en": "A power cut halted the coating line.",
       "ja": "停電が塗装の生産設備を中断させた。"
@@ -4248,6 +4632,7 @@
     "id": "w1098",
     "type": "word",
     "en": "hesitate",
+    "ipa": "/ˈhezɪteɪt/",
     "ja": [
       "ためらう"
     ],
@@ -4261,6 +4646,7 @@
     "senses": [
       "hesitate-pausebeforeacting"
     ],
+    "origin": "ラテン語 haerere（くっつく）。足が止まって動けないこと。adhere と同語源",
     "example": {
       "en": "Do not hesitate to call the night desk.",
       "ja": "夜間の窓口へ電話するのをためらわないでください。"
@@ -4270,6 +4656,7 @@
     "id": "w1099",
     "type": "word",
     "en": "hierarchy",
+    "ipa": "/ˈhaɪərɑːrki/",
     "ja": [
       "階層"
     ],
@@ -4283,6 +4670,7 @@
     "senses": [
       "hierarchy-rankedstructure"
     ],
+    "origin": "ギリシャ語 hieros（聖）＋ archein（治める）。位の上下で組まれた序列",
     "example": {
       "en": "A flat hierarchy speeds up decisions.",
       "ja": "平らな階層が決定を速める。"
@@ -4292,6 +4680,7 @@
     "id": "w1100",
     "type": "word",
     "en": "hinder",
+    "ipa": "/ˈhɪndər/",
     "ja": [
       "妨害する"
     ],
@@ -4305,6 +4694,7 @@
     "senses": [
       "hinder-getinthewayof"
     ],
+    "origin": "古英語 hinder（後ろに）。後ろへ引き留めること。behind と同語源",
     "example": {
       "en": "Parked cars hinder access to the dock.",
       "ja": "駐車した車が埠頭への出入りを妨害する。"
@@ -4314,6 +4704,7 @@
     "id": "w1101",
     "type": "word",
     "en": "identical-copy",
+    "ipa": "/aɪˈdentɪkl ˈkɑːpi/",
     "ja": [
       "同一の写し"
     ],
@@ -4327,6 +4718,7 @@
     "senses": [
       "identcopy-exactduplicate"
     ],
+    "origin": "identical（同一の）＋ copy（写し）。寸分違わない写し",
     "example": {
       "en": "Each party keeps an identical copy.",
       "ja": "各当事者が同一の写しを保管する。"
@@ -4336,6 +4728,7 @@
     "id": "w1102",
     "type": "word",
     "en": "immerse",
+    "ipa": "/ɪˈmɜːrs/",
     "ja": [
       "没頭させる"
     ],
@@ -4349,6 +4742,7 @@
     "senses": [
       "immerse-involvedeeply"
     ],
+    "origin": "im-（中へ）＋ ラテン語 mergere（沈める）。中へ沈め込むこと。merge と同語源",
     "example": {
       "en": "The course immerses trainees in real cases.",
       "ja": "その講座は研修生を実例に没頭させる。"
@@ -4358,6 +4752,7 @@
     "id": "w1103",
     "type": "word",
     "en": "imminent",
+    "ipa": "/ˈɪmɪnənt/",
     "ja": [
       "差し迫った"
     ],
@@ -4371,6 +4766,7 @@
     "senses": [
       "imminent-abouttohappen"
     ],
+    "origin": "im-（上に）＋ ラテン語 minere（突き出る）。頭上に迫っていること。eminent と同語源",
     "example": {
       "en": "An imminent strike threatened the sailing.",
       "ja": "差し迫った争議が出航を脅かした。"
@@ -4380,6 +4776,7 @@
     "id": "w1104",
     "type": "word",
     "en": "implication",
+    "ipa": "/ˌɪmplɪˈkeɪʃn/",
     "ja": [
       "含意"
     ],
@@ -4393,6 +4790,7 @@
     "senses": [
       "implication-suggestedconsequence"
     ],
+    "origin": "im-（中へ）＋ ラテン語 plicare（折る）。中に折り込まれた言外の意味。imply と同語源",
     "example": {
       "en": "The clause has serious cost implications.",
       "ja": "その条項は費用に重い含意を持つ。"
@@ -4402,6 +4800,7 @@
     "id": "w1105",
     "type": "word",
     "en": "inaugurate",
+    "ipa": "/ɪˈnɔːɡjəreɪt/",
     "ja": [
       "開設する"
     ],
@@ -4415,6 +4814,7 @@
     "senses": [
       "inaugurate-openofficially"
     ],
+    "origin": "ラテン語 augur（鳥占い師）。占いで吉を得てから始めた古代の儀式から",
     "example": {
       "en": "The mayor inaugurated the new terminal.",
       "ja": "市長が新しい発着所を開設した。"
@@ -4424,6 +4824,7 @@
     "id": "w1106",
     "type": "word",
     "en": "incentive-plan",
+    "ipa": "/ɪnˈsentɪv plæn/",
     "ja": [
       "奨励制度"
     ],
@@ -4437,6 +4838,7 @@
     "senses": [
       "incentplan-rewardscheme"
     ],
+    "origin": "incentive（誘因）＋ plan（制度）。やる気を引き出す仕組み",
     "example": {
       "en": "An incentive plan cut absence rates.",
       "ja": "奨励制度が欠勤の率を下げた。"
@@ -4446,6 +4848,7 @@
     "id": "w1107",
     "type": "word",
     "en": "inclusion",
+    "ipa": "/ɪnˈkluːʒn/",
     "ja": [
       "包含"
     ],
@@ -4459,6 +4862,7 @@
     "senses": [
       "inclusion-actofincluding"
     ],
+    "origin": "in-（中に）＋ ラテン語 claudere（閉じる）。中に取り込むこと。include と同語源",
     "example": {
       "en": "The inclusion of freight raised the quote.",
       "ja": "運賃の包含が見積もりを押し上げた。"
@@ -4468,6 +4872,7 @@
     "id": "w1108",
     "type": "word",
     "en": "incorporate",
+    "ipa": "/ɪnˈkɔːrpəreɪt/",
     "ja": [
       "組み入れる"
     ],
@@ -4481,6 +4886,7 @@
     "senses": [
       "incorporate-buildinto"
     ],
+    "origin": "in-（中へ）＋ ラテン語 corpus（体）。一つの体の中へ取り込むこと。corporate と同語源",
     "example": {
       "en": "The design incorporates a folding tray.",
       "ja": "設計は折りたたみの受け皿を組み入れている。"
@@ -4490,6 +4896,7 @@
     "id": "w1109",
     "type": "word",
     "en": "indispensable",
+    "ipa": "/ˌɪndɪˈspensəbl/",
     "ja": [
       "欠かせない"
     ],
@@ -4503,6 +4910,7 @@
     "senses": [
       "indispensable-absolutelyneeded"
     ],
+    "origin": "in-（否定）＋ dispense（免じる）。免除できない、欠かせないこと",
     "example": {
       "en": "Her knowledge of customs is indispensable.",
       "ja": "通関についての彼女の知識は欠かせない。"
@@ -4512,6 +4920,7 @@
     "id": "w1110",
     "type": "word",
     "en": "inference",
+    "ipa": "/ˈɪnfərəns/",
     "ja": [
       "推論"
     ],
@@ -4525,6 +4934,7 @@
     "senses": [
       "inference-conclusiondrawn"
     ],
+    "origin": "in-（中へ）＋ ラテン語 ferre（運ぶ）。事実から結論へ運ぶこと。transfer と同語源",
     "example": {
       "en": "The inference from the data is clear.",
       "ja": "そのデータからの推論は明白だ。"
@@ -4534,6 +4944,7 @@
     "id": "w1111",
     "type": "word",
     "en": "inflation",
+    "ipa": "/ɪnˈfleɪʃn/",
     "ja": [
       "物価上昇"
     ],
@@ -4547,6 +4958,7 @@
     "senses": [
       "inflation-risingpricelevel"
     ],
+    "origin": "in-（中へ）＋ ラテン語 flare（吹く）。空気を吹き込んで膨らむこと",
     "example": {
       "en": "Inflation pushed up the packaging budget.",
       "ja": "物価上昇が包装の予算を押し上げた。"
@@ -4556,6 +4968,7 @@
     "id": "w1112",
     "type": "word",
     "en": "infrastructure",
+    "ipa": "/ˈɪnfrəstrʌktʃər/",
     "ja": [
       "社会基盤"
     ],
@@ -4569,6 +4982,7 @@
     "senses": [
       "infrastructure-basicfacilities"
     ],
+    "origin": "infra-（下に）＋ structure（構造）。社会を下から支える造り",
     "example": {
       "en": "Port infrastructure limits container growth.",
       "ja": "港の社会基盤が貨物箱の伸びを制限する。"
@@ -4578,6 +4992,7 @@
     "id": "w1113",
     "type": "word",
     "en": "inherent",
+    "ipa": "/ɪnˈhɪrənt/",
     "ja": [
       "本来備わった"
     ],
@@ -4591,6 +5006,7 @@
     "senses": [
       "inherent-existingnaturally"
     ],
+    "origin": "in-（中に）＋ ラテン語 haerere（くっつく）。もとから付いていること。adhere と同語源",
     "example": {
       "en": "Every solvent carries an inherent fire risk.",
       "ja": "どの溶剤にも本来備わった火災の危険がある。"
@@ -4600,6 +5016,7 @@
     "id": "w1114",
     "type": "word",
     "en": "inhibit",
+    "ipa": "/ɪnˈhɪbɪt/",
     "ja": [
       "抑制する"
     ],
@@ -4613,6 +5030,7 @@
     "senses": [
       "inhibit-holdback"
     ],
+    "origin": "in-（〜に）＋ ラテン語 habere（保つ）。押さえ込んで進ませないこと",
     "example": {
       "en": "Cold weather inhibits the curing process.",
       "ja": "寒さが硬化の工程を抑制する。"
@@ -4622,6 +5040,7 @@
     "id": "w1115",
     "type": "word",
     "en": "initiate-claim",
+    "ipa": "/ɪˈnɪʃieɪt kleɪm/",
     "ja": [
       "請求開始"
     ],
@@ -4635,6 +5054,7 @@
     "senses": [
       "initclaim-startofdemand"
     ],
+    "origin": "initiate（始める）＋ claim（請求）。請求の手続きを起こすこと",
     "example": {
       "en": "Claim initiation must occur within a week.",
       "ja": "請求開始は一週間以内に行わねばならない。"
@@ -4644,6 +5064,7 @@
     "id": "w1116",
     "type": "word",
     "en": "innovate",
+    "ipa": "/ˈɪnəveɪt/",
     "ja": [
       "刷新する"
     ],
@@ -4657,6 +5078,7 @@
     "senses": [
       "innovate-introducenewmethods"
     ],
+    "origin": "in-（中へ）＋ ラテン語 novus（新しい）。新しいものを入れて改めること。novel と同語源",
     "example": {
       "en": "The plant innovates to keep energy low.",
       "ja": "工場は電力を抑えるために刷新する。"
@@ -4666,6 +5088,7 @@
     "id": "w1117",
     "type": "word",
     "en": "insight",
+    "ipa": "/ˈɪnsaɪt/",
     "ja": [
       "洞察"
     ],
@@ -4679,6 +5102,7 @@
     "senses": [
       "insight-deepunderstanding"
     ],
+    "origin": "in（中を）＋ sight（見ること）。奥まで見通す目",
     "example": {
       "en": "Store visits gave the team useful insight.",
       "ja": "店舗訪問が班に有用な洞察を与えた。"
@@ -4688,6 +5112,7 @@
     "id": "w1118",
     "type": "word",
     "en": "inspector",
+    "ipa": "/ɪnˈspektər/",
     "ja": [
       "検査官"
     ],
@@ -4701,6 +5126,7 @@
     "senses": [
       "inspector-officialexaminer"
     ],
+    "origin": "inspect（点検する）＋ -or。点検する役の人",
     "example": {
       "en": "An inspector visits the site each quarter.",
       "ja": "検査官が四半期ごとに現場を訪れる。"
@@ -4710,6 +5136,7 @@
     "id": "w1119",
     "type": "word",
     "en": "instill",
+    "ipa": "/ɪnˈstɪl/",
     "ja": [
       "浸透させる"
     ],
@@ -4723,6 +5150,7 @@
     "senses": [
       "instill-graduallyimplant"
     ],
+    "origin": "in-（中へ）＋ ラテン語 stilla（しずく）。しずくのように少しずつ入れること",
     "example": {
       "en": "Drills instill safe habits in new staff.",
       "ja": "訓練が新しい職員に安全な習慣を浸透させる。"
@@ -4732,6 +5160,7 @@
     "id": "w1120",
     "type": "word",
     "en": "institute",
+    "ipa": "/ˈɪnstɪtuːt/",
     "ja": [
       "創設する"
     ],
@@ -4745,6 +5174,7 @@
     "senses": [
       "institute-establishformally"
     ],
+    "origin": "in-（上に）＋ ラテン語 statuere（立てる）。制度や機関を立てること。statue と同語源",
     "example": {
       "en": "The firm instituted a quarterly review.",
       "ja": "会社は四半期ごとの見直しを創設した。"
@@ -4754,6 +5184,7 @@
     "id": "w1121",
     "type": "word",
     "en": "insufficient",
+    "ipa": "/ˌɪnsəˈfɪʃnt/",
     "ja": [
       "不十分な"
     ],
@@ -4767,6 +5198,7 @@
     "senses": [
       "insufficient-notenough"
     ],
+    "origin": "in-（否定）＋ sufficient（十分な）。足りないこと",
     "example": {
       "en": "Insufficient packing caused the breakage.",
       "ja": "不十分な梱包が破損を招いた。"
@@ -4776,6 +5208,7 @@
     "id": "w1122",
     "type": "word",
     "en": "integrity",
+    "ipa": "/ɪnˈteɡrəti/",
     "ja": [
       "完全性"
     ],
@@ -4789,6 +5222,7 @@
     "senses": [
       "integrity-soundwholeness"
     ],
+    "origin": "ラテン語 integer（欠けのない）。欠けや偽りがないこと。integrate と同語源",
     "example": {
       "en": "Test the seal integrity before shipping.",
       "ja": "出荷の前に封の完全性を試験しなさい。"
@@ -4798,6 +5232,7 @@
     "id": "w1123",
     "type": "word",
     "en": "intensive",
+    "ipa": "/ɪnˈtensɪv/",
     "ja": [
       "集中的な"
     ],
@@ -4811,6 +5246,7 @@
     "senses": [
       "intensive-concentratedeffort"
     ],
+    "origin": "in-（中へ）＋ ラテン語 tendere（張る）。力を一点に張り詰めること。intense と同語源",
     "example": {
       "en": "An intensive course lasts four days.",
       "ja": "集中的な講座は四日間続く。"
@@ -4820,6 +5256,7 @@
     "id": "w1124",
     "type": "word",
     "en": "interim",
+    "ipa": "/ˈɪntərɪm/",
     "ja": [
       "中間の"
     ],
@@ -4833,6 +5270,7 @@
     "senses": [
       "interim-temporarybetween"
     ],
+    "origin": "ラテン語 interim（その間に）。本決まりまでの間のこと",
     "example": {
       "en": "An interim report appears in August.",
       "ja": "中間の報告書は八月に出る。"
@@ -4842,6 +5280,7 @@
     "id": "w1125",
     "type": "word",
     "en": "intermediary",
+    "ipa": "/ˌɪntərˈmiːdieri/",
     "ja": [
       "仲介者"
     ],
@@ -4855,6 +5294,7 @@
     "senses": [
       "intermediary-gobetween"
     ],
+    "origin": "inter-（間に）＋ ラテン語 medius（中間）。間に立つ者。mediate と同語源",
     "example": {
       "en": "An intermediary arranged the first meeting.",
       "ja": "仲介者が最初の会合を用意した。"
@@ -4864,6 +5304,7 @@
     "id": "w1126",
     "type": "word",
     "en": "interval",
+    "ipa": "/ˈɪntərvl/",
     "ja": [
       "間隔"
     ],
@@ -4877,6 +5318,7 @@
     "senses": [
       "interval-gapbetweenevents"
     ],
+    "origin": "inter-（間に）＋ ラテン語 vallum（柵）。柵と柵の間、そこから間隔",
     "example": {
       "en": "Service intervals shortened to six months.",
       "ja": "整備の間隔は六か月に縮まった。"
@@ -4886,6 +5328,7 @@
     "id": "w1127",
     "type": "word",
     "en": "intricate",
+    "ipa": "/ˈɪntrɪkət/",
     "ja": [
       "入り組んだ"
     ],
@@ -4899,6 +5342,7 @@
     "senses": [
       "intricate-verydetailed"
     ],
+    "origin": "in-（中に）＋ ラテン語 tricae（もつれ）。もつれ込んで入り組んでいること",
     "example": {
       "en": "The mold has an intricate cooling channel.",
       "ja": "その金型は入り組んだ冷却の流路を持つ。"
@@ -4908,6 +5352,7 @@
     "id": "w1128",
     "type": "word",
     "en": "invoke",
+    "ipa": "/ɪnˈvoʊk/",
     "ja": [
       "援用する"
     ],
@@ -4921,6 +5366,7 @@
     "senses": [
       "invoke-callupclause"
     ],
+    "origin": "in-（〜へ）＋ ラテン語 vocare（呼ぶ）。条文や助けを呼び出すこと。voice と同語源",
     "example": {
       "en": "The buyer invoked the penalty clause.",
       "ja": "買い手は違約の条項を援用した。"
@@ -4930,6 +5376,7 @@
     "id": "w1129",
     "type": "word",
     "en": "irrelevant",
+    "ipa": "/ɪˈreləvənt/",
     "ja": [
       "無関係な"
     ],
@@ -4943,6 +5390,7 @@
     "senses": [
       "irrelevant-notconnected"
     ],
+    "origin": "ir-（否定）＋ relevant（関わる）。その件に関わりがないこと",
     "example": {
       "en": "The chair ruled the point irrelevant.",
       "ja": "議長はその指摘を無関係なものとした。"
@@ -4952,6 +5400,7 @@
     "id": "w1130",
     "type": "word",
     "en": "jurisdiction",
+    "ipa": "/ˌdʒʊrɪsˈdɪkʃn/",
     "ja": [
       "管轄"
     ],
@@ -4965,6 +5414,7 @@
     "senses": [
       "jurisdiction-legalauthorityarea"
     ],
+    "origin": "ラテン語 jus（法）＋ dicere（言う）。法を宣する範囲。justice と同語源",
     "example": {
       "en": "Disputes fall under Osaka jurisdiction.",
       "ja": "紛争は大阪の管轄に属する。"
@@ -4974,6 +5424,7 @@
     "id": "w1131",
     "type": "word",
     "en": "landmark",
+    "ipa": "/ˈlændmɑːrk/",
     "ja": [
       "画期的な"
     ],
@@ -4987,6 +5438,7 @@
     "senses": [
       "landmark-historicallyimportant"
     ],
+    "origin": "land（土地）＋ mark（目印）。境の目印、そこから節目となるもの",
     "example": {
       "en": "A landmark ruling changed the practice.",
       "ja": "画期的な判断が慣行を変えた。"
@@ -4996,6 +5448,7 @@
     "id": "w1132",
     "type": "word",
     "en": "latitude",
+    "ipa": "/ˈlætɪtuːd/",
     "ja": [
       "裁量の幅"
     ],
@@ -5009,6 +5462,7 @@
     "senses": [
       "latitude-freedomtoact"
     ],
+    "origin": "ラテン語 latus（広い）。幅の広さ、そこから許される裁量の幅",
     "example": {
       "en": "Managers have latitude over shift patterns.",
       "ja": "管理職は勤務の型に裁量の幅を持つ。"
@@ -5018,6 +5472,7 @@
     "id": "w1133",
     "type": "word",
     "en": "liaison",
+    "ipa": "/liˈeɪzɑːn/",
     "ja": [
       "連絡係"
     ],
@@ -5031,6 +5486,7 @@
     "senses": [
       "liaison-contactperson"
     ],
+    "origin": "ラテン語 ligare（結ぶ）。両者を結ぶ役。ally, liability と同語源",
     "example": {
       "en": "A liaison keeps both offices informed.",
       "ja": "連絡係が両方の事務所に情報を伝える。"
@@ -5040,6 +5496,7 @@
     "id": "w1134",
     "type": "word",
     "en": "literal",
+    "ipa": "/ˈlɪtərəl/",
     "ja": [
       "文字どおりの"
     ],
@@ -5053,6 +5510,7 @@
     "senses": [
       "literal-exactinwording"
     ],
+    "origin": "ラテン語 littera（文字）。文字どおりであること。letter, literature と同語源",
     "example": {
       "en": "A literal reading of the clause is unhelpful.",
       "ja": "条項の文字どおりの読みは役に立たない。"
@@ -5062,6 +5520,7 @@
     "id": "w1135",
     "type": "word",
     "en": "logistics",
+    "ipa": "/ləˈdʒɪstɪks/",
     "ja": [
       "物流"
     ],
@@ -5075,6 +5534,7 @@
     "senses": [
       "logistics-movementofgoods"
     ],
+    "origin": "仏語 loger（宿営させる）。軍の宿営と補給の術、そこから物流",
     "example": {
       "en": "Logistics costs vary with the season.",
       "ja": "物流の費用は季節で変わる。"
@@ -5084,6 +5544,7 @@
     "id": "w1136",
     "type": "word",
     "en": "longevity",
+    "ipa": "/lɔːnˈdʒevəti/",
     "ja": [
       "長期の耐用"
     ],
@@ -5097,6 +5558,7 @@
     "senses": [
       "longevity-longlastingnature"
     ],
+    "origin": "ラテン語 longus（長い）＋ aevum（年）。長くもつこと",
     "example": {
       "en": "The coating improved the roof's longevity.",
       "ja": "塗膜が屋根の長期の耐用を高めた。"
@@ -5106,6 +5568,7 @@
     "id": "w1137",
     "type": "word",
     "en": "lucid",
+    "ipa": "/ˈluːsɪd/",
     "ja": [
       "わかりやすい"
     ],
@@ -5119,6 +5582,7 @@
     "senses": [
       "lucid-easytofollow"
     ],
+    "origin": "ラテン語 lux（光）。光が通るように澄んで分かること。lucid と translucent は同語源",
     "example": {
       "en": "The handbook gives lucid instructions.",
       "ja": "その便覧はわかりやすい指示を与える。"
@@ -5128,6 +5592,7 @@
     "id": "w1138",
     "type": "word",
     "en": "magnitude",
+    "ipa": "/ˈmæɡnɪtuːd/",
     "ja": [
       "規模の大きさ"
     ],
@@ -5141,6 +5606,7 @@
     "senses": [
       "magnitude-sizeofsomething"
     ],
+    "origin": "ラテン語 magnus（大きい）。大きさの度合い。major, master と同語源",
     "example": {
       "en": "Nobody expected the magnitude of the loss.",
       "ja": "誰も損失の規模の大きさを予想しなかった。"
@@ -5150,6 +5616,7 @@
     "id": "w1139",
     "type": "word",
     "en": "mandate",
+    "ipa": "/ˈmændeɪt/",
     "ja": [
       "委任事項"
     ],
@@ -5163,6 +5630,7 @@
     "senses": [
       "mandate-officialinstruction"
     ],
+    "origin": "ラテン語 manus（手）＋ dare（与える）。手渡して託した務め。mandatory と同語源",
     "example": {
       "en": "The committee's mandate ends in March.",
       "ja": "委員会の委任事項は三月に終わる。"
@@ -5172,6 +5640,7 @@
     "id": "w1140",
     "type": "word",
     "en": "manipulate",
+    "ipa": "/məˈnɪpjuleɪt/",
     "ja": [
       "巧みに操る"
     ],
@@ -5185,6 +5654,7 @@
     "senses": [
       "manipulate-handleskillfully"
     ],
+    "origin": "ラテン語 manus（手）。手で扱う、そこから思いどおりに動かすこと",
     "example": {
       "en": "The arm manipulates parts inside the oven.",
       "ja": "その腕は炉の中で部品を巧みに操る。"
@@ -5194,6 +5664,7 @@
     "id": "w1141",
     "type": "word",
     "en": "marginal",
+    "ipa": "/ˈmɑːrdʒɪnl/",
     "ja": [
       "わずかな"
     ],
@@ -5207,6 +5678,7 @@
     "senses": [
       "marginal-verysmallchange"
     ],
+    "origin": "ラテン語 margo（縁）。縁にあるほどわずかなこと。margin と同語源",
     "example": {
       "en": "The change had a marginal effect on cost.",
       "ja": "その変更は費用にわずかな効果しかなかった。"
@@ -5216,6 +5688,7 @@
     "id": "w1142",
     "type": "word",
     "en": "merit",
+    "ipa": "/ˈmerɪt/",
     "ja": [
       "利点"
     ],
@@ -5229,6 +5702,7 @@
     "senses": [
       "merit-goodquality"
     ],
+    "origin": "ラテン語 merere（値する）。値打ちのある点",
     "example": {
       "en": "The plan's chief merit is its simplicity.",
       "ja": "その計画の主な利点は単純さだ。"
@@ -5238,6 +5712,7 @@
     "id": "w1143",
     "type": "word",
     "en": "methodical",
+    "ipa": "/məˈθɑːdɪkl/",
     "ja": [
       "きちょうめんな"
     ],
@@ -5251,6 +5726,7 @@
     "senses": [
       "methodical-orderlyinapproach"
     ],
+    "origin": "ギリシャ語 meta（後を追って）＋ hodos（道）。道筋どおりに進めること",
     "example": {
       "en": "A methodical search located the missing case.",
       "ja": "きちょうめんな捜索が紛失した箱を突き止めた。"
@@ -5260,6 +5736,7 @@
     "id": "w1144",
     "type": "word",
     "en": "modest",
+    "ipa": "/ˈmɑːdɪst/",
     "ja": [
       "控えめな"
     ],
@@ -5273,6 +5750,7 @@
     "senses": [
       "modest-notlarge"
     ],
+    "origin": "ラテン語 modus（程合い）。程を越さないこと。mode, moderate と同語源",
     "example": {
       "en": "A modest rise in wages took effect.",
       "ja": "控えめな賃上げが実施された。"
@@ -5282,6 +5760,7 @@
     "id": "w1145",
     "type": "word",
     "en": "momentum",
+    "ipa": "/moʊˈmentəm/",
     "ja": [
       "勢い"
     ],
@@ -5295,6 +5774,7 @@
     "senses": [
       "momentum-buildingdrive"
     ],
+    "origin": "ラテン語 movere（動かす）。動きが持つ勢い。moment, motion と同語源",
     "example": {
       "en": "The campaign lost momentum after August.",
       "ja": "その販売活動は八月以降、勢いを失った。"
@@ -5304,6 +5784,7 @@
     "id": "w1146",
     "type": "word",
     "en": "mutual",
+    "ipa": "/ˈmjuːtʃuəl/",
     "ja": [
       "双方の"
     ],
@@ -5317,6 +5798,7 @@
     "senses": [
       "mutual-sharedbyboth"
     ],
+    "origin": "ラテン語 mutare（変える）。互いに取り替え合うこと。change の系",
     "example": {
       "en": "The deal rests on mutual trust.",
       "ja": "その取引は双方の信頼に基づく。"
@@ -5326,6 +5808,7 @@
     "id": "w1147",
     "type": "word",
     "en": "niche",
+    "ipa": "/niːʃ/",
     "ja": [
       "隙間市場"
     ],
@@ -5339,6 +5822,7 @@
     "senses": [
       "niche-specializedmarket"
     ],
+    "origin": "仏語 nicher（巣を作る）。壁のくぼみ、そこから小さな市場",
     "example": {
       "en": "The firm found a niche in lab glassware.",
       "ja": "会社は実験用ガラス器具の隙間市場を見つけた。"
@@ -5348,6 +5832,7 @@
     "id": "w1148",
     "type": "word",
     "en": "notable",
+    "ipa": "/ˈnoʊtəbl/",
     "ja": [
       "注目すべき"
     ],
@@ -5361,6 +5846,7 @@
     "senses": [
       "notable-worthyofattention"
     ],
+    "origin": "ラテン語 nota（印）。書き留めるに値すること。note と同語源",
     "example": {
       "en": "A notable rise came from online orders.",
       "ja": "注目すべき伸びは画面上の注文から来た。"
@@ -5370,6 +5856,7 @@
     "id": "w1149",
     "type": "word",
     "en": "notwithstanding",
+    "ipa": "/ˌnɑːtwɪθˈstændɪŋ/",
     "ja": [
       "にもかかわらず"
     ],
@@ -5383,6 +5870,7 @@
     "senses": [
       "notwithstanding-despitesomething"
     ],
+    "origin": "not（〜ない）＋ withstand（逆らって立つ）。逆らわれても成り立つこと",
     "example": {
       "en": "Notwithstanding the delay, costs held steady.",
       "ja": "遅れにもかかわらず費用は横ばいだった。"
@@ -5392,6 +5880,7 @@
     "id": "w1150",
     "type": "word",
     "en": "nullify",
+    "ipa": "/ˈnʌlɪfaɪ/",
     "ja": [
       "無効にする"
     ],
@@ -5405,6 +5894,7 @@
     "senses": [
       "nullify-makeinvalid"
     ],
+    "origin": "ラテン語 nullus（無い）＋ facere（作る）。無いものにすること。null と同語源",
     "example": {
       "en": "Unauthorized repairs nullify the guarantee.",
       "ja": "無許可の修理は保証を無効にする。"
@@ -5414,6 +5904,7 @@
     "id": "w1151",
     "type": "word",
     "en": "objection",
+    "ipa": "/əbˈdʒekʃn/",
     "ja": [
       "異議"
     ],
@@ -5427,6 +5918,7 @@
     "senses": [
       "objection-statedopposition"
     ],
+    "origin": "ob-（向かって）＋ ラテン語 jacere（投げる）。相手に投げ返す異議。object と同語源",
     "example": {
       "en": "One director raised an objection to the fee.",
       "ja": "取締役一名が料金に異議を唱えた。"
@@ -5436,6 +5928,7 @@
     "id": "w1152",
     "type": "word",
     "en": "oblige",
+    "ipa": "/əˈblaɪdʒ/",
     "ja": [
       "義務づける"
     ],
@@ -5449,6 +5942,7 @@
     "senses": [
       "oblige-legallyrequire"
     ],
+    "origin": "ob-（〜へ）＋ ラテン語 ligare（縛る）。務めに縛り付けること。obligation と同語源",
     "example": {
       "en": "The lease obliges tenants to insure contents.",
       "ja": "賃貸借は賃借人に内容物の保険を義務づける。"
@@ -5458,6 +5952,7 @@
     "id": "w1153",
     "type": "word",
     "en": "obscure",
+    "ipa": "/əbˈskjʊr/",
     "ja": [
       "不明瞭にする"
     ],
@@ -5471,6 +5966,7 @@
     "senses": [
       "obscure-makehardtosee"
     ],
+    "origin": "ob-（覆って）＋ 印欧語 skeu-（覆う）。覆って見えにくくすること",
     "example": {
       "en": "Mud obscured the container numbers.",
       "ja": "泥が貨物箱の番号を不明瞭にした。"
@@ -5480,6 +5976,7 @@
     "id": "w1154",
     "type": "word",
     "en": "onset",
+    "ipa": "/ˈɑːnset/",
     "ja": [
       "始まり"
     ],
@@ -5493,6 +5990,7 @@
     "senses": [
       "onset-beginningofevent"
     ],
+    "origin": "on（〜に）＋ set（据える）。物事が始まる出だし",
     "example": {
       "en": "The onset of the rains slowed the build.",
       "ja": "雨の始まりが建設を遅らせた。"
@@ -5502,6 +6000,7 @@
     "id": "w1155",
     "type": "word",
     "en": "optimal",
+    "ipa": "/ˈɑːptɪml/",
     "ja": [
       "最適な"
     ],
@@ -5515,6 +6014,7 @@
     "senses": [
       "optimal-bestpossible"
     ],
+    "origin": "ラテン語 optimus（最良の）。条件のうえで最も良いこと",
     "example": {
       "en": "The optimal drying time is ninety minutes.",
       "ja": "最適な乾燥時間は九十分だ。"
@@ -5524,6 +6024,7 @@
     "id": "w1156",
     "type": "word",
     "en": "optimize",
+    "ipa": "/ˈɑːptɪmaɪz/",
     "ja": [
       "最適化する"
     ],
@@ -5537,6 +6038,7 @@
     "senses": [
       "optimize-makeasgoodaspossible"
     ],
+    "origin": "ラテン語 optimus（最良の）。最良の状態へ整えること",
     "example": {
       "en": "Software optimizes the delivery order.",
       "ja": "算譜が配達の順序を最適化する。"
@@ -5546,6 +6048,7 @@
     "id": "w1157",
     "type": "word",
     "en": "outlook",
+    "ipa": "/ˈaʊtlʊk/",
     "ja": [
       "見通し"
     ],
@@ -5559,6 +6062,7 @@
     "senses": [
       "outlook-futureprospect"
     ],
+    "origin": "out（外へ）＋ look（見る）。先を見渡した眺め",
     "example": {
       "en": "The outlook for exports remains cautious.",
       "ja": "輸出の見通しは慎重なままだ。"
@@ -5568,6 +6072,7 @@
     "id": "w1158",
     "type": "word",
     "en": "overlap",
+    "ipa": "/ˌoʊvərˈlæp/",
     "ja": [
       "重なる"
     ],
@@ -5581,6 +6086,7 @@
     "senses": [
       "overlap-partlycoincide"
     ],
+    "origin": "over（上に）＋ lap（重ねる）。一部が上に重なること",
     "example": {
       "en": "The two sessions overlap by ten minutes.",
       "ja": "二つの回は十分重なる。"
@@ -5590,6 +6096,7 @@
     "id": "w1159",
     "type": "word",
     "en": "overlook",
+    "ipa": "/ˌoʊvərˈlʊk/",
     "ja": [
       "見落とす"
     ],
@@ -5603,6 +6110,7 @@
     "senses": [
       "overlook-failtonotice"
     ],
+    "origin": "over（越えて）＋ look（見る）。目が越えてしまい見落とすこと",
     "example": {
       "en": "The checker overlooked a bent flange.",
       "ja": "検査係は曲がった縁を見落とした。"
@@ -5612,6 +6120,7 @@
     "id": "w1160",
     "type": "word",
     "en": "paramount",
+    "ipa": "/ˈpærəmaʊnt/",
     "ja": [
       "最重要の"
     ],
@@ -5625,6 +6134,7 @@
     "senses": [
       "paramount-aboveallothers"
     ],
+    "origin": "古仏語 par amont（上の方に）。何より上に立つこと",
     "example": {
       "en": "Worker safety is paramount on this site.",
       "ja": "この現場では作業員の安全が最重要だ。"
@@ -5634,6 +6144,7 @@
     "id": "w1161",
     "type": "word",
     "en": "parcel-locker",
+    "ipa": "/ˈpɑːrsl ˈlɑːkər/",
     "ja": [
       "宅配ボックス"
     ],
@@ -5647,6 +6158,7 @@
     "senses": [
       "parcellocker-selfservicebox"
     ],
+    "origin": "parcel（小包）＋ locker（施錠棚）。小包を預ける施錠棚",
     "example": {
       "en": "Residents collect goods from the parcel locker.",
       "ja": "居住者は宅配ボックスから品を受け取る。"
@@ -5656,6 +6168,7 @@
     "id": "w1162",
     "type": "word",
     "en": "partial",
+    "ipa": "/ˈpɑːrʃl/",
     "ja": [
       "部分的な"
     ],
@@ -5669,6 +6182,7 @@
     "senses": [
       "partial-notcomplete"
     ],
+    "origin": "ラテン語 pars（部分）。全体でなく一部であること。part と同語源",
     "example": {
       "en": "A partial shipment left on Tuesday.",
       "ja": "部分的な出荷が火曜に出た。"
@@ -5678,6 +6192,7 @@
     "id": "w1163",
     "type": "word",
     "en": "patent",
+    "ipa": "/ˈpætnt/",
     "ja": [
       "特許"
     ],
@@ -5691,6 +6206,7 @@
     "senses": [
       "patent-exclusiveinventionright"
     ],
+    "origin": "ラテン語 patere（開いている）。公開状として与えられた独占権",
     "example": {
       "en": "The patent expires in four years.",
       "ja": "その特許は四年後に切れる。"
@@ -5700,6 +6216,7 @@
     "id": "w1164",
     "type": "word",
     "en": "penalty",
+    "ipa": "/ˈpenlti/",
     "ja": [
       "違約金"
     ],
@@ -5713,6 +6230,7 @@
     "senses": [
       "penalty-punishmentcharge"
     ],
+    "origin": "ラテン語 poena（罰）。違反に科される罰。pain, punish と同語源",
     "example": {
       "en": "A penalty applies to late completion.",
       "ja": "完成の遅れには違約金がかかる。"
@@ -5722,6 +6240,7 @@
     "id": "w1165",
     "type": "word",
     "en": "perceive",
+    "ipa": "/pərˈsiːv/",
     "ja": [
       "受け止める"
     ],
@@ -5735,6 +6254,7 @@
     "senses": [
       "perceive-interpretinmind"
     ],
+    "origin": "per-（すっかり）＋ ラテン語 capere（取る）。しっかり受け取って捉えること",
     "example": {
       "en": "Buyers perceive the brand as reliable.",
       "ja": "買い手はその銘柄を信頼できると受け止める。"
@@ -5744,6 +6264,7 @@
     "id": "w1166",
     "type": "word",
     "en": "periodic",
+    "ipa": "/ˌpɪriˈɑːdɪk/",
     "ja": [
       "周期的な"
     ],
@@ -5757,6 +6278,7 @@
     "senses": [
       "periodic-recurringregularly"
     ],
+    "origin": "ギリシャ語 peri（周り）＋ hodos（道）。ひと回りごとに来ること。period と同語源",
     "example": {
       "en": "Periodic checks prevent unplanned stoppages.",
       "ja": "周期的な点検が予定外の停止を防ぐ。"
@@ -5766,6 +6288,7 @@
     "id": "w1167",
     "type": "word",
     "en": "perspective",
+    "ipa": "/pərˈspektɪv/",
     "ja": [
       "観点"
     ],
@@ -5779,6 +6302,7 @@
     "senses": [
       "perspective-pointofview"
     ],
+    "origin": "per-（通して）＋ ラテン語 specere（見る）。透かして見る立ち位置。inspect と同語源",
     "example": {
       "en": "The report adds a supplier's perspective.",
       "ja": "報告書は供給業者の観点を加えている。"
@@ -5788,6 +6312,7 @@
     "id": "w1168",
     "type": "word",
     "en": "persuade",
+    "ipa": "/pərˈsweɪd/",
     "ja": [
       "説得する"
     ],
@@ -5801,6 +6326,7 @@
     "senses": [
       "persuade-convincetoact"
     ],
+    "origin": "per-（すっかり）＋ ラテン語 suadere（勧める）。勧め切って納得させること",
     "example": {
       "en": "The agent persuaded the owner to renew.",
       "ja": "代理人は所有者を説得して更新させた。"
@@ -5810,6 +6336,7 @@
     "id": "w1169",
     "type": "word",
     "en": "pertain",
+    "ipa": "/pərˈteɪn/",
     "ja": [
       "関係する"
     ],
@@ -5823,6 +6350,7 @@
     "senses": [
       "pertain-berelatedto"
     ],
+    "origin": "per-（すっかり）＋ ラテン語 tenere（保つ）。その件に属していること。retain と同語源",
     "example": {
       "en": "Clause six pertains to storage charges.",
       "ja": "第六条は保管料に関係する。"
@@ -5832,6 +6360,7 @@
     "id": "w1170",
     "type": "word",
     "en": "phase",
+    "ipa": "/feɪz/",
     "ja": [
       "段階"
     ],
@@ -5845,6 +6374,7 @@
     "senses": [
       "phase-stageofproject"
     ],
+    "origin": "ギリシャ語 phasis（現れ）。月の満ち欠けの相、そこから段階",
     "example": {
       "en": "The second phase begins after the rains.",
       "ja": "第二の段階は雨季の後に始まる。"
@@ -5854,6 +6384,7 @@
     "id": "w1171",
     "type": "word",
     "en": "plausible",
+    "ipa": "/ˈplɔːzəbl/",
     "ja": [
       "もっともらしい"
     ],
@@ -5867,6 +6398,7 @@
     "senses": [
       "plausible-seemingreasonable"
     ],
+    "origin": "ラテン語 plaudere（拍手する）。拍手を得そうなほど筋が通ること。applaud と同語源",
     "example": {
       "en": "A loose sensor is a plausible cause.",
       "ja": "緩んだ感知器はもっともらしい原因だ。"
@@ -5876,6 +6408,7 @@
     "id": "w1172",
     "type": "word",
     "en": "portfolio",
+    "ipa": "/pɔːrtˈfoʊlioʊ/",
     "ja": [
       "保有一覧"
     ],
@@ -5889,6 +6422,7 @@
     "senses": [
       "portfolio-collectionofholdings"
     ],
+    "origin": "ラテン語 portare（運ぶ）＋ folium（葉・紙）。書類ばさみ、そこから保有一覧",
     "example": {
       "en": "The firm reviewed its property portfolio.",
       "ja": "会社は不動産の保有一覧を見直した。"
@@ -5898,6 +6432,7 @@
     "id": "w1173",
     "type": "word",
     "en": "postpone-notice",
+    "ipa": "/poʊstˈpoʊn ˈnoʊtɪs/",
     "ja": [
       "延期通知"
     ],
@@ -5911,6 +6446,7 @@
     "senses": [
       "postponenotice-noticeofdelay"
     ],
+    "origin": "postpone（延期する）＋ notice（通知）。延期を知らせる通知",
     "example": {
       "en": "A postponement notice went out by email.",
       "ja": "延期通知が電子便で送られた。"
@@ -5920,6 +6456,7 @@
     "id": "w1174",
     "type": "word",
     "en": "practical",
+    "ipa": "/ˈpræktɪkl/",
     "ja": [
       "実用的な"
     ],
@@ -5933,6 +6470,7 @@
     "senses": [
       "practical-usefulinpractice"
     ],
+    "origin": "ギリシャ語 praktikos（行いの）。実際に使えること。practice と同語源",
     "example": {
       "en": "A practical fix kept the line running.",
       "ja": "実用的な処置が生産を続けさせた。"
@@ -5942,6 +6480,7 @@
     "id": "w1175",
     "type": "word",
     "en": "precaution",
+    "ipa": "/prɪˈkɔːʃn/",
     "ja": [
       "予防措置"
     ],
@@ -5955,6 +6494,7 @@
     "senses": [
       "precaution-preventivemeasure"
     ],
+    "origin": "pre-（前もって）＋ ラテン語 cavere（用心する）。先に打つ用心",
     "example": {
       "en": "Fire precautions are checked monthly.",
       "ja": "火災の予防措置は毎月点検される。"
@@ -5964,6 +6504,7 @@
     "id": "w1176",
     "type": "word",
     "en": "precedent",
+    "ipa": "/ˈpresɪdənt/",
     "ja": [
       "前例"
     ],
@@ -5977,6 +6518,7 @@
     "senses": [
       "precedent-earliercaseasguide"
     ],
+    "origin": "pre-（前に）＋ ラテン語 cedere（進む）。先に起きた例。proceed と同語源",
     "example": {
       "en": "There is no precedent for this claim.",
       "ja": "この請求に前例はない。"
@@ -5986,6 +6528,7 @@
     "id": "w1177",
     "type": "word",
     "en": "predominant",
+    "ipa": "/prɪˈdɑːmɪnənt/",
     "ja": [
       "支配的な"
     ],
@@ -5999,6 +6542,7 @@
     "senses": [
       "predominant-mostcommon"
     ],
+    "origin": "pre-（前に）＋ ラテン語 dominari（支配する）。他より前に出て支配すること",
     "example": {
       "en": "Cash is still the predominant payment.",
       "ja": "現金は今も支配的な支払い方法だ。"
@@ -6008,6 +6552,7 @@
     "id": "w1178",
     "type": "word",
     "en": "prescribe",
+    "ipa": "/prɪˈskraɪb/",
     "ja": [
       "規定する"
     ],
@@ -6021,6 +6566,7 @@
     "senses": [
       "prescribe-laydownrule"
     ],
+    "origin": "pre-（前もって）＋ ラテン語 scribere（書く）。あらかじめ書いて定めること",
     "example": {
       "en": "The code prescribes two exits per floor.",
       "ja": "規定は各階に二つの出口を規定する。"
@@ -6030,6 +6576,7 @@
     "id": "w1179",
     "type": "word",
     "en": "presume",
+    "ipa": "/prɪˈzuːm/",
     "ja": [
       "推定する"
     ],
@@ -6043,6 +6590,7 @@
     "senses": [
       "presume-assumelikely"
     ],
+    "origin": "pre-（前もって）＋ ラテン語 sumere（取る）。確かめる前にそう取ること",
     "example": {
       "en": "We presume the goods left on Monday.",
       "ja": "品は月曜に出たと推定する。"
@@ -6052,6 +6600,7 @@
     "id": "w1180",
     "type": "word",
     "en": "prevail",
+    "ipa": "/prɪˈveɪl/",
     "ja": [
       "優勢である"
     ],
@@ -6065,6 +6614,7 @@
     "senses": [
       "prevail-bemostcommonorwin"
     ],
+    "origin": "pre-（勝って）＋ ラテン語 valere（強い）。力で上回ること。value, valid と同語源",
     "example": {
       "en": "The English text prevails in any conflict.",
       "ja": "齟齬がある場合は英語の本文が優勢である。"
@@ -6074,6 +6624,7 @@
     "id": "w1181",
     "type": "word",
     "en": "proceeds",
+    "ipa": "/ˈproʊsiːdz/",
     "ja": [
       "売却収入"
     ],
@@ -6087,6 +6638,7 @@
     "senses": [
       "proceeds-moneyfromsale"
     ],
+    "origin": "pro-（前へ）＋ ラテン語 cedere（進む）。取引から出てきた金",
     "example": {
       "en": "Proceeds from the sale repaid the loan.",
       "ja": "売却収入が融資を返済した。"
@@ -6096,6 +6648,7 @@
     "id": "w1182",
     "type": "word",
     "en": "proficiency",
+    "ipa": "/prəˈfɪʃnsi/",
     "ja": [
       "習熟度"
     ],
@@ -6109,6 +6662,7 @@
     "senses": [
       "proficiency-levelofskill"
     ],
+    "origin": "pro-（前へ）＋ ラテン語 facere（作る）。腕が前へ進んだ度合い",
     "example": {
       "en": "A test measures language proficiency.",
       "ja": "試験が言語の習熟度を測る。"
@@ -6118,6 +6672,7 @@
     "id": "w1183",
     "type": "word",
     "en": "prohibit",
+    "ipa": "/prəˈhɪbɪt/",
     "ja": [
       "禁じる"
     ],
@@ -6131,6 +6686,7 @@
     "senses": [
       "prohibit-forbidbyrule"
     ],
+    "origin": "pro-（前に）＋ ラテン語 habere（保つ）。前に立ちふさいで止めること。inhibit と同語源",
     "example": {
       "en": "The site prohibits open flames entirely.",
       "ja": "その現場は裸火を完全に禁じる。"
@@ -6140,6 +6696,7 @@
     "id": "w1184",
     "type": "word",
     "en": "prolong",
+    "ipa": "/prəˈlɔːŋ/",
     "ja": [
       "長引かせる"
     ],
@@ -6153,6 +6710,7 @@
     "senses": [
       "prolong-extendduration"
     ],
+    "origin": "pro-（前へ）＋ ラテン語 longus（長い）。先へ長く伸ばすこと",
     "example": {
       "en": "Bad weather prolonged the unloading.",
       "ja": "悪天候が荷降ろしを長引かせた。"
@@ -6162,6 +6720,7 @@
     "id": "w1185",
     "type": "word",
     "en": "prominent",
+    "ipa": "/ˈprɑːmɪnənt/",
     "ja": [
       "目立つ位置の"
     ],
@@ -6175,6 +6734,7 @@
     "senses": [
       "prominent-easilynoticed"
     ],
+    "origin": "pro-（前へ）＋ ラテン語 minere（突き出る）。前へ突き出て目に付くこと。eminent と同語源",
     "example": {
       "en": "Place the sign in a prominent spot.",
       "ja": "標示は目立つ位置の場所に置きなさい。"
@@ -6184,6 +6744,7 @@
     "id": "w1186",
     "type": "word",
     "en": "prompt",
+    "ipa": "/prɑːmpt/",
     "ja": [
       "促進する"
     ],
@@ -6197,6 +6758,7 @@
     "senses": [
       "prompt-causetoact"
     ],
+    "origin": "pro-（前へ）＋ ラテン語 emere（取る）。すぐ取り出せる、そこから背中を押すこと",
     "example": {
       "en": "Free shipping prompted larger baskets.",
       "ja": "無料配送がより大きな買い物を促進した。"
@@ -6206,6 +6768,7 @@
     "id": "w1187",
     "type": "word",
     "en": "proportion",
+    "ipa": "/prəˈpɔːrʃn/",
     "ja": [
       "比率"
     ],
@@ -6219,6 +6782,7 @@
     "senses": [
       "proportion-relativeshare"
     ],
+    "origin": "pro-（〜に応じて）＋ ラテン語 portio（割り前）。全体に対する割り前。portion と同語源",
     "example": {
       "en": "A large proportion of stock is imported.",
       "ja": "在庫の大きな比率が輸入品だ。"
@@ -6228,6 +6792,7 @@
     "id": "w1188",
     "type": "word",
     "en": "prospect",
+    "ipa": "/ˈprɑːspekt/",
     "ja": [
       "見込み客"
     ],
@@ -6241,6 +6806,7 @@
     "senses": [
       "prospect-potentialcustomer"
     ],
+    "origin": "pro-（前を）＋ ラテン語 specere（見る）。先を見込める相手。inspect と同語源",
     "example": {
       "en": "The list holds ninety warm prospects.",
       "ja": "その一覧には有望な見込み客が九十件ある。"
@@ -6250,6 +6816,7 @@
     "id": "w1189",
     "type": "word",
     "en": "provision",
+    "ipa": "/prəˈvɪʒn/",
     "ja": [
       "規定"
     ],
@@ -6263,6 +6830,7 @@
     "senses": [
       "provision-contractclause"
     ],
+    "origin": "pro-（前もって）＋ ラテン語 videre（見る）。先を見越して置いた定め。provide と同語源",
     "example": {
       "en": "A provision covers force majeure events.",
       "ja": "規定が不可抗力の事象を扱う。"
@@ -6272,6 +6840,7 @@
     "id": "w1190",
     "type": "word",
     "en": "prudent",
+    "ipa": "/ˈpruːdnt/",
     "ja": [
       "慎重な"
     ],
@@ -6285,6 +6854,7 @@
     "senses": [
       "prudent-carefullywise"
     ],
+    "origin": "provident（先を見る）の短縮。先を読んで慎むこと",
     "example": {
       "en": "A prudent buyer checks the small print.",
       "ja": "慎重な買い手は細かい文字を確かめる。"
@@ -6294,6 +6864,7 @@
     "id": "w1191",
     "type": "word",
     "en": "qualification",
+    "ipa": "/ˌkwɑːlɪfɪˈkeɪʃn/",
     "ja": [
       "資格要件"
     ],
@@ -6307,6 +6878,7 @@
     "senses": [
       "qualification-requiredcredential"
     ],
+    "origin": "ラテン語 qualis（どのような）。求める性質を備えている証。qualify と同語源",
     "example": {
       "en": "The post lists three formal qualifications.",
       "ja": "その職は正式な資格要件を三つ挙げている。"
@@ -6316,6 +6888,7 @@
     "id": "w1192",
     "type": "word",
     "en": "quota",
+    "ipa": "/ˈkwoʊtə/",
     "ja": [
       "割当量"
     ],
@@ -6329,6 +6902,7 @@
     "senses": [
       "quota-fixedshare"
     ],
+    "origin": "ラテン語 quota pars（どれだけの割り前）。割り当てられた分。quote と同語源",
     "example": {
       "en": "The plant met its export quota early.",
       "ja": "工場は輸出の割当量を早く達成した。"
@@ -6338,6 +6912,7 @@
     "id": "w1193",
     "type": "word",
     "en": "radical",
+    "ipa": "/ˈrædɪkl/",
     "ja": [
       "抜本的な"
     ],
@@ -6351,6 +6926,7 @@
     "senses": [
       "radical-thoroughlyfarreaching"
     ],
+    "origin": "ラテン語 radix（根）。根から手を入れること。radish, root と同語源",
     "example": {
       "en": "A radical redesign cut the part count.",
       "ja": "抜本的な設計変更が部品数を減らした。"
@@ -6360,6 +6936,7 @@
     "id": "w1194",
     "type": "word",
     "en": "ratify",
+    "ipa": "/ˈrætɪfaɪ/",
     "ja": [
       "批准する"
     ],
@@ -6373,6 +6950,7 @@
     "senses": [
       "ratify-approveformally"
     ],
+    "origin": "ラテン語 ratus（定まった）＋ facere（作る）。正式に確定させること。rate と同語源",
     "example": {
       "en": "The board ratified the supply agreement.",
       "ja": "取締役会は供給の協定を批准した。"
@@ -6382,6 +6960,7 @@
     "id": "w1195",
     "type": "word",
     "en": "rationale",
+    "ipa": "/ˌræʃəˈnæl/",
     "ja": [
       "論拠"
     ],
@@ -6395,6 +6974,7 @@
     "senses": [
       "rationale-underlyingreason"
     ],
+    "origin": "ラテン語 ratio（理）。筋道を立てた理由。reason, rate と同語源",
     "example": {
       "en": "The rationale for the change fills one page.",
       "ja": "変更の論拠は一頁を占める。"
@@ -6404,6 +6984,7 @@
     "id": "w1196",
     "type": "word",
     "en": "realize",
+    "ipa": "/ˈriːəlaɪz/",
     "ja": [
       "実現させる"
     ],
@@ -6417,6 +6998,7 @@
     "senses": [
       "realize-bringintoreality"
     ],
+    "origin": "ラテン語 res（物）。頭の中の案を物にすること。real と同語源",
     "example": {
       "en": "The plan realized savings within a year.",
       "ja": "その計画は一年で節約を実現させた。"
@@ -6426,6 +7008,7 @@
     "id": "w1197",
     "type": "word",
     "en": "recede",
+    "ipa": "/rɪˈsiːd/",
     "ja": [
       "後退する"
     ],
@@ -6439,6 +7022,7 @@
     "senses": [
       "recede-movebackward"
     ],
+    "origin": "re-（後ろへ）＋ ラテン語 cedere（進む）。後ろへ退くこと。proceed と同語源",
     "example": {
       "en": "Demand receded after the summer peak.",
       "ja": "需要は夏の頂点の後に後退した。"
@@ -6448,6 +7032,7 @@
     "id": "w1198",
     "type": "word",
     "en": "recipient",
+    "ipa": "/rɪˈsɪpiənt/",
     "ja": [
       "受取人"
     ],
@@ -6461,6 +7046,7 @@
     "senses": [
       "recipient-personreceiving"
     ],
+    "origin": "re-（元へ）＋ ラテン語 capere（取る）。受け取る側の人。receive と同語源",
     "example": {
       "en": "The recipient must sign the delivery note.",
       "ja": "受取人は納品書に署名せねばならない。"
@@ -6470,6 +7056,7 @@
     "id": "w1199",
     "type": "word",
     "en": "reciprocate",
+    "ipa": "/rɪˈsɪprəkeɪt/",
     "ja": [
       "お返しをする"
     ],
@@ -6483,6 +7070,7 @@
     "senses": [
       "reciprocate-returnfavor"
     ],
+    "origin": "ラテン語 reciprocus（行き来する）。受けた分を返すこと",
     "example": {
       "en": "The supplier reciprocated with faster service.",
       "ja": "供給業者は速い対応でお返しをした。"
@@ -6492,6 +7080,7 @@
     "id": "w1200",
     "type": "word",
     "en": "reconcile",
+    "ipa": "/ˈrekənsaɪl/",
     "ja": [
       "突き合わせる"
     ],
@@ -6505,6 +7094,7 @@
     "senses": [
       "reconcile-matchtworecords"
     ],
+    "origin": "re-（再び）＋ ラテン語 conciliare（結び合わせる）。食い違いを合わせ直すこと",
     "example": {
       "en": "Accounts reconcile the ledger every month.",
       "ja": "経理は毎月、元帳を突き合わせる。"
@@ -6514,6 +7104,7 @@
     "id": "w1201",
     "type": "word",
     "en": "recruitment",
+    "ipa": "/rɪˈkruːtmənt/",
     "ja": [
       "採用活動"
     ],
@@ -6527,6 +7118,7 @@
     "senses": [
       "recruitment-hiringprocess"
     ],
+    "origin": "re-（再び）＋ ラテン語 crescere（伸びる）。人手を補って増やすこと。increase と同語源",
     "example": {
       "en": "Recruitment for the night shift starts soon.",
       "ja": "夜勤の採用活動はまもなく始まる。"
@@ -6536,6 +7128,7 @@
     "id": "w1202",
     "type": "word",
     "en": "rectify",
+    "ipa": "/ˈrektɪfaɪ/",
     "ja": [
       "是正する"
     ],
@@ -6549,6 +7142,7 @@
     "senses": [
       "rectify-correctfault"
     ],
+    "origin": "ラテン語 rectus（まっすぐ）＋ facere（作る）。曲がりをまっすぐ直すこと。correct と同語源",
     "example": {
       "en": "The maker rectified the wiring error free.",
       "ja": "製造業者は配線の誤りを無償で是正した。"
@@ -6558,6 +7152,7 @@
     "id": "w1203",
     "type": "word",
     "en": "recur",
+    "ipa": "/rɪˈkɜːr/",
     "ja": [
       "再発する"
     ],
@@ -6571,6 +7166,7 @@
     "senses": [
       "recur-happenagain"
     ],
+    "origin": "re-（再び）＋ ラテン語 currere（走る）。もう一度巡ってくること。current と同語源",
     "example": {
       "en": "The jam recurred after two hours.",
       "ja": "詰まりは二時間後に再発した。"
@@ -6580,6 +7176,7 @@
     "id": "w1204",
     "type": "word",
     "en": "redeem-voucher",
+    "ipa": "/rɪˈdiːm ˈvaʊtʃər/",
     "ja": [
       "引換券利用"
     ],
@@ -6593,6 +7190,7 @@
     "senses": [
       "redeemvouch-usingcoupon"
     ],
+    "origin": "redeem（引き換える）＋ voucher（引換券）。券を品や割引に換えること",
     "example": {
       "en": "Voucher redemption ends on the last day.",
       "ja": "引換券利用は最終日に終わる。"
@@ -6602,6 +7200,7 @@
     "id": "w1205",
     "type": "word",
     "en": "redirect",
+    "ipa": "/ˌriːdəˈrekt/",
     "ja": [
       "振り向ける"
     ],
@@ -6615,6 +7214,7 @@
     "senses": [
       "redirect-sendelsewhere"
     ],
+    "origin": "re-（改めて）＋ direct（向ける）。向きを変えて差し向けること",
     "example": {
       "en": "We redirected the load to the south depot.",
       "ja": "積み荷を南の拠点に振り向けた。"
@@ -6624,6 +7224,7 @@
     "id": "w1206",
     "type": "word",
     "en": "refine",
+    "ipa": "/rɪˈfaɪn/",
     "ja": [
       "精緻にする"
     ],
@@ -6637,6 +7238,7 @@
     "senses": [
       "refine-improvedetail"
     ],
+    "origin": "re-（さらに）＋ fine（純度が高い）。混じり気を抜いて精度を上げること",
     "example": {
       "en": "Engineers refined the mold over two months.",
       "ja": "技術者は二か月かけて金型を精緻にした。"
@@ -6646,6 +7248,7 @@
     "id": "w1207",
     "type": "word",
     "en": "refrain",
+    "ipa": "/rɪˈfreɪn/",
     "ja": [
       "差し控える"
     ],
@@ -6659,6 +7262,7 @@
     "senses": [
       "refrain-holdbackfrom"
     ],
+    "origin": "re-（後ろへ）＋ ラテン語 frenum（馬のくつわ）。手綱を引いて自分を止めること",
     "example": {
       "en": "Please refrain from using the side gate.",
       "ja": "横の門の使用は差し控えてください。"
@@ -6668,6 +7272,7 @@
     "id": "w1208",
     "type": "word",
     "en": "reimbursement",
+    "ipa": "/ˌriːɪmˈbɜːrsmənt/",
     "ja": [
       "償還払い"
     ],
@@ -6681,6 +7286,7 @@
     "senses": [
       "reimburse-payback"
     ],
+    "origin": "reimburse（払い戻す）＋ -ment。立て替え分を財布へ戻すこと",
     "example": {
       "en": "Reimbursement takes about ten working days.",
       "ja": "償還払いは約十営業日かかる。"
@@ -6690,6 +7296,7 @@
     "id": "w1209",
     "type": "word",
     "en": "reinforce",
+    "ipa": "/ˌriːɪnˈfɔːrs/",
     "ja": [
       "補強する"
     ],
@@ -6703,6 +7310,7 @@
     "senses": [
       "reinforce-strengthenstructure"
     ],
+    "origin": "re-（さらに）＋ enforce（力を加える）。力を足して補強すること",
     "example": {
       "en": "Steel plates reinforce the loading ramp.",
       "ja": "鋼の板が荷積みの傾斜路を補強する。"
@@ -6712,6 +7320,7 @@
     "id": "w1210",
     "type": "word",
     "en": "reiterate",
+    "ipa": "/riˈɪtəreɪt/",
     "ja": [
       "重ねて述べる"
     ],
@@ -6725,6 +7334,7 @@
     "senses": [
       "reiterate-repeatforemphasis"
     ],
+    "origin": "re-（再び）＋ ラテン語 iterum（もう一度）。重ねて言うこと",
     "example": {
       "en": "The chair reiterated the safety rule.",
       "ja": "議長は安全の規則を重ねて述べた。"
@@ -6734,6 +7344,7 @@
     "id": "w1211",
     "type": "word",
     "en": "relocate",
+    "ipa": "/riːˈloʊkeɪt/",
     "ja": [
       "移転する"
     ],
@@ -6747,6 +7358,7 @@
     "senses": [
       "relocate-movepremises"
     ],
+    "origin": "re-（改めて）＋ locate（置く）。別の場所へ置き直すこと。location と同語源",
     "example": {
       "en": "The office relocated to the harbor district.",
       "ja": "事務所は港の地区に移転した。"
@@ -6756,6 +7368,7 @@
     "id": "w1212",
     "type": "word",
     "en": "remainder",
+    "ipa": "/rɪˈmeɪndər/",
     "ja": [
       "残り"
     ],
@@ -6769,6 +7382,7 @@
     "senses": [
       "remainder-whatisleft"
     ],
+    "origin": "re-（後に）＋ ラテン語 manere（とどまる）。後に残った分。remain と同語源",
     "example": {
       "en": "The remainder ships next Tuesday.",
       "ja": "残りは来週火曜に発送する。"
@@ -6778,6 +7392,7 @@
     "id": "w1213",
     "type": "word",
     "en": "remedy",
+    "ipa": "/ˈremədi/",
     "ja": [
       "是正措置"
     ],
@@ -6791,6 +7406,7 @@
     "senses": [
       "remedy-correctiveaction"
     ],
+    "origin": "re-（再び）＋ ラテン語 mederi（治す）。傷んだ所を手当てすること。medical と同語源",
     "example": {
       "en": "The contract lists remedies for late delivery.",
       "ja": "契約は納品の遅れに対する是正措置を挙げる。"
@@ -6800,6 +7416,7 @@
     "id": "w1214",
     "type": "word",
     "en": "render",
+    "ipa": "/ˈrendər/",
     "ja": [
       "提供して行う"
     ],
@@ -6813,6 +7430,7 @@
     "senses": [
       "render-provideservice"
     ],
+    "origin": "re-（元へ）＋ ラテン語 dare（与える）。差し出して果たすこと",
     "example": {
       "en": "The firm renders repair services nationwide.",
       "ja": "会社は全国で修理の業務を提供して行う。"
@@ -6822,6 +7440,7 @@
     "id": "w1215",
     "type": "word",
     "en": "renowned",
+    "ipa": "/rɪˈnaʊnd/",
     "ja": [
       "名高い"
     ],
@@ -6835,6 +7454,7 @@
     "senses": [
       "renowned-famousforquality"
     ],
+    "origin": "re-（繰り返し）＋ ラテン語 nomen（名）。名が繰り返し語られること。name と同語源",
     "example": {
       "en": "A renowned architect designed the atrium.",
       "ja": "名高い建築家が吹き抜けを設計した。"
@@ -6844,6 +7464,7 @@
     "id": "w1216",
     "type": "word",
     "en": "repel",
+    "ipa": "/rɪˈpel/",
     "ja": [
       "はじく"
     ],
@@ -6857,6 +7478,7 @@
     "senses": [
       "repel-drivebackaway"
     ],
+    "origin": "re-（後ろへ）＋ ラテン語 pellere（押す）。押し返すこと。propel, pulse と同語源",
     "example": {
       "en": "The coating repels water and oil.",
       "ja": "その塗膜は水と油をはじく。"
@@ -6866,6 +7488,7 @@
     "id": "w1217",
     "type": "word",
     "en": "replicate",
+    "ipa": "/ˈreplɪkeɪt/",
     "ja": [
       "再現する"
     ],
@@ -6879,6 +7502,7 @@
     "senses": [
       "replicate-reproduceresult"
     ],
+    "origin": "re-（再び）＋ ラテン語 plicare（折る）。同じ折り目でもう一度作ること",
     "example": {
       "en": "The lab replicated the fault in one hour.",
       "ja": "研究室は一時間で不具合を再現した。"
@@ -6888,6 +7512,7 @@
     "id": "w1218",
     "type": "word",
     "en": "reprimand",
+    "ipa": "/ˈreprɪmænd/",
     "ja": [
       "けん責する"
     ],
@@ -6901,6 +7526,7 @@
     "senses": [
       "reprimand-officiallyrebuke"
     ],
+    "origin": "re-（強め）＋ ラテン語 premere（押す）。厳しく押さえて叱ること。press と同語源",
     "example": {
       "en": "The driver was reprimanded for speeding.",
       "ja": "運転手は速度超過でけん責された。"
@@ -6910,6 +7536,7 @@
     "id": "w1219",
     "type": "word",
     "en": "resemble",
+    "ipa": "/rɪˈzembl/",
     "ja": [
       "似ている"
     ],
@@ -6923,6 +7550,7 @@
     "senses": [
       "resemble-belikesomething"
     ],
+    "origin": "re-（強め）＋ ラテン語 similis（似た）。似通っていること。similar と同語源",
     "example": {
       "en": "The new case resembles the earlier one.",
       "ja": "新しい箱は以前のものに似ている。"
@@ -6932,6 +7560,7 @@
     "id": "w1220",
     "type": "word",
     "en": "reside",
+    "ipa": "/rɪˈzaɪd/",
     "ja": [
       "居住する"
     ],
@@ -6945,6 +7574,7 @@
     "senses": [
       "reside-liveinplace"
     ],
+    "origin": "re-（後に）＋ ラテン語 sedere（座る）。腰を落ち着けて住むこと。session と同語源",
     "example": {
       "en": "Most workers reside within five kilometers.",
       "ja": "大半の労働者は五キロ以内に居住する。"
@@ -6954,6 +7584,7 @@
     "id": "w1221",
     "type": "word",
     "en": "residual",
+    "ipa": "/rɪˈzɪdʒuəl/",
     "ja": [
       "残余の"
     ],
@@ -6967,6 +7598,7 @@
     "senses": [
       "residual-remainingafteruse"
     ],
+    "origin": "reside（残りとどまる）＋ -ual。後に残った分",
     "example": {
       "en": "Residual stock was sold at a discount.",
       "ja": "残余の在庫は割引で売られた。"
@@ -6976,6 +7608,7 @@
     "id": "w1222",
     "type": "word",
     "en": "resistant",
+    "ipa": "/rɪˈzɪstənt/",
     "ja": [
       "耐性のある"
     ],
@@ -6989,6 +7622,7 @@
     "senses": [
       "resistant-abletowithstand"
     ],
+    "origin": "re-（逆らって）＋ ラテン語 sistere（立つ）。押されても立ち続けること",
     "example": {
       "en": "The film is resistant to strong solvents.",
       "ja": "その膜は強い溶剤に耐性のある。"
@@ -6998,6 +7632,7 @@
     "id": "w1223",
     "type": "word",
     "en": "respective",
+    "ipa": "/rɪˈspektɪv/",
     "ja": [
       "それぞれの"
     ],
@@ -7011,6 +7646,7 @@
     "senses": [
       "respective-belongingtoeach"
     ],
+    "origin": "re-（振り返って）＋ ラテン語 specere（見る）。一つずつ見ていくこと",
     "example": {
       "en": "Both sides bear their respective costs.",
       "ja": "双方はそれぞれの費用を負担する。"
@@ -7020,6 +7656,7 @@
     "id": "w1224",
     "type": "word",
     "en": "restore",
+    "ipa": "/rɪˈstɔːr/",
     "ja": [
       "復旧する"
     ],
@@ -7033,6 +7670,7 @@
     "senses": [
       "restore-bringbacktostate"
     ],
+    "origin": "re-（元へ）＋ ラテン語 staurare（立て直す）。元の姿へ立て直すこと",
     "example": {
       "en": "Power was restored within two hours.",
       "ja": "電力は二時間以内に復旧した。"
@@ -7042,6 +7680,7 @@
     "id": "w1225",
     "type": "word",
     "en": "restrain",
+    "ipa": "/rɪˈstreɪn/",
     "ja": [
       "抑える"
     ],
@@ -7055,6 +7694,7 @@
     "senses": [
       "restrain-keepundercontrol"
     ],
+    "origin": "re-（後ろへ）＋ ラテン語 stringere（締める）。締めて動きを抑えること。restrict と同語源",
     "example": {
       "en": "The firm restrained spending until autumn.",
       "ja": "会社は秋まで支出を抑えた。"
@@ -7064,6 +7704,7 @@
     "id": "w1226",
     "type": "word",
     "en": "retention",
+    "ipa": "/rɪˈtenʃn/",
     "ja": [
       "保持期間"
     ],
@@ -7077,6 +7718,7 @@
     "senses": [
       "retention-keepingperiod"
     ],
+    "origin": "re-（後ろに）＋ ラテン語 tenere（保つ）。保ち続けること。retain と同語源",
     "example": {
       "en": "Record retention runs to seven years.",
       "ja": "記録の保持期間は七年に及ぶ。"
@@ -7086,6 +7728,7 @@
     "id": "w1227",
     "type": "word",
     "en": "retrieve",
+    "ipa": "/rɪˈtriːv/",
     "ja": [
       "取り出す"
     ],
@@ -7099,6 +7742,7 @@
     "senses": [
       "retrieve-getbackfromstore"
     ],
+    "origin": "re-（再び）＋ 古仏語 trover（見つける）。しまった物を探し出すこと",
     "example": {
       "en": "Retrieve the file from the archive room.",
       "ja": "書庫の部屋からその書類を取り出しなさい。"
@@ -7108,6 +7752,7 @@
     "id": "w1228",
     "type": "word",
     "en": "revenue-stream",
+    "ipa": "/ˈrevənuː striːm/",
     "ja": [
       "収入源"
     ],
@@ -7121,6 +7766,7 @@
     "senses": [
       "revstream-sourceofincome"
     ],
+    "origin": "revenue（収益）＋ stream（流れ）。収益が流れ込む筋",
     "example": {
       "en": "Servicing became a steady revenue stream.",
       "ja": "整備は安定した収入源になった。"
@@ -7130,6 +7776,7 @@
     "id": "w1229",
     "type": "word",
     "en": "revert",
+    "ipa": "/rɪˈvɜːrt/",
     "ja": [
       "元に戻る"
     ],
@@ -7143,6 +7790,7 @@
     "senses": [
       "revert-returntoformerstate"
     ],
+    "origin": "re-（元へ）＋ ラテン語 vertere（回す）。向きが元へ戻ること。convert と同語源",
     "example": {
       "en": "Ownership reverts to the city after fifty years.",
       "ja": "所有権は五十年後に市へ元に戻る。"
@@ -7152,6 +7800,7 @@
     "id": "w1230",
     "type": "word",
     "en": "rigid",
+    "ipa": "/ˈrɪdʒɪd/",
     "ja": [
       "硬直的な"
     ],
@@ -7165,6 +7814,7 @@
     "senses": [
       "rigid-inflexiblystrict"
     ],
+    "origin": "ラテン語 rigere（こわばる）。曲がらず固いこと",
     "example": {
       "en": "Rigid shift rules discouraged applicants.",
       "ja": "硬直的な勤務の規則が応募者を遠ざけた。"
@@ -7174,6 +7824,7 @@
     "id": "w1231",
     "type": "word",
     "en": "rigorous",
+    "ipa": "/ˈrɪɡərəs/",
     "ja": [
       "厳密な"
     ],
@@ -7187,6 +7838,7 @@
     "senses": [
       "rigorous-verythorough"
     ],
+    "origin": "ラテン語 rigor（こわばり）。手加減なく厳しいこと。rigid と同語源",
     "example": {
       "en": "Rigorous testing preceded the launch.",
       "ja": "発売の前に厳密な試験が行われた。"
@@ -7196,6 +7848,7 @@
     "id": "w1232",
     "type": "word",
     "en": "robust",
+    "ipa": "/roʊˈbʌst/",
     "ja": [
       "頑丈な"
     ],
@@ -7209,6 +7862,7 @@
     "senses": [
       "robust-strongandsturdy"
     ],
+    "origin": "ラテン語 robur（樫の木）。樫のように頑丈なこと",
     "example": {
       "en": "A robust frame survives rough handling.",
       "ja": "頑丈な枠は手荒な扱いにも耐える。"
@@ -7218,6 +7872,7 @@
     "id": "w1233",
     "type": "word",
     "en": "rotate",
+    "ipa": "/ˈroʊteɪt/",
     "ja": [
       "交替させる"
     ],
@@ -7231,6 +7886,7 @@
     "senses": [
       "rotate-changeinturn"
     ],
+    "origin": "ラテン語 rota（車輪）。車輪のように回すこと。round, roll と同系",
     "example": {
       "en": "Crews rotate between the two lines.",
       "ja": "作業班は二つの生産設備の間で交替させる。"
@@ -7240,6 +7896,7 @@
     "id": "w1234",
     "type": "word",
     "en": "scarce",
+    "ipa": "/skers/",
     "ja": [
       "乏しい"
     ],
@@ -7253,6 +7910,7 @@
     "senses": [
       "scarce-insufficientsupply"
     ],
+    "origin": "俗ラテン語 excarpsus（抜き取られた）。数が抜けて少ないこと",
     "example": {
       "en": "Skilled welders remain scarce locally.",
       "ja": "熟練した溶接工は地元で乏しいままだ。"
@@ -7262,6 +7920,7 @@
     "id": "w1235",
     "type": "word",
     "en": "scenario",
+    "ipa": "/səˈnærioʊ/",
     "ja": [
       "想定"
     ],
@@ -7275,6 +7934,7 @@
     "senses": [
       "scenario-imaginedsituation"
     ],
+    "origin": "ギリシャ語 skene（舞台）。舞台の筋書き。scene と同語源",
     "example": {
       "en": "The plan covers a worst-case scenario.",
       "ja": "その計画は最悪の想定を扱う。"
@@ -7284,6 +7944,7 @@
     "id": "w1236",
     "type": "word",
     "en": "scrap",
+    "ipa": "/skræp/",
     "ja": [
       "廃材にする"
     ],
@@ -7297,6 +7958,7 @@
     "senses": [
       "scrap-discardaswaste"
     ],
+    "origin": "古ノルド語 skrap（削りかす）。削り落とした切れ端。scrape と同語源",
     "example": {
       "en": "The plant scrapped two damaged molds.",
       "ja": "工場は破損した金型を二つ廃材にした。"
@@ -7306,6 +7968,7 @@
     "id": "w1237",
     "type": "word",
     "en": "seasonal",
+    "ipa": "/ˈsiːzənl/",
     "ja": [
       "季節性の"
     ],
@@ -7319,6 +7982,7 @@
     "senses": [
       "seasonal-varyingwithseason"
     ],
+    "origin": "ラテン語 satio（種まきの時）。季節に左右されること。season と同語源",
     "example": {
       "en": "Seasonal demand peaks in December.",
       "ja": "季節性の需要は十二月に頂点を迎える。"
@@ -7328,6 +7992,7 @@
     "id": "w1238",
     "type": "word",
     "en": "secondary",
+    "ipa": "/ˈsekənderi/",
     "ja": [
       "二次的な"
     ],
@@ -7341,6 +8006,7 @@
     "senses": [
       "secondary-lessimportantthanmain"
     ],
+    "origin": "ラテン語 sequi（続く）。一番目に続く位置。second, sequence と同語源",
     "example": {
       "en": "Export is a secondary market for us.",
       "ja": "輸出は当社にとって二次的な市場だ。"
@@ -7350,6 +8016,7 @@
     "id": "w1239",
     "type": "word",
     "en": "segment-report",
+    "ipa": "/ˈseɡmənt rɪˈpɔːrt/",
     "ja": [
       "区分報告"
     ],
@@ -7363,6 +8030,7 @@
     "senses": [
       "segreport-divisionalstatement"
     ],
+    "origin": "segment（区分）＋ report（報告）。区分ごとに分けた報告",
     "example": {
       "en": "The segment report shows regional profit.",
       "ja": "区分報告は地域ごとの利益を示す。"
@@ -7372,6 +8040,7 @@
     "id": "w1240",
     "type": "word",
     "en": "seize",
+    "ipa": "/siːz/",
     "ja": [
       "差し押さえる"
     ],
@@ -7385,6 +8054,7 @@
     "senses": [
       "seize-takebyforce"
     ],
+    "origin": "古仏語 seisir（占有する）。法の力で押さえて取ること",
     "example": {
       "en": "Customs seized the mislabeled cartons.",
       "ja": "通関は表示を誤った箱を差し押さえた。"
@@ -7394,6 +8064,7 @@
     "id": "w1241",
     "type": "word",
     "en": "sequential",
+    "ipa": "/sɪˈkwenʃl/",
     "ja": [
       "順次の"
     ],
@@ -7407,6 +8078,7 @@
     "senses": [
       "sequential-oneafteranother"
     ],
+    "origin": "ラテン語 sequi（続く）。順に続いていること。sequence と同語源",
     "example": {
       "en": "The steps follow a sequential order.",
       "ja": "手順は順次の順序に従う。"
@@ -7416,6 +8088,7 @@
     "id": "w1242",
     "type": "word",
     "en": "setback",
+    "ipa": "/ˈsetbæk/",
     "ja": [
       "つまずき"
     ],
@@ -7429,6 +8102,7 @@
     "senses": [
       "setback-unexpectedproblem"
     ],
+    "origin": "set（置く）＋ back（後ろへ）。進みが後ろへ押し戻されること",
     "example": {
       "en": "A supply setback delayed the launch.",
       "ja": "供給のつまずきが発売を遅らせた。"
@@ -7438,6 +8112,7 @@
     "id": "w1243",
     "type": "word",
     "en": "severance",
+    "ipa": "/ˈsevərəns/",
     "ja": [
       "退職金"
     ],
@@ -7451,6 +8126,7 @@
     "senses": [
       "severance-terminationpayment"
     ],
+    "origin": "ラテン語 separare（分ける）。雇用を切り離すときの金。separate と同語源",
     "example": {
       "en": "Severance is based on years of service.",
       "ja": "退職金は勤続の年数に基づく。"
@@ -7460,6 +8136,7 @@
     "id": "w1244",
     "type": "word",
     "en": "simulate",
+    "ipa": "/ˈsɪmjuleɪt/",
     "ja": [
       "模擬的に試す"
     ],
@@ -7473,6 +8150,7 @@
     "senses": [
       "simulate-imitateconditions"
     ],
+    "origin": "ラテン語 similis（似た）。本物に似せて試すこと。similar と同語源",
     "example": {
       "en": "The rig simulates ten years of wear.",
       "ja": "その装置は十年分の摩耗を模擬的に試す。"
@@ -7482,6 +8160,7 @@
     "id": "w1245",
     "type": "word",
     "en": "solicit-bid",
+    "ipa": "/səˈlɪsɪt bɪd/",
     "ja": [
       "入札募集"
     ],
@@ -7495,6 +8174,7 @@
     "senses": [
       "solicitbid-invitationtotender"
     ],
+    "origin": "solicit（募る）＋ bid（入札）。入札を広く募ること",
     "example": {
       "en": "Bid solicitation closes on the tenth.",
       "ja": "入札募集は十日に締め切る。"
@@ -7504,6 +8184,7 @@
     "id": "w1246",
     "type": "word",
     "en": "sparse",
+    "ipa": "/spɑːrs/",
     "ja": [
       "まばらな"
     ],
@@ -7517,6 +8198,7 @@
     "senses": [
       "sparse-thinlyspread"
     ],
+    "origin": "ラテン語 spargere（まき散らす）。まばらに散っていること。disperse と同語源",
     "example": {
       "en": "Coverage is sparse in the northern islands.",
       "ja": "北の島々では取扱いがまばらだ。"
@@ -7526,6 +8208,7 @@
     "id": "w1247",
     "type": "word",
     "en": "specification",
+    "ipa": "/ˌspesɪfɪˈkeɪʃn/",
     "ja": [
       "仕様書"
     ],
@@ -7539,6 +8222,7 @@
     "senses": [
       "specification-detailedrequirement"
     ],
+    "origin": "ラテン語 species（種）＋ facere（作る）。細目まで種分けして書いたもの",
     "example": {
       "en": "The specification calls for stainless fittings.",
       "ja": "仕様書はステンレスの継手を求めている。"
@@ -7548,6 +8232,7 @@
     "id": "w1248",
     "type": "word",
     "en": "sporadic",
+    "ipa": "/spəˈrædɪk/",
     "ja": [
       "散発的な"
     ],
@@ -7561,6 +8246,7 @@
     "senses": [
       "sporadic-occurringirregularly"
     ],
+    "origin": "ギリシャ語 sporas（散った）。あちこちに散って起きること。spore と同語源",
     "example": {
       "en": "Sporadic faults appeared in the older units.",
       "ja": "古い台に散発的な不具合が現れた。"
@@ -7570,6 +8256,7 @@
     "id": "w1249",
     "type": "word",
     "en": "stagnant",
+    "ipa": "/ˈstæɡnənt/",
     "ja": [
       "停滞した"
     ],
@@ -7583,6 +8270,7 @@
     "senses": [
       "stagnant-notgrowing"
     ],
+    "origin": "ラテン語 stagnum（よどんだ水）。流れが止まっていること",
     "example": {
       "en": "Domestic sales stayed stagnant all year.",
       "ja": "国内の売上は一年中停滞したままだった。"
@@ -7592,6 +8280,7 @@
     "id": "w1250",
     "type": "word",
     "en": "statutory-notice",
+    "ipa": "/ˈstætʃətɔːri ˈnoʊtɪs/",
     "ja": [
       "法定通知"
     ],
@@ -7605,6 +8294,7 @@
     "senses": [
       "statnotice-legallyrequirednotice"
     ],
+    "origin": "statutory（法定の）＋ notice（通知）。法で義務づけられた通知",
     "example": {
       "en": "Statutory notice must precede any eviction.",
       "ja": "退去の前に法定通知が必要だ。"
@@ -7614,6 +8304,7 @@
     "id": "w1251",
     "type": "word",
     "en": "stimulate",
+    "ipa": "/ˈstɪmjuleɪt/",
     "ja": [
       "刺激する"
     ],
@@ -7627,6 +8318,7 @@
     "senses": [
       "stimulate-encourageactivity"
     ],
+    "origin": "ラテン語 stimulus（家畜を突く棒）。突いて動きを起こさせること",
     "example": {
       "en": "Free delivery stimulated repeat orders.",
       "ja": "無料配送が再注文を刺激した。"
@@ -7636,6 +8328,7 @@
     "id": "w1252",
     "type": "word",
     "en": "stringency",
+    "ipa": "/ˈstrɪndʒənsi/",
     "ja": [
       "厳しさ"
     ],
@@ -7649,6 +8342,7 @@
     "senses": [
       "stringency-degreeofstrictness"
     ],
+    "origin": "ラテン語 stringere（締める）。締め付けの度合い。strict, restrain と同語源",
     "example": {
       "en": "The stringency of the rules surprised buyers.",
       "ja": "規則の厳しさは買い手を驚かせた。"
@@ -7658,6 +8352,7 @@
     "id": "w1253",
     "type": "word",
     "en": "subordinate",
+    "ipa": "/səˈbɔːrdɪnət/",
     "ja": [
       "部下"
     ],
@@ -7671,6 +8366,7 @@
     "senses": [
       "subordinate-lowerrankworker"
     ],
+    "origin": "sub-（下に）＋ ラテン語 ordo（順序）。順序で下に置かれる者。order と同語源",
     "example": {
       "en": "Each supervisor has four subordinates.",
       "ja": "各監督者には四名の部下がいる。"
@@ -7680,6 +8376,7 @@
     "id": "w1254",
     "type": "word",
     "en": "subsequent",
+    "ipa": "/ˈsʌbsɪkwənt/",
     "ja": [
       "その後の"
     ],
@@ -7693,6 +8390,7 @@
     "senses": [
       "subsequent-comingafter"
     ],
+    "origin": "sub-（後に）＋ ラテン語 sequi（続く）。後から続いて起こること",
     "example": {
       "en": "Subsequent shipments carried the new label.",
       "ja": "その後の出荷は新しい表示を付けていた。"
@@ -7702,6 +8400,7 @@
     "id": "w1255",
     "type": "word",
     "en": "substantiate",
+    "ipa": "/səbˈstænʃieɪt/",
     "ja": [
       "裏づける"
     ],
@@ -7715,6 +8414,7 @@
     "senses": [
       "substantiate-provewithevidence"
     ],
+    "origin": "sub-（下に）＋ ラテン語 stare（立つ）。下から支える証拠を示すこと",
     "example": {
       "en": "Photographs substantiate the damage claim.",
       "ja": "写真が破損の請求を裏づける。"
@@ -7724,6 +8424,7 @@
     "id": "w1256",
     "type": "word",
     "en": "succession",
+    "ipa": "/səkˈseʃn/",
     "ja": [
       "継承"
     ],
@@ -7737,6 +8438,7 @@
     "senses": [
       "succession-passingofrole"
     ],
+    "origin": "sub-（後に）＋ ラテン語 cedere（進む）。後を継いで続くこと。succeed と同語源",
     "example": {
       "en": "A succession plan names two candidates.",
       "ja": "継承の計画は候補者を二名挙げている。"
@@ -7746,6 +8448,7 @@
     "id": "w1257",
     "type": "word",
     "en": "supplement",
+    "ipa": "/ˈsʌplɪment/",
     "ja": [
       "補足する"
     ],
@@ -7759,6 +8462,7 @@
     "senses": [
       "supplement-addtocomplete"
     ],
+    "origin": "sub-（下から）＋ ラテン語 plere（満たす）。足りない分を埋めること。complete と同語源",
     "example": {
       "en": "A note supplements the main report.",
       "ja": "注記が本体の報告書を補足する。"
@@ -7768,6 +8472,7 @@
     "id": "w1258",
     "type": "word",
     "en": "surge",
+    "ipa": "/sɜːrdʒ/",
     "ja": [
       "急増する"
     ],
@@ -7781,6 +8486,7 @@
     "senses": [
       "surge-riserapidly"
     ],
+    "origin": "sub-（下から）＋ ラテン語 regere（導く）。下から一気に湧き上がること。source と同語源",
     "example": {
       "en": "Orders surged before the price change.",
       "ja": "価格の変更前に注文が急増した。"
@@ -7790,6 +8496,7 @@
     "id": "w1259",
     "type": "word",
     "en": "suspend",
+    "ipa": "/səˈspend/",
     "ja": [
       "一時停止する"
     ],
@@ -7803,6 +8510,7 @@
     "senses": [
       "suspend-stoptemporarily"
     ],
+    "origin": "sub-（下に）＋ ラテン語 pendere（ぶら下げる）。宙づりにして止めること。pending と同語源",
     "example": {
       "en": "The plant suspended night runs in August.",
       "ja": "工場は八月に夜間の運転を一時停止した。"
@@ -7812,6 +8520,7 @@
     "id": "w1260",
     "type": "word",
     "en": "sustain",
+    "ipa": "/səˈsteɪn/",
     "ja": [
       "持ちこたえる"
     ],
@@ -7825,6 +8534,7 @@
     "senses": [
       "sustain-keepupovertime"
     ],
+    "origin": "sub-（下から）＋ ラテン語 tenere（保つ）。下から支えて保つこと。maintain と同語源",
     "example": {
       "en": "The line sustained full output for weeks.",
       "ja": "生産設備は数週間、全出力を持ちこたえた。"
@@ -7834,6 +8544,7 @@
     "id": "w1261",
     "type": "word",
     "en": "synthesize",
+    "ipa": "/ˈsɪnθəsaɪz/",
     "ja": [
       "統合してまとめる"
     ],
@@ -7847,6 +8558,7 @@
     "senses": [
       "synthesize-combineintowhole"
     ],
+    "origin": "syn-（共に）＋ ギリシャ語 tithenai（置く）。寄せ置いて一つにまとめること",
     "example": {
       "en": "The report synthesizes four site studies.",
       "ja": "報告書は四つの現場調査を統合してまとめる。"
@@ -7856,6 +8568,7 @@
     "id": "w1262",
     "type": "word",
     "en": "tangible",
+    "ipa": "/ˈtændʒəbl/",
     "ja": [
       "具体的な形のある"
     ],
@@ -7869,6 +8582,7 @@
     "senses": [
       "tangible-perceptiblereal"
     ],
+    "origin": "ラテン語 tangere（触れる）。手で触れられること。contact, attain と同語源",
     "example": {
       "en": "The change brought tangible savings.",
       "ja": "その変更は具体的な形のある節約をもたらした。"
@@ -7878,6 +8592,7 @@
     "id": "w1263",
     "type": "word",
     "en": "tenure",
+    "ipa": "/ˈtenjər/",
     "ja": [
       "在職期間"
     ],
@@ -7891,6 +8606,7 @@
     "senses": [
       "tenure-timeinpost"
     ],
+    "origin": "ラテン語 tenere（保つ）。地位を保っている期間。retain, tenant と同語源",
     "example": {
       "en": "Her tenure as manager lasted six years.",
       "ja": "支配人としての彼女の在職期間は六年だった。"
@@ -7900,6 +8616,7 @@
     "id": "w1264",
     "type": "word",
     "en": "threshold",
+    "ipa": "/ˈθreʃhoʊld/",
     "ja": [
       "しきい値"
     ],
@@ -7913,6 +8630,7 @@
     "senses": [
       "threshold-limitpoint"
     ],
+    "origin": "古英語 therscold（踏み板）。またぐ敷居、そこから境目の値",
     "example": {
       "en": "Vibration above the threshold stops the line.",
       "ja": "しきい値を超える振動は生産を止める。"
@@ -7922,6 +8640,7 @@
     "id": "w1265",
     "type": "word",
     "en": "transition",
+    "ipa": "/trænˈzɪʃn/",
     "ja": [
       "移行"
     ],
@@ -7935,6 +8654,7 @@
     "senses": [
       "transition-changefromonestate"
     ],
+    "origin": "trans-（越えて）＋ ラテン語 ire（行く）。ある状態から別の状態へ渡ること",
     "example": {
       "en": "The transition to the new system took months.",
       "ja": "新しい仕組みへの移行には数か月かかった。"
@@ -7944,6 +8664,7 @@
     "id": "w1266",
     "type": "word",
     "en": "transparent",
+    "ipa": "/trænsˈpærənt/",
     "ja": [
       "透明性のある"
     ],
@@ -7957,6 +8678,7 @@
     "senses": [
       "transparent-openandclear"
     ],
+    "origin": "trans-（通して）＋ ラテン語 parere（現れる）。向こうが見通せること。appear と同語源",
     "example": {
       "en": "Transparent pricing built buyer trust.",
       "ja": "透明性のある価格設定が買い手の信頼を築いた。"
@@ -7966,6 +8688,7 @@
     "id": "w1267",
     "type": "word",
     "en": "undergo",
+    "ipa": "/ˌʌndərˈɡoʊ/",
     "ja": [
       "受ける"
     ],
@@ -7979,6 +8702,7 @@
     "senses": [
       "undergo-experienceprocess"
     ],
+    "origin": "under（下を）＋ go（行く）。身を置いてその過程を通ること",
     "example": {
       "en": "Each unit undergoes a pressure test.",
       "ja": "各台は圧力の試験を受ける。"
@@ -7988,6 +8712,7 @@
     "id": "w1268",
     "type": "word",
     "en": "underlying",
+    "ipa": "/ˌʌndərˈlaɪɪŋ/",
     "ja": [
       "根底にある"
     ],
@@ -8001,6 +8726,7 @@
     "senses": [
       "underlying-basicandhidden"
     ],
+    "origin": "under（下に）＋ lie（横たわる）。表に出ず下に横たわっていること",
     "example": {
       "en": "The underlying cause was poor lubrication.",
       "ja": "根底にある原因は潤滑の不足だった。"
@@ -8010,6 +8736,7 @@
     "id": "w1269",
     "type": "word",
     "en": "undertake",
+    "ipa": "/ˌʌndərˈteɪk/",
     "ja": [
       "引き受けて行う"
     ],
@@ -8023,6 +8750,7 @@
     "senses": [
       "undertake-agreetoperform"
     ],
+    "origin": "under（下に）＋ take（取る）。荷を引き受けて背負うこと",
     "example": {
       "en": "The builder undertook the roof repair.",
       "ja": "建設業者が屋根の修理を引き受けて行った。"
@@ -8032,6 +8760,7 @@
     "id": "w1270",
     "type": "word",
     "en": "uniformity",
+    "ipa": "/ˌjuːnɪˈfɔːrməti/",
     "ja": [
       "均一性"
     ],
@@ -8045,6 +8774,7 @@
     "senses": [
       "uniformity-samenessthroughout"
     ],
+    "origin": "ラテン語 unus（一）＋ forma（形）。形が一つにそろっていること",
     "example": {
       "en": "Uniformity of thickness matters most.",
       "ja": "厚みの均一性が最も重要だ。"
@@ -8054,6 +8784,7 @@
     "id": "w1271",
     "type": "word",
     "en": "unveil",
+    "ipa": "/ʌnˈveɪl/",
     "ja": [
       "披露する"
     ],
@@ -8067,6 +8798,7 @@
     "senses": [
       "unveil-showpublicly"
     ],
+    "origin": "un-（外す）＋ veil（覆い）。覆いを取って見せること",
     "example": {
       "en": "The maker unveiled two models in Tokyo.",
       "ja": "製造業者は東京で二機種を披露した。"
@@ -8076,6 +8808,7 @@
     "id": "w1272",
     "type": "word",
     "en": "uphold",
+    "ipa": "/ʌpˈhoʊld/",
     "ja": [
       "支持して維持する"
     ],
@@ -8089,6 +8822,7 @@
     "senses": [
       "uphold-confirmdecision"
     ],
+    "origin": "up（上に）＋ hold（保つ）。倒れないよう保ち続けること",
     "example": {
       "en": "The panel upheld the original ruling.",
       "ja": "審査団は当初の判断を支持して維持した。"
@@ -8098,6 +8832,7 @@
     "id": "w1273",
     "type": "word",
     "en": "utilize",
+    "ipa": "/ˈjuːtəlaɪz/",
     "ja": [
       "役立てる"
     ],
@@ -8111,6 +8846,7 @@
     "senses": [
       "utilize-makepracticaluse"
     ],
+    "origin": "ラテン語 uti（使う）。役に立つ形で使うこと。use, usage と同語源",
     "example": {
       "en": "The plant utilizes waste heat for drying.",
       "ja": "工場は廃熱を乾燥に役立てる。"
@@ -8120,6 +8856,7 @@
     "id": "w1274",
     "type": "word",
     "en": "validate",
+    "ipa": "/ˈvælɪdeɪt/",
     "ja": [
       "妥当性を確かめる"
     ],
@@ -8133,6 +8870,7 @@
     "senses": [
       "validate-confirmvalidity"
     ],
+    "origin": "ラテン語 valere（強い・値する）。効力があると確かめること。value と同語源",
     "example": {
       "en": "The lab validates every test method.",
       "ja": "研究室は各試験の方法の妥当性を確かめる。"
@@ -8142,6 +8880,7 @@
     "id": "w1275",
     "type": "word",
     "en": "variance",
+    "ipa": "/ˈveriəns/",
     "ja": [
       "差異"
     ],
@@ -8155,6 +8894,7 @@
     "senses": [
       "variance-differencefromplan"
     ],
+    "origin": "ラテン語 varius（まちまちの）。基準からのずれ。vary と同語源",
     "example": {
       "en": "The budget variance was under two percent.",
       "ja": "予算の差異は二パーセント未満だった。"
@@ -8164,6 +8904,7 @@
     "id": "w1276",
     "type": "word",
     "en": "venue",
+    "ipa": "/ˈvenjuː/",
     "ja": [
       "開催地"
     ],
@@ -8177,6 +8918,7 @@
     "senses": [
       "venue-eventlocation"
     ],
+    "origin": "ラテン語 venire（来る）。人が集まって来る場所。convene と同語源",
     "example": {
       "en": "The venue changed to the harbor hall.",
       "ja": "開催地は港のホールに変わった。"
@@ -8186,6 +8928,7 @@
     "id": "w1277",
     "type": "word",
     "en": "verdict",
+    "ipa": "/ˈvɜːrdɪkt/",
     "ja": [
       "判定結果"
     ],
@@ -8199,6 +8942,7 @@
     "senses": [
       "verdict-formaldecision"
     ],
+    "origin": "ラテン語 verus（真）＋ dicere（言う）。真実を言い渡した結論。verify と同語源",
     "example": {
       "en": "The verdict favored the shipping agent.",
       "ja": "判定結果は運送代理店に有利だった。"
@@ -8208,6 +8952,7 @@
     "id": "w1278",
     "type": "word",
     "en": "viable",
+    "ipa": "/ˈvaɪəbl/",
     "ja": [
       "成り立つ"
     ],
@@ -8221,6 +8966,7 @@
     "senses": [
       "viable-workableinpractice"
     ],
+    "origin": "ラテン語 vita（命）。生きていける、そこから成り立つこと。vital と同語源",
     "example": {
       "en": "Rail became a viable option this year.",
       "ja": "今年、鉄道は成り立つ選択肢になった。"
@@ -8230,6 +8976,7 @@
     "id": "w1279",
     "type": "word",
     "en": "vicinity-map",
+    "ipa": "/vəˈsɪnəti mæp/",
     "ja": [
       "周辺図"
     ],
@@ -8243,6 +8990,7 @@
     "senses": [
       "vicinmap-localareadiagram"
     ],
+    "origin": "vicinity（近隣）＋ map（地図）。周りの様子を示した地図",
     "example": {
       "en": "A vicinity map hangs by the reception.",
       "ja": "受付のそばに周辺図が掛かっている。"
@@ -8252,6 +9000,7 @@
     "id": "w1280",
     "type": "word",
     "en": "vigilant",
+    "ipa": "/ˈvɪdʒɪlənt/",
     "ja": [
       "油断のない"
     ],
@@ -8265,6 +9014,7 @@
     "senses": [
       "vigilant-watchfullyalert"
     ],
+    "origin": "ラテン語 vigil（目覚めている）。眠らず見張っていること",
     "example": {
       "en": "Guards stay vigilant during the night shift.",
       "ja": "警備員は夜勤の間、油断のない状態を保つ。"
@@ -8274,6 +9024,7 @@
     "id": "w1281",
     "type": "word",
     "en": "void",
+    "ipa": "/vɔɪd/",
     "ja": [
       "失効させる"
     ],
@@ -8287,6 +9038,7 @@
     "senses": [
       "void-makeineffective"
     ],
+    "origin": "ラテン語 vacare（空である）。中身を空にして効力を失わせること。vacant と同語源",
     "example": {
       "en": "Tampering voids the maker's guarantee.",
       "ja": "改造は製造業者の保証を失効させる。"
@@ -8296,6 +9048,7 @@
     "id": "w1282",
     "type": "word",
     "en": "warrant-period",
+    "ipa": "/ˈwɔːrənt ˈpɪriəd/",
     "ja": [
       "保証期間"
     ],
@@ -8309,6 +9062,7 @@
     "senses": [
       "warrantperiod-guaranteeduration"
     ],
+    "origin": "warrant（保証）＋ period（期間）。保証が効いている期間",
     "example": {
       "en": "The warranty period covers three full years.",
       "ja": "保証期間は丸三年を対象とする。"
@@ -8318,6 +9072,7 @@
     "id": "w1283",
     "type": "word",
     "en": "withhold",
+    "ipa": "/wɪðˈhoʊld/",
     "ja": [
       "保留する"
     ],
@@ -8331,6 +9086,7 @@
     "senses": [
       "withhold-refusetogive"
     ],
+    "origin": "with-（後ろへ）＋ hold（保つ）。渡さず手元に留めること",
     "example": {
       "en": "The buyer withheld the final payment.",
       "ja": "買い手は最終の支払いを保留した。"
@@ -8340,6 +9096,7 @@
     "id": "w1284",
     "type": "word",
     "en": "withstand",
+    "ipa": "/wɪðˈstænd/",
     "ja": [
       "耐え抜く"
     ],
@@ -8353,6 +9110,7 @@
     "senses": [
       "withstand-resistforce"
     ],
+    "origin": "with-（逆らって）＋ stand（立つ）。押されても立ち続けること",
     "example": {
       "en": "The crate withstands a two-meter drop.",
       "ja": "その木箱は二メートルの落下に耐え抜く。"
@@ -8362,6 +9120,7 @@
     "id": "w1285",
     "type": "word",
     "en": "yield-rate",
+    "ipa": "/jiːld reɪt/",
     "ja": [
       "歩留まり"
     ],
@@ -8375,6 +9134,7 @@
     "senses": [
       "yieldrate-goodoutputratio"
     ],
+    "origin": "yield（産出する）＋ rate（率）。投入に対して取れた割合",
     "example": {
       "en": "The yield rate improved to ninety-six percent.",
       "ja": "歩留まりは九十六パーセントに改善した。"
@@ -8384,6 +9144,7 @@
     "id": "w1286",
     "type": "word",
     "en": "zealous",
+    "ipa": "/ˈzeləs/",
     "ja": [
       "熱心な"
     ],
@@ -8397,6 +9158,7 @@
     "senses": [
       "zealous-eagerlydevoted"
     ],
+    "origin": "ギリシャ語 zelos（熱意）。熱を入れて取り組むこと。jealous と同語源",
     "example": {
       "en": "A zealous trainee spotted the labeling error.",
       "ja": "熱心な研修生が表示の誤りを見つけた。"
@@ -8406,6 +9168,7 @@
     "id": "w1287",
     "type": "word",
     "en": "abstract",
+    "ipa": "/ˈæbstrækt/",
     "ja": [
       "抽象的な"
     ],
@@ -8419,6 +9182,7 @@
     "senses": [
       "abstract-notconcrete"
     ],
+    "origin": "abs-（引き離して）＋ ラテン語 trahere（引く）。中身から要点を抜き出すこと。tractor と同語源",
     "example": {
       "en": "The goals were too abstract to measure.",
       "ja": "目標は測るには抽象的すぎた。"
@@ -8428,6 +9192,7 @@
     "id": "w1288",
     "type": "word",
     "en": "accountability",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
     "ja": [
       "説明責任"
     ],
@@ -8441,6 +9206,7 @@
     "senses": [
       "accountability-answerabilityforactions"
     ],
+    "origin": "account（説明する）＋ -ability。求めに応じて説明できること",
     "example": {
       "en": "Clear accountability shortened the inquiry.",
       "ja": "明確な説明責任が調査を短くした。"
@@ -8450,6 +9216,7 @@
     "id": "w1289",
     "type": "word",
     "en": "acute",
+    "ipa": "/əˈkjuːt/",
     "ja": [
       "深刻で急な"
     ],
@@ -8463,6 +9230,7 @@
     "senses": [
       "acute-severeandsudden"
     ],
+    "origin": "ラテン語 acuere（とがらせる）。とがって鋭いこと。acid と同語源",
     "example": {
       "en": "An acute shortage of drivers hit the region.",
       "ja": "運転手の深刻で急な不足が地域を襲った。"
@@ -8472,6 +9240,7 @@
     "id": "w1290",
     "type": "word",
     "en": "adverse-weather",
+    "ipa": "/ˈædvɜːrs ˈweðər/",
     "ja": [
       "悪天候"
     ],
@@ -8485,6 +9254,7 @@
     "senses": [
       "adverseweather-badconditions"
     ],
+    "origin": "adverse（逆らう）＋ weather（天候）。運行を妨げる悪い天候",
     "example": {
       "en": "Adverse weather closed the mountain road.",
       "ja": "悪天候が山道を閉ざした。"
@@ -8494,6 +9264,7 @@
     "id": "w1291",
     "type": "word",
     "en": "affiliate",
+    "ipa": "/əˈfɪlieɪt/",
     "ja": [
       "系列会社"
     ],
@@ -8507,6 +9278,7 @@
     "senses": [
       "affiliate-associatedcompany"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 filius（息子）。子として結び付いた会社",
     "example": {
       "en": "An affiliate handles sales in Taiwan.",
       "ja": "系列会社が台湾での販売を担う。"
@@ -8516,6 +9288,7 @@
     "id": "w1292",
     "type": "word",
     "en": "aggregate-demand",
+    "ipa": "/ˈæɡrɪɡət dɪˈmænd/",
     "ja": [
       "総需要"
     ],
@@ -8529,6 +9302,7 @@
     "senses": [
       "aggdemand-totalmarketneed"
     ],
+    "origin": "aggregate（総計）＋ demand（需要）。全体を足し合わせた需要",
     "example": {
       "en": "Aggregate demand softened after the tax rise.",
       "ja": "増税の後、総需要は弱まった。"
@@ -8538,6 +9312,7 @@
     "id": "w1293",
     "type": "word",
     "en": "alliance",
+    "ipa": "/əˈlaɪəns/",
     "ja": [
       "提携"
     ],
@@ -8551,6 +9326,7 @@
     "senses": [
       "alliance-cooperativeunion"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 ligare（結ぶ）。互いを結び付けること。ally, liaison と同語源",
     "example": {
       "en": "The alliance covers joint distribution.",
       "ja": "その提携は共同の配送を対象とする。"
@@ -8560,6 +9336,7 @@
     "id": "w1294",
     "type": "word",
     "en": "appraise",
+    "ipa": "/əˈpreɪz/",
     "ja": [
       "見積もり評価する"
     ],
@@ -8573,6 +9350,7 @@
     "senses": [
       "appraise-assessvalue"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 pretium（値）。値を見立てること。price, appraisal と同語源",
     "example": {
       "en": "A surveyor appraised the warehouse last week.",
       "ja": "測量士が先週、倉庫を見積もり評価した。"
@@ -8582,6 +9360,7 @@
     "id": "w1295",
     "type": "word",
     "en": "apt",
+    "ipa": "/æpt/",
     "ja": [
       "しがちな"
     ],
@@ -8595,6 +9374,7 @@
     "senses": [
       "apt-likelytodo"
     ],
+    "origin": "ラテン語 aptus（適した）。そうなりやすい性質。attitude, adapt と同語源",
     "example": {
       "en": "Thin sheets are apt to warp in heat.",
       "ja": "薄い板は熱でゆがみがちだ。"
@@ -8604,6 +9384,7 @@
     "id": "w1296",
     "type": "word",
     "en": "assurance",
+    "ipa": "/əˈʃʊrəns/",
     "ja": [
       "確約"
     ],
@@ -8617,6 +9398,7 @@
     "senses": [
       "assurance-firmpromise"
     ],
+    "origin": "ad-（〜へ）＋ sure（確かな）。確かだと請け合うこと。ensure と同語源",
     "example": {
       "en": "We received written assurance of delivery.",
       "ja": "納品の書面の確約を受け取った。"
@@ -8626,6 +9408,7 @@
     "id": "w1297",
     "type": "word",
     "en": "audit-trail",
+    "ipa": "/ˈɔːdɪt treɪl/",
     "ja": [
       "監査証跡"
     ],
@@ -8639,6 +9422,7 @@
     "senses": [
       "audittrail-recordofchanges"
     ],
+    "origin": "audit（監査）＋ trail（跡）。後から追える処理の跡",
     "example": {
       "en": "An audit trail records every price change.",
       "ja": "監査証跡が価格の変更をすべて記録する。"
@@ -8648,6 +9432,7 @@
     "id": "w1298",
     "type": "word",
     "en": "benchmark",
+    "ipa": "/ˈbentʃmɑːrk/",
     "ja": [
       "基準指標"
     ],
@@ -8661,6 +9446,7 @@
     "senses": [
       "benchmark-comparisonstandard"
     ],
+    "origin": "bench（台）＋ mark（印）。測量の基準として台に刻んだ印",
     "example": {
       "en": "The plant beat the industry benchmark.",
       "ja": "工場は業界の基準指標を上回った。"
@@ -8670,6 +9456,7 @@
     "id": "w1299",
     "type": "word",
     "en": "bolster",
+    "ipa": "/ˈboʊlstər/",
     "ja": [
       "下支えする"
     ],
@@ -8683,6 +9470,7 @@
     "senses": [
       "bolster-strengthensupport"
     ],
+    "origin": "古英語 bolster（長枕）。下から当てて支えること",
     "example": {
       "en": "Export orders bolstered a weak quarter.",
       "ja": "輸出の注文が弱い四半期を下支えした。"
@@ -8692,6 +9480,7 @@
     "id": "w1300",
     "type": "word",
     "en": "brochure-stand",
+    "ipa": "/broʊˈʃʊr stænd/",
     "ja": [
       "資料台"
     ],
@@ -8705,6 +9494,7 @@
     "senses": [
       "brochurestand-leafletholder"
     ],
+    "origin": "brochure（小冊子）＋ stand（台）。冊子を置く台",
     "example": {
       "en": "A brochure stand sits by the lift.",
       "ja": "昇降機のそばに資料台がある。"
@@ -8714,6 +9504,7 @@
     "id": "w1301",
     "type": "word",
     "en": "cater",
+    "ipa": "/ˈkeɪtər/",
     "ja": [
       "仕出しをする"
     ],
@@ -8727,6 +9518,7 @@
     "senses": [
       "cater-supplyfood"
     ],
+    "origin": "ラテン語 capere（取る）。食料を調えて出すこと。capture と同語源",
     "example": {
       "en": "A local firm catered the opening event.",
       "ja": "地元の会社が開所の催しの仕出しをした。"
@@ -8736,6 +9528,7 @@
     "id": "w1302",
     "type": "word",
     "en": "census",
+    "ipa": "/ˈsensəs/",
     "ja": [
       "全数調査"
     ],
@@ -8749,6 +9542,7 @@
     "senses": [
       "census-completecount"
     ],
+    "origin": "ラテン語 censere（数え上げる）。人口を数え上げる調査",
     "example": {
       "en": "A census of tools happens each January.",
       "ja": "工具の全数調査は毎年一月に行われる。"
@@ -8758,6 +9552,7 @@
     "id": "w1303",
     "type": "word",
     "en": "clarification",
+    "ipa": "/ˌklærəfɪˈkeɪʃn/",
     "ja": [
       "釈明"
     ],
@@ -8771,6 +9566,7 @@
     "senses": [
       "clarification-explanationrequest"
     ],
+    "origin": "ラテン語 clarus（澄んだ）＋ facere（作る）。濁りを取って説明すること",
     "example": {
       "en": "The buyer sought clarification on the terms.",
       "ja": "買い手は条件について釈明を求めた。"
@@ -8780,6 +9576,7 @@
     "id": "w1304",
     "type": "word",
     "en": "cohesive",
+    "ipa": "/koʊˈhiːsɪv/",
     "ja": [
       "まとまりのある"
     ],
@@ -8793,6 +9590,7 @@
     "senses": [
       "cohesive-wellunited"
     ],
+    "origin": "co-（共に）＋ ラテン語 haerere（くっつく）。互いにくっついていること。adhere と同語源",
     "example": {
       "en": "A cohesive team handled the peak smoothly.",
       "ja": "まとまりのある班が繁忙期を滑らかにこなした。"
@@ -8802,6 +9600,7 @@
     "id": "w1305",
     "type": "word",
     "en": "commencement",
+    "ipa": "/kəˈmensmənt/",
     "ja": [
       "開始時期"
     ],
@@ -8815,6 +9614,7 @@
     "senses": [
       "commencement-startingdate"
     ],
+    "origin": "com-（共に）＋ ラテン語 initiare（始める）。物事が始まるとき",
     "example": {
       "en": "Commencement of works is set for April.",
       "ja": "工事の開始時期は四月に決まっている。"
@@ -8824,6 +9624,7 @@
     "id": "w1306",
     "type": "word",
     "en": "comparable",
+    "ipa": "/ˈkɑːmpərəbl/",
     "ja": [
       "比較できる"
     ],
@@ -8837,6 +9638,7 @@
     "senses": [
       "comparable-similarenoughtocompare"
     ],
+    "origin": "com-（共に）＋ ラテン語 par（対等）。並べて比べられること。pair と同語源",
     "example": {
       "en": "Two comparable sites were also surveyed.",
       "ja": "比較できる二か所も調査された。"
@@ -8846,6 +9648,7 @@
     "id": "w1307",
     "type": "word",
     "en": "concurrent",
+    "ipa": "/kənˈkɜːrənt/",
     "ja": [
       "同時並行の"
     ],
@@ -8859,6 +9662,7 @@
     "senses": [
       "concurrent-happeningatsametime"
     ],
+    "origin": "con-（共に）＋ ラテン語 currere（走る）。並んで走っていること。current と同語源",
     "example": {
       "en": "Concurrent runs doubled weekly output.",
       "ja": "同時並行の運転が週の産出を倍にした。"
@@ -8868,6 +9672,7 @@
     "id": "w1308",
     "type": "word",
     "en": "conducive",
+    "ipa": "/kənˈduːsɪv/",
     "ja": [
       "助けとなる"
     ],
@@ -8881,6 +9686,7 @@
     "senses": [
       "conducive-helpingbringabout"
     ],
+    "origin": "con-（共に）＋ ラテン語 ducere（導く）。よい結果へ導く働きがあること",
     "example": {
       "en": "Good lighting is conducive to accurate work.",
       "ja": "よい照明は正確な作業の助けとなる。"
@@ -8890,6 +9696,7 @@
     "id": "w1309",
     "type": "word",
     "en": "confine",
+    "ipa": "/kənˈfaɪn/",
     "ja": [
       "限る"
     ],
@@ -8903,6 +9710,7 @@
     "senses": [
       "confine-restricttoarea"
     ],
+    "origin": "con-（共に）＋ ラテン語 finis（境）。境の内に閉じ込めること。finish と同語源",
     "example": {
       "en": "Smoking is confined to the yard shelter.",
       "ja": "喫煙は構内の小屋に限られる。"
@@ -8912,6 +9720,7 @@
     "id": "w1310",
     "type": "word",
     "en": "conform-report",
+    "ipa": "/kənˈfɔːrm rɪˈpɔːrt/",
     "ja": [
       "適合報告"
     ],
@@ -8925,6 +9734,7 @@
     "senses": [
       "conformreport-compliancestatement"
     ],
+    "origin": "conform（適合する）＋ report（報告）。基準に合っていると示す報告",
     "example": {
       "en": "A conformity report accompanies each batch.",
       "ja": "適合報告が各生産分に添えられる。"
@@ -8934,6 +9744,7 @@
     "id": "w1311",
     "type": "word",
     "en": "consignment",
+    "ipa": "/kənˈsaɪnmənt/",
     "ja": [
       "委託販売品"
     ],
@@ -8947,6 +9758,7 @@
     "senses": [
       "consignment-goodssentforsale"
     ],
+    "origin": "con-（共に）＋ ラテン語 signum（印）。印を付けて託した品。sign と同語源",
     "example": {
       "en": "The gallery takes prints on consignment.",
       "ja": "その画廊は版画を委託販売品として預かる。"
@@ -8956,6 +9768,7 @@
     "id": "w1312",
     "type": "word",
     "en": "conspicuous",
+    "ipa": "/kənˈspɪkjuəs/",
     "ja": [
       "人目を引く"
     ],
@@ -8969,6 +9782,7 @@
     "senses": [
       "conspicuous-easilyseen"
     ],
+    "origin": "con-（すっかり）＋ ラテン語 specere（見る）。よく目に入ること。inspect と同語源",
     "example": {
       "en": "A conspicuous sign marks the entrance.",
       "ja": "人目を引く標示が入口を示す。"
@@ -8978,6 +9792,7 @@
     "id": "w1313",
     "type": "word",
     "en": "contingent-fee",
+    "ipa": "/kənˈtɪndʒənt fiː/",
     "ja": [
       "成功報酬"
     ],
@@ -8991,6 +9806,7 @@
     "senses": [
       "contingfee-paymentonsuccess"
     ],
+    "origin": "contingent（成否次第の）＋ fee（報酬）。うまくいった場合だけ払う報酬",
     "example": {
       "en": "The adviser works on a contingent fee.",
       "ja": "その助言者は成功報酬で働く。"
@@ -9000,6 +9816,7 @@
     "id": "w1314",
     "type": "word",
     "en": "corroborate",
+    "ipa": "/kəˈrɑːbəreɪt/",
     "ja": [
       "裏付けを取る"
     ],
@@ -9013,6 +9830,7 @@
     "senses": [
       "corroborate-supportwithproof"
     ],
+    "origin": "con-（強め）＋ ラテン語 robur（樫）。証拠で固めて強めること。robust と同語源",
     "example": {
       "en": "Two logs corroborate the driver's account.",
       "ja": "二つの記録が運転手の説明の裏付けを取る。"
@@ -9022,6 +9840,7 @@
     "id": "w1315",
     "type": "word",
     "en": "counsel",
+    "ipa": "/ˈkaʊnsl/",
     "ja": [
       "助言"
     ],
@@ -9035,6 +9854,7 @@
     "senses": [
       "counsel-professionaladvice"
     ],
+    "origin": "ラテン語 consulere（相談する）。相談して示す助言。consultant と同語源",
     "example": {
       "en": "Legal counsel advised a written reply.",
       "ja": "法務の助言は書面の返答を勧めた。"
@@ -9044,6 +9864,7 @@
     "id": "w1316",
     "type": "word",
     "en": "customary",
+    "ipa": "/ˈkʌstəmeri/",
     "ja": [
       "慣例の"
     ],
@@ -9057,6 +9878,7 @@
     "senses": [
       "customary-usualbytradition"
     ],
+    "origin": "ラテン語 consuetudo（習わし）。習わしどおりであること。custom と同語源",
     "example": {
       "en": "A customary discount applies to bulk orders.",
       "ja": "大量の注文には慣例の割引がかかる。"
@@ -9066,6 +9888,7 @@
     "id": "w1317",
     "type": "word",
     "en": "deceptive",
+    "ipa": "/dɪˈseptɪv/",
     "ja": [
       "紛らわしい"
     ],
@@ -9079,6 +9902,7 @@
     "senses": [
       "deceptive-misleadinginappearance"
     ],
+    "origin": "de-（外して）＋ ラテン語 capere（取る）。実物と違うものをつかませること",
     "example": {
       "en": "The label was ruled deceptive by the bureau.",
       "ja": "その表示は局に紛らわしいと判断された。"
@@ -9088,6 +9912,7 @@
     "id": "w1318",
     "type": "word",
     "en": "decisive",
+    "ipa": "/dɪˈsaɪsɪv/",
     "ja": [
       "決め手となる"
     ],
@@ -9101,6 +9926,7 @@
     "senses": [
       "decisive-settlingthematter"
     ],
+    "origin": "de-（すっかり）＋ ラテン語 caedere（切る）。すっぱり切って決めること。decide と同語源",
     "example": {
       "en": "Price was the decisive factor in the tender.",
       "ja": "価格が入札の決め手となる要素だった。"
@@ -9110,6 +9936,7 @@
     "id": "w1319",
     "type": "word",
     "en": "deficit-cover",
+    "ipa": "/ˈdefɪsɪt ˈkʌvər/",
     "ja": [
       "赤字補填"
     ],
@@ -9123,6 +9950,7 @@
     "senses": [
       "deficover-makinguploss"
     ],
+    "origin": "deficit（赤字）＋ cover（埋める）。赤字を埋め合わせること",
     "example": {
       "en": "Reserves provided the deficit cover.",
       "ja": "準備金が赤字補填を担った。"
@@ -9132,6 +9960,7 @@
     "id": "w1320",
     "type": "word",
     "en": "dilute",
+    "ipa": "/daɪˈluːt/",
     "ja": [
       "薄める"
     ],
@@ -9145,6 +9974,7 @@
     "senses": [
       "dilute-weakenbyadding"
     ],
+    "origin": "di-（離して）＋ ラテン語 luere（洗い流す）。水で薄めること",
     "example": {
       "en": "Dilute the cleaner before use on glass.",
       "ja": "ガラスに使う前に洗浄剤を薄めなさい。"
@@ -9154,6 +9984,7 @@
     "id": "w1321",
     "type": "word",
     "en": "discrete",
+    "ipa": "/dɪˈskriːt/",
     "ja": [
       "個別独立の"
     ],
@@ -9167,6 +9998,7 @@
     "senses": [
       "discrete-separatelydistinct"
     ],
+    "origin": "dis-（分けて）＋ ラテン語 cernere（ふるい分ける）。互いに切れて独立していること",
     "example": {
       "en": "The process has five discrete stages.",
       "ja": "その工程は五つの個別独立の段階を持つ。"
@@ -9176,6 +10008,7 @@
     "id": "w1322",
     "type": "word",
     "en": "divergent",
+    "ipa": "/daɪˈvɜːrdʒənt/",
     "ja": [
       "食い違う"
     ],
@@ -9189,6 +10022,7 @@
     "senses": [
       "divergent-differinginopinion"
     ],
+    "origin": "dis-（別々に）＋ ラテン語 vergere（傾く）。別々の方へ開いていくこと",
     "example": {
       "en": "The two reports reached divergent totals.",
       "ja": "二つの報告書は食い違う合計に達した。"
@@ -9198,6 +10032,7 @@
     "id": "w1323",
     "type": "word",
     "en": "elapse",
+    "ipa": "/ɪˈlæps/",
     "ja": [
       "経過する"
     ],
@@ -9211,6 +10046,7 @@
     "senses": [
       "elapse-passoftime"
     ],
+    "origin": "e-（外へ）＋ ラテン語 labi（滑る）。時が滑り過ぎること。collapse と同語源",
     "example": {
       "en": "Thirty days elapsed before any reply came.",
       "ja": "返答が来るまで三十日が経過した。"
@@ -9220,6 +10056,7 @@
     "id": "w1324",
     "type": "word",
     "en": "embody",
+    "ipa": "/ɪmˈbɑːdi/",
     "ja": [
       "体現する"
     ],
@@ -9233,6 +10070,7 @@
     "senses": [
       "embody-representinform"
     ],
+    "origin": "em-（中へ）＋ body（体）。形のないものに体を与えること",
     "example": {
       "en": "The new model embodies the design brief.",
       "ja": "新しい型式は設計の趣旨を体現する。"
@@ -9242,6 +10080,7 @@
     "id": "w1325",
     "type": "word",
     "en": "emit",
+    "ipa": "/ɪˈmɪt/",
     "ja": [
       "排出する"
     ],
@@ -9255,6 +10094,7 @@
     "senses": [
       "emit-giveoffsubstance"
     ],
+    "origin": "e-（外へ）＋ ラテン語 mittere（送る）。外へ送り出すこと。mission と同語源",
     "example": {
       "en": "The dryer emits warm air into the yard.",
       "ja": "乾燥機は構内へ暖かい空気を排出する。"
@@ -9264,6 +10104,7 @@
     "id": "w1326",
     "type": "word",
     "en": "empirical",
+    "ipa": "/ɪmˈpɪrɪkl/",
     "ja": [
       "実証に基づく"
     ],
@@ -9277,6 +10118,7 @@
     "senses": [
       "empirical-basedonobservation"
     ],
+    "origin": "ギリシャ語 empeiria（経験）。実地の経験に基づくこと。experience と同語源",
     "example": {
       "en": "Empirical data supported the design change.",
       "ja": "実証に基づく資料が設計の変更を支えた。"
@@ -9286,6 +10128,7 @@
     "id": "w1327",
     "type": "word",
     "en": "endanger",
+    "ipa": "/ɪnˈdeɪndʒər/",
     "ja": [
       "危険にさらす"
     ],
@@ -9299,6 +10142,7 @@
     "senses": [
       "endanger-putatrisk"
     ],
+    "origin": "en-（〜にする）＋ danger（危険）。危険な状態に置くこと",
     "example": {
       "en": "Loose loads endanger other road users.",
       "ja": "緩んだ積み荷は他の道路利用者を危険にさらす。"
@@ -9308,6 +10152,7 @@
     "id": "w1328",
     "type": "word",
     "en": "equitable",
+    "ipa": "/ˈekwɪtəbl/",
     "ja": [
       "公平な"
     ],
@@ -9321,6 +10166,7 @@
     "senses": [
       "equitable-fairtoallsides"
     ],
+    "origin": "ラテン語 aequus（等しい）。誰にも等しく扱うこと。equal, equity と同語源",
     "example": {
       "en": "The split was equitable for both partners.",
       "ja": "その分配は双方の提携先に公平だった。"
@@ -9330,6 +10176,7 @@
     "id": "w1329",
     "type": "word",
     "en": "erratic",
+    "ipa": "/ɪˈrætɪk/",
     "ja": [
       "不規則な"
     ],
@@ -9343,6 +10190,7 @@
     "senses": [
       "erratic-irregularandunpredictable"
     ],
+    "origin": "ラテン語 errare（さまよう）。定まらず外れること。error と同語源",
     "example": {
       "en": "Erratic pressure damaged two seals.",
       "ja": "不規則な圧力が封を二つ傷めた。"
@@ -9352,6 +10200,7 @@
     "id": "w1330",
     "type": "word",
     "en": "exemplify",
+    "ipa": "/ɪɡˈzemplɪfaɪ/",
     "ja": [
       "好例となる"
     ],
@@ -9365,6 +10214,7 @@
     "senses": [
       "exemplify-serveasexample"
     ],
+    "origin": "ラテン語 exemplum（見本）＋ facere（作る）。見本として示すこと。example と同語源",
     "example": {
       "en": "The Kobe branch exemplifies good practice.",
       "ja": "神戸支店は良い慣行の好例となる。"
@@ -9374,6 +10224,7 @@
     "id": "w1331",
     "type": "word",
     "en": "expel",
+    "ipa": "/ɪkˈspel/",
     "ja": [
       "退去させる"
     ],
@@ -9387,6 +10238,7 @@
     "senses": [
       "expel-forceout"
     ],
+    "origin": "ex-（外へ）＋ ラテン語 pellere（押す）。外へ押し出すこと。repel と同語源",
     "example": {
       "en": "Fans expel fumes through the roof vent.",
       "ja": "送風機は屋根の口から煙を退去させる。"
@@ -9396,6 +10248,7 @@
     "id": "w1332",
     "type": "word",
     "en": "finite",
+    "ipa": "/ˈfaɪnaɪt/",
     "ja": [
       "限りある"
     ],
@@ -9409,6 +10262,7 @@
     "senses": [
       "finite-limitedinamount"
     ],
+    "origin": "ラテン語 finis（境）。境があって限りがあること。finish, confine と同語源",
     "example": {
       "en": "Yard space is finite during peak season.",
       "ja": "繁忙期の構内の場所は限りある。"
@@ -9418,6 +10272,7 @@
     "id": "w1333",
     "type": "word",
     "en": "forfeiture",
+    "ipa": "/ˈfɔːrfɪtʃər/",
     "ja": [
       "権利喪失"
     ],
@@ -9431,6 +10286,7 @@
     "senses": [
       "forfeiture-lossofright"
     ],
+    "origin": "古仏語 forfaire（罪を犯す）。落ち度により権利を失うこと",
     "example": {
       "en": "Late filing risks forfeiture of the claim.",
       "ja": "遅い提出は請求の権利喪失を招く。"
@@ -9440,6 +10296,7 @@
     "id": "w1334",
     "type": "word",
     "en": "fortify",
+    "ipa": "/ˈfɔːrtɪfaɪ/",
     "ja": [
       "強化する"
     ],
@@ -9453,6 +10310,7 @@
     "senses": [
       "fortify-makestronger"
     ],
+    "origin": "ラテン語 fortis（強い）＋ facere（作る）。強く作り直すこと。force, effort と同語源",
     "example": {
       "en": "Steel posts fortify the perimeter fence.",
       "ja": "鋼の柱が外周の柵を強化する。"
@@ -9462,6 +10320,7 @@
     "id": "w1335",
     "type": "word",
     "en": "freight-forwarder",
+    "ipa": "/freɪt ˈfɔːrwərdər/",
     "ja": [
       "貨物取扱業者"
     ],
@@ -9475,6 +10334,7 @@
     "senses": [
       "forwarder-shippingagent"
     ],
+    "origin": "freight（貨物）＋ forwarder（送り手）。貨物の輸送を取り次ぐ業者",
     "example": {
       "en": "A freight forwarder books the vessel space.",
       "ja": "貨物取扱業者が船の積み場所を予約する。"
@@ -9484,6 +10344,7 @@
     "id": "w1336",
     "type": "word",
     "en": "grace-period",
+    "ipa": "/ɡreɪs ˈpɪriəd/",
     "ja": [
       "猶予期間"
     ],
@@ -9497,6 +10358,7 @@
     "senses": [
       "graceperiod-extratimeallowed"
     ],
+    "origin": "grace（猶予）＋ period（期間）。期限後も咎めない期間",
     "example": {
       "en": "A ten-day grace period follows the due date.",
       "ja": "期日の後に十日の猶予期間がある。"
@@ -9506,6 +10368,7 @@
     "id": "w1337",
     "type": "word",
     "en": "hamper",
+    "ipa": "/ˈhæmpər/",
     "ja": [
       "足を引っ張る"
     ],
@@ -9519,6 +10382,7 @@
     "senses": [
       "hamper-hinderprogress"
     ],
+    "origin": "中期英語 hamperen（妨げる）。動きにまとわりついて邪魔すること",
     "example": {
       "en": "Fog hampered the harbor operation.",
       "ja": "霧が港の作業の足を引っ張った。"
@@ -9528,6 +10392,7 @@
     "id": "w1338",
     "type": "word",
     "en": "harness",
+    "ipa": "/ˈhɑːrnɪs/",
     "ja": [
       "活用して制御する"
     ],
@@ -9541,6 +10406,7 @@
     "senses": [
       "harness-controlanduse"
     ],
+    "origin": "古仏語 harneis（馬具）。馬具で御するように力を引き出して使うこと",
     "example": {
       "en": "The plant harnesses waste steam for heating.",
       "ja": "工場は廃蒸気を暖房に活用して制御する。"
@@ -9550,6 +10416,7 @@
     "id": "w1339",
     "type": "word",
     "en": "hasten",
+    "ipa": "/ˈheɪsn/",
     "ja": [
       "急がせる"
     ],
@@ -9563,6 +10430,7 @@
     "senses": [
       "hasten-speedupaction"
     ],
+    "origin": "haste（急ぎ）＋ -en（〜にする）。早める働きかけをすること",
     "example": {
       "en": "The strike hastened the move to rail.",
       "ja": "争議が鉄道への転換を急がせた。"
@@ -9572,6 +10440,7 @@
     "id": "w1340",
     "type": "word",
     "en": "haulage",
+    "ipa": "/ˈhɔːlɪdʒ/",
     "ja": [
       "陸送"
     ],
@@ -9585,6 +10454,7 @@
     "senses": [
       "haulage-roadtransport"
     ],
+    "origin": "haul（引く）＋ -age。荷を陸路で引いて運ぶこと",
     "example": {
       "en": "Haulage rates rose with the fuel price.",
       "ja": "陸送の料金は燃料の価格とともに上がった。"
@@ -9594,6 +10464,7 @@
     "id": "w1341",
     "type": "word",
     "en": "impartial",
+    "ipa": "/ɪmˈpɑːrʃl/",
     "ja": [
       "公平無私の"
     ],
@@ -9607,6 +10478,7 @@
     "senses": [
       "impartial-notfavoringside"
     ],
+    "origin": "im-（否定）＋ partial（一方に偏る）。どちらにも偏らないこと",
     "example": {
       "en": "An impartial expert examined both samples.",
       "ja": "公平無私の専門家が双方の見本を調べた。"
@@ -9616,6 +10488,7 @@
     "id": "w1342",
     "type": "word",
     "en": "impending",
+    "ipa": "/ɪmˈpendɪŋ/",
     "ja": [
       "間近に迫った"
     ],
@@ -9629,6 +10502,7 @@
     "senses": [
       "impending-soontooccur"
     ],
+    "origin": "im-（上に）＋ ラテン語 pendere（ぶら下がる）。頭上に迫っていること。pending と同語源",
     "example": {
       "en": "The impending audit worried the branch.",
       "ja": "間近に迫った監査が支店を不安にさせた。"
@@ -9638,6 +10512,7 @@
     "id": "w1343",
     "type": "word",
     "en": "incidental",
+    "ipa": "/ˌɪnsɪˈdentl/",
     "ja": [
       "付随的な"
     ],
@@ -9651,6 +10526,7 @@
     "senses": [
       "incidental-minorandaccompanying"
     ],
+    "origin": "in-（上に）＋ ラテン語 cadere（落ちる）。本筋に落ちかかって付いてくること",
     "example": {
       "en": "Incidental costs appear on page three.",
       "ja": "付随的な費用は三頁に載っている。"
@@ -9660,6 +10536,7 @@
     "id": "w1344",
     "type": "word",
     "en": "inconsistent",
+    "ipa": "/ˌɪnkənˈsɪstənt/",
     "ja": [
       "一貫しない"
     ],
@@ -9673,6 +10550,7 @@
     "senses": [
       "inconsistent-notmatchingthroughout"
     ],
+    "origin": "in-（否定）＋ consistent（一貫した）。言うことややり方が食い違うこと",
     "example": {
       "en": "Inconsistent labeling confused the depot.",
       "ja": "一貫しない表示が拠点を混乱させた。"
@@ -9682,6 +10560,7 @@
     "id": "w1345",
     "type": "word",
     "en": "indicative",
+    "ipa": "/ɪnˈdɪkətɪv/",
     "ja": [
       "示唆する"
     ],
@@ -9695,6 +10574,7 @@
     "senses": [
       "indicative-suggestingsomething"
     ],
+    "origin": "indicate（示す）＋ -ive。それを指し示す働きがあること",
     "example": {
       "en": "The figures are indicative of a slow autumn.",
       "ja": "その数字は緩やかな秋を示唆するものだ。"
@@ -9704,6 +10584,7 @@
     "id": "w1346",
     "type": "word",
     "en": "inference-rule",
+    "ipa": "/ˈɪnfərəns ruːl/",
     "ja": [
       "判断の目安"
     ],
@@ -9717,6 +10598,7 @@
     "senses": [
       "inferrule-guidingcriterion"
     ],
+    "origin": "inference（推論）＋ rule（規準）。判断を導くための目安",
     "example": {
       "en": "A simple rule of thumb guides the check.",
       "ja": "単純な判断の目安が点検を導く。"
@@ -9726,6 +10608,7 @@
     "id": "w1347",
     "type": "word",
     "en": "ingenious",
+    "ipa": "/ɪnˈdʒiːniəs/",
     "ja": [
       "工夫に富んだ"
     ],
@@ -9739,6 +10622,7 @@
     "senses": [
       "ingenious-cleverlyinventive"
     ],
+    "origin": "ラテン語 ingenium（生まれつきの才）。才知の効いた工夫。genius と同語源",
     "example": {
       "en": "An ingenious jig halved the setup time.",
       "ja": "工夫に富んだ治具が段取りを半分にした。"
@@ -9748,6 +10632,7 @@
     "id": "w1348",
     "type": "word",
     "en": "insurer",
+    "ipa": "/ɪnˈʃʊrər/",
     "ja": [
       "保険会社"
     ],
@@ -9761,6 +10646,7 @@
     "senses": [
       "insurer-insuranceprovider"
     ],
+    "origin": "insure（保険をかける）＋ -er。保険を引き受ける側",
     "example": {
       "en": "The insurer settled the claim in a month.",
       "ja": "保険会社は一か月で請求を解決した。"
@@ -9770,6 +10656,7 @@
     "id": "w1349",
     "type": "word",
     "en": "intact",
+    "ipa": "/ɪnˈtækt/",
     "ja": [
       "無傷の"
     ],
@@ -9783,6 +10670,7 @@
     "senses": [
       "intact-undamagedwhole"
     ],
+    "origin": "in-（否定）＋ ラテン語 tangere（触れる）。手が触れられておらず元のままなこと",
     "example": {
       "en": "All twelve pallets arrived intact.",
       "ja": "荷台十二台すべてが無傷の状態で届いた。"
@@ -9792,6 +10680,7 @@
     "id": "w1350",
     "type": "word",
     "en": "interrupt",
+    "ipa": "/ˌɪntəˈrʌpt/",
     "ja": [
       "中断する"
     ],
@@ -9805,6 +10694,7 @@
     "senses": [
       "interrupt-breakcontinuity"
     ],
+    "origin": "inter-（間に）＋ ラテン語 rumpere（破る）。流れの間に割って入ること。disrupt と同語源",
     "example": {
       "en": "A short outage interrupted the coating run.",
       "ja": "短い停電が塗装の運転を中断した。"
