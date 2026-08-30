@@ -414,7 +414,8 @@ node tools/validate-data.mjs
 
 ## 10. Git 運用
 
-- 作業ブランチ: `claude/toeic-vocab-learning-app-t15wz7`
+- **`main` で直接作業する。** 作業ブランチは切らない。GitHub Pages の公開元が
+  `main` / `/docs` なので、`main` へ push した時点でそのまま公開に反映される
 - コミットメッセージは日本語。1 コミット 1 目的にする
   （例: `スケジューラの重み付き抽選を実装`, `熟語データ level-2 を 100 件追加`）
 - コミット前に `node --test "tests/**/*.test.mjs"` と `node tools/validate-data.mjs` を通す
