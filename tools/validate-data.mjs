@@ -10,6 +10,9 @@ import { fileURLToPath } from 'node:url';
 import { LEVELS, TYPES, PARTS_OF_SPEECH, CHOICE_COUNT, DIRECTIONS } from '../docs/js/config.js';
 import { collectDistractorCandidates, normalizeJa, normalizeEn } from '../docs/js/quiz.js';
 
+/** origin の上限。長いと出題画面で読み切れないので目安として切る。 */
+const ORIGIN_MAX_LENGTH = 120;
+
 const dataDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../docs/data');
 
 async function readJson(relativePath) {
@@ -59,18 +62,16 @@ function checkRequiredFields(entry, errors) {
   if (Array.isArray(entry.ja) && entry.ja.some((ja) => /[。]$/.test(ja))) {
     errors.push(`${where}: 訳語の末尾に句点を付けないでください`);
   }
-  // ipa と origin は整備中のため任意。書かれている場合だけ形式を検査する
-  if (entry.ipa !== undefined && !/^\/[^/]+\/$/.test(entry.ipa)) {
-    errors.push(`${where}: ipa はスラッシュで囲んでください (${entry.ipa})`);
+  // ipa と origin は全件そろっている。欠けたまま追加されないよう必須にする
+  if (typeof entry.ipa !== 'string' || !/^\/[^/]+\/$/.test(entry.ipa)) {
+    errors.push(`${where}: ipa はスラッシュで囲んで必ず入れてください (${entry.ipa})`);
   }
-  if (entry.origin !== undefined) {
-    if (typeof entry.origin !== 'string' || entry.origin.trim() === '') {
-      errors.push(`${where}: origin が空です`);
-    } else if (entry.origin.length > 120) {
-      errors.push(`${where}: origin が長すぎます (${entry.origin.length} 文字)`);
-    } else if (/[。]$/.test(entry.origin)) {
-      errors.push(`${where}: origin の末尾に句点を付けないでください`);
-    }
+  if (typeof entry.origin !== 'string' || entry.origin.trim() === '') {
+    errors.push(`${where}: origin が空です`);
+  } else if (entry.origin.length > ORIGIN_MAX_LENGTH) {
+    errors.push(`${where}: origin が長すぎます (${entry.origin.length} 文字)`);
+  } else if (/[。]$/.test(entry.origin)) {
+    errors.push(`${where}: origin の末尾に句点を付けないでください`);
   }
 }
 
@@ -124,18 +125,11 @@ function checkDistractorAvailability(entries, errors) {
   }
 }
 
-/** 発音記号と由来の整備状況を数える。 */
-function checkEnrichment(entries, warnings) {
-  const words = entries.filter((entry) => entry.type === 'word');
-  const withIpa = words.filter((entry) => entry.ipa).length;
+/** 発音記号と由来の整備状況を数える。欠落自体は checkRequiredFields がエラーにする。 */
+function checkEnrichment(entries) {
+  const withIpa = entries.filter((entry) => entry.ipa).length;
   const withOrigin = entries.filter((entry) => entry.origin).length;
-  if (withIpa < words.length) {
-    warnings.push(`ipa 未設定の単語が ${words.length - withIpa} 件あります`);
-  }
-  if (withOrigin < entries.length) {
-    warnings.push(`origin 未設定のエントリが ${entries.length - withOrigin} 件あります`);
-  }
-  return { withIpa, words: words.length, withOrigin, total: entries.length };
+  return { withIpa, withOrigin, total: entries.length };
 }
 
 function checkMetaProgress(meta, entries, warnings) {
@@ -165,11 +159,11 @@ async function main() {
   checkExcludeRefs(entries, byId, errors);
   if (errors.length === 0) checkDistractorAvailability(entries, errors);
   const counts = checkMetaProgress(meta, entries, warnings);
-  const enrichment = checkEnrichment(entries, warnings);
+  const enrichment = checkEnrichment(entries);
 
   console.log(`収録数: 単語 ${counts.words} 件 / 熟語 ${counts.phrases} 件`);
   console.log(
-    `発音記号: ${enrichment.withIpa} / ${enrichment.words} 語　` +
+    `発音記号: ${enrichment.withIpa} / ${enrichment.total} 件　` +
       `由来: ${enrichment.withOrigin} / ${enrichment.total} 件`,
   );
   for (const warning of warnings) console.warn(`警告: ${warning}`);

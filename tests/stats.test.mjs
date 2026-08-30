@@ -255,3 +255,16 @@ test('lastResult を持たない旧データでも履歴に並ぶ', () => {
   assert.equal(rows[0].lastResult, null);
   assert.equal(rows[0].skipped, 0);
 });
+
+// 履歴画面は row.entry から発音記号と由来を読む。ここで削ると画面に出なくなる
+test('履歴の行は語彙データのエントリをそのまま渡す', () => {
+  const enriched = [
+    entry('a', { ipa: '/eɪ/', origin: 'a の由来' }),
+    entry('b', { ipa: '/biː/', origin: 'b の由来' }),
+    entry('c', { ipa: '/siː/', origin: 'c の由来' }),
+  ];
+  const rows = recentEntries(history, enriched);
+  assert.equal(rows[0].entry.ipa, '/biː/');
+  assert.equal(rows[0].entry.origin, 'b の由来');
+  assert.deepEqual(rows[0].entry, enriched[1]);
+});
