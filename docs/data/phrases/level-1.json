@@ -3,6 +3,7 @@
     "id": "p0001",
     "type": "phrase",
     "en": "take part in",
+    "ipa": "/teɪk pɑːrt ɪn/",
     "ja": [
       "参加する"
     ],
@@ -16,6 +17,7 @@
     "senses": [
       "attend-participate"
     ],
+    "origin": "part は「取り分」。自分の取り分を取りに行く、つまり一員として加わること",
     "example": {
       "en": "Every new hire must take part in the orientation session.",
       "ja": "新入社員は全員、説明会に参加しなければならない。"
@@ -25,6 +27,7 @@
     "id": "p0002",
     "type": "phrase",
     "en": "look for",
+    "ipa": "/lʊk fɔːr/",
     "ja": [
       "探す"
     ],
@@ -38,6 +41,7 @@
     "senses": [
       "lookfor-trytofind"
     ],
+    "origin": "for は「〜を求めて」。求める気持ちで目を向けること",
     "example": {
       "en": "We are looking for a vendor that can print on metal.",
       "ja": "金属に印刷できる業者を探している。"
@@ -47,6 +51,7 @@
     "id": "p0003",
     "type": "phrase",
     "en": "pick up",
+    "ipa": "/pɪk ʌp/",
     "ja": [
       "車で迎えに行く"
     ],
@@ -60,6 +65,7 @@
     "senses": [
       "pickup-collectbycar"
     ],
+    "origin": "拾い上げる動作が原義。人を車で拾い上げる意味へ広がった",
     "example": {
       "en": "A driver will pick up the guests at the north exit.",
       "ja": "運転手が北口で来客を車で迎えに行く。"
@@ -69,6 +75,7 @@
     "id": "p0004",
     "type": "phrase",
     "en": "turn on",
+    "ipa": "/tɜːrn ɑːn/",
     "ja": [
       "電源を入れる"
     ],
@@ -82,6 +89,7 @@
     "senses": [
       "turnon-startdevice"
     ],
+    "origin": "栓を回して流れを on（つながった状態）にする。ガス栓の時代の言い方",
     "example": {
       "en": "Turn on the projector ten minutes before the briefing.",
       "ja": "説明会の十分前に投影機の電源を入れなさい。"
@@ -91,6 +99,7 @@
     "id": "p0005",
     "type": "phrase",
     "en": "fill out",
+    "ipa": "/fɪl aʊt/",
     "ja": [
       "記入する"
     ],
@@ -104,6 +113,7 @@
     "senses": [
       "fillout-completeform"
     ],
+    "origin": "out は「すみずみまで」。空欄を端から端まで埋めること",
     "example": {
       "en": "Please fill out the visitor card at the front desk.",
       "ja": "受付で来訪者カードに記入してください。"
@@ -113,6 +123,7 @@
     "id": "p0006",
     "type": "phrase",
     "en": "get in touch with",
+    "ipa": "/ɡet ɪn tʌtʃ wɪð/",
     "ja": [
       "連絡を取る"
     ],
@@ -126,6 +137,7 @@
     "senses": [
       "getintouch-makecontact"
     ],
+    "origin": "touch は「接触」。接触した状態に入ること",
     "example": {
       "en": "Get in touch with the carrier about the delayed pallet.",
       "ja": "遅れている荷台について運送業者と連絡を取りなさい。"
@@ -135,6 +147,7 @@
     "id": "p0031",
     "type": "phrase",
     "en": "turn off",
+    "ipa": "/tɜːrn ɔːf/",
     "ja": [
       "電源を切る"
     ],
@@ -148,6 +161,7 @@
     "senses": [
       "turnoff-switchoff"
     ],
+    "origin": "栓を回して流れを off（切り離した状態）にする。turn on と対",
     "example": {
       "en": "Turn off the machines before the cleaning crew arrives.",
       "ja": "清掃班が来る前に機械の電源を切りなさい。"
@@ -157,6 +171,7 @@
     "id": "p0032",
     "type": "phrase",
     "en": "put away",
+    "ipa": "/pʊt əˈweɪ/",
     "ja": [
       "片づける"
     ],
@@ -170,6 +185,7 @@
     "senses": [
       "putaway-storeneatly"
     ],
+    "origin": "away は「離れた所へ」。使う場所から離してしまうこと",
     "example": {
       "en": "Put away the sample cases after the demonstration.",
       "ja": "実演の後は見本の箱を片づけなさい。"
@@ -179,6 +195,7 @@
     "id": "p0033",
     "type": "phrase",
     "en": "hand in",
+    "ipa": "/hænd ɪn/",
     "ja": [
       "手渡しで提出する"
     ],
@@ -192,6 +209,7 @@
     "senses": [
       "handin-deliverbyhand"
     ],
+    "origin": "hand は動詞で「手渡す」。in（中へ）渡す、つまり提出すること",
     "example": {
       "en": "Hand in the signed form at the security desk.",
       "ja": "署名した用紙を警備の窓口で手渡しで提出しなさい。"
@@ -201,6 +219,7 @@
     "id": "p0034",
     "type": "phrase",
     "en": "check in",
+    "ipa": "/tʃek ɪn/",
     "ja": [
       "搭乗手続きをする"
     ],
@@ -214,6 +233,7 @@
     "senses": [
       "checkin-registerarrival"
     ],
+    "origin": "名簿に check（照合印）を付けて in（中へ）入ること。check out と対",
     "example": {
       "en": "Check in two hours before an overseas flight.",
       "ja": "海外便では二時間前に搭乗手続きをしなさい。"
@@ -223,6 +243,7 @@
     "id": "p0035",
     "type": "phrase",
     "en": "sign up for",
+    "ipa": "/saɪn ʌp fɔːr/",
     "ja": [
       "申し込む"
     ],
@@ -236,6 +257,7 @@
     "senses": [
       "signup-registerfor"
     ],
+    "origin": "名簿に署名して up（掲示される状態）にすること",
     "example": {
       "en": "Sign up for the safety course by Wednesday.",
       "ja": "水曜までに安全講習に申し込みなさい。"
@@ -245,6 +267,7 @@
     "id": "p0036",
     "type": "phrase",
     "en": "take a look at",
+    "ipa": "/teɪk ə lʊk æt/",
     "ja": [
       "目を通す"
     ],
@@ -258,6 +281,7 @@
     "senses": [
       "takealook-examinebriefly"
     ],
+    "origin": "look（ひと目）を take（取る）。ひと目分だけ見ること",
     "example": {
       "en": "Take a look at the revised floor plan.",
       "ja": "見直した配置図に目を通しなさい。"
@@ -267,6 +291,7 @@
     "id": "p0037",
     "type": "phrase",
     "en": "be located in",
+    "ipa": "/bi ˈloʊkeɪtɪd ɪn/",
     "ja": [
       "〜に位置する"
     ],
@@ -280,6 +305,7 @@
     "senses": [
       "located-situatedat"
     ],
+    "origin": "locate はラテン語 locus（場所）由来。場所を占めていること",
     "example": {
       "en": "The service center is located in the west building.",
       "ja": "整備の拠点は西棟に位置する。"
@@ -289,6 +315,7 @@
     "id": "p0038",
     "type": "phrase",
     "en": "make sure",
+    "ipa": "/meɪk ʃʊr/",
     "ja": [
       "念のため確かめる"
     ],
@@ -302,6 +329,7 @@
     "senses": [
       "confirm-verify"
     ],
+    "origin": "sure（確かな）状態を make（作る）。確かめておくこと",
     "example": {
       "en": "Make sure the labels match the packing list.",
       "ja": "表示が梱包明細と合っているか念のため確かめなさい。"
@@ -311,6 +339,7 @@
     "id": "p0039",
     "type": "phrase",
     "en": "get back to",
+    "ipa": "/ɡet bæk tuː/",
     "ja": [
       "折り返し連絡する"
     ],
@@ -324,6 +353,7 @@
     "senses": [
       "getback-replylater"
     ],
+    "origin": "back（元へ）to（相手へ）戻る。折り返すこと",
     "example": {
       "en": "I will get back to you after the meeting.",
       "ja": "会議の後に折り返し連絡する。"
@@ -333,6 +363,7 @@
     "id": "p0040",
     "type": "phrase",
     "en": "put off",
+    "ipa": "/pʊt ɔːf/",
     "ja": [
       "先送りする"
     ],
@@ -346,6 +377,7 @@
     "senses": [
       "postpone-delay"
     ],
+    "origin": "off は「離して」。予定を今から離れた先へ置くこと",
     "example": {
       "en": "They put off the inspection until the parts arrive.",
       "ja": "部品が届くまで点検を先送りした。"
@@ -355,6 +387,7 @@
     "id": "p0041",
     "type": "phrase",
     "en": "show up",
+    "ipa": "/ʃoʊ ʌp/",
     "ja": [
       "姿を見せる"
     ],
@@ -368,6 +401,7 @@
     "senses": [
       "showup-appearinperson"
     ],
+    "origin": "up は「表に出て」。姿が表に現れること",
     "example": {
       "en": "Only half the guests showed up in the rain.",
       "ja": "雨のため招待客の半数しか姿を見せなかった。"
@@ -377,6 +411,7 @@
     "id": "p0042",
     "type": "phrase",
     "en": "drop by",
+    "ipa": "/drɑːp baɪ/",
     "ja": [
       "立ち寄る"
     ],
@@ -390,6 +425,7 @@
     "senses": [
       "dropby-visitbriefly"
     ],
+    "origin": "by は「そばを」。通りすがりにひょいと寄ること",
     "example": {
       "en": "Drop by the office when you collect the keys.",
       "ja": "鍵を受け取るときに事務所へ立ち寄りなさい。"
@@ -399,6 +435,7 @@
     "id": "p0043",
     "type": "phrase",
     "en": "line up",
+    "ipa": "/laɪn ʌp/",
     "ja": [
       "並んで待つ"
     ],
@@ -412,6 +449,7 @@
     "senses": [
       "lineup-formqueue"
     ],
+    "origin": "line（列）を up（作り上げる）。列を作って並ぶこと",
     "example": {
       "en": "Visitors line up along the wall for badges.",
       "ja": "来訪者は名札を受け取るため壁沿いに並んで待つ。"
@@ -421,6 +459,7 @@
     "id": "p0044",
     "type": "phrase",
     "en": "be out of order",
+    "ipa": "/bi aʊt əv ˈɔːrdər/",
     "ja": [
       "故障している"
     ],
@@ -434,6 +473,7 @@
     "senses": [
       "outoforder-notworking"
     ],
+    "origin": "order は「正常な状態」。その状態の外に出ていること",
     "example": {
       "en": "The second elevator is out of order today.",
       "ja": "本日、二号の昇降機は故障している。"
@@ -443,6 +483,7 @@
     "id": "p0101",
     "type": "phrase",
     "en": "call back",
+    "ipa": "/kɔːl bæk/",
     "ja": [
       "かけ直す"
     ],
@@ -456,6 +497,7 @@
     "senses": [
       "callback-returnphonecall"
     ],
+    "origin": "back（元へ）call（電話する）。かけ直すこと",
     "example": {
       "en": "I will call back after the delivery arrives.",
       "ja": "配達が届いたらかけ直す。"
@@ -465,6 +507,7 @@
     "id": "p0102",
     "type": "phrase",
     "en": "come along",
+    "ipa": "/kʌm əˈlɔːŋ/",
     "ja": [
       "同行する"
     ],
@@ -478,6 +521,7 @@
     "senses": [
       "comealong-accompanysomeone"
     ],
+    "origin": "along は「〜に沿って」。相手に沿って一緒に来ること",
     "example": {
       "en": "Come along on the factory tour tomorrow.",
       "ja": "明日の工場見学に同行しなさい。"
@@ -487,6 +531,7 @@
     "id": "p0103",
     "type": "phrase",
     "en": "cut off",
+    "ipa": "/kʌt ɔːf/",
     "ja": [
       "遮断する"
     ],
@@ -500,6 +545,7 @@
     "senses": [
       "cutoff-stopsupply"
     ],
+    "origin": "off は「切り離して」。切って流れを断つこと",
     "example": {
       "en": "The storm cut off power to the depot.",
       "ja": "嵐が拠点への電力を遮断した。"
@@ -509,6 +555,7 @@
     "id": "p0104",
     "type": "phrase",
     "en": "find out",
+    "ipa": "/faɪnd aʊt/",
     "ja": [
       "突き止めて知る"
     ],
@@ -522,6 +569,7 @@
     "senses": [
       "findout-discoverfact"
     ],
+    "origin": "out は「表に出して」。隠れていたことを表に見つけ出すこと",
     "example": {
       "en": "Find out who signed for the parcel.",
       "ja": "誰が小包を受け取ったか突き止めて知りなさい。"
@@ -531,6 +579,7 @@
     "id": "p0105",
     "type": "phrase",
     "en": "get off",
+    "ipa": "/ɡet ɔːf/",
     "ja": [
       "降りる"
     ],
@@ -544,6 +593,7 @@
     "senses": [
       "getoff-leavevehicle"
     ],
+    "origin": "off は「離れて」。乗り物から身を離すこと。get on と対",
     "example": {
       "en": "Get off at the stop near the museum.",
       "ja": "博物館の近くの停留所で降りなさい。"
@@ -553,6 +603,7 @@
     "id": "p0106",
     "type": "phrase",
     "en": "get on",
+    "ipa": "/ɡet ɑːn/",
     "ja": [
       "乗り込む"
     ],
@@ -566,6 +617,7 @@
     "senses": [
       "geton-boardvehicle"
     ],
+    "origin": "on は「上に乗って」。乗り物に体を載せること",
     "example": {
       "en": "Passengers get on through the front door.",
       "ja": "乗客は前の扉から乗り込む。"
@@ -575,6 +627,7 @@
     "id": "p0107",
     "type": "phrase",
     "en": "give back",
+    "ipa": "/ɡɪv bæk/",
     "ja": [
       "返す"
     ],
@@ -588,6 +641,7 @@
     "senses": [
       "giveback-returnitem"
     ],
+    "origin": "back（元へ）give（与える）。持ち主へ返すこと",
     "example": {
       "en": "Give back the badge when you leave.",
       "ja": "退出するときは名札を返しなさい。"
@@ -597,6 +651,7 @@
     "id": "p0108",
     "type": "phrase",
     "en": "go ahead",
+    "ipa": "/ɡoʊ əˈhed/",
     "ja": [
       "先に進める"
     ],
@@ -610,6 +665,7 @@
     "senses": [
       "goahead-proceedwithplan"
     ],
+    "origin": "ahead は「前方へ」。ためらわず前へ進めること",
     "example": {
       "en": "Go ahead with the order as agreed.",
       "ja": "合意どおりに注文を先に進めなさい。"
@@ -619,6 +675,7 @@
     "id": "p0109",
     "type": "phrase",
     "en": "hang up",
+    "ipa": "/hæŋ ʌp/",
     "ja": [
       "電話を切る"
     ],
@@ -632,6 +689,7 @@
     "senses": [
       "hangup-endcall"
     ],
+    "origin": "受話器を壁のフックへ up（掛ける）。壁掛け電話の時代の動作から",
     "example": {
       "en": "Do not hang up before the code is read.",
       "ja": "番号を読み上げる前に電話を切らないでください。"
@@ -641,6 +699,7 @@
     "id": "p0110",
     "type": "phrase",
     "en": "hold on",
+    "ipa": "/hoʊld ɑːn/",
     "ja": [
       "そのまま待つ"
     ],
@@ -654,6 +713,7 @@
     "senses": [
       "holdon-waitonphone"
     ],
+    "origin": "on は「そのまま続けて」。手を放さずそのままでいること",
     "example": {
       "en": "Please hold on while I check the stock.",
       "ja": "在庫を確かめる間そのまま待ってください。"
@@ -663,6 +723,7 @@
     "id": "p0111",
     "type": "phrase",
     "en": "look after",
+    "ipa": "/lʊk ˈæftər/",
     "ja": [
       "世話をする"
     ],
@@ -676,6 +737,7 @@
     "senses": [
       "lookafter-takecareof"
     ],
+    "origin": "after は「後を追って」。目を離さず面倒を見ること",
     "example": {
       "en": "A guide looks after the visiting group.",
       "ja": "案内係が訪問団の世話をする。"
@@ -685,6 +747,7 @@
     "id": "p0112",
     "type": "phrase",
     "en": "look over",
+    "ipa": "/lʊk ˈoʊvər/",
     "ja": [
       "ざっと見る"
     ],
@@ -698,6 +761,7 @@
     "senses": [
       "lookover-examinequickly"
     ],
+    "origin": "over は「全体を越えて」。上からざっと目を走らせること",
     "example": {
       "en": "Look over the invoice before you pay.",
       "ja": "支払う前に請求書をざっと見なさい。"
@@ -707,6 +771,7 @@
     "id": "p0113",
     "type": "phrase",
     "en": "pass on",
+    "ipa": "/pæs ɑːn/",
     "ja": [
       "申し送る"
     ],
@@ -720,6 +785,7 @@
     "senses": [
       "passon-transmitmessage"
     ],
+    "origin": "on は「次へ」。受けたものを次の人へ渡すこと",
     "example": {
       "en": "Pass on the news to the night crew.",
       "ja": "夜の作業班にその知らせを申し送りなさい。"
@@ -729,6 +795,7 @@
     "id": "p0114",
     "type": "phrase",
     "en": "put on",
+    "ipa": "/pʊt ɑːn/",
     "ja": [
       "身に着ける"
     ],
@@ -742,6 +809,7 @@
     "senses": [
       "puton-wearitem"
     ],
+    "origin": "on は「体に接して」。身に載せること。take off と対",
     "example": {
       "en": "Put on safety glasses before entering.",
       "ja": "入る前に保護眼鏡を身に着けなさい。"
@@ -751,6 +819,7 @@
     "id": "p0115",
     "type": "phrase",
     "en": "run into",
+    "ipa": "/rʌn ˈɪntuː/",
     "ja": [
       "偶然出会う"
     ],
@@ -764,6 +833,7 @@
     "senses": [
       "runinto-meetbychance"
     ],
+    "origin": "into は「中へ」。走っていてぶつかる、そこから偶然出会うこと",
     "example": {
       "en": "I ran into our supplier at the station.",
       "ja": "駅で供給業者に偶然出会った。"
@@ -773,6 +843,7 @@
     "id": "p0116",
     "type": "phrase",
     "en": "set off",
+    "ipa": "/set ɔːf/",
     "ja": [
       "出立する"
     ],
@@ -786,6 +857,7 @@
     "senses": [
       "setoff-startjourney"
     ],
+    "origin": "off は「離れて」。その場を離れて出発すること",
     "example": {
       "en": "The van sets off at six every morning.",
       "ja": "貨物車は毎朝六時に出立する。"
@@ -795,6 +867,7 @@
     "id": "p0117",
     "type": "phrase",
     "en": "sit down",
+    "ipa": "/sɪt daʊn/",
     "ja": [
       "着席する"
     ],
@@ -808,6 +881,7 @@
     "senses": [
       "sitdown-takeaseat"
     ],
+    "origin": "down は「下へ」。腰を下ろすこと",
     "example": {
       "en": "Please sit down near the front.",
       "ja": "前の方に着席してください。"
@@ -817,6 +891,7 @@
     "id": "p0118",
     "type": "phrase",
     "en": "speak to",
+    "ipa": "/spiːk tuː/",
     "ja": [
       "話しかける"
     ],
@@ -830,6 +905,7 @@
     "senses": [
       "speakto-addressperson"
     ],
+    "origin": "to は「相手へ向けて」。相手に声を向けること",
     "example": {
       "en": "Speak to the manager about the refund.",
       "ja": "返金については支配人に話しかけなさい。"
@@ -839,6 +915,7 @@
     "id": "p0119",
     "type": "phrase",
     "en": "stop by",
+    "ipa": "/stɑːp baɪ/",
     "ja": [
       "ちょっと寄る"
     ],
@@ -852,6 +929,7 @@
     "senses": [
       "stopby-makebriefvisit"
     ],
+    "origin": "by は「そばを」。通り道でちょっと止まること。drop by と同じ発想",
     "example": {
       "en": "Stop by the desk to collect your pass.",
       "ja": "通行証を受け取りに窓口へちょっと寄りなさい。"
@@ -861,6 +939,7 @@
     "id": "p0120",
     "type": "phrase",
     "en": "take off",
+    "ipa": "/teɪk ɔːf/",
     "ja": [
       "離陸する"
     ],
@@ -874,6 +953,7 @@
     "senses": [
       "takeoff-leavetheground"
     ],
+    "origin": "off は「離れて」。地面から離れる、また身から外すこと",
     "example": {
       "en": "The flight takes off at half past eight.",
       "ja": "その便は八時半に離陸する。"
@@ -883,6 +963,7 @@
     "id": "p0121",
     "type": "phrase",
     "en": "throw away",
+    "ipa": "/θroʊ əˈweɪ/",
     "ja": [
       "捨てる"
     ],
@@ -896,6 +977,7 @@
     "senses": [
       "throwaway-discardrubbish"
     ],
+    "origin": "away は「離れた所へ」。手元から放り離すこと",
     "example": {
       "en": "Throw away the torn wrapping paper.",
       "ja": "破れた包み紙は捨てなさい。"
@@ -905,6 +987,7 @@
     "id": "p0122",
     "type": "phrase",
     "en": "try on",
+    "ipa": "/traɪ ɑːn/",
     "ja": [
       "試着する"
     ],
@@ -918,6 +1001,7 @@
     "senses": [
       "tryon-testclothingfit"
     ],
+    "origin": "on は「体に着けて」。着けた状態で試すこと",
     "example": {
       "en": "Customers may try on jackets in the booth.",
       "ja": "客は試着室で上着を試着できる。"
@@ -927,6 +1011,7 @@
     "id": "p0123",
     "type": "phrase",
     "en": "wait for",
+    "ipa": "/weɪt fɔːr/",
     "ja": [
       "待つ"
     ],
@@ -940,6 +1025,7 @@
     "senses": [
       "waitfor-remainuntilarrival"
     ],
+    "origin": "for は「〜を求めて」。来るのを求めてとどまること",
     "example": {
       "en": "Guests wait for the shuttle by the sign.",
       "ja": "客は標示のそばで送迎車を待つ。"
@@ -949,6 +1035,7 @@
     "id": "p0124",
     "type": "phrase",
     "en": "work on",
+    "ipa": "/wɜːrk ɑːn/",
     "ja": [
       "取りかかる"
     ],
@@ -962,6 +1049,7 @@
     "senses": [
       "workon-labourattask"
     ],
+    "origin": "on は「〜に接して」。対象に手を掛けて進めること",
     "example": {
       "en": "Two engineers work on the broken press.",
       "ja": "技術者二名が壊れた印刷機に取りかかる。"
@@ -971,6 +1059,7 @@
     "id": "p0125",
     "type": "phrase",
     "en": "write down",
+    "ipa": "/raɪt daʊn/",
     "ja": [
       "書き留める"
     ],
@@ -984,6 +1073,7 @@
     "senses": [
       "writedown-recordinwriting"
     ],
+    "origin": "down は「紙の上へ下ろして」。書き付けること",
     "example": {
       "en": "Write down the meter reading each morning.",
       "ja": "毎朝、計器の読みを書き留めなさい。"
@@ -993,6 +1083,7 @@
     "id": "p0126",
     "type": "phrase",
     "en": "be able to",
+    "ipa": "/bi ˈeɪbl tuː/",
     "ja": [
       "できる"
     ],
@@ -1006,6 +1097,7 @@
     "senses": [
       "beableto-havecapability"
     ],
+    "origin": "able はラテン語 habilis（扱いやすい）。こなす力があること",
     "example": {
       "en": "Members are able to book two months ahead.",
       "ja": "会員は二か月先まで予約できる。"
@@ -1015,6 +1107,7 @@
     "id": "p0127",
     "type": "phrase",
     "en": "a number of",
+    "ipa": "/ə ˈnʌmbər əv/",
     "ja": [
       "いくつかの"
     ],
@@ -1028,6 +1121,7 @@
     "senses": [
       "anumberof-severalitems"
     ],
+    "origin": "number（数）のいくつか分。はっきりしないが複数あること",
     "example": {
       "en": "A number of cartons arrived damaged.",
       "ja": "いくつかの箱が破損して届いた。"
@@ -1037,6 +1131,7 @@
     "id": "p0128",
     "type": "phrase",
     "en": "as well as",
+    "ipa": "/əz wel əz/",
     "ja": [
       "に加えて"
     ],
@@ -1050,6 +1145,7 @@
     "senses": [
       "aswellas-inadditionto"
     ],
+    "origin": "well（同じくらいよく）を挟んだ比較。それと同じ程度に加えて",
     "example": {
       "en": "The fee covers storage as well as delivery.",
       "ja": "料金は配達に加えて保管も対象とする。"
@@ -1059,6 +1155,7 @@
     "id": "p0129",
     "type": "phrase",
     "en": "at least",
+    "ipa": "/ət liːst/",
     "ja": [
       "少なくとも"
     ],
@@ -1072,6 +1169,7 @@
     "senses": [
       "atleast-minimumamount"
     ],
+    "origin": "least は little の最上級。下限を示す言い方",
     "example": {
       "en": "Order at least five cases for free shipping.",
       "ja": "無料配送には少なくとも五箱注文しなさい。"
@@ -1081,6 +1179,7 @@
     "id": "p0130",
     "type": "phrase",
     "en": "in order to",
+    "ipa": "/ɪn ˈɔːrdər tuː/",
     "ja": [
       "するために"
     ],
@@ -1094,6 +1193,7 @@
     "senses": [
       "inorderto-forthepurposeof"
     ],
+    "origin": "order は「順序・段取り」。その段取りとして行うこと",
     "example": {
       "en": "Wear gloves in order to avoid cuts.",
       "ja": "切り傷を避けるために手袋を着けなさい。"
@@ -1103,6 +1203,7 @@
     "id": "p0131",
     "type": "phrase",
     "en": "instead of",
+    "ipa": "/ɪnˈsted əv/",
     "ja": [
       "の代替として"
     ],
@@ -1116,6 +1217,7 @@
     "senses": [
       "insteadof-inplaceofthing"
     ],
+    "origin": "in stead（その場所に）。あるものの場所に代わって置くこと",
     "example": {
       "en": "Use rail instead of road this week.",
       "ja": "今週は道路の代替として鉄道を使いなさい。"
@@ -1125,6 +1227,7 @@
     "id": "p0132",
     "type": "phrase",
     "en": "next to",
+    "ipa": "/nekst tuː/",
     "ja": [
       "の隣に"
     ],
@@ -1138,6 +1241,7 @@
     "senses": [
       "nextto-besidesomething"
     ],
+    "origin": "next は nigh（近い）の最上級。いちばん近い位置",
     "example": {
       "en": "The copier stands next to the window.",
       "ja": "コピー機は窓の隣にある。"
@@ -1147,6 +1251,7 @@
     "id": "p0133",
     "type": "phrase",
     "en": "on time",
+    "ipa": "/ɑːn taɪm/",
     "ja": [
       "時間どおりに"
     ],
@@ -1160,6 +1265,7 @@
     "senses": [
       "ontime-punctually"
     ],
+    "origin": "on は「ぴたりと乗って」。定めの時刻に乗っていること",
     "example": {
       "en": "Every truck arrived on time this month.",
       "ja": "今月はすべての貨物車が時間どおりに着いた。"
@@ -1169,6 +1275,7 @@
     "id": "p0134",
     "type": "phrase",
     "en": "out of stock",
+    "ipa": "/aʊt əv stɑːk/",
     "ja": [
       "品切れで"
     ],
@@ -1182,6 +1289,7 @@
     "senses": [
       "outofstock-noneremaining"
     ],
+    "origin": "stock（在庫）の外に出ていること。in stock と対",
     "example": {
       "en": "The blue model is out of stock again.",
       "ja": "青い型式はまた品切れだ。"
@@ -1191,6 +1299,7 @@
     "id": "p0135",
     "type": "phrase",
     "en": "right away",
+    "ipa": "/raɪt əˈweɪ/",
     "ja": [
       "直ちに"
     ],
@@ -1204,6 +1313,7 @@
     "senses": [
       "rightaway-immediatelynow"
     ],
+    "origin": "right は「まさに」を強める副詞。間を置かず今すぐ",
     "example": {
       "en": "Send a technician right away, please.",
       "ja": "技術者を直ちに送ってください。"
@@ -1213,6 +1323,7 @@
     "id": "p0136",
     "type": "phrase",
     "en": "so far",
+    "ipa": "/soʊ fɑːr/",
     "ja": [
       "これまでのところ"
     ],
@@ -1226,6 +1337,7 @@
     "senses": [
       "sofar-uptonow"
     ],
+    "origin": "far は「隔たり」。今までの隔たりの分だけ",
     "example": {
       "en": "So far the new belt has held up well.",
       "ja": "これまでのところ新しい帯はよく持っている。"
@@ -1235,6 +1347,7 @@
     "id": "p0137",
     "type": "phrase",
     "en": "such as",
+    "ipa": "/sʌtʃ əz/",
     "ja": [
       "のような"
     ],
@@ -1248,6 +1361,7 @@
     "senses": [
       "suchas-forexample"
     ],
+    "origin": "such（そのような）＋ as（〜のように）。例を挙げる言い方",
     "example": {
       "en": "Bulk items such as paper ship separately.",
       "ja": "紙のような大量の品は別便で送る。"
@@ -1257,6 +1371,7 @@
     "id": "p0138",
     "type": "phrase",
     "en": "turn around",
+    "ipa": "/tɜːrn əˈraʊnd/",
     "ja": [
       "向きを変える"
     ],
@@ -1270,6 +1385,7 @@
     "senses": [
       "turnaround-reversedirection"
     ],
+    "origin": "around は「ぐるりと」。向きを回して逆へ向けること",
     "example": {
       "en": "Trucks turn around in the rear yard.",
       "ja": "貨物車は裏の構内で向きを変える。"
@@ -1279,6 +1395,7 @@
     "id": "p0139",
     "type": "phrase",
     "en": "work out",
+    "ipa": "/wɜːrk aʊt/",
     "ja": [
       "うまくいく"
     ],
@@ -1292,6 +1409,7 @@
     "senses": [
       "workout-endsuccessfully"
     ],
+    "origin": "out は「結果が出て」。手を掛けた末に形になること",
     "example": {
       "en": "The trial period worked out for both sides.",
       "ja": "試用の期間は双方にとってうまくいった。"

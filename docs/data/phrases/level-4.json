@@ -3,6 +3,7 @@
     "id": "p0019",
     "type": "phrase",
     "en": "phase out",
+    "ipa": "/feɪz aʊt/",
     "ja": [
       "段階的に廃止する"
     ],
@@ -16,6 +17,7 @@
     "senses": [
       "phaseout-enddiscontinuegradually"
     ],
+    "origin": "phase（段階）を追って out（外へ）。段階を踏んでなくすこと",
     "example": {
       "en": "The plant will phase out its oldest paint line by autumn.",
       "ja": "工場は秋までに最も古い塗装設備を段階的に廃止する。"
@@ -25,6 +27,7 @@
     "id": "p0020",
     "type": "phrase",
     "en": "fall through",
+    "ipa": "/fɔːl θruː/",
     "ja": [
       "頓挫する"
     ],
@@ -38,6 +41,7 @@
     "senses": [
       "fallthrough-failtohappen"
     ],
+    "origin": "through は「すり抜けて」。網の目を抜け落ちるように駄目になること",
     "example": {
       "en": "The lease talks fell through over the parking clause.",
       "ja": "賃貸借の協議は駐車場の条項をめぐって頓挫した。"
@@ -47,6 +51,7 @@
     "id": "p0021",
     "type": "phrase",
     "en": "iron out",
+    "ipa": "/ˈaɪərn aʊt/",
     "ja": [
       "解決する"
     ],
@@ -60,6 +65,7 @@
     "senses": [
       "ironout-settledifficulty"
     ],
+    "origin": "iron（アイロンをかける）＋ out（伸ばして）。しわを伸ばすように問題をならすこと",
     "example": {
       "en": "Both sides met to iron out the remaining delivery terms.",
       "ja": "双方は残る配送条件を解決するために会った。"
@@ -69,6 +75,7 @@
     "id": "p0022",
     "type": "phrase",
     "en": "hold off on",
+    "ipa": "/hoʊld ɔːf ɑːn/",
     "ja": [
       "見合わせる"
     ],
@@ -82,6 +89,7 @@
     "senses": [
       "postpone-delay"
     ],
+    "origin": "off は「離して」。手を離しておいて見合わせること",
     "example": {
       "en": "Let us hold off on the order until prices settle.",
       "ja": "価格が落ち着くまで発注は見合わせよう。"
@@ -91,6 +99,7 @@
     "id": "p0023",
     "type": "phrase",
     "en": "account for",
+    "ipa": "/əˈkaʊnt fɔːr/",
     "ja": [
       "占める"
     ],
@@ -104,6 +113,7 @@
     "senses": [
       "accountfor-makeupshare"
     ],
+    "origin": "account（勘定）。全体の勘定のうちその分を占めること",
     "example": {
       "en": "Exports account for nearly half of the plant's output.",
       "ja": "輸出が工場の生産量のほぼ半分を占めている。"
@@ -113,6 +123,7 @@
     "id": "p0024",
     "type": "phrase",
     "en": "stand out",
+    "ipa": "/stænd aʊt/",
     "ja": [
       "目立つ"
     ],
@@ -126,6 +137,7 @@
     "senses": [
       "standout-benoticeable"
     ],
+    "origin": "out は「外へ突き出て」。周りより出て目に付くこと",
     "example": {
       "en": "Bright labels help the new line stand out on the shelf.",
       "ja": "明るいラベルのおかげで新商品は棚で目立つ。"
@@ -135,6 +147,7 @@
     "id": "p0073",
     "type": "phrase",
     "en": "carry over",
+    "ipa": "/ˈkæri ˈoʊvər/",
     "ja": [
       "繰り越す"
     ],
@@ -148,6 +161,7 @@
     "senses": [
       "carryover-movetonextperiod"
     ],
+    "origin": "over は「越えて次へ」。期をまたいで持ち越すこと",
     "example": {
       "en": "Unused leave carries over to the next year.",
       "ja": "使わなかった休暇は翌年に繰り越す。"
@@ -157,6 +171,7 @@
     "id": "p0074",
     "type": "phrase",
     "en": "rule out",
+    "ipa": "/ruːl aʊt/",
     "ja": [
       "除外する"
     ],
@@ -170,6 +185,7 @@
     "senses": [
       "ruleout-eliminatepossibility"
     ],
+    "origin": "rule（線を引く）＋ out（消して）。線を引いて外すこと",
     "example": {
       "en": "Engineers ruled out a fault in the wiring.",
       "ja": "技術者は配線の不具合を除外した。"
@@ -179,6 +195,7 @@
     "id": "p0075",
     "type": "phrase",
     "en": "draw up",
+    "ipa": "/drɔː ʌp/",
     "ja": [
       "作成する"
     ],
@@ -192,6 +209,7 @@
     "senses": [
       "drawup-preparedocument"
     ],
+    "origin": "up は「仕上げて」。書き上げて形にすること",
     "example": {
       "en": "Legal will draw up the supply agreement.",
       "ja": "法務が供給に関する協定を作成する。"
@@ -201,6 +219,7 @@
     "id": "p0076",
     "type": "phrase",
     "en": "back up",
+    "ipa": "/bæk ʌp/",
     "ja": [
       "裏付ける"
     ],
@@ -214,6 +233,7 @@
     "senses": [
       "backup-supportwithevidence"
     ],
+    "origin": "back（後ろから）up（支える）。後ろ盾になって裏付けること",
     "example": {
       "en": "Photographs back up the damage report.",
       "ja": "写真が破損の報告を裏付ける。"
@@ -223,6 +243,7 @@
     "id": "p0077",
     "type": "phrase",
     "en": "break down",
+    "ipa": "/breɪk daʊn/",
     "ja": [
       "内訳を示す"
     ],
@@ -236,6 +257,7 @@
     "senses": [
       "breakdown-itemizeparts"
     ],
+    "origin": "down は「細かく」。全体を細かく割って示すこと",
     "example": {
       "en": "Break down the costs by department and month.",
       "ja": "費用を部署別と月別で内訳を示しなさい。"
@@ -245,6 +267,7 @@
     "id": "p0078",
     "type": "phrase",
     "en": "weigh in on",
+    "ipa": "/weɪ ɪn ɑːn/",
     "ja": [
       "意見を述べる"
     ],
@@ -258,6 +281,7 @@
     "senses": [
       "weighin-giveopinion"
     ],
+    "origin": "ボクサーの計量（weigh in）から。議論に加わって意見を投じること",
     "example": {
       "en": "Two directors weighed in on the pricing plan.",
       "ja": "取締役二名が価格の案について意見を述べた。"
@@ -267,6 +291,7 @@
     "id": "p0079",
     "type": "phrase",
     "en": "opt for",
+    "ipa": "/ɑːpt fɔːr/",
     "ja": [
       "〜を選択する"
     ],
@@ -280,6 +305,7 @@
     "senses": [
       "optfor-chooseoption"
     ],
+    "origin": "ラテン語 optare（選ぶ）。そちらを選ぶこと。option, adopt と同語源",
     "example": {
       "en": "Most buyers opt for the extended service plan.",
       "ja": "多くの買い手は延長保守の契約を選択する。"
@@ -289,6 +315,7 @@
     "id": "p0080",
     "type": "phrase",
     "en": "scale back",
+    "ipa": "/skeɪl bæk/",
     "ja": [
       "規模を縮小する"
     ],
@@ -302,6 +329,7 @@
     "senses": [
       "scaleback-reducescope"
     ],
+    "origin": "scale（規模）を back（戻す）。規模を元へ縮めること",
     "example": {
       "en": "The group scaled back its overseas showrooms.",
       "ja": "そのグループは海外の展示場の規模を縮小した。"
@@ -311,6 +339,7 @@
     "id": "p0081",
     "type": "phrase",
     "en": "stem from",
+    "ipa": "/stem frəm/",
     "ja": [
       "〜に由来する"
     ],
@@ -324,6 +353,7 @@
     "senses": [
       "stemfrom-originatefrom"
     ],
+    "origin": "stem は「幹・茎」。その幹から伸び出ていること",
     "example": {
       "en": "The defect stems from a faulty batch of resin.",
       "ja": "その欠陥は不良な樹脂の一群に由来する。"
@@ -333,6 +363,7 @@
     "id": "p0082",
     "type": "phrase",
     "en": "abide by",
+    "ipa": "/əˈbaɪd baɪ/",
     "ja": [
       "順守する"
     ],
@@ -346,6 +377,7 @@
     "senses": [
       "comply-obey"
     ],
+    "origin": "abide は古英語 abidan（とどまる）。決まりのそばにとどまること",
     "example": {
       "en": "Contractors abide by the site's noise limits.",
       "ja": "請負業者は現場の騒音の上限を順守する。"
@@ -355,6 +387,7 @@
     "id": "p0083",
     "type": "phrase",
     "en": "at the expense of",
+    "ipa": "/ət ði ɪkˈspens əv/",
     "ja": [
       "〜を犠牲にして"
     ],
@@ -368,6 +401,7 @@
     "senses": [
       "attheexpense-atacostto"
     ],
+    "origin": "expense（払い出し）。そちらを払って犠牲にすること",
     "example": {
       "en": "Speed came at the expense of finish quality.",
       "ja": "速さは仕上がりの品質を犠牲にして得られた。"
@@ -377,6 +411,7 @@
     "id": "p0084",
     "type": "phrase",
     "en": "in conjunction with",
+    "ipa": "/ɪn kənˈdʒʌŋkʃn wɪð/",
     "ja": [
       "〜と併せて"
     ],
@@ -390,6 +425,7 @@
     "senses": [
       "inconjunction-togetherwith"
     ],
+    "origin": "con-（共に）＋ ラテン語 jungere（つなぐ）。つなぎ合わせて。join と同語源",
     "example": {
       "en": "The fair runs in conjunction with a design forum.",
       "ja": "見本市は設計の討論会と併せて開かれる。"
@@ -399,6 +435,7 @@
     "id": "p0085",
     "type": "phrase",
     "en": "to the extent that",
+    "ipa": "/tuː ði ɪkˈstent ðæt/",
     "ja": [
       "〜する限りにおいて"
     ],
@@ -412,6 +449,7 @@
     "senses": [
       "totheextent-asfaras"
     ],
+    "origin": "extent は「伸ばした範囲」。その範囲の限りで。extend と同語源",
     "example": {
       "en": "We share data to the extent that law allows.",
       "ja": "法が認める限りにおいて情報を共有する。"
@@ -421,6 +459,7 @@
     "id": "p0086",
     "type": "phrase",
     "en": "subject to change",
+    "ipa": "/ˈsʌbdʒɪkt tuː tʃeɪndʒ/",
     "ja": [
       "変更の可能性がある"
     ],
@@ -434,6 +473,7 @@
     "senses": [
       "subjecttochange-maybealtered"
     ],
+    "origin": "変更の下に置かれている。変わりうること",
     "example": {
       "en": "The timetable is subject to change without notice.",
       "ja": "この時刻表は予告なく変更の可能性がある。"
@@ -443,6 +483,7 @@
     "id": "p0251",
     "type": "phrase",
     "en": "at the outset",
+    "ipa": "/ət ði ˈaʊtset/",
     "ja": [
       "当初から"
     ],
@@ -456,6 +497,7 @@
     "senses": [
       "attheoutset-fromthebeginning"
     ],
+    "origin": "outset は「出だし」。始まりの時点で。onset と同じ発想",
     "example": {
       "en": "The risk was flagged at the outset.",
       "ja": "その危険は当初から指摘されていた。"
@@ -465,6 +507,7 @@
     "id": "p0252",
     "type": "phrase",
     "en": "be attributable to",
+    "ipa": "/bi əˈtrɪbjətəbl tuː/",
     "ja": [
       "に帰する"
     ],
@@ -478,6 +521,7 @@
     "senses": [
       "beattributable-causedby"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 tribuere（与える）。原因をそこへ振り当てられること",
     "example": {
       "en": "The gain is attributable to lower freight.",
       "ja": "増益は運賃の低下に帰する。"
@@ -487,6 +531,7 @@
     "id": "p0253",
     "type": "phrase",
     "en": "be conducive to",
+    "ipa": "/bi kənˈduːsɪv tuː/",
     "ja": [
       "に資する"
     ],
@@ -500,6 +545,7 @@
     "senses": [
       "beconducive-helpfultowards"
     ],
+    "origin": "con-（共に）＋ ラテン語 ducere（導く）。そこへ導く働きがあること",
     "example": {
       "en": "Short breaks are conducive to accuracy.",
       "ja": "短い休憩は正確さに資する。"
@@ -509,6 +555,7 @@
     "id": "p0254",
     "type": "phrase",
     "en": "be contingent upon",
+    "ipa": "/bi kənˈtɪndʒənt əˈpɑːn/",
     "ja": [
       "を条件とする"
     ],
@@ -522,6 +569,7 @@
     "senses": [
       "becontingent-dependentonevent"
     ],
+    "origin": "con-（共に）＋ ラテン語 tangere（触れる）。それに触れて成否が決まること",
     "example": {
       "en": "Payment is contingent upon inspection.",
       "ja": "支払いは検査を条件とする。"
@@ -531,6 +579,7 @@
     "id": "p0255",
     "type": "phrase",
     "en": "be devoid of",
+    "ipa": "/bi dɪˈvɔɪd əv/",
     "ja": [
       "を欠いている"
     ],
@@ -544,6 +593,7 @@
     "senses": [
       "bedevoid-completelylacking"
     ],
+    "origin": "de-（すっかり）＋ void（空）。中身がまったくないこと",
     "example": {
       "en": "The file was devoid of supporting data.",
       "ja": "その書類は裏づけの資料を欠いていた。"
@@ -553,6 +603,7 @@
     "id": "p0256",
     "type": "phrase",
     "en": "be incumbent on",
+    "ipa": "/bi ɪnˈkʌmbənt ɑːn/",
     "ja": [
       "の責務である"
     ],
@@ -566,6 +617,7 @@
     "senses": [
       "beincumbent-dutyofsomeone"
     ],
+    "origin": "in-（上に）＋ ラテン語 cumbere（横たわる）。その人の上に載る務めであること",
     "example": {
       "en": "It is incumbent on the seller to insure.",
       "ja": "保険を掛けるのは売り主の責務である。"
@@ -575,6 +627,7 @@
     "id": "p0257",
     "type": "phrase",
     "en": "be liable for",
+    "ipa": "/bi ˈlaɪəbl fɔːr/",
     "ja": [
       "責任を問われる"
     ],
@@ -588,6 +641,7 @@
     "senses": [
       "beliable-legallyresponsible"
     ],
+    "origin": "ラテン語 ligare（縛る）。責めに縛られていること。liability と同語源",
     "example": {
       "en": "The carrier is liable for transit damage.",
       "ja": "運送会社は輸送中の破損の責任を問われる。"
@@ -597,6 +651,7 @@
     "id": "p0258",
     "type": "phrase",
     "en": "be prone to",
+    "ipa": "/bi proʊn tuː/",
     "ja": [
       "起こしやすい"
     ],
@@ -610,6 +665,7 @@
     "senses": [
       "beprone-likelytosuffer"
     ],
+    "origin": "prone はラテン語 pronus（前かがみの）。そちらへ倒れやすいこと",
     "example": {
       "en": "Thin coatings are prone to chipping.",
       "ja": "薄い塗膜は欠けを起こしやすい。"
@@ -619,6 +675,7 @@
     "id": "p0259",
     "type": "phrase",
     "en": "be tantamount to",
+    "ipa": "/bi ˈtæntəmaʊnt tuː/",
     "ja": [
       "に等しい"
     ],
@@ -632,6 +689,7 @@
     "senses": [
       "betantamount-equivalentineffect"
     ],
+    "origin": "イタリア語 tanto montare（同じだけ値する）。実質同じであること",
     "example": {
       "en": "Silence is tantamount to acceptance.",
       "ja": "沈黙は承諾に等しい。"
@@ -641,6 +699,7 @@
     "id": "p0260",
     "type": "phrase",
     "en": "bring to light",
+    "ipa": "/brɪŋ tuː laɪt/",
     "ja": [
       "明るみに出す"
     ],
@@ -654,6 +713,7 @@
     "senses": [
       "bringtolight-revealhiddenfact"
     ],
+    "origin": "light（光）のもとへ持ち出すこと。表沙汰にすること",
     "example": {
       "en": "The audit brought two errors to light.",
       "ja": "監査が二件の誤りを明るみに出した。"
@@ -663,6 +723,7 @@
     "id": "p0261",
     "type": "phrase",
     "en": "call into question",
+    "ipa": "/kɔːl ˈɪntuː ˈkwestʃən/",
     "ja": [
       "疑問を投げかける"
     ],
@@ -676,6 +737,7 @@
     "senses": [
       "callintoquestion-castdoubton"
     ],
+    "origin": "question（問い）の中へ呼び込むこと。疑ってかかること",
     "example": {
       "en": "The delay called the schedule into question.",
       "ja": "遅れが日程に疑問を投げかけた。"
@@ -685,6 +747,7 @@
     "id": "p0262",
     "type": "phrase",
     "en": "come to terms with",
+    "ipa": "/kʌm tuː tɜːrmz wɪð/",
     "ja": [
       "折り合いをつける"
     ],
@@ -698,6 +761,7 @@
     "senses": [
       "cometoterms-reachacceptance"
     ],
+    "origin": "terms（条件）に至ること。折り合いをつけること",
     "example": {
       "en": "Both sides came to terms with the loss.",
       "ja": "双方は損失に折り合いをつけた。"
@@ -707,6 +771,7 @@
     "id": "p0263",
     "type": "phrase",
     "en": "cut corners",
+    "ipa": "/kʌt ˈkɔːrnərz/",
     "ja": [
       "手を抜く"
     ],
@@ -720,6 +785,7 @@
     "senses": [
       "cutcorners-skipproperssteps"
     ],
+    "origin": "角（corner）を切って近道する。手順を省くこと",
     "example": {
       "en": "Never cut corners on the pressure test.",
       "ja": "圧力の試験で手を抜いてはならない。"
@@ -729,6 +795,7 @@
     "id": "p0264",
     "type": "phrase",
     "en": "draw a distinction",
+    "ipa": "/drɔː ə dɪˈstɪŋkʃn/",
     "ja": [
       "区別を設ける"
     ],
@@ -742,6 +809,7 @@
     "senses": [
       "drawdistinction-separateconcepts"
     ],
+    "origin": "distinction（区別）の線を draw（引く）。分けて考えること",
     "example": {
       "en": "The code draws a distinction between the two.",
       "ja": "規定は両者に区別を設ける。"
@@ -751,6 +819,7 @@
     "id": "p0265",
     "type": "phrase",
     "en": "fall within",
+    "ipa": "/fɔːl wɪˈðɪn/",
     "ja": [
       "範囲に入る"
     ],
@@ -764,6 +833,7 @@
     "senses": [
       "fallwithin-beinsidescope"
     ],
+    "origin": "within は「内側に」。その枠の内に収まること",
     "example": {
       "en": "The claim falls within the policy limits.",
       "ja": "その請求は保険の上限の範囲に入る。"
@@ -773,6 +843,7 @@
     "id": "p0266",
     "type": "phrase",
     "en": "get around to",
+    "ipa": "/ɡet əˈraʊnd tuː/",
     "ja": [
       "着手にこぎつける"
     ],
@@ -786,6 +857,7 @@
     "senses": [
       "getaroundto-finallydotask"
     ],
+    "origin": "around は「回り回って」。ようやくそこへ手が回ること",
     "example": {
       "en": "We finally got around to the archive.",
       "ja": "ようやく書庫の整理に着手にこぎつけた。"
@@ -795,6 +867,7 @@
     "id": "p0267",
     "type": "phrase",
     "en": "give way to",
+    "ipa": "/ɡɪv weɪ tuː/",
     "ja": [
       "取って代わられる"
     ],
@@ -808,6 +881,7 @@
     "senses": [
       "givewayto-bereplacedby"
     ],
+    "origin": "way（道）を譲る。押されて場所を明け渡すこと",
     "example": {
       "en": "Manual sorting gave way to machines.",
       "ja": "手作業の仕分けは機械に取って代わられた。"
@@ -817,6 +891,7 @@
     "id": "p0268",
     "type": "phrase",
     "en": "go hand in hand",
+    "ipa": "/ɡoʊ hænd ɪn hænd/",
     "ja": [
       "表裏一体である"
     ],
@@ -830,6 +905,7 @@
     "senses": [
       "gohandinhand-occurtogether"
     ],
+    "origin": "手を取り合って進むこと。切り離せない関係であること",
     "example": {
       "en": "Quality and training go hand in hand.",
       "ja": "品質と研修は表裏一体である。"
@@ -839,6 +915,7 @@
     "id": "p0269",
     "type": "phrase",
     "en": "hinge on",
+    "ipa": "/hɪndʒ ɑːn/",
     "ja": [
       "かかっている"
     ],
@@ -852,6 +929,7 @@
     "senses": [
       "hingeon-dependcritically"
     ],
+    "origin": "hinge は「蝶番」。そこを軸に開閉が決まること",
     "example": {
       "en": "The deal hinges on the survey result.",
       "ja": "その取引は調査の結果にかかっている。"
@@ -861,6 +939,7 @@
     "id": "p0270",
     "type": "phrase",
     "en": "in the wake of",
+    "ipa": "/ɪn ðə weɪk əv/",
     "ja": [
       "を受けて"
     ],
@@ -874,6 +953,7 @@
     "senses": [
       "inthewake-followingevent"
     ],
+    "origin": "wake は船の「航跡」。通った後を受けて",
     "example": {
       "en": "Rules tightened in the wake of the fire.",
       "ja": "火災を受けて規則が厳しくなった。"
@@ -883,6 +963,7 @@
     "id": "p0271",
     "type": "phrase",
     "en": "lay the groundwork",
+    "ipa": "/leɪ ðə ˈɡraʊndwɜːrk/",
     "ja": [
       "下地を整える"
     ],
@@ -896,6 +977,7 @@
     "senses": [
       "laygroundwork-prepareforlater"
     ],
+    "origin": "groundwork（土台工事）を lay（据える）。下ごしらえをすること",
     "example": {
       "en": "The pilot laid the groundwork for the rollout.",
       "ja": "試行が展開の下地を整えた。"
@@ -905,6 +987,7 @@
     "id": "p0272",
     "type": "phrase",
     "en": "lend itself to",
+    "ipa": "/lend ɪtˈself tuː/",
     "ja": [
       "に適している"
     ],
@@ -918,6 +1001,7 @@
     "senses": [
       "lenditself-besuitablefor"
     ],
+    "origin": "自らを貸し出す。その用途に向いていること",
     "example": {
       "en": "The alloy lends itself to thin castings.",
       "ja": "その合金は薄い鋳物に適している。"
@@ -927,6 +1011,7 @@
     "id": "p0273",
     "type": "phrase",
     "en": "make headway",
+    "ipa": "/meɪk ˈhedweɪ/",
     "ja": [
       "前進する"
     ],
@@ -940,6 +1025,7 @@
     "senses": [
       "makeheadway-progresssteadily"
     ],
+    "origin": "headway は船の「前進」。前へ進むこと",
     "example": {
       "en": "Talks made headway on the pricing clause.",
       "ja": "交渉は価格の条項で前進した。"
@@ -949,6 +1035,7 @@
     "id": "p0274",
     "type": "phrase",
     "en": "make provision for",
+    "ipa": "/meɪk prəˈvɪʒn fɔːr/",
     "ja": [
       "備えを設ける"
     ],
@@ -962,6 +1049,7 @@
     "senses": [
       "makeprovision-setasidefor"
     ],
+    "origin": "pro-（前もって）＋ ラテン語 videre（見る）。先を見て備えを置くこと",
     "example": {
       "en": "The budget makes provision for repairs.",
       "ja": "予算は修理の備えを設けている。"
@@ -971,6 +1059,7 @@
     "id": "p0275",
     "type": "phrase",
     "en": "on the grounds that",
+    "ipa": "/ɑːn ðə ɡraʊndz ðæt/",
     "ja": [
       "という理由で"
     ],
@@ -984,6 +1073,7 @@
     "senses": [
       "onthegrounds-becauseofreason"
     ],
+    "origin": "ground は「根拠」。その根拠に立って",
     "example": {
       "en": "The claim failed on the grounds that notice was late.",
       "ja": "通知が遅れたという理由で請求は退けられた。"
@@ -993,6 +1083,7 @@
     "id": "p0276",
     "type": "phrase",
     "en": "put in place",
+    "ipa": "/pʊt ɪn pleɪs/",
     "ja": [
       "整備する"
     ],
@@ -1006,6 +1097,7 @@
     "senses": [
       "putinplace-establishsystem"
     ],
+    "origin": "place（あるべき場所）に置くこと。仕組みを整えること",
     "example": {
       "en": "New controls were put in place last spring.",
       "ja": "新しい管理は昨春に整備された。"
@@ -1015,6 +1107,7 @@
     "id": "p0277",
     "type": "phrase",
     "en": "rule in favor of",
+    "ipa": "/ruːl ɪn ˈfeɪvər əv/",
     "ja": [
       "に有利な判断をする"
     ],
@@ -1028,6 +1121,7 @@
     "senses": [
       "ruleinfavor-decidefor"
     ],
+    "origin": "rule（裁定する）＋ favor（有利）。その側に有利な判断を出すこと",
     "example": {
       "en": "The panel ruled in favor of the tenant.",
       "ja": "審査団は賃借人に有利な判断をした。"
@@ -1037,6 +1131,7 @@
     "id": "p0278",
     "type": "phrase",
     "en": "run counter to",
+    "ipa": "/rʌn ˈkaʊntər tuː/",
     "ja": [
       "に反する"
     ],
@@ -1050,6 +1145,7 @@
     "senses": [
       "runcounter-opposeprinciple"
     ],
+    "origin": "counter は「逆向きに」。方針と逆へ走ること",
     "example": {
       "en": "The practice runs counter to the guidelines.",
       "ja": "その慣行は指針に反する。"
@@ -1059,6 +1155,7 @@
     "id": "p0279",
     "type": "phrase",
     "en": "set a precedent",
+    "ipa": "/set ə ˈpresɪdənt/",
     "ja": [
       "先例をつくる"
     ],
@@ -1072,6 +1169,7 @@
     "senses": [
       "setaprecedent-establishexample"
     ],
+    "origin": "precedent（前例）を set（据える）。後の目安になる例を作ること",
     "example": {
       "en": "The ruling set a precedent for similar claims.",
       "ja": "その判断は類似の請求の先例をつくった。"
@@ -1081,6 +1179,7 @@
     "id": "p0280",
     "type": "phrase",
     "en": "shed light on",
+    "ipa": "/ʃed laɪt ɑːn/",
     "ja": [
       "解明の手がかりを与える"
     ],
@@ -1094,6 +1193,7 @@
     "senses": [
       "shedlight-clarifymatter"
     ],
+    "origin": "light（光）を shed（注ぐ）。当てて見えるようにすること",
     "example": {
       "en": "The log shed light on the sudden stop.",
       "ja": "記録が突然の停止に解明の手がかりを与えた。"
@@ -1103,6 +1203,7 @@
     "id": "p0281",
     "type": "phrase",
     "en": "take precedence over",
+    "ipa": "/teɪk ˈpresɪdəns ˈoʊvər/",
     "ja": [
       "に優先する"
     ],
@@ -1116,6 +1217,7 @@
     "senses": [
       "takeprecedence-rankhigher"
     ],
+    "origin": "precedence は「先に立つこと」。他より先に扱われること",
     "example": {
       "en": "Safety takes precedence over output.",
       "ja": "安全は生産に優先する。"
@@ -1125,6 +1227,7 @@
     "id": "p0282",
     "type": "phrase",
     "en": "take its toll",
+    "ipa": "/teɪk ɪts toʊl/",
     "ja": [
       "痛手を与える"
     ],
@@ -1138,6 +1241,7 @@
     "senses": [
       "takeitstoll-causedamageovertime"
     ],
+    "origin": "toll は「通行料」。通るたびに取り立てられるように損なうこと",
     "example": {
       "en": "The salt air took its toll on the roof.",
       "ja": "潮風が屋根に痛手を与えた。"
@@ -1147,6 +1251,7 @@
     "id": "p0283",
     "type": "phrase",
     "en": "touch on",
+    "ipa": "/tʌtʃ ɑːn/",
     "ja": [
       "軽く触れる"
     ],
@@ -1160,6 +1265,7 @@
     "senses": [
       "touchon-mentionbriefly"
     ],
+    "origin": "touch は「触れる」。深入りせず表面に触れること",
     "example": {
       "en": "The report touches on staffing only briefly.",
       "ja": "報告書は人員配置に軽く触れるだけだ。"
@@ -1169,6 +1275,7 @@
     "id": "p0284",
     "type": "phrase",
     "en": "turn a profit",
+    "ipa": "/tɜːrn ə ˈprɑːfɪt/",
     "ja": [
       "黒字を出す"
     ],
@@ -1182,6 +1289,7 @@
     "senses": [
       "turnaprofit-becomeprofitable"
     ],
+    "origin": "turn は「回して生む」。商いを回して利益を出すこと",
     "example": {
       "en": "The café turned a profit in its first year.",
       "ja": "その喫茶店は初年度に黒字を出した。"
@@ -1191,6 +1299,7 @@
     "id": "p0285",
     "type": "phrase",
     "en": "weigh heavily on",
+    "ipa": "/weɪ ˈhevɪli ɑːn/",
     "ja": [
       "重くのしかかる"
     ],
@@ -1204,6 +1313,7 @@
     "senses": [
       "weighheavily-burdengreatly"
     ],
+    "origin": "weigh（重くのしかかる）＋ heavily（重く）。負担として重く効くこと",
     "example": {
       "en": "Fuel costs weigh heavily on margins.",
       "ja": "燃料費が利幅に重くのしかかる。"
@@ -1213,6 +1323,7 @@
     "id": "p0391",
     "type": "phrase",
     "en": "abide by the rules",
+    "ipa": "/əˈbaɪd baɪ ðə ruːlz/",
     "ja": [
       "規則に従う"
     ],
@@ -1226,6 +1337,7 @@
     "senses": [
       "abiderules-obeyregulations"
     ],
+    "origin": "abide by（従う）＋ rules（規則）。規則のそばにとどまること",
     "example": {
       "en": "All contractors abide by the site rules.",
       "ja": "請負業者は全員、現場の規則に従う。"
@@ -1235,6 +1347,7 @@
     "id": "p0392",
     "type": "phrase",
     "en": "account for the difference",
+    "ipa": "/əˈkaʊnt fɔːr ðə ˈdɪfrəns/",
     "ja": [
       "差額を説明する"
     ],
@@ -1248,6 +1361,7 @@
     "senses": [
       "accountdiff-explaingap"
     ],
+    "origin": "account for（説明する）＋ difference（差）。差の勘定を立てること",
     "example": {
       "en": "The clerk accounted for the difference.",
       "ja": "事務員が差額を説明した。"
@@ -1257,6 +1371,7 @@
     "id": "p0393",
     "type": "phrase",
     "en": "act on",
+    "ipa": "/ækt ɑːn/",
     "ja": [
       "に基づいて動く"
     ],
@@ -1270,6 +1385,7 @@
     "senses": [
       "acton-takeactionfrom"
     ],
+    "origin": "on は「〜に基づいて」。それを踏まえて動くこと",
     "example": {
       "en": "The depot acted on the revised forecast.",
       "ja": "拠点は改めた見通しに基づいて動いた。"
@@ -1279,6 +1395,7 @@
     "id": "p0394",
     "type": "phrase",
     "en": "adapt to",
+    "ipa": "/əˈdæpt tuː/",
     "ja": [
       "適応する"
     ],
@@ -1292,6 +1409,7 @@
     "senses": [
       "adaptto-adjusttochange"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 aptus（適した）。合うように自分を変えること。apt と同語源",
     "example": {
       "en": "Staff adapted to the new shift pattern.",
       "ja": "職員は新しい勤務の型に適応した。"
@@ -1301,6 +1419,7 @@
     "id": "p0395",
     "type": "phrase",
     "en": "appeal to",
+    "ipa": "/əˈpiːl tuː/",
     "ja": [
       "心をつかむ"
     ],
@@ -1314,6 +1433,7 @@
     "senses": [
       "appealto-attractinterest"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 pellere（打つ）。相手の心を打つこと。repel と同語源",
     "example": {
       "en": "The lighter pack appeals to older buyers.",
       "ja": "軽い包装は年配の買い手の心をつかむ。"
@@ -1323,6 +1443,7 @@
     "id": "p0396",
     "type": "phrase",
     "en": "argue for",
+    "ipa": "/ˈɑːrɡjuː fɔːr/",
     "ja": [
       "擁護して論じる"
     ],
@@ -1336,6 +1457,7 @@
     "senses": [
       "arguefor-speakinsupport"
     ],
+    "origin": "for は「〜の側に立って」。その立場を論じて支えること",
     "example": {
       "en": "Two directors argued for the rail option.",
       "ja": "取締役二名が鉄道案を擁護して論じた。"
@@ -1345,6 +1467,7 @@
     "id": "p0397",
     "type": "phrase",
     "en": "arrive at a decision",
+    "ipa": "/əˈraɪv ət ə dɪˈsɪʒn/",
     "ja": [
       "決定に至る"
     ],
@@ -1358,6 +1481,7 @@
     "senses": [
       "arrivedecision-reachconclusion"
     ],
+    "origin": "arrive（たどり着く）＋ decision（決定）。議論の末に決めに至ること",
     "example": {
       "en": "The board arrived at a decision in an hour.",
       "ja": "取締役会は一時間で決定に至った。"
@@ -1367,6 +1491,7 @@
     "id": "p0398",
     "type": "phrase",
     "en": "assign to",
+    "ipa": "/əˈsaɪn tuː/",
     "ja": [
       "担当に付ける"
     ],
@@ -1380,6 +1505,7 @@
     "senses": [
       "assignto-allocateperson"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 signum（印）。印を付けて割り当てること。sign と同語源",
     "example": {
       "en": "Two clerks were assigned to the audit.",
       "ja": "事務員二名が監査の担当に付けられた。"
@@ -1389,6 +1515,7 @@
     "id": "p0399",
     "type": "phrase",
     "en": "attribute to",
+    "ipa": "/əˈtrɪbjuːt tuː/",
     "ja": [
       "のおかげとする"
     ],
@@ -1402,6 +1529,7 @@
     "senses": [
       "attributeto-creditcause"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 tribuere（与える）。手柄や原因をそこへ振ること",
     "example": {
       "en": "Management attributed the gain to training.",
       "ja": "経営陣は増益を研修のおかげとした。"
@@ -1411,6 +1539,7 @@
     "id": "p0400",
     "type": "phrase",
     "en": "be aimed at",
+    "ipa": "/bi eɪmd æt/",
     "ja": [
       "狙いとする"
     ],
@@ -1424,6 +1553,7 @@
     "senses": [
       "beaimedat-targetedtoward"
     ],
+    "origin": "aim（狙う）。狙いをそこに定めていること",
     "example": {
       "en": "The campaign is aimed at small workshops.",
       "ja": "その販売活動は小さな工房を狙いとする。"
@@ -1433,6 +1563,7 @@
     "id": "p0401",
     "type": "phrase",
     "en": "be applicable to",
+    "ipa": "/bi ˈæplɪkəbl tuː/",
     "ja": [
       "適用がある"
     ],
@@ -1446,6 +1577,7 @@
     "senses": [
       "beapplicable-relevanttocase"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 plicare（折る）。それに当てはめて折り重ねられること",
     "example": {
       "en": "The discount is applicable to bulk orders.",
       "ja": "割引は大量の注文に適用がある。"
@@ -1455,6 +1587,7 @@
     "id": "p0402",
     "type": "phrase",
     "en": "be charged with",
+    "ipa": "/bi tʃɑːrdʒd wɪð/",
     "ja": [
       "任される"
     ],
@@ -1468,6 +1601,7 @@
     "senses": [
       "becharged-givenresponsibility"
     ],
+    "origin": "charge（積み荷・務め）を負わされていること",
     "example": {
       "en": "She is charged with the site handover.",
       "ja": "彼女は現場の引き渡しを任される。"
@@ -1477,6 +1611,7 @@
     "id": "p0403",
     "type": "phrase",
     "en": "be committed",
+    "ipa": "/bi kəˈmɪtɪd/",
     "ja": [
       "専心する"
     ],
@@ -1490,6 +1625,7 @@
     "senses": [
       "becommitted-fullydedicated"
     ],
+    "origin": "com-（共に）＋ ラテン語 mittere（送る）。身を託して打ち込んでいること",
     "example": {
       "en": "The firm is committed to zero waste.",
       "ja": "会社は廃棄物ゼロに専心する。"
@@ -1499,6 +1635,7 @@
     "id": "p0404",
     "type": "phrase",
     "en": "be dependent on",
+    "ipa": "/bi dɪˈpendənt ɑːn/",
     "ja": [
       "依存する"
     ],
@@ -1512,6 +1649,7 @@
     "senses": [
       "bedependent-relyingupon"
     ],
+    "origin": "de-（下に）＋ ラテン語 pendere（ぶら下がる）。それにぶら下がっていること",
     "example": {
       "en": "The island depot is dependent on the ferry.",
       "ja": "島の拠点は渡し船に依存する。"
@@ -1521,6 +1659,7 @@
     "id": "p0405",
     "type": "phrase",
     "en": "be entitled to compensation",
+    "ipa": "/bi ɪnˈtaɪtld tuː ˌkɑːmpenˈseɪʃn/",
     "ja": [
       "補償を受けられる"
     ],
@@ -1534,6 +1673,7 @@
     "senses": [
       "beentitledcomp-righttopayment"
     ],
+    "origin": "title（権原）を持ち compensation（補償）を求められること",
     "example": {
       "en": "Buyers are entitled to compensation for delay.",
       "ja": "買い手は遅延の補償を受けられる。"
@@ -1543,6 +1683,7 @@
     "id": "p0406",
     "type": "phrase",
     "en": "be geared toward",
+    "ipa": "/bi ɡɪrd təˈwɔːrd/",
     "ja": [
       "向けに作られる"
     ],
@@ -1556,6 +1697,7 @@
     "senses": [
       "begeared-designedfortarget"
     ],
+    "origin": "gear（歯車を噛ませる）。その相手に噛み合うよう作られていること",
     "example": {
       "en": "The model is geared toward heavy use.",
       "ja": "その型式は酷使向けに作られる。"
@@ -1565,6 +1707,7 @@
     "id": "p0407",
     "type": "phrase",
     "en": "be indicative of",
+    "ipa": "/bi ɪnˈdɪkətɪv əv/",
     "ja": [
       "の表れである"
     ],
@@ -1578,6 +1721,7 @@
     "senses": [
       "beindicative-showingsign"
     ],
+    "origin": "ラテン語 in-（〜へ）＋ dicare（示す）。それを指し示していること。index と同語源",
     "example": {
       "en": "Rising returns are indicative of a fault.",
       "ja": "返品の増加は不具合の表れである。"
@@ -1587,6 +1731,7 @@
     "id": "p0408",
     "type": "phrase",
     "en": "be obliged to",
+    "ipa": "/bi əˈblaɪdʒd tuː/",
     "ja": [
       "しなければならない"
     ],
@@ -1600,6 +1745,7 @@
     "senses": [
       "beobliged-legallyrequired"
     ],
+    "origin": "ob-（〜へ）＋ ラテン語 ligare（縛る）。務めに縛られていること",
     "example": {
       "en": "The seller is obliged to insure the cargo.",
       "ja": "売り主は貨物に保険を掛けなければならない。"
@@ -1609,6 +1755,7 @@
     "id": "p0409",
     "type": "phrase",
     "en": "be subject to inspection",
+    "ipa": "/bi ˈsʌbdʒɪkt tuː ɪnˈspekʃn/",
     "ja": [
       "検査対象となる"
     ],
@@ -1622,6 +1769,7 @@
     "senses": [
       "besubjinspect-openforchecking"
     ],
+    "origin": "inspection（検査）の下に置かれていること",
     "example": {
       "en": "All imports are subject to inspection.",
       "ja": "全ての輸入品は検査対象となる。"
@@ -1631,6 +1779,7 @@
     "id": "p0410",
     "type": "phrase",
     "en": "be well versed in",
+    "ipa": "/bi wel vɜːrst ɪn/",
     "ja": [
       "精通している"
     ],
@@ -1644,6 +1793,7 @@
     "senses": [
       "bewellversed-highlyknowledgeable"
     ],
+    "origin": "ラテン語 versare（何度も向きを変える）。繰り返し扱って通じていること",
     "example": {
       "en": "He is well versed in customs procedure.",
       "ja": "彼は通関の手続きに精通している。"
@@ -1653,6 +1803,7 @@
     "id": "p0411",
     "type": "phrase",
     "en": "bear the cost",
+    "ipa": "/ber ðə kɔːst/",
     "ja": [
       "費用を負担する"
     ],
@@ -1666,6 +1817,7 @@
     "senses": [
       "bearthecost-payexpense"
     ],
+    "origin": "bear（担う）＋ cost（費用）。費用を背負うこと",
     "example": {
       "en": "The buyer bears the cost of crating.",
       "ja": "買い手が木箱詰めの費用を負担する。"
@@ -1675,6 +1827,7 @@
     "id": "p0412",
     "type": "phrase",
     "en": "bring into line",
+    "ipa": "/brɪŋ ˈɪntuː laɪn/",
     "ja": [
       "足並みをそろえる"
     ],
@@ -1688,6 +1841,7 @@
     "senses": [
       "bringintoline-makeconsistent"
     ],
+    "origin": "line（列）の中へ入れること。ほかとそろえること",
     "example": {
       "en": "The audit brought both plants into line.",
       "ja": "監査が両工場の足並みをそろえた。"
@@ -1697,6 +1851,7 @@
     "id": "p0413",
     "type": "phrase",
     "en": "build on",
+    "ipa": "/bɪld ɑːn/",
     "ja": [
       "土台にして伸ばす"
     ],
@@ -1710,6 +1865,7 @@
     "senses": [
       "buildon-developfurtherfrom"
     ],
+    "origin": "on は「〜の上に」。既にあるものを土台に積み上げること",
     "example": {
       "en": "The plan builds on last year's savings.",
       "ja": "その計画は昨年の節約を土台にして伸ばす。"
@@ -1719,6 +1875,7 @@
     "id": "p0414",
     "type": "phrase",
     "en": "carry the risk",
+    "ipa": "/ˈkæri ðə rɪsk/",
     "ja": [
       "危険を伴う"
     ],
@@ -1732,6 +1889,7 @@
     "senses": [
       "carrytherisk-involvedanger"
     ],
+    "origin": "risk（危険）を carry（帯びる）。危険を伴うこと",
     "example": {
       "en": "Air freight carries the risk of damage.",
       "ja": "航空貨物は破損の危険を伴う。"
@@ -1741,6 +1899,7 @@
     "id": "p0415",
     "type": "phrase",
     "en": "come under",
+    "ipa": "/kʌm ˈʌndər/",
     "ja": [
       "の対象範囲に入る"
     ],
@@ -1754,6 +1913,7 @@
     "senses": [
       "comeunder-fallwithincategory"
     ],
+    "origin": "under は「〜の下に」。その扱いの下に入ること",
     "example": {
       "en": "These parts come under the export ban.",
       "ja": "これらの部品は輸出禁止の対象範囲に入る。"
@@ -1763,6 +1923,7 @@
     "id": "p0416",
     "type": "phrase",
     "en": "comply in full",
+    "ipa": "/kəmˈplaɪ ɪn fʊl/",
     "ja": [
       "完全に順守する"
     ],
@@ -1776,6 +1937,7 @@
     "senses": [
       "complyinfull-obeycompletely"
     ],
+    "origin": "comply（従う）＋ in full（余さず）。すべての要件を満たすこと",
     "example": {
       "en": "The plant complies in full with the code.",
       "ja": "工場は規定を完全に順守する。"
@@ -1785,6 +1947,7 @@
     "id": "p0417",
     "type": "phrase",
     "en": "consist largely of",
+    "ipa": "/kənˈsɪst ˈlɑːrdʒli əv/",
     "ja": [
       "大部分を占める"
     ],
@@ -1798,6 +1961,7 @@
     "senses": [
       "consistlargely-mainlymadeof"
     ],
+    "origin": "consist of（成る）＋ largely（大部分）。大半をそれが占めること",
     "example": {
       "en": "The load consists largely of packaging.",
       "ja": "積み荷は包装材が大部分を占める。"
@@ -1807,6 +1971,7 @@
     "id": "p0418",
     "type": "phrase",
     "en": "deal in",
+    "ipa": "/diːl ɪn/",
     "ja": [
       "取り扱う"
     ],
@@ -1820,6 +1985,7 @@
     "senses": [
       "dealin-tradeingoods"
     ],
+    "origin": "deal（分け合う）＋ in（その分野で）。その品を商うこと",
     "example": {
       "en": "The firm deals in industrial fasteners.",
       "ja": "その会社は工業用の留め具を取り扱う。"
@@ -1829,6 +1995,7 @@
     "id": "p0419",
     "type": "phrase",
     "en": "depart from",
+    "ipa": "/dɪˈpɑːrt frəm/",
     "ja": [
       "逸脱する"
     ],
@@ -1842,6 +2009,7 @@
     "senses": [
       "departfrom-deviatefromnorm"
     ],
+    "origin": "de-（離れて）＋ ラテン語 pars（部分）。定めから離れること。part と同語源",
     "example": {
       "en": "Never depart from the written procedure.",
       "ja": "書かれた手続きから逸脱してはならない。"
@@ -1851,6 +2019,7 @@
     "id": "p0420",
     "type": "phrase",
     "en": "draw attention to",
+    "ipa": "/drɔː əˈtenʃn tuː/",
     "ja": [
       "注意を向けさせる"
     ],
@@ -1864,6 +2033,7 @@
     "senses": [
       "drawattention-makenoticed"
     ],
+    "origin": "attention（注意）を draw（引く）。そこへ注意を引き寄せること",
     "example": {
       "en": "The report draws attention to the backlog.",
       "ja": "報告書は滞留に注意を向けさせる。"
@@ -1873,6 +2043,7 @@
     "id": "p0421",
     "type": "phrase",
     "en": "enter into",
+    "ipa": "/ˈentər ˈɪntuː/",
     "ja": [
       "締結する"
     ],
@@ -1886,6 +2057,7 @@
     "senses": [
       "enterinto-formallyagree"
     ],
+    "origin": "into は「中へ」。契約の中へ足を踏み入れること",
     "example": {
       "en": "The firms entered into a supply contract.",
       "ja": "両社は供給の契約を締結した。"
@@ -1895,6 +2067,7 @@
     "id": "p0422",
     "type": "phrase",
     "en": "factor in",
+    "ipa": "/ˈfæktər ɪn/",
     "ja": [
       "織り込む"
     ],
@@ -1908,6 +2081,7 @@
     "senses": [
       "factorin-includeincalculation"
     ],
+    "origin": "factor（要素）を in（組み込む）。計算に入れること",
     "example": {
       "en": "Factor in the customs delay when quoting.",
       "ja": "見積もる際は通関の遅れを織り込みなさい。"
@@ -1917,6 +2091,7 @@
     "id": "p0423",
     "type": "phrase",
     "en": "follow suit",
+    "ipa": "/ˈfɑːloʊ suːt/",
     "ja": [
       "同じ動きをする"
     ],
@@ -1930,6 +2105,7 @@
     "senses": [
       "followsuit-dothesame"
     ],
+    "origin": "トランプで同じ suit（絵柄）を出すことから。同じ動きに続くこと",
     "example": {
       "en": "Rivals followed suit within a month.",
       "ja": "競合は一か月以内に同じ動きをした。"
@@ -1939,6 +2115,7 @@
     "id": "p0424",
     "type": "phrase",
     "en": "gain access to",
+    "ipa": "/ɡeɪn ˈækses tuː/",
     "ja": [
       "利用できるようになる"
     ],
@@ -1952,6 +2129,7 @@
     "senses": [
       "gainaccess-obtainentry"
     ],
+    "origin": "ad-（〜へ）＋ ラテン語 cedere（進む）。近づく道を得ること。accede と同語源",
     "example": {
       "en": "Contractors gain access with a day pass.",
       "ja": "請負業者は一日券で利用できるようになる。"
@@ -1961,6 +2139,7 @@
     "id": "p0425",
     "type": "phrase",
     "en": "give notice",
+    "ipa": "/ɡɪv ˈnoʊtɪs/",
     "ja": [
       "通知を出す"
     ],
@@ -1974,6 +2153,7 @@
     "senses": [
       "givenotice-informformally"
     ],
+    "origin": "notice（知らせ）を与える。正式に告げること",
     "example": {
       "en": "Tenants must give notice two months ahead.",
       "ja": "賃借人は二か月前に通知を出さねばならない。"
@@ -1983,6 +2163,7 @@
     "id": "p0426",
     "type": "phrase",
     "en": "go over budget",
+    "ipa": "/ɡoʊ ˈoʊvər ˈbʌdʒɪt/",
     "ja": [
       "予算を超える"
     ],
@@ -1996,6 +2177,7 @@
     "senses": [
       "gooverbudget-exceedallocation"
     ],
+    "origin": "over は「越えて」。budget（予算）の線を越えること",
     "example": {
       "en": "The refit went over budget by a tenth.",
       "ja": "改修は予算を一割超えた。"
@@ -2005,6 +2187,7 @@
     "id": "p0427",
     "type": "phrase",
     "en": "hold liable",
+    "ipa": "/hoʊld ˈlaɪəbl/",
     "ja": [
       "責任を負わせる"
     ],
@@ -2018,6 +2201,7 @@
     "senses": [
       "holdliable-blamelegally"
     ],
+    "origin": "liable（責めを負う）状態に hold（置く）。責任を認めさせること",
     "example": {
       "en": "The court held the carrier liable.",
       "ja": "裁判所は運送会社に責任を負わせた。"
@@ -2027,6 +2211,7 @@
     "id": "p0428",
     "type": "phrase",
     "en": "impose on",
+    "ipa": "/ɪmˈpoʊz ɑːn/",
     "ja": [
       "に課される"
     ],
@@ -2040,6 +2225,7 @@
     "senses": [
       "imposeon-placedutyupon"
     ],
+    "origin": "im-（上に）＋ pose（置く）。相手の上に載せること",
     "example": {
       "en": "A surcharge is imposed on late payment.",
       "ja": "遅い支払いには追加料金が課される。"
@@ -2049,6 +2235,7 @@
     "id": "p0429",
     "type": "phrase",
     "en": "keep abreast of",
+    "ipa": "/kiːp əˈbrest əv/",
     "ja": [
       "遅れずに把握する"
     ],
@@ -2062,6 +2249,7 @@
     "senses": [
       "keepabreast-staycurrentwith"
     ],
+    "origin": "abreast は「横並びで」。並走して遅れずにいること",
     "example": {
       "en": "Managers keep abreast of the safety code.",
       "ja": "管理職は安全の規定を遅れずに把握する。"
@@ -2071,6 +2259,7 @@
     "id": "p0430",
     "type": "phrase",
     "en": "look to",
+    "ipa": "/lʊk tuː/",
     "ja": [
       "期待して目を向ける"
     ],
@@ -2084,6 +2273,7 @@
     "senses": [
       "lookto-relyonforfuture"
     ],
+    "origin": "to は「相手の方へ」。期待して目を向けること",
     "example": {
       "en": "The firm looks to exports for growth.",
       "ja": "会社は成長を輸出に期待して目を向ける。"
@@ -2093,6 +2283,7 @@
     "id": "p0431",
     "type": "phrase",
     "en": "make allowance for",
+    "ipa": "/meɪk əˈlaʊəns fɔːr/",
     "ja": [
       "考慮して余裕を見る"
     ],
@@ -2106,6 +2297,7 @@
     "senses": [
       "makeallowance-leavemargin"
     ],
+    "origin": "allowance（認める分）。その分の余裕を見ておくこと",
     "example": {
       "en": "Make allowance for winter road closures.",
       "ja": "冬の道路閉鎖を考慮して余裕を見なさい。"
@@ -2115,6 +2307,7 @@
     "id": "p0432",
     "type": "phrase",
     "en": "make good",
+    "ipa": "/meɪk ɡʊd/",
     "ja": [
       "埋め合わせて直す"
     ],
@@ -2128,6 +2321,7 @@
     "senses": [
       "makegood-repairdamage"
     ],
+    "origin": "good（良い状態）に make（する）。損なった分を直して埋めること",
     "example": {
       "en": "The builder will make good the plaster.",
       "ja": "建設業者が壁を埋め合わせて直す。"
@@ -2137,6 +2331,7 @@
     "id": "p0433",
     "type": "phrase",
     "en": "meet the deadline",
+    "ipa": "/miːt ðə ˈdedlaɪn/",
     "ja": [
       "期限に間に合わせる"
     ],
@@ -2150,6 +2345,7 @@
     "senses": [
       "meetdeadline-finishintime"
     ],
+    "origin": "meet は「ぴたり合う」。期限に合わせること",
     "example": {
       "en": "The team met the deadline by working late.",
       "ja": "その班は遅くまで働いて期限に間に合わせた。"
@@ -2159,6 +2355,7 @@
     "id": "p0434",
     "type": "phrase",
     "en": "object to",
+    "ipa": "/əbˈdʒekt tuː/",
     "ja": [
       "異議を唱える"
     ],
@@ -2172,6 +2369,7 @@
     "senses": [
       "objectto-expressopposition"
     ],
+    "origin": "ob-（向かって）＋ ラテン語 jacere（投げる）。異議を投げ返すこと",
     "example": {
       "en": "Two members objected to the new fee.",
       "ja": "会員二名が新しい料金に異議を唱えた。"
@@ -2181,6 +2379,7 @@
     "id": "p0435",
     "type": "phrase",
     "en": "outline the terms",
+    "ipa": "/ˈaʊtlaɪn ðə tɜːrmz/",
     "ja": [
       "条件の概要を示す"
     ],
@@ -2194,6 +2393,7 @@
     "senses": [
       "outlineterms-summarizeconditions"
     ],
+    "origin": "outline（輪郭）＋ terms（条件）。条件の骨組みを示すこと",
     "example": {
       "en": "The letter outlines the payment terms.",
       "ja": "その手紙は支払いの条件の概要を示す。"
@@ -2203,6 +2403,7 @@
     "id": "p0436",
     "type": "phrase",
     "en": "place an order",
+    "ipa": "/pleɪs ən ˈɔːrdər/",
     "ja": [
       "発注を行う"
     ],
@@ -2216,6 +2417,7 @@
     "senses": [
       "placeanorder-submitpurchase"
     ],
+    "origin": "order（注文）を place（置く）。注文を出すこと",
     "example": {
       "en": "The depot places an order every Monday.",
       "ja": "拠点は毎週月曜に発注を行う。"
@@ -2225,6 +2427,7 @@
     "id": "p0437",
     "type": "phrase",
     "en": "point to",
+    "ipa": "/pɔɪnt tuː/",
     "ja": [
       "指し示す"
     ],
@@ -2238,6 +2441,7 @@
     "senses": [
       "pointto-indicateevidence"
     ],
+    "origin": "to は「その方へ」。指がそちらを差すこと",
     "example": {
       "en": "The data points to a bearing failure.",
       "ja": "そのデータは軸受けの故障を指し示す。"
@@ -2247,6 +2451,7 @@
     "id": "p0438",
     "type": "phrase",
     "en": "provide for",
+    "ipa": "/prəˈvaɪd fɔːr/",
     "ja": [
       "定めて備える"
     ],
@@ -2260,6 +2465,7 @@
     "senses": [
       "providefor-makeprovision"
     ],
+    "origin": "pro-（前もって）＋ ラテン語 videre（見る）。先を見て定めを置くこと",
     "example": {
       "en": "The contract provides for annual review.",
       "ja": "契約は年次の見直しを定めて備える。"
@@ -2269,6 +2475,7 @@
     "id": "p0439",
     "type": "phrase",
     "en": "reach an agreement",
+    "ipa": "/riːtʃ ən əˈɡriːmənt/",
     "ja": [
       "合意に達する"
     ],
@@ -2282,6 +2489,7 @@
     "senses": [
       "reachagreement-settleterms"
     ],
+    "origin": "reach（届く）＋ agreement（合意）。手が合意まで届くこと",
     "example": {
       "en": "Both sides reached an agreement in June.",
       "ja": "双方は六月に合意に達した。"
@@ -2291,6 +2499,7 @@
     "id": "p0440",
     "type": "phrase",
     "en": "refrain from",
+    "ipa": "/rɪˈfreɪn frəm/",
     "ja": [
       "控える"
     ],
@@ -2304,6 +2513,7 @@
     "senses": [
       "refrainfrom-avoiddoing"
     ],
+    "origin": "re-（後ろへ）＋ ラテン語 frenum（くつわ）。手綱を引いて控えること",
     "example": {
       "en": "Please refrain from using the freight lift.",
       "ja": "貨物用の昇降機の使用は控えてください。"
@@ -2313,6 +2523,7 @@
     "id": "p0441",
     "type": "phrase",
     "en": "relate to",
+    "ipa": "/rɪˈleɪt tuː/",
     "ja": [
       "関わる"
     ],
@@ -2326,6 +2537,7 @@
     "senses": [
       "relateto-concernsubject"
     ],
+    "origin": "re-（元へ）＋ ラテン語 ferre（運ぶ）。そこへ結び付けて運ぶこと",
     "example": {
       "en": "Clause eight relates to insurance cover.",
       "ja": "第八条は保険の補償に関わる。"
@@ -2335,6 +2547,7 @@
     "id": "p0442",
     "type": "phrase",
     "en": "rely on",
+    "ipa": "/rɪˈlaɪ ɑːn/",
     "ja": [
       "当てにする"
     ],
@@ -2348,6 +2561,7 @@
     "senses": [
       "relyon-dependupon"
     ],
+    "origin": "re-（強め）＋ ラテン語 ligare（結ぶ）。結び付いて頼ること。reliable と同語源",
     "example": {
       "en": "The plant relies on a single supplier.",
       "ja": "工場は一社の供給業者を当てにする。"
@@ -2357,6 +2571,7 @@
     "id": "p0443",
     "type": "phrase",
     "en": "resign from",
+    "ipa": "/rɪˈzaɪn frəm/",
     "ja": [
       "退く"
     ],
@@ -2370,6 +2585,7 @@
     "senses": [
       "resignfrom-leavepost"
     ],
+    "origin": "re-（元へ）＋ ラテン語 signare（署名する）。署名を返して職を退くこと",
     "example": {
       "en": "She resigned from the committee in May.",
       "ja": "彼女は五月に委員会を退いた。"
@@ -2379,6 +2595,7 @@
     "id": "p0444",
     "type": "phrase",
     "en": "respond to",
+    "ipa": "/rɪˈspɑːnd tuː/",
     "ja": [
       "応じる"
     ],
@@ -2392,6 +2609,7 @@
     "senses": [
       "respondto-reactformally"
     ],
+    "origin": "re-（返して）＋ ラテン語 spondere（約束する）。呼びかけに返すこと",
     "example": {
       "en": "The maker responded to every complaint.",
       "ja": "製造業者は全ての苦情に応じた。"
@@ -2401,6 +2619,7 @@
     "id": "p0445",
     "type": "phrase",
     "en": "result in delay",
+    "ipa": "/rɪˈzʌlt ɪn dɪˈleɪ/",
     "ja": [
       "遅延を招く"
     ],
@@ -2414,6 +2633,7 @@
     "senses": [
       "resultdelay-causelateness"
     ],
+    "origin": "result in（〜という結果になる）＋ delay（遅れ）。跳ね返った先が遅れであること",
     "example": {
       "en": "Customs checks resulted in delay.",
       "ja": "通関の検査が遅延を招いた。"
@@ -2423,6 +2643,7 @@
     "id": "p0446",
     "type": "phrase",
     "en": "run short of",
+    "ipa": "/rʌn ʃɔːrt əv/",
     "ja": [
       "足りなくなる"
     ],
@@ -2436,6 +2657,7 @@
     "senses": [
       "runshortof-lackenough"
     ],
+    "origin": "short は「足りない」。走った末に足りなくなること",
     "example": {
       "en": "The kitchen ran short of clean trays.",
       "ja": "厨房は清潔な受け皿が足りなくなった。"
@@ -2445,6 +2667,7 @@
     "id": "p0447",
     "type": "phrase",
     "en": "serve as",
+    "ipa": "/sɜːrv əz/",
     "ja": [
       "役割を果たす"
     ],
@@ -2458,6 +2681,7 @@
     "senses": [
       "serveas-functionasrole"
     ],
+    "origin": "as は「〜として」。その役として働くこと",
     "example": {
       "en": "The annex serves as a training room.",
       "ja": "別館は研修室の役割を果たす。"
@@ -2467,6 +2691,7 @@
     "id": "p0448",
     "type": "phrase",
     "en": "set forth",
+    "ipa": "/set fɔːrθ/",
     "ja": [
       "規定して述べる"
     ],
@@ -2480,6 +2705,7 @@
     "senses": [
       "setforth-statefully"
     ],
+    "origin": "forth は「前へ」。条件を前に並べて示すこと",
     "example": {
       "en": "The schedule sets forth every milestone.",
       "ja": "その日程表は節目をすべて規定して述べる。"
@@ -2489,6 +2715,7 @@
     "id": "p0449",
     "type": "phrase",
     "en": "sign a contract",
+    "ipa": "/saɪn ə ˈkɑːntrækt/",
     "ja": [
       "契約を交わす"
     ],
@@ -2502,6 +2729,7 @@
     "senses": [
       "signcontract-formalizeagreement"
     ],
+    "origin": "sign（署名する）＋ contract（契約）。署名して取り決めを固めること",
     "example": {
       "en": "The parties signed a contract on Friday.",
       "ja": "当事者は金曜に契約を交わした。"
@@ -2511,6 +2739,7 @@
     "id": "p0450",
     "type": "phrase",
     "en": "stand by",
+    "ipa": "/stænd baɪ/",
     "ja": [
       "待機する"
     ],
@@ -2524,6 +2753,7 @@
     "senses": [
       "standby-remainready"
     ],
+    "origin": "by は「そばに」。そばに立ったまま出番を待つこと",
     "example": {
       "en": "A spare crew stands by during the test.",
       "ja": "試験の間、予備の作業班が待機する。"
@@ -2533,6 +2763,7 @@
     "id": "p0451",
     "type": "phrase",
     "en": "subscribe to",
+    "ipa": "/səbˈskraɪb tuː/",
     "ja": [
       "同調する"
     ],
@@ -2546,6 +2777,7 @@
     "senses": [
       "subscribeto-agreewithview"
     ],
+    "origin": "sub-（下に）＋ ラテン語 scribere（書く）。下に署名して同調すること",
     "example": {
       "en": "Few managers subscribe to that view.",
       "ja": "その見方に同調する管理職は少ない。"
@@ -2555,6 +2787,7 @@
     "id": "p0452",
     "type": "phrase",
     "en": "take account of",
+    "ipa": "/teɪk əˈkaʊnt əv/",
     "ja": [
       "勘案する"
     ],
@@ -2568,6 +2801,7 @@
     "senses": [
       "takeaccountof-considerfactor"
     ],
+    "origin": "account（勘定）を取る。勘定に入れて考えること",
     "example": {
       "en": "The quote takes account of the exchange rate.",
       "ja": "見積もりは為替の率を勘案している。"
@@ -2577,6 +2811,7 @@
     "id": "p0453",
     "type": "phrase",
     "en": "take issue with",
+    "ipa": "/teɪk ˈɪʃuː wɪð/",
     "ja": [
       "異論を述べる"
     ],
@@ -2590,6 +2825,7 @@
     "senses": [
       "takeissuewith-disagreeopenly"
     ],
+    "origin": "issue（争点）を take（取り上げる）。その点で異を唱えること",
     "example": {
       "en": "The auditor took issue with the method.",
       "ja": "監査人はその方法に異論を述べた。"
@@ -2599,6 +2835,7 @@
     "id": "p0454",
     "type": "phrase",
     "en": "take on",
+    "ipa": "/teɪk ɑːn/",
     "ja": [
       "引き受ける仕事とする"
     ],
@@ -2612,6 +2849,7 @@
     "senses": [
       "takeon-acceptwork"
     ],
+    "origin": "on は「身に載せて」。仕事を身に引き受けること",
     "example": {
       "en": "The depot took on two extra routes.",
       "ja": "拠点は追加の経路を二つ引き受ける仕事とした。"
@@ -2621,6 +2859,7 @@
     "id": "p0455",
     "type": "phrase",
     "en": "tend to",
+    "ipa": "/tend tuː/",
     "ja": [
       "しがちである"
     ],
@@ -2634,6 +2873,7 @@
     "senses": [
       "tendto-havetendency"
     ],
+    "origin": "ラテン語 tendere（張る）。心がその方へ張ること。tension と同語源",
     "example": {
       "en": "Thin sheets tend to curl in the dryer.",
       "ja": "薄い板は乾燥機で反りがちである。"
@@ -2643,6 +2883,7 @@
     "id": "p0456",
     "type": "phrase",
     "en": "work toward",
+    "ipa": "/wɜːrk təˈwɔːrd/",
     "ja": [
       "目指して取り組む"
     ],
@@ -2656,6 +2897,7 @@
     "senses": [
       "worktoward-strivefor"
     ],
+    "origin": "toward は「〜の方へ」。その先を目指して手を掛けること",
     "example": {
       "en": "The plant works toward a lower reject rate.",
       "ja": "工場は不良率の低下を目指して取り組む。"
@@ -2665,6 +2907,7 @@
     "id": "p0457",
     "type": "phrase",
     "en": "yield to",
+    "ipa": "/jiːld tuː/",
     "ja": [
       "譲る"
     ],
@@ -2678,6 +2921,7 @@
     "senses": [
       "yieldto-givewaypriority"
     ],
+    "origin": "yield は古英語 gieldan（支払う）。差し出して譲ること",
     "example": {
       "en": "Forklifts yield to pedestrians in the aisle.",
       "ja": "荷役車は通路で歩行者に譲る。"
