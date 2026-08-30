@@ -59,6 +59,19 @@ function checkRequiredFields(entry, errors) {
   if (Array.isArray(entry.ja) && entry.ja.some((ja) => /[。]$/.test(ja))) {
     errors.push(`${where}: 訳語の末尾に句点を付けないでください`);
   }
+  // ipa と origin は整備中のため任意。書かれている場合だけ形式を検査する
+  if (entry.ipa !== undefined && !/^\/[^/]+\/$/.test(entry.ipa)) {
+    errors.push(`${where}: ipa はスラッシュで囲んでください (${entry.ipa})`);
+  }
+  if (entry.origin !== undefined) {
+    if (typeof entry.origin !== 'string' || entry.origin.trim() === '') {
+      errors.push(`${where}: origin が空です`);
+    } else if (entry.origin.length > 120) {
+      errors.push(`${where}: origin が長すぎます (${entry.origin.length} 文字)`);
+    } else if (/[。]$/.test(entry.origin)) {
+      errors.push(`${where}: origin の末尾に句点を付けないでください`);
+    }
+  }
 }
 
 function checkDuplicates(entries, errors) {
@@ -111,6 +124,20 @@ function checkDistractorAvailability(entries, errors) {
   }
 }
 
+/** 発音記号と由来の整備状況を数える。 */
+function checkEnrichment(entries, warnings) {
+  const words = entries.filter((entry) => entry.type === 'word');
+  const withIpa = words.filter((entry) => entry.ipa).length;
+  const withOrigin = entries.filter((entry) => entry.origin).length;
+  if (withIpa < words.length) {
+    warnings.push(`ipa 未設定の単語が ${words.length - withIpa} 件あります`);
+  }
+  if (withOrigin < entries.length) {
+    warnings.push(`origin 未設定のエントリが ${entries.length - withOrigin} 件あります`);
+  }
+  return { withIpa, words: words.length, withOrigin, total: entries.length };
+}
+
 function checkMetaProgress(meta, entries, warnings) {
   const counts = { words: 0, phrases: 0 };
   for (const entry of entries) {
@@ -138,8 +165,13 @@ async function main() {
   checkExcludeRefs(entries, byId, errors);
   if (errors.length === 0) checkDistractorAvailability(entries, errors);
   const counts = checkMetaProgress(meta, entries, warnings);
+  const enrichment = checkEnrichment(entries, warnings);
 
   console.log(`収録数: 単語 ${counts.words} 件 / 熟語 ${counts.phrases} 件`);
+  console.log(
+    `発音記号: ${enrichment.withIpa} / ${enrichment.words} 語　` +
+      `由来: ${enrichment.withOrigin} / ${enrichment.total} 件`,
+  );
   for (const warning of warnings) console.warn(`警告: ${warning}`);
 
   if (errors.length > 0) {

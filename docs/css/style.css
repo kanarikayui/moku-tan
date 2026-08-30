@@ -276,8 +276,25 @@ body {
   font-weight: 700;
 }
 
+.feedback-ipa {
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
 .feedback-meaning {
   color: var(--text);
+}
+
+/* 由来は補足なので、意味より一段弱い見た目にする */
+.feedback-origin,
+.history-origin {
+  margin-top: 0.35rem;
+  padding-left: 0.6rem;
+  border-left: 2px solid var(--border);
+  font-size: 0.85rem;
+  color: var(--text-muted);
 }
 
 .feedback-example-en,
@@ -487,15 +504,25 @@ th.num {
 
 .history-head {
   display: flex;
+  flex-wrap: wrap;
   align-items: baseline;
-  justify-content: space-between;
-  gap: 0.5rem;
+  gap: 0.2rem 0.5rem;
+}
+
+.history-head .history-badge {
+  margin-left: auto;
 }
 
 .history-word {
   font-size: 1.15rem;
   font-weight: 700;
   overflow-wrap: anywhere;
+}
+
+.history-ipa {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  white-space: nowrap;
 }
 
 .history-badge {

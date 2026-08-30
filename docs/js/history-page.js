@@ -60,6 +60,13 @@ function buildCard(row) {
   word.lang = 'en';
   head.append(word);
 
+  if (entry.ipa) {
+    const ipa = document.createElement('span');
+    ipa.className = 'history-ipa';
+    ipa.textContent = entry.ipa;
+    head.append(ipa);
+  }
+
   if (row.lastResult && RESULT_BADGE[row.lastResult]) {
     const badge = document.createElement('span');
     badge.className = `history-badge ${RESULT_BADGE[row.lastResult].className}`;
@@ -82,6 +89,10 @@ function buildCard(row) {
   item.append(meta);
 
   appendLine(item, 'history-meaning', entry.ja.join('、'), 'ja');
+
+  if (entry.origin) {
+    appendLine(item, 'history-origin', `由来: ${entry.origin}`, 'ja');
+  }
 
   if (entry.example) {
     appendLine(item, 'history-example-en', entry.example.en, 'en');

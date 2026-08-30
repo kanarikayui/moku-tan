@@ -97,12 +97,27 @@ function renderFeedback(result) {
   const headword = document.createElement('p');
   headword.className = 'feedback-headword';
   headword.textContent = entry.en;
+  headword.lang = 'en';
+  if (entry.ipa) {
+    // 発音記号は語形の一部ではないので、見出しの中で控えめに添える
+    const ipa = document.createElement('span');
+    ipa.className = 'feedback-ipa';
+    ipa.textContent = entry.ipa;
+    headword.append(' ', ipa);
+  }
   dom.feedback.append(headword);
 
   const meaning = document.createElement('p');
   meaning.className = 'feedback-meaning';
   meaning.textContent = entry.ja.join('、');
   dom.feedback.append(meaning);
+
+  if (entry.origin) {
+    const origin = document.createElement('p');
+    origin.className = 'feedback-origin';
+    origin.textContent = `由来: ${entry.origin}`;
+    dom.feedback.append(origin);
+  }
 
   if (entry.example) {
     const exampleEn = document.createElement('p');
