@@ -402,6 +402,7 @@
       "escrow-heldbythirdparty"
     ],
     "origin": "escrow は第三者預託。条件が整うまで預けた状態で",
+    "contrast": "すでに預けられている状態を表す前置詞句",
     "example": {
       "en": "The funds stay in escrow until both sides sign.",
       "ja": "資金は双方が署名するまで第三者に預けておく。"

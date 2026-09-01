@@ -18,6 +18,7 @@
       "attend-participate"
     ],
     "origin": "part は「取り分」。自分の取り分を取りに行く、つまり一員として加わること",
+    "contrast": "役割を持って関わること。attend は席にいるだけでもよい",
     "example": {
       "en": "Every new hire must take part in the orientation session.",
       "ja": "新入社員は全員、説明会に参加しなければならない。"
@@ -138,6 +139,7 @@
       "getintouch-makecontact"
     ],
     "origin": "touch は「接触」。接触した状態に入ること",
+    "contrast": "連絡を取り合う関係に入る言い方。contact よりやわらかい",
     "example": {
       "en": "Get in touch with the carrier about the delayed pallet.",
       "ja": "遅れている荷台について運送業者と連絡を取りなさい。"
@@ -330,6 +332,7 @@
       "confirm-verify"
     ],
     "origin": "sure（確かな）状態を make（作る）。確かめておくこと",
+    "contrast": "念のため確かめておく口語的な言い方。confirm のような正式さはない",
     "example": {
       "en": "Make sure the labels match the packing list.",
       "ja": "表示が梱包明細と合っているか念のため確かめなさい。"
@@ -378,6 +381,7 @@
       "postpone-delay"
     ],
     "origin": "off は「離して」。予定を今から離れた先へ置くこと",
+    "contrast": "気が進まず先送りする口語。日程を決め直す含みは薄い",
     "example": {
       "en": "They put off the inspection until the parts arrive.",
       "ja": "部品が届くまで点検を先送りした。"

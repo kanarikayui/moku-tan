@@ -18,6 +18,8 @@
       "comply-obey"
     ],
     "origin": "com-（すっかり）＋ ラテン語 plere（満たす）。求めを満たすこと。complete と同語源",
+    "family": "compliance（法令順守）／ compliant（準拠した）",
+    "contrast": "基準や要求を満たすこと。comply with の形で使う",
     "example": {
       "en": "All contractors must comply with the site safety rules.",
       "ja": "すべての請負業者は現場の安全規則に従わなければならない。"
@@ -90,6 +92,8 @@
       "reimburse-payback"
     ],
     "origin": "re-（元へ）＋ im-（中へ）＋ 後期ラテン語 bursa（財布）。財布へ戻すこと。purse と同語源",
+    "family": "reimbursement（償還払い）／ disburse（支出する）",
+    "contrast": "立て替えた人に払い戻す動詞",
     "example": {
       "en": "The firm will reimburse taxi fares taken after ten o'clock.",
       "ja": "会社は十時以降に利用したタクシー代を払い戻す。"
@@ -528,6 +532,8 @@
       "comply-obey"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 haerere（くっつく）。離れずくっついていること",
+    "family": "adherence（順守）／ adhesion（付着）／ adhesive（接着剤）",
+    "contrast": "方針や規約に貼り付くように守り続けること。adhere to の形で使う",
     "example": {
       "en": "Drivers must adhere to the posted loading hours.",
       "ja": "運転手は掲示された荷積み時間を遵守しなければならない。"
@@ -678,6 +684,8 @@
       "approve-authorize"
     ],
     "origin": "ラテン語 auctor（作り手・権威）。権威をもって認めること。author と同語源",
+    "family": "authority（権限）／ authorization（許可）／ authorized（正規の）",
+    "contrast": "人や組織に権限を正式に与えること。approve は案の可否を答えるだけ",
     "example": {
       "en": "Only the director can authorize overtime work.",
       "ja": "残業を認める権限を与えられるのは部長だけだ。"
@@ -1188,6 +1196,8 @@
       "arbitration-thirdpartysettlement"
     ],
     "origin": "ラテン語 medius（中間）。両者の間に立つこと。medium と同語源",
+    "family": "mediation（仲介）／ mediator（調停者）／ intermediary（仲介者）",
+    "contrast": "双方の間に立って合意を促すだけで、決定を押しつけない。arbitration は裁定に拘束力がある",
     "example": {
       "en": "A retired judge will mediate between the two firms.",
       "ja": "退職した裁判官が二社の間を調停する。"
@@ -7287,6 +7297,8 @@
       "reimburse-payback"
     ],
     "origin": "reimburse（払い戻す）＋ -ment。立て替え分を財布へ戻すこと",
+    "family": "reimburse（払い戻す）／ disbursement（支払支出）",
+    "contrast": "払い戻しそのものを指す名詞",
     "example": {
       "en": "Reimbursement takes about ten working days.",
       "ja": "償還払いは約十営業日かかる。"

@@ -42,6 +42,7 @@
       "incharge-responsiblefor"
     ],
     "origin": "charge はラテン語 carrus（荷車）由来で「積み荷・責め」。荷を負う立場にあること",
+    "contrast": "担当として仕切っている立場。責任の所在より役割を指す",
     "example": {
       "en": "The clerk in charge of returns works only on weekdays.",
       "ja": "返品を担当している事務員は平日のみ勤務している。"
@@ -90,6 +91,7 @@
       "setup-putinplace"
     ],
     "origin": "up は「立ち上げて」。据えて使える状態にすること",
+    "contrast": "設置から使える状態にするまでを含む広い言い方。組織や制度を立ち上げる意味もある",
     "example": {
       "en": "Workers set up the display racks before the store opens.",
       "ja": "開店前に作業員が陳列棚を設置する。"
@@ -162,6 +164,7 @@
       "incharge-responsiblefor"
     ],
     "origin": "respond（応じる）＋ -ible。求められたら応じる立場にあること",
+    "contrast": "結果に責任を負うこと。担当していなくても責めを負う場合がある",
     "example": {
       "en": "The carrier is responsible for damage in transit.",
       "ja": "運送業者は輸送中の破損に責任を負う。"
@@ -234,6 +237,7 @@
       "cancel-calloff"
     ],
     "origin": "off は「取りやめて」。猟犬を呼び戻して狩りをやめた言い方から",
+    "contrast": "決まっていた催しを取りやめる口語寄りの言い方。契約や注文には cancel を使う",
     "example": {
       "en": "Heavy rain forced them to call off the tour.",
       "ja": "大雨のため見学を中止せざるを得なかった。"

@@ -90,6 +90,7 @@
       "postpone-delay"
     ],
     "origin": "off は「離して」。手を離しておいて見合わせること",
+    "contrast": "着手を保留して様子を見ること。取りやめではない",
     "example": {
       "en": "Let us hold off on the order until prices settle.",
       "ja": "価格が落ち着くまで発注は見合わせよう。"
@@ -378,6 +379,7 @@
       "comply-obey"
     ],
     "origin": "abide は古英語 abidan（とどまる）。決まりのそばにとどまること",
+    "contrast": "決まりや判断に従うと受け入れること。人が主語になる",
     "example": {
       "en": "Contractors abide by the site's noise limits.",
       "ja": "請負業者は現場の騒音の上限を順守する。"

@@ -138,6 +138,8 @@
       "consolidate-combineintoone"
     ],
     "origin": "con-（すっかり）＋ ラテン語 solidus（固い）。固めて一つにすること。solid と同語源",
+    "family": "consolidation（統合）／ solid（固い）／ solidify（固める）",
+    "contrast": "複数をまとめて一つにし強くすること。部門・借入・地位にも使える",
     "example": {
       "en": "The firm will consolidate three depots into a single hub.",
       "ja": "同社は三つの配送拠点を一つの中核施設に統合する。"
@@ -234,6 +236,8 @@
       "tentative-notyetfinal"
     ],
     "origin": "ラテン語 temptare（試す）。試しの段階であること。attempt と同語源",
+    "family": "tentatively（暫定的に）／ attempt（試み）",
+    "contrast": "相手の都合次第で変わりうる暫定案。日程に使うことが多い",
     "example": {
       "en": "The tentative agenda lists two guest speakers.",
       "ja": "暫定的な議事日程には来賓の講演者が二名載っている。"
@@ -402,6 +406,8 @@
       "mitigate-makelesssevere"
     ],
     "origin": "ラテン語 mitis（やわらかい）＋ agere（する）。きつさをやわらげること",
+    "family": "mitigation（緩和策）／ mitigating（酌量すべき）",
+    "contrast": "損害や危険の度合いを下げること。罰や危険に使う",
     "example": {
       "en": "Backup generators mitigate the risk of a shutdown.",
       "ja": "予備の発電機が操業停止の危険を軽減する。"
@@ -477,6 +483,8 @@
       "waive-giveuprequirement"
     ],
     "origin": "古仏語 guesver（見捨てる）。権利を手放して問わないこと",
+    "family": "waiver（権利放棄書）",
+    "contrast": "権利や要件を自ら手放して求めないこと。放棄する側の行為",
     "example": {
       "en": "The bank agreed to waive the transfer charge this month.",
       "ja": "銀行は今月の振込手数料を免除することに同意した。"
@@ -597,6 +605,8 @@
       "mitigate-makelesssevere"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 levis（軽い）。重さを軽くすること。elevate, relieve と同語源",
+    "family": "alleviation（軽減）／ elevate（持ち上げる）／ relieve（和らげる）",
+    "contrast": "痛みや負担をやわらげること。苦しさの緩和に使う",
     "example": {
       "en": "Extra counters alleviate crowding at peak hours.",
       "ja": "窓口を増やすことで混雑期の混み合いを和らげる。"
@@ -933,6 +943,8 @@
       "waive-giveuprequirement"
     ],
     "origin": "ex-（外へ）＋ ラテン語 emere（取る）。適用の外へ取り出されていること",
+    "family": "exemption（免除）／ example（例）／ redeem（買い戻す）",
+    "contrast": "制度のうえで義務の対象から外れていること。自ら手放す waive とは向きが違う",
     "example": {
       "en": "Small shipments are exempt from the handling charge.",
       "ja": "小口の荷物は取扱料が免除されたものとなる。"
@@ -1275,6 +1287,8 @@
       "tentative-notyetfinal"
     ],
     "origin": "pro-（前もって）＋ ラテン語 videre（見る）。当座しのぎに置いた仮のもの。provision と同語源",
+    "family": "provision（規定）／ provide（供給する）／ provider（提供者）",
+    "contrast": "正式決定までのつなぎとして効力を持つ仮のもの",
     "example": {
       "en": "A provisional figure appears in the draft report.",
       "ja": "草案の報告書には仮の数字が載っている。"

@@ -45,6 +45,8 @@
       "arbitration-thirdpartysettlement"
     ],
     "origin": "ラテン語 arbiter（裁定者）。第三者に判断を委ねる手続き。arbitrary と同語源",
+    "family": "arbitrate（仲裁する）／ arbitrator（仲裁人）／ arbitrary（恣意的な）",
+    "contrast": "第三者が裁定を下し当事者を縛る手続き。mediate は合意を促すだけで強制力がない",
     "example": {
       "en": "Disputes go to arbitration rather than to the courts.",
       "ja": "紛争は裁判ではなく仲裁に付される。"
@@ -678,6 +680,8 @@
       "postpone-delay"
     ],
     "origin": "de-（離れて）＋ ラテン語 ferre（運ぶ）。先へ運んで後回しにすること。transfer と同語源",
+    "family": "deferral（繰延）／ deference（敬意）／ transfer（移す）",
+    "contrast": "支払いや決定を先へ延ばす硬い語。会計では「繰延」",
     "example": {
       "en": "The firm deferred the equipment purchase to autumn.",
       "ja": "同社は機器の購入を秋に繰り延べた。"
@@ -774,6 +778,8 @@
       "escrow-heldbythirdparty"
     ],
     "origin": "古仏語 escroue（証文の切れ端）。条件が整うまで第三者に預ける仕組み",
+    "family": "escrow agent（預託代理人）",
+    "contrast": "第三者に預ける仕組みそのものを指す名詞",
     "example": {
       "en": "The deposit sits in escrow until closing.",
       "ja": "手付金は決済まで第三者預託に置かれる。"
@@ -1338,6 +1344,8 @@
       "supplier-vendorfirm"
     ],
     "origin": "ラテン語 vendere（売る）。売る側の業者",
+    "family": "vend（売る）／ vending（自動販売）",
+    "contrast": "物を売る側の業者。売買の場面で使う",
     "example": {
       "en": "Each vendor sets up a booth by Thursday noon.",
       "ja": "各販売業者は木曜の正午までに売り場を設ける。"
@@ -1458,6 +1466,8 @@
       "consolidate-combineintoone"
     ],
     "origin": "中世ラテン語 amalgama（水銀との合金）。溶け合って一つになること",
+    "family": "amalgamation（合併）",
+    "contrast": "会社どうしが対等に溶け合って一体になること。consolidate より使い道が狭い",
     "example": {
       "en": "The two carriers amalgamated to cut overhead.",
       "ja": "二つの運送会社は間接費を削るため合併した。"

@@ -18,6 +18,8 @@
       "attend-participate"
     ],
     "origin": "ラテン語 tendere（伸ばす）＋ ad-（〜へ）。心を向けることから「出席する」。extend, tension と同語源",
+    "family": "attendance（出席）／ attendant（係員）／ attentive（気を配る）",
+    "contrast": "その場に居合わせること。take part in は中に入って役割を果たす",
     "example": {
       "en": "All department heads must attend the quarterly review.",
       "ja": "全部門長は四半期の検討会議に出席しなければならない。"
@@ -66,6 +68,8 @@
       "customer-client"
     ],
     "origin": "custom（習慣）＋ -er。「習慣的に買いに来る人」",
+    "family": "custom（慣例）／ customary（慣例の）／ customize（あつらえる）",
+    "contrast": "商品を買う客。小売や飲食の文脈で使う",
     "example": {
       "en": "A customer called about a missing item in the box.",
       "ja": "顧客から箱の中の品物が足りないと電話があった。"
@@ -165,6 +169,8 @@
       "employee-worker"
     ],
     "origin": "employ（雇う）＋ -ee。語尾の -ee は「〜される側」を表す（trainee なども同じ）",
+    "family": "employ（雇う）／ employer（雇用主）／ employment（雇用）／ unemployed（無職の）",
+    "contrast": "雇われている個人を指し、一人ずつ数えられる",
     "example": {
       "en": "Every employee receives a badge on the first day.",
       "ja": "全従業員は初日に社員証を受け取る。"
@@ -405,6 +411,8 @@
       "product-manufactureditem"
     ],
     "origin": "pro-（前へ）＋ ducere（導く）。前へ引き出したもの。produce, conduct と同語源",
+    "family": "produce（生産する）／ production（生産）／ productive（生産的な）／ productivity（生産性）",
+    "contrast": "作られた物やサービス。生産する側から見た語",
     "example": {
       "en": "The new product goes on sale in the spring catalog.",
       "ja": "新製品は春のカタログで発売される。"
@@ -549,6 +557,8 @@
       "cancel-calloff"
     ],
     "origin": "ラテン語 cancelli（格子）。文字に格子状の線を引いて消したことから",
+    "family": "cancellation（取り消し）",
+    "contrast": "予定・契約・注文そのものを無かったことにする。call off より広く硬い場面でも使う",
     "example": {
       "en": "Please cancel the booking if the flight changes.",
       "ja": "便が変わったら予約を取り消してください。"
@@ -573,6 +583,8 @@
       "customer-client"
     ],
     "origin": "ラテン語 cliens（後ろ盾を頼る人）。lean（もたれる）と発想が近い",
+    "family": "clientele（顧客層）",
+    "contrast": "専門的な役務を受ける取引先。法律・会計・広告などで使う",
     "example": {
       "en": "The client asked for a revised quote by Monday.",
       "ja": "取引先は月曜までに見直した価格の提示を求めた。"
@@ -720,6 +732,8 @@
       "setup-putinplace"
     ],
     "origin": "in-（中に）＋ stall（置き場・仕切り）。所定の場所に据えること",
+    "family": "installation（設置）／ installment（分割払い）",
+    "contrast": "機器やソフトを所定の位置に据え付けること",
     "example": {
       "en": "Technicians will install the new shelving on Saturday.",
       "ja": "技術者が土曜に新しい棚を取り付ける。"
@@ -960,6 +974,8 @@
       "employee-worker"
     ],
     "origin": "古英語 stæf（杖）。杖を支えに集まる一団から「職員」へ",
+    "family": "staffing（人員配置）／ understaffed（人手不足の）",
+    "contrast": "職員全体をまとめて指す集合名詞。a staff で「一人の職員」にはならない",
     "example": {
       "en": "Kitchen staff wear gloves at all times.",
       "ja": "厨房の職員は常に手袋を着用する。"
@@ -1425,6 +1441,8 @@
       "getintouch-makecontact"
     ],
     "origin": "con-（共に）＋ tangere（触れる）。tangible, contagion と同語源",
+    "family": "contagious（伝染性の）／ intact（無傷の）／ tact（機転）",
+    "contrast": "連絡する動作を一語で表し、目的語を直に取る",
     "example": {
       "en": "Contact the supplier if the parts do not fit.",
       "ja": "部品が合わない場合は供給業者に連絡しなさい。"

@@ -43,6 +43,8 @@
       "approve-authorize"
     ],
     "origin": "ad-（〜へ）＋ probare（良いと試す）。prove, probable と同語源",
+    "family": "approval（承認）／ approved（承認済みの）／ disapprove（認めない）",
+    "contrast": "案の中身をよしと認めること。authorize は人に権限を渡す点が違う",
     "example": {
       "en": "The board must approve the merger before the deadline.",
       "ja": "取締役会は期限までに合併を承認しなければならない。"
@@ -262,6 +264,8 @@
       "supplier-vendorfirm"
     ],
     "origin": "supply（供給する）＋ -er。sub-＋plere（下から満たす）から",
+    "family": "supply（供給する）／ supplement（補う）／ surplus（余剰）",
+    "contrast": "継続して部材を納める供給元。調達する側から見た語",
     "example": {
       "en": "Our main supplier raised its prices for the third time.",
       "ja": "主要な供給業者が三度目の値上げをした。"
@@ -334,6 +338,8 @@
       "postpone-delay"
     ],
     "origin": "post-（後に）＋ ponere（置く）。後ろに置き直すこと。position と同語源",
+    "family": "postponement（延期）／ component（構成要素）／ opponent（相手）",
+    "contrast": "日時を後ろへ移すこと。新しい日程を決める含みがある",
     "example": {
       "en": "Heavy snow forced the organizers to postpone the fair.",
       "ja": "大雪のため主催者は見本市を延期した。"
@@ -382,6 +388,8 @@
       "confirm-verify"
     ],
     "origin": "con-（すっかり）＋ firmus（固い）。firm, affirm と同語源",
+    "family": "confirmation（確認書）／ confirmed（確定した）／ firm（固い）",
+    "contrast": "裏を取って確定させること。書面や連絡を伴う正式な確認に使う",
     "example": {
       "en": "Call the vendor to confirm the installation date.",
       "ja": "業者に電話して設置日を確認しなさい。"
@@ -1116,6 +1124,8 @@
       "product-manufactureditem"
     ],
     "origin": "ラテン語 merx（商品）。market, commerce と同語源",
+    "family": "merchant（商人）／ commerce（商業）／ mercantile（商業の）",
+    "contrast": "店に並ぶ商品全体を指す集合名詞。売る側から見た語",
     "example": {
       "en": "Seasonal merchandise is displayed near the entrance.",
       "ja": "季節の商品は入口の近くに並べられている。"
