@@ -99,6 +99,7 @@
     ],
     "origin": "スペイン語 embargar（差し押さえる）。港を閉ざして取引を止めること",
     "family": "embargoed（禁輸された）／ bar（横木）／ barrier（障壁）／ barricade（バリケード）",
+    "contrast": "港を閉ざして取引を止めること。embark（着手して始める）と綴りが近い",
     "example": {
       "en": "The embargo halted shipments to two overseas ports.",
       "ja": "通商禁止により二つの海外港への出荷が止まった。"
@@ -374,6 +375,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 solvere（解く・払う）。支払いを解けないこと。solution と同語源",
     "family": "insolvency（支払不能状態）／ solvent（支払い能力のある）／ solve（解く）／ dissolve（溶かす）",
+    "contrast": "支払いを果たせない状態。insolent（無礼な）と綴りが近い",
     "example": {
       "en": "The supplier became insolvent after losing its largest client.",
       "ja": "最大の取引先を失い、その供給業者は支払い不能になった。"
@@ -455,6 +457,7 @@
     ],
     "origin": "ラテン語 proprius（自分の）。所有者が独占していること。property と同語源",
     "family": "proprietor（所有者）／ property（不動産）／ proper（適切な）／ propriety（妥当性）",
+    "contrast": "所有者が独占していること。propriety（妥当性）と綴りが近い",
     "example": {
       "en": "The coating uses a proprietary blend of resins.",
       "ja": "その塗膜は独占的な樹脂の配合を用いている。"
@@ -708,7 +711,7 @@
     ],
     "origin": "de-（離れて）＋ ラテン語 ferre（運ぶ）。先へ運んで後回しにすること。transfer と同語源",
     "family": "deferral（繰延）／ deference（敬意）／ transfer（移す）",
-    "contrast": "支払いや決定を先へ延ばす硬い語。会計では「繰延」",
+    "contrast": "決定や支払いを先へ延ばすこと。defect（欠陥）と綴りが近い",
     "example": {
       "en": "The firm deferred the equipment purchase to autumn.",
       "ja": "同社は機器の購入を秋に繰り延べた。"
@@ -734,6 +737,7 @@
     ],
     "origin": "dis-（外す）＋ ラテン語 vestire（着せる）。まとっていたものを脱ぐこと。invest と対",
     "family": "divestiture（事業売却）／ invest（投資する）／ vest（権利を確定する）／ vested（確定した）",
+    "contrast": "まとっていた事業を手放すこと。diverse（多様な）と綴りが近い",
     "example": {
       "en": "The group divested its printing arm last spring.",
       "ja": "そのグループは昨春、印刷の事業を売却した。"
@@ -1624,6 +1628,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 jungere（つなぐ）。本体に添えてつないだもの。join と同語源",
     "family": "adjunctive（付属の）／ join（加わる）／ junction（合流点）／ injunction（差し止め命令）",
+    "contrast": "本体に添えてつないだもの。adjust（調節する）と綴りが近い",
     "example": {
       "en": "A cooling adjunct fits the older press.",
       "ja": "冷却の付属物が古い印刷機に取り付く。"
@@ -1898,6 +1903,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 testis（証人）。証人として確かだと示すこと。testify と同語源",
     "family": "attestation（証明）／ testify（証言する）／ testament（遺言）／ protest（抗議する）",
+    "contrast": "証人として真実だと示すこと。attend（出席する）や attempt（試みる）と綴りが近い",
     "example": {
       "en": "Two witnesses attest to the signature.",
       "ja": "証人二名がその署名を証明する。"
@@ -2197,6 +2203,7 @@
     ],
     "origin": "de-（下へ）＋ pose（置く）。書面に置き下ろして述べること",
     "family": "deposition（供述）／ deponent（供述者）／ deposit（預ける）／ position（位置）",
+    "contrast": "宣誓のうえ書面で述べること。deposit（手付金）と綴りが近い",
     "example": {
       "en": "The manager deposed about the shipment.",
       "ja": "支配人はその出荷について供述した。"
@@ -2696,6 +2703,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 nullus（無い）。無いものにすること。nullify, null と同語源",
     "family": "annulment（無効宣告）／ null（無効の）／ nullify（無効にする）／ none（誰も〜ない）",
+    "contrast": "取り決めを無かったことにすること。annual（年次の）と一字違い",
     "example": {
       "en": "The court annulled the disputed clause.",
       "ja": "裁判所は争いのある条項を取り消して無に帰した。"
@@ -3371,6 +3379,7 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 terere（すりつぶす）。心がすりつぶれるほど悔いること",
     "family": "contrition（悔悛）／ trite（使い古された）／ attrition（自然減）／ detriment（損失）",
+    "contrast": "過ちを深く悔いていること。contribute（貢献する）と綴りが近い",
     "example": {
       "en": "A contrite letter accompanied the refund.",
       "ja": "悔いている手紙が返金に添えられた。"
@@ -4268,6 +4277,7 @@
     ],
     "origin": "ex-（すっかり）＋ ラテン語 piare（清める）。過ちを清めて償うこと",
     "family": "expiation（償い）／ pious（敬虔な）／ piety（敬虔）",
+    "contrast": "過ちを清めて償うこと。expire（失効する）と綴りが近いが無関係",
     "example": {
       "en": "The firm expiated the error with a rebate.",
       "ja": "会社は割戻しで誤りを償った。"
@@ -5114,6 +5124,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 testari（遺言する）。遺言を残さずに亡くなること。testify と同語源",
     "family": "testator（遺言者）／ testify（証言する）／ testament（遺言）／ attest（証明する）",
+    "contrast": "遺言を残さず亡くなること。integrate（一体化する）と綴りが近いが無関係",
     "example": {
       "en": "The founder died intestate in 2019.",
       "ja": "創業者は二〇一九年に遺言のないまま亡くなった。"
@@ -5738,6 +5749,7 @@
     ],
     "origin": "ラテン語 pecunia（金）。もとは家畜が財産だったことから。impecunious と同語源",
     "family": "impecunious（金に困った）／ peculiar（独特の）／ peculiarity（特異性）",
+    "contrast": "金銭に関わること。peculiar（独特の）と綴りが近い",
     "example": {
       "en": "Pecuniary loss is capped by the clause.",
       "ja": "金銭上の損失はその条項で上限が定まる。"
@@ -5962,6 +5974,7 @@
     ],
     "origin": "pre-（前に）＋ ラテン語 claudere（閉じる）。主張の道を先に閉ざす効き目。preclude と同語源",
     "family": "preclude（妨げる）／ exclude（除く）／ include（含む）／ conclude（結論づける）",
+    "contrast": "主張の道を先に閉ざす効き目。precaution（予防措置）と綴りが近い",
     "example": {
       "en": "Preclusion prevents a second claim.",
       "ja": "排除効が二度目の請求を妨げる。"
@@ -6212,6 +6225,7 @@
     ],
     "origin": "ラテン語 proviso quod（〜という条件で）。契約に添える但し条件。provision と同語源",
     "family": "provision（規定）／ provide（供給する）／ provisional（仮の）／ provident（先を見越した）",
+    "contrast": "契約に添える但し条件。provision（規定）より狭く、例外を定める一句を指す",
     "example": {
       "en": "The offer carries one important proviso.",
       "ja": "その申し出には重要な但し条件が一つある。"
@@ -6237,6 +6251,7 @@
     ],
     "origin": "pur-（前へ）＋ ラテン語 portare（運ぶ）。そういう趣旨だと掲げること。portable と同語源",
     "family": "purportedly（と称して）／ portable（持ち運べる）／ import（輸入する）／ export（輸出する）",
+    "contrast": "そういう趣旨だと掲げること。purpose（目的）と綴りが近い",
     "example": {
       "en": "The letter purports to cancel the order.",
       "ja": "その手紙は注文を取り消すと称する。"
@@ -7757,6 +7772,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 jurare（誓う）。誓いにかけて求めること。jury, justice と同語源",
     "family": "adjuration（懇願）／ jury（陪審）／ justice（正義）／ perjury（偽証）",
+    "contrast": "誓いにかけて厳かに求めること。adjust（調節する）と綴りが近い",
     "example": {
       "en": "The chair adjured both sides to settle.",
       "ja": "議長は双方に和解を厳かに求めた。"

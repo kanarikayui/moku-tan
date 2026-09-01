@@ -603,6 +603,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 grex（群れ）。群れに寄せ集めた総量",
     "family": "aggregation（集合）／ segregate（分離する）／ gregarious（社交的な）",
+    "contrast": "群れに寄せ集めた総量。aggravate（悪化させる）と綴りが近い",
     "example": {
       "en": "Aggregate output rose despite the shorter season.",
       "ja": "期間が短かったにもかかわらず合計の生産量は増えた。"
@@ -754,6 +755,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 initiare（始める）。事を起こすこと。commencement と同語源",
     "family": "commencement（開始時期）／ initiate（着手する）／ initial（当初の）",
+    "contrast": "事を起こして始めること。comment（所見）や commend（推奨する）と綴りが近い",
     "example": {
       "en": "Construction will commence once the permit arrives.",
       "ja": "許可証が届き次第、工事を開始する。"
@@ -930,6 +932,7 @@
     ],
     "origin": "dis-（別々に）＋ ラテン語 putare（考える）。考えが割れて争うこと。compute と同語源",
     "family": "disputable（議論の余地がある）／ compute（計算する）／ reputation（評判）／ deputy（副責任者）",
+    "contrast": "考えが割れて争うこと。dispose（処分する）と綴りが近い",
     "example": {
       "en": "The dispute over the boundary lasted three years.",
       "ja": "境界をめぐる紛争は三年続いた。"
@@ -1793,6 +1796,7 @@
     ],
     "origin": "over（越えて）＋ due（期限）。期限を越してしまったこと",
     "family": "due（支払期限の）／ duty（義務）／ debt（負債）",
+    "contrast": "期限を越してしまったこと。oversee（統括する）と綴りが近い",
     "example": {
       "en": "Two overdue invoices remain unpaid.",
       "ja": "期限超過の請求書が二通、未払いのままだ。"
@@ -2092,6 +2096,7 @@
     ],
     "origin": "pre-（勝って）＋ ラテン語 valere（強い）。広く行き渡って優勢なこと。prevail と同語源",
     "family": "prevail（優勢である）／ prevalence（普及）／ valid（有効な）／ value（価値）",
+    "contrast": "広く行き渡って優勢なこと。prevent（防ぐ）と綴りが近いが意味は別",
     "example": {
       "en": "Card payment is prevalent in city stores.",
       "ja": "札での支払いは都市の店で広く見られる。"
@@ -2441,6 +2446,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 cedere（進む）。相手の側へ歩み寄ること。proceed と同語源",
     "family": "accession（加入）／ proceed（進行する）／ concede（譲歩する）／ recede（後退する）",
+    "contrast": "相手の求めに歩み寄って応じること。accept（受理する）と綴りが近い",
     "example": {
       "en": "The seller acceded to a longer warranty.",
       "ja": "売り主は長い保証に同意して応じた。"
@@ -2740,6 +2746,7 @@
     ],
     "origin": "ad-（〜へ）＋ lot（くじ・取り分）。くじのように分けて振ること",
     "family": "allotment（割当）／ lot（くじ）／ lottery（抽選）",
+    "contrast": "取り分を決めて振り分けること。allow（許す）と一字違い",
     "example": {
       "en": "The yard allots two bays per carrier.",
       "ja": "構内は運送会社ごとに二区画を割り振る。"
@@ -3288,6 +3295,7 @@
     ],
     "origin": "ラテン語 candidus（白い）。曇りのない率直さ。candid と同語源",
     "family": "candid（率直な）／ candidate（候補者）／ candle（ろうそく）",
+    "contrast": "裏のない率直さ。candid（率直な）の名詞形にあたる",
     "example": {
       "en": "The report was praised for its candor.",
       "ja": "その報告書は率直さを評価された。"
@@ -3387,6 +3395,7 @@
     ],
     "origin": "ラテン語 censere（判定する）。判定を下して咎めること。census と同語源",
     "family": "censor（検閲官）／ census（全数調査）／ censorship（検閲）",
+    "contrast": "判定を下して咎めること。census（全数調査）と一字違い",
     "example": {
       "en": "The board censured the branch for the breach.",
       "ja": "取締役会は違反について支店を非難した。"
@@ -3511,6 +3520,7 @@
     ],
     "origin": "com-（強め）＋ ラテン語 mandare（託す）。よしとして人に託し勧めること。mandate と同語源",
     "family": "commendation（表彰）／ recommend（推薦する）／ mandate（委任事項）／ command（命令する）",
+    "contrast": "よしとして人に勧めること。comment（所見）や commence（開始する）と綴りが近い",
     "example": {
       "en": "The auditor commended the record keeping.",
       "ja": "監査人は記録の管理を推奨した。"
@@ -3586,6 +3596,7 @@
     ],
     "origin": "com-（すっかり）＋ ラテン語 placere（気に入る）。今のままで満足しきっていること。please と同語源",
     "family": "complacency（自己満足）／ please（喜ばせる）／ pleasant（快い）／ placid（穏やかな）",
+    "contrast": "今のままで満足しきっていること。complaint（苦情）と綴りが近い",
     "example": {
       "en": "Do not grow complacent about the checks.",
       "ja": "点検について安心しきった状態になってはならない。"
@@ -3611,6 +3622,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 currere（走る）。同じ方へ走って考えが合うこと。current と同語源",
     "family": "concurrent（同時並行の）／ current（現在の）／ occur（起こる）／ recur（再発する）",
+    "contrast": "同じ方を向いて意見が合うこと。concern（懸念）と綴りが近い",
     "example": {
       "en": "Both auditors concur on the finding.",
       "ja": "両方の監査人がその所見で同じ意見である。"
@@ -3636,6 +3648,7 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 donare（許し与える）。とがめず見逃すこと。donate と同語源",
     "family": "condonation（黙認）／ donate（寄付する）／ donor（提供者）／ pardon（許す）",
+    "contrast": "とがめずに見逃すこと。condense（要約して短くする）と綴りが近い",
     "example": {
       "en": "The firm does not condone unsafe shortcuts.",
       "ja": "会社は危険な近道を大目に見ない。"
@@ -3661,6 +3674,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 fluere（流れる）。流れが合わさる所。fluid と同語源",
     "family": "fluid（流動体）／ influence（左右する）／ affluent（裕福な）／ fluctuate（変動する）",
+    "contrast": "流れが合わさる地点。conference（会議）や confidence（自信）と綴りが近い",
     "example": {
       "en": "The depot sits at the confluence of two routes.",
       "ja": "拠点は二つの経路の合流点にある。"
@@ -3886,6 +3900,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 vergere（傾く）。一点へ寄っていくこと。divergent と対",
     "family": "convergence（収束）／ diverge（分岐する）／ divergent（食い違う）",
+    "contrast": "一点へ寄っていくこと。convert（転用する）や convene（招集する）と綴りが近い",
     "example": {
       "en": "Costs converged after the second quarter.",
       "ja": "費用は第二四半期の後に収束した。"
@@ -4236,6 +4251,7 @@
     ],
     "origin": "de-（すっかり）＋ ラテン語 linea（線）。線を引いて区切ること。line と同語源",
     "family": "delineation（描出）／ line（線）／ linear（直線の）／ outline（輪郭）",
+    "contrast": "境目をはっきり引いて区分すること。deliberate（意図的な）と綴りが近い",
     "example": {
       "en": "The plan delineates each party's duties.",
       "ja": "その計画は各当事者の職務を明確に区分する。"
@@ -4311,6 +4327,7 @@
     ],
     "origin": "de-（すっかり）＋ ラテン語 plorare（泣く）。嘆かわしく思うこと。explore と同語源",
     "family": "deplorable（嘆かわしい）／ explore（模索する）／ implore（懇願する）",
+    "contrast": "嘆かわしく思うこと。deploy（配備する）や deplete（使い尽くす）と綴りが近い",
     "example": {
       "en": "Management deplored the loss of records.",
       "ja": "経営陣は記録の喪失を遺憾に思った。"
@@ -4336,6 +4353,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 ridere（笑う）。見下して笑うこと。ridiculous と同語源",
     "family": "derision（あざけり）／ ridicule（嘲笑）／ ridiculous（ばかげた）",
+    "contrast": "見下して笑うこと。derive（導き出す）と一字違い",
     "example": {
       "en": "Critics derided the early prototype.",
       "ja": "批評家は初期の試作をあざけった。"
@@ -4361,6 +4379,7 @@
     ],
     "origin": "de-（離れて）＋ ラテン語 sistere（立つ）。その場を離れて行いをやめること",
     "family": "desistance（中止）／ consist（成る）／ insist（主張する）／ resist（抵抗する）",
+    "contrast": "行いをやめて手を引くこと。design（設計する）と綴りが近い",
     "example": {
       "en": "The maker agreed to desist from the claim.",
       "ja": "製造業者はその表示をやめることに同意した。"
@@ -4985,6 +5004,7 @@
     ],
     "origin": "en-（後に）＋ ラテン語 sequi（続く）。その後に続いて起こること。sequence と同語源",
     "family": "ensuing（続いて起こる）／ sequence（順序）／ consecutive（連続した）／ pursue（追求する）",
+    "contrast": "その後に続いて起こること。ensure（確実にする）と一字違い",
     "example": {
       "en": "A long delay ensued after the collision.",
       "ja": "衝突の後、長い遅れが続いて起こった。"
@@ -5310,6 +5330,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 pes（足）。足かせを外して当座をしのぐこと。expedite と同語源",
     "family": "expedite（迅速に処理する）／ impede（阻害する）／ pedestrian（歩行者）／ pedal（ペダル）",
+    "contrast": "当座をしのぐための便宜的な手。experiment（実験）と綴りが近い",
     "example": {
       "en": "An expedient fix bought two weeks.",
       "ja": "便宜的な処置が二週間を稼いだ。"
@@ -5335,7 +5356,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 pendere（払う）。払い出して使うこと。expenditure と同語源",
     "family": "expenditure（出費）／ expense（経費）／ spend（使う）",
-    "contrast": "資源や労力を使い果たすこと。expand と綴りが一字違い",
+    "contrast": "資源や労力を使い果たすこと。expel（退去させる）と一字違い",
     "example": {
       "en": "The firm expended little on advertising.",
       "ja": "会社は広告にほとんど費やさなかった。"
@@ -6658,6 +6679,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 solere（慣わしとする）。作法を外れた無礼さ",
     "family": "insolence（無礼）／ obsolete（時代遅れの）／ solemn（厳粛な）",
+    "contrast": "作法を外れて無礼なこと。insolvent（支払い不能の）と綴りが近い",
     "example": {
       "en": "Insolent behavior toward guests is banned.",
       "ja": "客への無礼な振る舞いは禁じられている。"
@@ -6683,6 +6705,7 @@
     ],
     "origin": "in-（〜へ）＋ ラテン語 stinguere（突く）。突いて事を起こさせること。stimulate と同語源",
     "family": "instigation（扇動）／ stimulate（刺激する）／ stimulus（刺激）／ distinguish（区別する）",
+    "contrast": "突いて事を起こさせること。institute（創設する）と綴りが近い",
     "example": {
       "en": "The audit instigated a full review.",
       "ja": "監査が全面的な見直しを引き起こして始めた。"
@@ -6758,6 +6781,7 @@
     ],
     "origin": "ラテン語 integer（欠けのない）。欠かせば全体が成り立たないこと。integrity と同語源",
     "family": "integrate（一体化する）／ integrity（完全性）／ entire（全体の）／ integer（整数）",
+    "contrast": "欠かせば全体が成り立たない部分。integrate（一体化する）の形容詞ではない",
     "example": {
       "en": "The guard is integral to the press.",
       "ja": "その安全柵は印刷機と不可分のものだ。"
@@ -7849,6 +7873,7 @@
     ],
     "origin": "over（上から）＋ rule（裁定する）。上位の判断で覆すこと",
     "family": "rule（規則）／ ruling（裁定）／ ruler（統治者）",
+    "contrast": "上位の判断で覆すこと。overdue（期限超過の）と綴りが近い",
     "example": {
       "en": "The board overruled the site manager.",
       "ja": "取締役会は現場責任者の判断を覆した。"
@@ -7975,6 +8000,7 @@
     ],
     "origin": "ラテン語 peculium（私有の家畜）。その者だけのもの、そこから独特なこと",
     "family": "peculiarity（特異性）／ peculiarly（独特に）",
+    "contrast": "そのものだけに見られる独特さ。pecuniary（金銭上の）と綴りが近い",
     "example": {
       "en": "The alloy has a peculiar surface finish.",
       "ja": "その合金は独特の表面の仕上がりを持つ。"
@@ -8448,6 +8474,7 @@
     ],
     "origin": "pre-（前もって）＋ ラテン語 scire（知る）。先を知っていること。science と同語源",
     "family": "prescience（先見）／ science（科学）／ conscious（意識のある）／ conscience（良心）",
+    "contrast": "先を読み当てる力があること。present（提示する）と綴りが近い",
     "example": {
       "en": "A prescient decision secured cheap freight.",
       "ja": "先見の明のある決定が安い運賃を確保した。"
@@ -8573,6 +8600,7 @@
     ],
     "origin": "pro-（〜のために）＋ ラテン語 curare（世話する）。手を尽くして手に入れること。procurement と同語源",
     "family": "procurement（調達）／ cure（治療）／ curator（学芸員）／ accurate（正確な）",
+    "contrast": "手を尽くして必要な物を手に入れること。procedure（手続き）と綴りが近い",
     "example": {
       "en": "The team procured a rare bearing overnight.",
       "ja": "その班は一晩で希少な軸受けを調達して手に入れた。"
@@ -8723,6 +8751,7 @@
     ],
     "origin": "ラテン語 proprius（自分の・固有の）。場にふさわしい適切さ。property と同語源",
     "family": "proper（適切な）／ property（不動産）／ appropriate（適切な）／ proprietary（独占的な）",
+    "contrast": "場にふさわしい適切さ。proprietary（独占的な）と綴りが近い",
     "example": {
       "en": "The auditor questioned the propriety of the payment.",
       "ja": "監査人はその支払いの妥当性を疑問視した。"
@@ -8946,6 +8975,7 @@
     ],
     "origin": "re-（返して）＋ 古北仏語 buchier（打つ）。打ち返すように叱ること",
     "family": "rebuking（叱責）／ rebuked（叱責された）",
+    "contrast": "面と向かって強く叱ること。rebut（反論する）と綴りが近い",
     "example": {
       "en": "The foreman rebuked the crew for the spill.",
       "ja": "職長はこぼれについて作業班を叱責した。"
@@ -9071,6 +9101,7 @@
     ],
     "origin": "re-（返して）＋ ラテン語 futare（打つ）。打ち返して論を崩すこと",
     "family": "refutation（反駁）／ irrefutable（反駁できない）／ confute（論破する）",
+    "contrast": "証拠を示して論を崩すこと。refund（返金）と綴りが近い",
     "example": {
       "en": "The data refuted the supplier's claim.",
       "ja": "そのデータは供給業者の主張を論破した。"
@@ -9246,6 +9277,7 @@
     ],
     "origin": "re-（元へ）＋ ラテン語 salire（跳ぶ）。押されても跳ね返ること。salmon, result と同語源",
     "family": "resilience（回復力）／ salient（際立った）／ result（結果）／ assail（攻撃する）",
+    "contrast": "押されても跳ね返る力があること。resident（居住者）と綴りが近い",
     "example": {
       "en": "A resilient network absorbed the shock.",
       "ja": "回復力のある網が衝撃を吸収した。"
@@ -9271,6 +9303,7 @@
     ],
     "origin": "re-（すっかり）＋ ラテン語 solvere（解く）。迷いを解いて定まったこと。resolve と同語源",
     "family": "resolution（決意）／ resolve（決着させる）／ solution（解決策）／ absolute（絶対の）",
+    "contrast": "迷いを断って定まっていること。resolve（決着させる）の形容詞ではない",
     "example": {
       "en": "Management stayed resolute about safety.",
       "ja": "経営陣は安全について断固とした姿勢を保った。"

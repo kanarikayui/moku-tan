@@ -1936,6 +1936,7 @@
     ],
     "origin": "ad-（〜へ）＋ signum（しるし）。しるしを付けて割り振る。sign, design と同語源",
     "family": "assignment（担当業務）／ sign（印）／ design（設計する）／ resign（辞任する）",
+    "contrast": "担当として割り当てること。assist（手伝う）と綴りが近いが意味は別",
     "example": {
       "en": "The chief assigned the audit to two clerks.",
       "ja": "主任は監査を二名の事務員に任せた。"
@@ -2634,6 +2635,7 @@
     ],
     "origin": "con-（共に）＋ sentire（感じる）。同じように感じること。sense, sentiment と同語源",
     "family": "consensus（総意）／ sense（感覚）／ sentiment（心情）",
+    "contrast": "相手の求めに同意すること。consult（相談する）とは向きが違う",
     "example": {
       "en": "Written consent is required for subletting.",
       "ja": "又貸しには書面の同意が必要だ。"
@@ -2659,6 +2661,7 @@
     ],
     "origin": "ラテン語 consulere（相談する）。counsel と同語源",
     "family": "consultant（助言者）／ consultation（相談）／ counsel（助言）",
+    "contrast": "判断を仰いで相談すること。consent（同意）とは向きが違う",
     "example": {
       "en": "Consult the engineer before changing settings.",
       "ja": "設定を変える前に技術者に相談しなさい。"
@@ -2709,6 +2712,7 @@
     ],
     "origin": "con-（共に）＋ tenere（保つ）。maintain, container と同語源",
     "family": "container（容器）／ content（中身）／ maintain（維持する）／ retain（保持する）",
+    "contrast": "中に入っていること。contact（連絡する）と綴りが近い",
     "example": {
       "en": "Each carton contains twenty sealed packs.",
       "ja": "各箱には封をした袋が二十入っている。"
@@ -2834,6 +2838,7 @@
     ],
     "origin": "ラテン語 concilium（招集）。counsel（助言）とは別語なので注意",
     "family": "councilor（議員）／ counsel（助言）／ reconcile（突き合わせる）",
+    "contrast": "議論して決める合議体。counsel（助言）と同音で綴りが違う",
     "example": {
       "en": "The city council approved the new zoning.",
       "ja": "市の評議会が新しい用途の区分を承認した。"
@@ -3484,6 +3489,7 @@
     ],
     "origin": "en-（与える）＋ title（肩書き）。肩書きを与え権利を認めること",
     "family": "entitlement（受給権）／ title（肩書き）",
+    "contrast": "権利や肩書きを与えること。entire（全体の）や entity（事業体）と綴りが近い",
     "example": {
       "en": "The card entitles holders to free parking.",
       "ja": "その札は所持者に無料駐車の資格を与える。"
@@ -4488,6 +4494,7 @@
     ],
     "origin": "ラテン語 inter（間に）の比較級。より内側の部分",
     "family": "interiors（内装工事）／ internal（内部の）／ intern（研修生）",
+    "contrast": "建物の内側や内装。interim（中間の）と綴りが近い",
     "example": {
       "en": "The interior was redone in light wood.",
       "ja": "内装は明るい木材で作り直された。"
@@ -4513,6 +4520,7 @@
     ],
     "origin": "ラテン語 internus（内の）。external（外の）と対になる語",
     "family": "internally（内部で）／ interior（内装）／ external（外部の）",
+    "contrast": "組織や物の内部の。interval（間隔）と一字違い",
     "example": {
       "en": "Internal notices go out every Monday.",
       "ja": "内部の通知は毎週月曜に出る。"
@@ -6492,6 +6500,7 @@
     ],
     "origin": "re-（離れて）＋ ラテン語 movere（動かす）。遠くへ動かされた位置。move と同語源",
     "family": "remotely（遠隔で）／ remove（取り除く）／ move（動かす）／ motive（動機）",
+    "contrast": "距離が遠く離れていること。remove（取り除く）と一字違い",
     "example": {
       "en": "A remote site relies on satellite links.",
       "ja": "遠隔の現場は衛星の回線に頼る。"
@@ -6768,6 +6777,7 @@
     ],
     "origin": "re-（後ろに）＋ ラテン語 tenere（保つ）。手放さず保ち続けること",
     "family": "retention（保持期間）／ contain（含む）／ maintain（維持する）／ tenant（賃借人）",
+    "contrast": "手放さず保ち続けること。retail（小売）と一字違い",
     "example": {
       "en": "Retain the packing slip for six months.",
       "ja": "納品票は六か月保持しなさい。"
@@ -8366,6 +8376,7 @@
     ],
     "origin": "ラテン語 ambire（票を求めて歩き回る）。上を目指して動くこと",
     "family": "ambition（野心）／ ambitiously（野心的に）／ ambient（周囲の）",
+    "contrast": "上を目指して手を伸ばすこと。ambiguous（あいまいな）と綴りが近い",
     "example": {
       "en": "The maker set an ambitious export goal.",
       "ja": "製造業者は野心的な輸出の目標を掲げた。"
@@ -8865,6 +8876,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 pangere（詰める）。ぎゅっと詰まって小さいこと",
     "family": "compactly（小さく）／ pact（協定）／ impact（影響）／ compaction（圧縮）",
+    "contrast": "すきまなく詰まって小さいこと。company（会社）や compare（比べる）と綴りが近い",
     "example": {
       "en": "A compact model suits the smaller stores.",
       "ja": "小型の型式は小さい店に向く。"
@@ -9142,6 +9154,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 texere（織る）。共に織り込まれた前後関係。textile と同語源",
     "family": "contextual（文脈上の）／ text（本文）／ textile（織物）／ texture（手触り）",
+    "contrast": "前後のつながり。contact（連絡する）と一字違い",
     "example": {
       "en": "Read the clause in its full context.",
       "ja": "その条項は完全な文脈で読みなさい。"
@@ -9738,6 +9751,7 @@
     ],
     "origin": "dis-（分けて）＋ ラテン語 stinguere（刺す）。刺し分けたようにはっきり違うこと",
     "family": "distinction（区別）／ distinguish（区別する）／ extinguish（消す）／ instinct（本能）",
+    "contrast": "はっきり違うこと。distance（距離）や district（地区）と綴りが近い",
     "example": {
       "en": "The two grades serve distinct markets.",
       "ja": "二つの等級は明確に異なる市場に向く。"
@@ -11160,6 +11174,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 tendere（張る）。ぴんと張り詰めていること。tension と同語源",
     "family": "intensity（強度）／ intensive（集中的な）／ tension（張力）／ extend（延長する）",
+    "contrast": "力が一点に張り詰めていること。intensive（集中的な）は「集中的に行う」ことを言う",
     "example": {
       "en": "Intense heat warped the plastic trays.",
       "ja": "激しい熱が樹脂の受け皿をゆがめた。"

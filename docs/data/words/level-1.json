@@ -481,6 +481,7 @@
     ],
     "origin": "フランス語 envoi（送ること）から。品物に添える「送り状」",
     "family": "invoicing（請求処理）／ envoy（使節）／ voyage（航海）",
+    "contrast": "代金を請求する書面。involve（関与させる）や invoke（援用する）と綴りが近い",
     "example": {
       "en": "Attach the invoice when you submit the expense form.",
       "ja": "経費申請書を提出するときは請求書を添付しなさい。"
@@ -2099,6 +2100,7 @@
     ],
     "origin": "count（数える）から。金を数える台が原義",
     "family": "count（数える）／ encounter（出くわす）／ account（勘定）",
+    "contrast": "店の応対台。council（評議会）や counsel（助言）と綴りが近い",
     "example": {
       "en": "A clerk stands behind the ticket counter.",
       "ja": "係員が切符のカウンターの後ろに立っている。"
@@ -4194,6 +4196,7 @@
     ],
     "origin": "古英語 brand（焼き印）。家畜に焼き印を押したことから",
     "family": "branding（銘柄づくり）／ brand-new（真新しい）",
+    "contrast": "商品の銘柄。branch（支店）と一字違いなので取り違えやすい",
     "example": {
       "en": "Shoppers prefer the store's own brand.",
       "ja": "買い物客は店独自の銘柄を好む。"
@@ -6173,7 +6176,7 @@
     ],
     "origin": "ラテン語 notus（知られた）＋ facere（する）。notice と同語源",
     "family": "notification（届出）／ note（覚え）／ notice（通知）",
-    "contrast": "正式な手続きとして通告すること。inform より事務的",
+    "contrast": "正式な手続きとして通告すること。notice（掲示）は貼り出す知らせを指す",
     "example": {
       "en": "Notify the office thirty days before you move.",
       "ja": "移転の三十日前に事務所へ通告しなさい。"

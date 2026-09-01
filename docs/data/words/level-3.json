@@ -19,7 +19,7 @@
     ],
     "origin": "com-（すっかり）＋ ラテン語 plere（満たす）。求めを満たすこと。complete と同語源",
     "family": "compliance（法令順守）／ compliant（準拠した）",
-    "contrast": "基準や要求を満たすこと。comply with の形で使う",
+    "contrast": "要求や基準を満たすこと。compile（まとめ上げる）と紛らわしい",
     "example": {
       "en": "All contractors must comply with the site safety rules.",
       "ja": "すべての請負業者は現場の安全規則に従わなければならない。"
@@ -606,6 +606,7 @@
     ],
     "origin": "ambi-（両方）＋ ラテン語 agere（進む）。二通りに取れて定まらないこと",
     "family": "ambiguity（あいまいさ）／ ambivalent（相反する）／ ambition（野心）",
+    "contrast": "二通りに取れて定まらないこと。ambitious（野心的な）と綴りが近い",
     "example": {
       "en": "The wording of the clause is ambiguous.",
       "ja": "その条項の書き方はあいまいだ。"
@@ -1454,7 +1455,7 @@
     ],
     "origin": "re-（再び）＋ ラテン語 videre（見る）。見直して直すこと。vision と同語源",
     "family": "revision（改訂）／ vision（視覚）／ review（見直す）",
-    "contrast": "全体を見直して内容を改めること。amend は条文の一部を正式に直す",
+    "contrast": "中身を見直して改めること。review（見直し）は見返す行為そのもの",
     "example": {
       "en": "We revise the handbook at the start of each year.",
       "ja": "毎年の初めに手引を改訂する。"
@@ -1604,6 +1605,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 gravis（重い）。重荷を増して悪くすること。grave と同語源",
     "family": "aggravation（悪化）／ grave（重大な）／ gravity（重大さ）／ grief（悲嘆）",
+    "contrast": "重荷を増して悪くすること。aggregate（合計の）と綴りが近い",
     "example": {
       "en": "Heavy trucks aggravate the cracked surface.",
       "ja": "重い貨物車がひび割れた路面を悪化させる。"
@@ -1879,6 +1881,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 serere（つなぐ）。自分に結び付けて言い切ること。series と同語源",
     "family": "assertion（主張）／ assertive（自己主張の強い）／ series（連続）／ insert（差し込む）",
+    "contrast": "自分に結び付けて言い切ること。assess（判定する）や asset（資産）と綴りが近い",
     "example": {
       "en": "The seller asserts the goods left intact.",
       "ja": "売り主は品が無傷で出たと主張する。"
@@ -1904,6 +1907,7 @@
     ],
     "origin": "ラテン語 ad satis（十分に）。負債を払うに足るもの。satisfy と同語源",
     "family": "assets（資産）／ satisfy（満たす）／ saturate（飽和させる）",
+    "contrast": "負債を払うに足る財産。assert（主張する）や assess（判定する）と綴りが近い",
     "example": {
       "en": "The vans are the firm's largest asset.",
       "ja": "貨物車が会社の最大の資産だ。"
@@ -1929,7 +1933,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 tangere（触れる）。手が届いて触れること。contact と同語源",
     "family": "attainment（達成）／ contact（接触）／ tangible（触れられる）",
-    "contrast": "努力の末に手が届くこと。arrive より達成の含みが強い",
+    "contrast": "努力の末に手が届くこと。attach（添付する）と綴りが近い",
     "example": {
       "en": "The plant attained its zero-defect target.",
       "ja": "工場は無欠陥の目標を達成した。"
@@ -2452,6 +2456,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 pati（耐える）。並べても差し支えないこと。patient と同語源",
     "family": "compatibility（互換性）／ patient（辛抱強い）／ passion（情熱）／ compassion（同情）",
+    "contrast": "並べても差し支えないこと。comparable（比較できる）と綴りが近い",
     "example": {
       "en": "The cartridge is compatible with older printers.",
       "ja": "その筒は古い印刷機と互換性がある。"
@@ -2477,6 +2482,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 pilare（積む）。集めて積み上げること",
     "family": "compilation（編さん）／ compiler（編さん者）",
+    "contrast": "資料を集めて一つにまとめること。comply（従う）と紛らわしい",
     "example": {
       "en": "The clerk compiled the monthly totals.",
       "ja": "事務員が月次の合計をまとめ上げた。"
@@ -2578,6 +2584,7 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 cedere（退く）。一歩退いて認めること",
     "family": "concession（譲歩）／ proceed（進行する）／ recede（後退する）／ precede（先行する）",
+    "contrast": "一歩退いて相手の言い分を認めること。concise（簡潔な）や concern（懸念）と綴りが近い",
     "example": {
       "en": "The seller conceded on the delivery date.",
       "ja": "売り主は納期で譲歩した。"
@@ -2628,6 +2635,7 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 densus（濃い）。濃く縮めること。dense と同語源",
     "family": "condensation（凝縮）／ dense（密な）／ density（密度）",
+    "contrast": "余分を削って濃く短くすること。condone（大目に見る）と綴りが近い",
     "example": {
       "en": "Condense the report into two pages.",
       "ja": "報告書を二頁に要約して短くしなさい。"
@@ -2653,6 +2661,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 ferre（運ぶ）。意見を持ち寄ること。conference と同語源",
     "family": "conference（会議）／ refer（参照する）／ transfer（移す）／ prefer（好む）",
+    "contrast": "意見を持ち寄って話し合うこと。confirm（確認する）とは目的がまるで違う",
     "example": {
       "en": "The directors conferred behind closed doors.",
       "ja": "取締役は非公開で協議した。"
@@ -2827,6 +2836,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 venire（来る）。一堂に来させること。convention と同語源",
     "family": "convention（協定）／ convenient（便利な）／ venue（開催地）／ intervene（介入する）",
+    "contrast": "人を一堂に集めること。convert（転用する）や convey（伝達する）と綴りが近い",
     "example": {
       "en": "The chair convened an extra session.",
       "ja": "議長は臨時の回を招集した。"
@@ -2877,6 +2887,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 via（道）。道に載せて運び届けること",
     "family": "conveyance（運送）／ conveyor（搬送装置）／ voyage（航海）／ via（経由で）",
+    "contrast": "道に載せて運び届けること。convene（招集する）と綴りが近い",
     "example": {
       "en": "Please convey our thanks to the crew.",
       "ja": "作業班に感謝を伝達してください。"
@@ -3176,6 +3187,7 @@
     ],
     "origin": "de-（外へ）＋ ラテン語 plere（満たす）。満ちていたものを空にすること",
     "family": "depletion（枯渇）／ complete（完全な）／ replete（満ちた）／ plenty（豊富）",
+    "contrast": "満ちていたものを使い尽くすこと。deplore（遺憾に思う）と綴りが近い",
     "example": {
       "en": "The rush depleted the spare parts store.",
       "ja": "殺到が予備の部品の倉庫を使い尽くした。"
@@ -3251,6 +3263,7 @@
     ],
     "origin": "de-（〜から）＋ ラテン語 rivus（流れ）。源流から引いてくること。river と同語源",
     "family": "derivative（派生商品）／ derivation（派生）／ river（川）／ arrive（到着する）",
+    "contrast": "源からたどって引き出すこと。deride（あざける）と一字違い",
     "example": {
       "en": "The figure derives from last year's audit.",
       "ja": "その数値は昨年の監査から導き出される。"
@@ -3427,6 +3440,7 @@
     ],
     "origin": "dis-（分けて）＋ ラテン語 cernere（ふるい分ける）。ふるって見分けること",
     "family": "discernible（識別できる）／ discreet（慎み深い）／ concern（関わる）／ certain（確かな）",
+    "contrast": "細かく見分けること。discard（廃棄する）と綴りが近い",
     "example": {
       "en": "Inspectors discern hairline cracks by touch.",
       "ja": "検査員は触れて細い割れを識別する。"
@@ -3527,6 +3541,7 @@
     ],
     "origin": "dis-（ばらばらに）＋ ラテン語 spargere（まく）。まき散らすこと",
     "family": "dispersion（分散）／ sparse（まばらな）／ scatter（まき散らす）",
+    "contrast": "まき散らして散らばらせること。dispose（処分する）と綴りが近い",
     "example": {
       "en": "The firm disperses stock across three sites.",
       "ja": "会社は在庫を三か所に分散させる。"
@@ -3552,6 +3567,7 @@
     ],
     "origin": "dis-（外へ）＋ place（場所）。元の場所から押しのけること",
     "family": "displacement（置換）／ place（場所）／ replace（取り替える）",
+    "contrast": "元の場所から押しのけること。display（陳列）と綴りが近い",
     "example": {
       "en": "Automation displaced two manual steps.",
       "ja": "自動化が手作業の手順を二つ置き換えた。"
@@ -3849,6 +3865,7 @@
     ],
     "origin": "em-（中へ）＋ 仏語 barque（小舟）。舟に乗り込む、そこから事を起こすこと",
     "family": "embarkation（乗船）／ disembark（下船する）／ barge（はしけ）",
+    "contrast": "舟に乗り込むように事を起こすこと。embargo（通商禁止）と綴りが近い",
     "example": {
       "en": "The firm embarked on a plant upgrade.",
       "ja": "会社は工場の改修に着手して始めた。"
@@ -4100,6 +4117,7 @@
     ],
     "origin": "ラテン語 esse（在る）。それ自体で在るもの。essential と同語源",
     "family": "entities（諸団体）／ essence（本質）／ essential（不可欠な）",
+    "contrast": "それ自体で成り立つ事業体。entitle（資格を与える）と綴りが近い",
     "example": {
       "en": "The branch is a separate legal entity.",
       "ja": "その支店は別の法的な事業体だ。"
@@ -4398,6 +4416,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 plicare（折る）。畳まれた値打ちを開いて使い切ること",
     "family": "exploitation（活用）／ explicit（明示的な）／ display（陳列）／ complex（複雑な）",
+    "contrast": "畳まれた値打ちを開いて使い切ること。explicit（明示的な）や explore（模索する）と綴りが近い",
     "example": {
       "en": "The firm exploited the gap in weekend service.",
       "ja": "会社は週末の業務の隙間を活かし切った。"
@@ -5371,6 +5390,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 stilla（しずく）。しずくのように少しずつ入れること",
     "family": "instillation（浸透）／ distill（蒸留する）／ still（蒸留器）",
+    "contrast": "しずくのように少しずつ植え付けること。install（取り付ける）と一字違い",
     "example": {
       "en": "Drills instill safe habits in new staff.",
       "ja": "訓練が新しい職員に安全な習慣を浸透させる。"
@@ -5446,6 +5466,7 @@
     ],
     "origin": "ラテン語 integer（欠けのない）。欠けや偽りがないこと。integrate と同語源",
     "family": "integral（不可分の）／ integrate（一体化する）／ entire（全体の）",
+    "contrast": "欠けや偽りのない完全さ。integrate（一体化する）の名詞は integration",
     "example": {
       "en": "Test the seal integrity before shipping.",
       "ja": "出荷の前に封の完全性を試験しなさい。"
@@ -5471,6 +5492,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 tendere（張る）。力を一点に張り詰めること。intense と同語源",
     "family": "intense（激しい）／ intensity（強度）／ tension（張力）／ extensive（広範囲の）",
+    "contrast": "短い間に力を注ぎ込むこと。intense（激しい）は度合いそのものの強さ",
     "example": {
       "en": "An intensive course lasts four days.",
       "ja": "集中的な講座は四日間続く。"
@@ -5496,6 +5518,7 @@
     ],
     "origin": "ラテン語 interim（その間に）。本決まりまでの間のこと",
     "family": "interim report（中間報告）／ interval（間隔）",
+    "contrast": "本決まりまでの間の。interior（内装）と綴りが近い",
     "example": {
       "en": "An interim report appears in August.",
       "ja": "中間の報告書は八月に出る。"
@@ -5546,6 +5569,7 @@
     ],
     "origin": "inter-（間に）＋ ラテン語 vallum（柵）。柵と柵の間、そこから間隔",
     "family": "intervene（介入する）／ interior（内装）／ wall（壁）",
+    "contrast": "二つの時点や物のあいだ。internal（内部の）と一字違い",
     "example": {
       "en": "Service intervals shortened to six months.",
       "ja": "整備の間隔は六か月に縮まった。"
@@ -5596,6 +5620,7 @@
     ],
     "origin": "in-（〜へ）＋ ラテン語 vocare（呼ぶ）。条文や助けを呼び出すこと。voice と同語源",
     "family": "invocation（援用）／ revoke（取り消す）／ provoke（挑発する）／ vocal（声の）",
+    "contrast": "条文や助けを呼び出して用いること。involve（関与させる）と綴りが近い",
     "example": {
       "en": "The buyer invoked the penalty clause.",
       "ja": "買い手は違約の条項を援用した。"
@@ -5997,6 +6022,7 @@
     ],
     "origin": "ラテン語 modus（程合い）。程を越さないこと。mode, moderate と同語源",
     "family": "modesty（謙虚さ）／ mode（方式）／ moderate（穏やかな）／ modify（手直しする）",
+    "contrast": "程を越さず控えめなこと。model（型式）と綴りが近い",
     "example": {
       "en": "A modest rise in wages took effect.",
       "ja": "控えめな賃上げが実施された。"
@@ -7046,6 +7072,7 @@
     ],
     "origin": "pro-（前へ）＋ ラテン語 emere（取る）。すぐ取り出せる、そこから背中を押すこと",
     "family": "promptly（速やかに）／ prompter（進行係）／ impromptu（即席の）／ exempt（免除された）",
+    "contrast": "背中を押して早く動かすこと。promote（昇進させる）と綴りが近い",
     "example": {
       "en": "Free shipping prompted larger baskets.",
       "ja": "無料配送がより大きな買い物を促進した。"
@@ -7321,6 +7348,7 @@
     ],
     "origin": "re-（後ろへ）＋ ラテン語 cedere（進む）。後ろへ退くこと。proceed と同語源",
     "family": "recession（景気後退）／ precede（先行する）／ proceed（進行する）／ concede（譲歩する）",
+    "contrast": "後ろへ退くこと。receive（受け取る）と綴りが近いが向きが逆",
     "example": {
       "en": "Demand receded after the summer peak.",
       "ja": "需要は夏の頂点の後に後退した。"
@@ -7796,6 +7824,7 @@
     ],
     "origin": "re-（後ろへ）＋ ラテン語 pellere（押す）。押し返すこと。propel, pulse と同語源",
     "family": "repellent（はじく）／ propel（推し進める）／ expel（退去させる）／ compel（強いる）",
+    "contrast": "押し返してはじくこと。repeat（繰り返す）と一字違い",
     "example": {
       "en": "The coating repels water and oil.",
       "ja": "その塗膜は水と油をはじく。"
@@ -10040,6 +10069,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 par（対等）。並べて比べられること。pair と同語源",
     "family": "compare（比較する）／ comparison（比較）／ comparative（比較の）／ pair（対）",
+    "contrast": "同じ土俵で比べられること。compatible（互換性のある）と綴りが近い",
     "example": {
       "en": "Two comparable sites were also surveyed.",
       "ja": "比較できる二か所も調査された。"
@@ -10115,6 +10145,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 finis（境）。境の内に閉じ込めること。finish と同語源",
     "family": "confinement（監禁）／ finish（終える）／ finite（限りある）／ define（定義する）",
+    "contrast": "境の内に閉じ込めること。confirm（確認する）や confer（協議する）と紛らわしい",
     "example": {
       "en": "Smoking is confined to the yard shelter.",
       "ja": "喫煙は構内の小屋に限られる。"
@@ -10289,6 +10320,7 @@
     ],
     "origin": "ラテン語 consuetudo（習わし）。習わしどおりであること。custom と同語源",
     "family": "custom（慣例）／ customer（顧客）／ customize（あつらえる）／ accustomed（慣れた）",
+    "contrast": "習わしどおりであること。customer（顧客）と綴りが近いが別の語",
     "example": {
       "en": "A customary discount applies to bulk orders.",
       "ja": "大量の注文には慣例の割引がかかる。"
@@ -10664,6 +10696,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 pellere（押す）。外へ押し出すこと。repel と同語源",
     "family": "expulsion（追放）／ repel（はじく）／ propel（推し進める）／ compel（強いる）",
+    "contrast": "外へ押し出して追い払うこと。expend（費やす）と一字違い",
     "example": {
       "en": "Fans expel fumes through the roof vent.",
       "ja": "送風機は屋根の口から煙を退去させる。"
