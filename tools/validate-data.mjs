@@ -49,6 +49,26 @@ function checkNoteFormat(text, where, errors) {
 }
 
 /**
+ * contrast は origin のすぐ下に並ぶ。
+ * 同じ文を繰り返すと画面で二度読ませることになるので、重なりを弾く。
+ */
+function checkContrastOverlap(entry, where, errors) {
+  const split = (text) =>
+    new Set(
+      text
+        .split(/[。．]/)
+        .map((part) => part.trim())
+        .filter((part) => part.length >= 8),
+    );
+  const origin = split(entry.origin ?? '');
+  for (const clause of split(entry.contrast)) {
+    if (origin.has(clause)) {
+      errors.push(`${where}: 使い分けの「${clause}」が由来と同じ文です`);
+    }
+  }
+}
+
+/**
  * family は `語（訳）／ 語（訳）` の形で書く。
  * 括弧の中が英字だけだと訳の書き忘れなので、画面に出る前に落とす。
  */
@@ -109,6 +129,7 @@ function checkRequiredFields(entry, errors) {
     }
     checkNoteFormat(entry[field], `${where}: ${field}`, errors);
     if (field === 'family') checkFamilyFormat(entry[field], where, errors);
+    if (field === 'contrast') checkContrastOverlap(entry, where, errors);
   }
 }
 

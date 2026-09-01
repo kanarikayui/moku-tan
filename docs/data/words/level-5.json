@@ -99,7 +99,7 @@
     ],
     "origin": "スペイン語 embargar（差し押さえる）。港を閉ざして取引を止めること",
     "family": "embargoed（禁輸された）／ bar（横木）／ barrier（障壁）／ barricade（バリケード）",
-    "contrast": "港を閉ざして取引を止めること。embark（着手して始める）と綴りが近い",
+    "contrast": "embark（着手して始める）と綴りが近い。embargo は名詞で、輸出入を止める措置",
     "example": {
       "en": "The embargo halted shipments to two overseas ports.",
       "ja": "通商禁止により二つの海外港への出荷が止まった。"
@@ -457,7 +457,7 @@
     ],
     "origin": "ラテン語 proprius（自分の）。所有者が独占していること。property と同語源",
     "family": "proprietor（所有者）／ property（不動産）／ proper（適切な）／ propriety（妥当性）",
-    "contrast": "所有者が独占していること。propriety（妥当性）と綴りが近い",
+    "contrast": "propriety（妥当性）と綴りが近い。proprietary は形容詞で、独自技術や独占権を言う",
     "example": {
       "en": "The coating uses a proprietary blend of resins.",
       "ja": "その塗膜は独占的な樹脂の配合を用いている。"
@@ -1628,7 +1628,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 jungere（つなぐ）。本体に添えてつないだもの。join と同語源",
     "family": "adjunctive（付属の）／ join（加わる）／ junction（合流点）／ injunction（差し止め命令）",
-    "contrast": "本体に添えてつないだもの。adjust（調節する）と綴りが近い",
+    "contrast": "adjust（調節する）と綴りが近い。adjunct は名詞で、主たるものに添えた付属物",
     "example": {
       "en": "A cooling adjunct fits the older press.",
       "ja": "冷却の付属物が古い印刷機に取り付く。"
@@ -4277,7 +4277,7 @@
     ],
     "origin": "ex-（すっかり）＋ ラテン語 piare（清める）。過ちを清めて償うこと",
     "family": "expiation（償い）／ pious（敬虔な）／ piety（敬虔）",
-    "contrast": "過ちを清めて償うこと。expire（失効する）と綴りが近いが無関係",
+    "contrast": "expire（失効する）と綴りが近いが無関係。expiate は罪や過ちを償うこと",
     "example": {
       "en": "The firm expiated the error with a rebate.",
       "ja": "会社は割戻しで誤りを償った。"
@@ -5974,7 +5974,7 @@
     ],
     "origin": "pre-（前に）＋ ラテン語 claudere（閉じる）。主張の道を先に閉ざす効き目。preclude と同語源",
     "family": "preclude（妨げる）／ exclude（除く）／ include（含む）／ conclude（結論づける）",
-    "contrast": "主張の道を先に閉ざす効き目。precaution（予防措置）と綴りが近い",
+    "contrast": "precaution（予防措置）と綴りが近い。preclusion は法律で主張を封じる効果を指す",
     "example": {
       "en": "Preclusion prevents a second claim.",
       "ja": "排除効が二度目の請求を妨げる。"
@@ -6225,7 +6225,7 @@
     ],
     "origin": "ラテン語 proviso quod（〜という条件で）。契約に添える但し条件。provision と同語源",
     "family": "provision（規定）／ provide（供給する）／ provisional（仮の）／ provident（先を見越した）",
-    "contrast": "契約に添える但し条件。provision（規定）より狭く、例外を定める一句を指す",
+    "contrast": "provision（規定）より狭く、例外や条件を定める一句だけを指す",
     "example": {
       "en": "The offer carries one important proviso.",
       "ja": "その申し出には重要な但し条件が一つある。"
@@ -6251,7 +6251,7 @@
     ],
     "origin": "pur-（前へ）＋ ラテン語 portare（運ぶ）。そういう趣旨だと掲げること。portable と同語源",
     "family": "purportedly（と称して）／ portable（持ち運べる）／ import（輸入する）／ export（輸出する）",
-    "contrast": "そういう趣旨だと掲げること。purpose（目的）と綴りが近い",
+    "contrast": "purpose（目的）と綴りが近い。purport は動詞で「〜と称する」、真偽は保証しない",
     "example": {
       "en": "The letter purports to cancel the order.",
       "ja": "その手紙は注文を取り消すと称する。"

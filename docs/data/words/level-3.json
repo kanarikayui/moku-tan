@@ -606,7 +606,7 @@
     ],
     "origin": "ambi-（両方）＋ ラテン語 agere（進む）。二通りに取れて定まらないこと",
     "family": "ambiguity（あいまいさ）／ ambivalent（相反する）／ ambition（野心）",
-    "contrast": "二通りに取れて定まらないこと。ambitious（野心的な）と綴りが近い",
+    "contrast": "ambitious（野心的な）と綴りが近い。ambi- は「両方」で、両様に読めることを言う",
     "example": {
       "en": "The wording of the clause is ambiguous.",
       "ja": "その条項の書き方はあいまいだ。"
@@ -1605,7 +1605,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 gravis（重い）。重荷を増して悪くすること。grave と同語源",
     "family": "aggravation（悪化）／ grave（重大な）／ gravity（重大さ）／ grief（悲嘆）",
-    "contrast": "重荷を増して悪くすること。aggregate（合計の）と綴りが近い",
+    "contrast": "aggregate（合計の）と綴りが近い。こちらは grave（重い）の系で、事態を重くする側",
     "example": {
       "en": "Heavy trucks aggravate the cracked surface.",
       "ja": "重い貨物車がひび割れた路面を悪化させる。"
@@ -1881,7 +1881,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 serere（つなぐ）。自分に結び付けて言い切ること。series と同語源",
     "family": "assertion（主張）／ assertive（自己主張の強い）／ series（連続）／ insert（差し込む）",
-    "contrast": "自分に結び付けて言い切ること。assess（判定する）や asset（資産）と綴りが近い",
+    "contrast": "assess（判定する）は値を定めること、asset（資産）は名詞。assert だけが「言い切る」動詞",
     "example": {
       "en": "The seller asserts the goods left intact.",
       "ja": "売り主は品が無傷で出たと主張する。"
@@ -2456,7 +2456,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 pati（耐える）。並べても差し支えないこと。patient と同語源",
     "family": "compatibility（互換性）／ patient（辛抱強い）／ passion（情熱）／ compassion（同情）",
-    "contrast": "並べても差し支えないこと。comparable（比較できる）と綴りが近い",
+    "contrast": "comparable（比較できる）と綴りが近い。compatible は並存できるか、comparable は比べられるか",
     "example": {
       "en": "The cartridge is compatible with older printers.",
       "ja": "その筒は古い印刷機と互換性がある。"
@@ -2887,7 +2887,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 via（道）。道に載せて運び届けること",
     "family": "conveyance（運送）／ conveyor（搬送装置）／ voyage（航海）／ via（経由で）",
-    "contrast": "道に載せて運び届けること。convene（招集する）と綴りが近い",
+    "contrast": "convene（招集する）と綴りが近い。convey は物や意味を運ぶ、convene は人を集める",
     "example": {
       "en": "Please convey our thanks to the crew.",
       "ja": "作業班に感謝を伝達してください。"
@@ -3567,7 +3567,7 @@
     ],
     "origin": "dis-（外へ）＋ place（場所）。元の場所から押しのけること",
     "family": "displacement（置換）／ place（場所）／ replace（取り替える）",
-    "contrast": "元の場所から押しのけること。display（陳列）と綴りが近い",
+    "contrast": "display（陳列）と綴りが近い。displace は押しのける、display は広げて見せる",
     "example": {
       "en": "Automation displaced two manual steps.",
       "ja": "自動化が手作業の手順を二つ置き換えた。"
@@ -4416,7 +4416,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 plicare（折る）。畳まれた値打ちを開いて使い切ること",
     "family": "exploitation（活用）／ explicit（明示的な）／ display（陳列）／ complex（複雑な）",
-    "contrast": "畳まれた値打ちを開いて使い切ること。explicit（明示的な）や explore（模索する）と綴りが近い",
+    "contrast": "explicit（明示的な）や explore（模索する）と綴りが近い。exploit だけが「使い切る」意味",
     "example": {
       "en": "The firm exploited the gap in weekend service.",
       "ja": "会社は週末の業務の隙間を活かし切った。"
@@ -10145,7 +10145,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 finis（境）。境の内に閉じ込めること。finish と同語源",
     "family": "confinement（監禁）／ finish（終える）／ finite（限りある）／ define（定義する）",
-    "contrast": "境の内に閉じ込めること。confirm（確認する）や confer（協議する）と紛らわしい",
+    "contrast": "confirm（確認する）や confer（協議する）と紛らわしい。confine だけが範囲を狭める",
     "example": {
       "en": "Smoking is confined to the yard shelter.",
       "ja": "喫煙は構内の小屋に限られる。"
@@ -10320,7 +10320,7 @@
     ],
     "origin": "ラテン語 consuetudo（習わし）。習わしどおりであること。custom と同語源",
     "family": "custom（慣例）／ customer（顧客）／ customize（あつらえる）／ accustomed（慣れた）",
-    "contrast": "習わしどおりであること。customer（顧客）と綴りが近いが別の語",
+    "contrast": "customer（顧客）と綴りが近いが品詞も意味も別。customary は形容詞",
     "example": {
       "en": "A customary discount applies to bulk orders.",
       "ja": "大量の注文には慣例の割引がかかる。"
@@ -10445,7 +10445,7 @@
     ],
     "origin": "dis-（分けて）＋ ラテン語 cernere（ふるい分ける）。互いに切れて独立していること",
     "family": "discretely（個別に）／ discern（識別する）／ discreet（慎み深い）",
-    "contrast": "互いに切れて独立していること。discreet（慎み深い）と同音で綴りが違う",
+    "contrast": "discreet（慎み深い）と同音で綴りが違う。discrete は数や物が別々であること",
     "example": {
       "en": "The process has five discrete stages.",
       "ja": "その工程は五つの個別独立の段階を持つ。"

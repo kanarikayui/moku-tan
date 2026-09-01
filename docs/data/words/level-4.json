@@ -603,7 +603,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 grex（群れ）。群れに寄せ集めた総量",
     "family": "aggregation（集合）／ segregate（分離する）／ gregarious（社交的な）",
-    "contrast": "群れに寄せ集めた総量。aggravate（悪化させる）と綴りが近い",
+    "contrast": "aggravate（悪化させる）と綴りが近い。こちらは grex（群れ）の系で、寄せ集めた総量",
     "example": {
       "en": "Aggregate output rose despite the shorter season.",
       "ja": "期間が短かったにもかかわらず合計の生産量は増えた。"
@@ -932,7 +932,7 @@
     ],
     "origin": "dis-（別々に）＋ ラテン語 putare（考える）。考えが割れて争うこと。compute と同語源",
     "family": "disputable（議論の余地がある）／ compute（計算する）／ reputation（評判）／ deputy（副責任者）",
-    "contrast": "考えが割れて争うこと。dispose（処分する）と綴りが近い",
+    "contrast": "dispose（処分する）と綴りが近い。dispute は意見が割れること、dispose は手放すこと",
     "example": {
       "en": "The dispute over the boundary lasted three years.",
       "ja": "境界をめぐる紛争は三年続いた。"
@@ -1796,7 +1796,7 @@
     ],
     "origin": "over（越えて）＋ due（期限）。期限を越してしまったこと",
     "family": "due（支払期限の）／ duty（義務）／ debt（負債）",
-    "contrast": "期限を越してしまったこと。oversee（統括する）と綴りが近い",
+    "contrast": "oversee（統括する）と綴りが近い。over + due で「期限を越えて」の意味",
     "example": {
       "en": "Two overdue invoices remain unpaid.",
       "ja": "期限超過の請求書が二通、未払いのままだ。"
@@ -2096,7 +2096,7 @@
     ],
     "origin": "pre-（勝って）＋ ラテン語 valere（強い）。広く行き渡って優勢なこと。prevail と同語源",
     "family": "prevail（優勢である）／ prevalence（普及）／ valid（有効な）／ value（価値）",
-    "contrast": "広く行き渡って優勢なこと。prevent（防ぐ）と綴りが近いが意味は別",
+    "contrast": "prevent（防ぐ）と綴りが近いが意味は正反対に近い。prevalent は広まっている状態",
     "example": {
       "en": "Card payment is prevalent in city stores.",
       "ja": "札での支払いは都市の店で広く見られる。"
@@ -3395,7 +3395,7 @@
     ],
     "origin": "ラテン語 censere（判定する）。判定を下して咎めること。census と同語源",
     "family": "censor（検閲官）／ census（全数調査）／ censorship（検閲）",
-    "contrast": "判定を下して咎めること。census（全数調査）と一字違い",
+    "contrast": "census（全数調査）と一字違い。censure は咎めること、census は数え上げること",
     "example": {
       "en": "The board censured the branch for the breach.",
       "ja": "取締役会は違反について支店を非難した。"
@@ -3596,7 +3596,7 @@
     ],
     "origin": "com-（すっかり）＋ ラテン語 placere（気に入る）。今のままで満足しきっていること。please と同語源",
     "family": "complacency（自己満足）／ please（喜ばせる）／ pleasant（快い）／ placid（穏やかな）",
-    "contrast": "今のままで満足しきっていること。complaint（苦情）と綴りが近い",
+    "contrast": "complaint（苦情）と綴りが近い。complacent は満足しきった状態を批判的に言う",
     "example": {
       "en": "Do not grow complacent about the checks.",
       "ja": "点検について安心しきった状態になってはならない。"
@@ -3900,7 +3900,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 vergere（傾く）。一点へ寄っていくこと。divergent と対",
     "family": "convergence（収束）／ diverge（分岐する）／ divergent（食い違う）",
-    "contrast": "一点へ寄っていくこと。convert（転用する）や convene（招集する）と綴りが近い",
+    "contrast": "convert（転用する）や convene（招集する）と綴りが近い。converge だけが一点に集まる",
     "example": {
       "en": "Costs converged after the second quarter.",
       "ja": "費用は第二四半期の後に収束した。"
@@ -4327,7 +4327,7 @@
     ],
     "origin": "de-（すっかり）＋ ラテン語 plorare（泣く）。嘆かわしく思うこと。explore と同語源",
     "family": "deplorable（嘆かわしい）／ explore（模索する）／ implore（懇願する）",
-    "contrast": "嘆かわしく思うこと。deploy（配備する）や deplete（使い尽くす）と綴りが近い",
+    "contrast": "deploy（配備する）や deplete（使い尽くす）と綴りが近い。deplore だけが嘆く意味",
     "example": {
       "en": "Management deplored the loss of records.",
       "ja": "経営陣は記録の喪失を遺憾に思った。"
@@ -4353,7 +4353,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 ridere（笑う）。見下して笑うこと。ridiculous と同語源",
     "family": "derision（あざけり）／ ridicule（嘲笑）／ ridiculous（ばかげた）",
-    "contrast": "見下して笑うこと。derive（導き出す）と一字違い",
+    "contrast": "derive（導き出す）と一字違い。deride は de-（下へ）＋ 笑う、derive は源から引く",
     "example": {
       "en": "Critics derided the early prototype.",
       "ja": "批評家は初期の試作をあざけった。"
@@ -5004,7 +5004,7 @@
     ],
     "origin": "en-（後に）＋ ラテン語 sequi（続く）。その後に続いて起こること。sequence と同語源",
     "family": "ensuing（続いて起こる）／ sequence（順序）／ consecutive（連続した）／ pursue（追求する）",
-    "contrast": "その後に続いて起こること。ensure（確実にする）と一字違い",
+    "contrast": "ensure（確実にする）と一字違い。ensue は自動詞で「後に起こる」、ensure は他動詞",
     "example": {
       "en": "A long delay ensued after the collision.",
       "ja": "衝突の後、長い遅れが続いて起こった。"
@@ -6705,7 +6705,7 @@
     ],
     "origin": "in-（〜へ）＋ ラテン語 stinguere（突く）。突いて事を起こさせること。stimulate と同語源",
     "family": "instigation（扇動）／ stimulate（刺激する）／ stimulus（刺激）／ distinguish（区別する）",
-    "contrast": "突いて事を起こさせること。institute（創設する）と綴りが近い",
+    "contrast": "institute（創設する）と綴りが近い。instigate は悪い企てを起こさせる含みがある",
     "example": {
       "en": "The audit instigated a full review.",
       "ja": "監査が全面的な見直しを引き起こして始めた。"
@@ -7873,7 +7873,7 @@
     ],
     "origin": "over（上から）＋ rule（裁定する）。上位の判断で覆すこと",
     "family": "rule（規則）／ ruling（裁定）／ ruler（統治者）",
-    "contrast": "上位の判断で覆すこと。overdue（期限超過の）と綴りが近い",
+    "contrast": "overdue（期限超過の）と綴りが近い。overrule は判断を覆すこと",
     "example": {
       "en": "The board overruled the site manager.",
       "ja": "取締役会は現場責任者の判断を覆した。"
@@ -8751,7 +8751,7 @@
     ],
     "origin": "ラテン語 proprius（自分の・固有の）。場にふさわしい適切さ。property と同語源",
     "family": "proper（適切な）／ property（不動産）／ appropriate（適切な）／ proprietary（独占的な）",
-    "contrast": "場にふさわしい適切さ。proprietary（独占的な）と綴りが近い",
+    "contrast": "proprietary（独占的な）と綴りが近い。propriety は名詞で作法の適切さ",
     "example": {
       "en": "The auditor questioned the propriety of the payment.",
       "ja": "監査人はその支払いの妥当性を疑問視した。"
