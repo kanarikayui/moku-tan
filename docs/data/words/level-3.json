@@ -941,6 +941,7 @@
       "detour-alternateroute"
     ],
     "origin": "de-（外れて）＋ 古仏語 tour（回る）。本道を外れて回る道。tour と同語源",
+    "family": "tour（周遊）／ tourist（観光客）／ contour（輪郭）／ turn（回る）",
     "example": {
       "en": "A detour adds twenty minutes to the delivery run.",
       "ja": "迂回路を通ると配達に二十分余計にかかる。"
@@ -1043,6 +1044,7 @@
       "excerpt-shortextract"
     ],
     "origin": "ex-（外へ）＋ ラテン語 carpere（摘む）。本文から摘み取った一節",
+    "family": "carpet（じゅうたん）／ harvest（収穫）／ excerpted（抜粋された）",
     "example": {
       "en": "The newsletter printed an excerpt from the speech.",
       "ja": "社内報は演説の抜粋を載せた。"
@@ -1347,6 +1349,7 @@
       "overhaul-completerepair"
     ],
     "origin": "over（すっかり）＋ haul（引く）。綱を総点検した船乗り言葉から",
+    "family": "haul（引く）／ haulage（陸送）／ hauling（運搬）",
     "example": {
       "en": "Engineers overhaul each press every four years.",
       "ja": "技術者は四年ごとに各印刷機を分解修理する。"
@@ -2000,6 +2003,7 @@
       "avert-preventbeforehand"
     ],
     "origin": "ab-（離れて）＋ ラテン語 vertere（回す）。向きを変えて避けること。convert と同語源",
+    "family": "aversion（嫌悪）／ convert（転用する）／ divert（そらす）／ reverse（逆にする）",
     "example": {
       "en": "Quick action averted a full shutdown.",
       "ja": "素早い対応が全面停止を回避した。"
@@ -3571,6 +3575,7 @@
       "disproportionate-outofbalance"
     ],
     "origin": "dis-（否定）＋ proportion（釣り合い）。釣り合いを欠くこと",
+    "family": "proportion（比率）／ proportional（比例した）／ portion（一部分）",
     "example": {
       "en": "Freight takes a disproportionate share of costs.",
       "ja": "運賃が費用の不釣り合いな割合を占める。"
@@ -5564,6 +5569,7 @@
       "intricate-verydetailed"
     ],
     "origin": "in-（中に）＋ ラテン語 tricae（もつれ）。もつれ込んで入り組んでいること",
+    "family": "intricacy（複雑さ）／ intrigue（陰謀）／ extricate（救い出す）",
     "example": {
       "en": "The mold has an intricate cooling channel.",
       "ja": "その金型は入り組んだ冷却の流路を持つ。"
@@ -5663,6 +5669,7 @@
       "landmark-historicallyimportant"
     ],
     "origin": "land（土地）＋ mark（目印）。境の目印、そこから節目となるもの",
+    "family": "land（土地）／ mark（印）／ landmarks（目印）",
     "example": {
       "en": "A landmark ruling changed the practice.",
       "ja": "画期的な判断が慣行を変えた。"
@@ -5963,6 +5970,7 @@
       "methodical-orderlyinapproach"
     ],
     "origin": "ギリシャ語 meta（後を追って）＋ hodos（道）。道筋どおりに進めること",
+    "family": "method（方法）／ methodology（方法論）／ methodically（きちょうめんに）",
     "example": {
       "en": "A methodical search located the missing case.",
       "ja": "きちょうめんな捜索が紛失した箱を突き止めた。"
@@ -6062,6 +6070,7 @@
       "niche-specializedmarket"
     ],
     "origin": "仏語 nicher（巣を作る）。壁のくぼみ、そこから小さな市場",
+    "family": "niches（隙間）／ nest（巣）",
     "example": {
       "en": "The firm found a niche in lab glassware.",
       "ja": "会社は実験用ガラス器具の隙間市場を見つけた。"
@@ -6386,6 +6395,7 @@
       "paramount-aboveallothers"
     ],
     "origin": "古仏語 par amont（上の方に）。何より上に立つこと",
+    "family": "mount（登る）／ amount（数量）／ surmount（乗り越える）",
     "example": {
       "en": "Worker safety is paramount on this site.",
       "ja": "この現場では作業員の安全が最重要だ。"
@@ -7034,6 +7044,7 @@
       "prompt-causetoact"
     ],
     "origin": "pro-（前へ）＋ ラテン語 emere（取る）。すぐ取り出せる、そこから背中を押すこと",
+    "family": "promptly（速やかに）／ prompter（進行係）／ impromptu（即席の）／ exempt（免除された）",
     "example": {
       "en": "Free shipping prompted larger baskets.",
       "ja": "無料配送がより大きな買い物を促進した。"
@@ -7933,7 +7944,7 @@
       "resistant-abletowithstand"
     ],
     "origin": "re-（逆らって）＋ ラテン語 sistere（立つ）。押されても立ち続けること",
-    "family": "resist（抵抗する）／ resistance（抵抗）／ insist（主張する）／ persist（persist）",
+    "family": "resist（抵抗する）／ resistance（抵抗）／ insist（主張する）／ persist（やり通す）",
     "example": {
       "en": "The film is resistant to strong solvents.",
       "ja": "その膜は強い溶剤に耐性のある。"
@@ -8283,6 +8294,7 @@
       "scrap-discardaswaste"
     ],
     "origin": "古ノルド語 skrap（削りかす）。削り落とした切れ端。scrape と同語源",
+    "family": "scrape（削る）／ scrappy（寄せ集めの）",
     "example": {
       "en": "The plant scrapped two damaged molds.",
       "ja": "工場は破損した金型を二つ廃材にした。"
@@ -9553,6 +9565,7 @@
       "abstract-notconcrete"
     ],
     "origin": "abs-（引き離して）＋ ラテン語 trahere（引く）。中身から要点を抜き出すこと。tractor と同語源",
+    "family": "abstraction（抽象）／ attract（引きつける）／ contract（契約）／ extract（抽出する）",
     "example": {
       "en": "The goals were too abstract to measure.",
       "ja": "目標は測るには抽象的すぎた。"
@@ -9577,6 +9590,7 @@
       "accountability-answerabilityforactions"
     ],
     "origin": "account（説明する）＋ -ability。求めに応じて説明できること",
+    "family": "accountable（説明責任のある）／ account（勘定）／ count（数える）",
     "example": {
       "en": "Clear accountability shortened the inquiry.",
       "ja": "明確な説明責任が調査を短くした。"
@@ -9601,6 +9615,7 @@
       "acute-severeandsudden"
     ],
     "origin": "ラテン語 acuere（とがらせる）。とがって鋭いこと。acid と同語源",
+    "family": "acutely（鋭く）／ acid（酸）／ acrid（刺激臭のある）／ acumen（洞察力）",
     "example": {
       "en": "An acute shortage of drivers hit the region.",
       "ja": "運転手の深刻で急な不足が地域を襲った。"
@@ -9649,6 +9664,7 @@
       "affiliate-associatedcompany"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 filius（息子）。子として結び付いた会社",
+    "family": "affiliation（提携）／ filial（子としての）／ file（列）",
     "example": {
       "en": "An affiliate handles sales in Taiwan.",
       "ja": "系列会社が台湾での販売を担う。"
@@ -9697,6 +9713,7 @@
       "alliance-cooperativeunion"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 ligare（結ぶ）。互いを結び付けること。ally, liaison と同語源",
+    "family": "ally（同盟する）／ allied（連合した）／ liaison（連絡係）／ liability（負債）",
     "example": {
       "en": "The alliance covers joint distribution.",
       "ja": "その提携は共同の配送を対象とする。"
@@ -9747,6 +9764,7 @@
       "apt-likelytodo"
     ],
     "origin": "ラテン語 aptus（適した）。そうなりやすい性質。attitude, adapt と同語源",
+    "family": "aptitude（適性）／ adapt（適応する）／ adept（巧みな）／ attitude（姿勢）",
     "example": {
       "en": "Thin sheets are apt to warp in heat.",
       "ja": "薄い板は熱でゆがみがちだ。"
@@ -9821,6 +9839,7 @@
       "benchmark-comparisonstandard"
     ],
     "origin": "bench（台）＋ mark（印）。測量の基準として台に刻んだ印",
+    "family": "bench（台）／ mark（印）／ benchmarking（比較評価）",
     "example": {
       "en": "The plant beat the industry benchmark.",
       "ja": "工場は業界の基準指標を上回った。"
@@ -9845,6 +9864,7 @@
       "bolster-strengthensupport"
     ],
     "origin": "古英語 bolster（長枕）。下から当てて支えること",
+    "family": "bolstering（下支え）／ bolt（かんぬき）",
     "example": {
       "en": "Export orders bolstered a weak quarter.",
       "ja": "輸出の注文が弱い四半期を下支えした。"
@@ -9893,6 +9913,7 @@
       "cater-supplyfood"
     ],
     "origin": "ラテン語 capere（取る）。食料を調えて出すこと。capture と同語源",
+    "family": "caterer（仕出し業者）／ catering（仕出し）／ capture（捕らえる）／ capable（有能な）",
     "example": {
       "en": "A local firm catered the opening event.",
       "ja": "地元の会社が開所の催しの仕出しをした。"
@@ -9917,6 +9938,7 @@
       "census-completecount"
     ],
     "origin": "ラテン語 censere（数え上げる）。人口を数え上げる調査",
+    "family": "censor（検閲官）／ censure（非難する）／ censorship（検閲）",
     "example": {
       "en": "A census of tools happens each January.",
       "ja": "工具の全数調査は毎年一月に行われる。"
@@ -9941,6 +9963,7 @@
       "clarification-explanationrequest"
     ],
     "origin": "ラテン語 clarus（澄んだ）＋ facere（作る）。濁りを取って説明すること",
+    "family": "clarify（明確にする）／ clarity（明瞭さ）／ clear（明らかな）／ declare（宣言する）",
     "example": {
       "en": "The buyer sought clarification on the terms.",
       "ja": "買い手は条件について釈明を求めた。"
@@ -9965,6 +9988,7 @@
       "cohesive-wellunited"
     ],
     "origin": "co-（共に）＋ ラテン語 haerere（くっつく）。互いにくっついていること。adhere と同語源",
+    "family": "cohesion（結束）／ coherent（筋の通った）／ adhere（遵守する）／ inherent（本来備わった）",
     "example": {
       "en": "A cohesive team handled the peak smoothly.",
       "ja": "まとまりのある班が繁忙期を滑らかにこなした。"
@@ -9989,6 +10013,7 @@
       "commencement-startingdate"
     ],
     "origin": "com-（共に）＋ ラテン語 initiare（始める）。物事が始まるとき",
+    "family": "commence（開始する）／ initiate（着手する）／ initial（当初の）",
     "example": {
       "en": "Commencement of works is set for April.",
       "ja": "工事の開始時期は四月に決まっている。"
@@ -10013,6 +10038,7 @@
       "comparable-similarenoughtocompare"
     ],
     "origin": "com-（共に）＋ ラテン語 par（対等）。並べて比べられること。pair と同語源",
+    "family": "compare（比較する）／ comparison（比較）／ comparative（比較の）／ pair（対）",
     "example": {
       "en": "Two comparable sites were also surveyed.",
       "ja": "比較できる二か所も調査された。"
@@ -10037,6 +10063,7 @@
       "concurrent-happeningatsametime"
     ],
     "origin": "con-（共に）＋ ラテン語 currere（走る）。並んで走っていること。current と同語源",
+    "family": "concur（同じ意見である）／ current（現在の）／ occur（起こる）／ recur（再発する）",
     "example": {
       "en": "Concurrent runs doubled weekly output.",
       "ja": "同時並行の運転が週の産出を倍にした。"
@@ -10061,6 +10088,7 @@
       "conducive-helpingbringabout"
     ],
     "origin": "con-（共に）＋ ラテン語 ducere（導く）。よい結果へ導く働きがあること",
+    "family": "conduct（実施する）／ conductor（指揮者）／ induce（誘発する）／ reduce（減らす）",
     "example": {
       "en": "Good lighting is conducive to accurate work.",
       "ja": "よい照明は正確な作業の助けとなる。"
@@ -10085,6 +10113,7 @@
       "confine-restricttoarea"
     ],
     "origin": "con-（共に）＋ ラテン語 finis（境）。境の内に閉じ込めること。finish と同語源",
+    "family": "confinement（監禁）／ finish（終える）／ finite（限りある）／ define（定義する）",
     "example": {
       "en": "Smoking is confined to the yard shelter.",
       "ja": "喫煙は構内の小屋に限られる。"
@@ -10133,6 +10162,7 @@
       "consignment-goodssentforsale"
     ],
     "origin": "con-（共に）＋ ラテン語 signum（印）。印を付けて託した品。sign と同語源",
+    "family": "consign（託送する）／ consignor（荷送人）／ sign（印）／ design（設計する）",
     "example": {
       "en": "The gallery takes prints on consignment.",
       "ja": "その画廊は版画を委託販売品として預かる。"
@@ -10157,6 +10187,7 @@
       "conspicuous-easilyseen"
     ],
     "origin": "con-（すっかり）＋ ラテン語 specere（見る）。よく目に入ること。inspect と同語源",
+    "family": "conspicuously（目立って）／ spectacle（光景）／ inspect（点検する）",
     "example": {
       "en": "A conspicuous sign marks the entrance.",
       "ja": "人目を引く標示が入口を示す。"
@@ -10205,6 +10236,7 @@
       "corroborate-supportwithproof"
     ],
     "origin": "con-（強め）＋ ラテン語 robur（樫）。証拠で固めて強めること。robust と同語源",
+    "family": "corroboration（裏付け）／ robust（頑丈な）",
     "example": {
       "en": "Two logs corroborate the driver's account.",
       "ja": "二つの記録が運転手の説明の裏付けを取る。"
@@ -10229,6 +10261,8 @@
       "counsel-professionaladvice"
     ],
     "origin": "ラテン語 consulere（相談する）。相談して示す助言。consultant と同語源",
+    "family": "counselor（相談員）／ consult（相談する）／ consultant（助言者）／ council（協議会）",
+    "contrast": "助言そのものを指す名詞。council（協議会）とは綴りが一字違いで別の語",
     "example": {
       "en": "Legal counsel advised a written reply.",
       "ja": "法務の助言は書面の返答を勧めた。"
@@ -10253,6 +10287,7 @@
       "customary-usualbytradition"
     ],
     "origin": "ラテン語 consuetudo（習わし）。習わしどおりであること。custom と同語源",
+    "family": "custom（慣例）／ customer（顧客）／ customize（あつらえる）／ accustomed（慣れた）",
     "example": {
       "en": "A customary discount applies to bulk orders.",
       "ja": "大量の注文には慣例の割引がかかる。"
@@ -10277,6 +10312,7 @@
       "deceptive-misleadinginappearance"
     ],
     "origin": "de-（外して）＋ ラテン語 capere（取る）。実物と違うものをつかませること",
+    "family": "deceive（欺く）／ deception（欺き）／ receive（受け取る）／ conceive（思いつく）",
     "example": {
       "en": "The label was ruled deceptive by the bureau.",
       "ja": "その表示は局に紛らわしいと判断された。"
@@ -10301,6 +10337,7 @@
       "decisive-settlingthematter"
     ],
     "origin": "de-（すっかり）＋ ラテン語 caedere（切る）。すっぱり切って決めること。decide と同語源",
+    "family": "decide（決める）／ decision（決定）／ concise（簡潔な）／ precise（精密な）",
     "example": {
       "en": "Price was the decisive factor in the tender.",
       "ja": "価格が入札の決め手となる要素だった。"
@@ -10349,6 +10386,7 @@
       "dilute-weakenbyadding"
     ],
     "origin": "di-（離して）＋ ラテン語 luere（洗い流す）。水で薄めること",
+    "family": "dilution（希釈）／ diluted（薄めた）",
     "example": {
       "en": "Dilute the cleaner before use on glass.",
       "ja": "ガラスに使う前に洗浄剤を薄めなさい。"
@@ -10373,6 +10411,8 @@
       "discrete-separatelydistinct"
     ],
     "origin": "dis-（分けて）＋ ラテン語 cernere（ふるい分ける）。互いに切れて独立していること",
+    "family": "discretely（個別に）／ discern（識別する）／ discreet（慎み深い）",
+    "contrast": "互いに切れて独立していること。discreet（慎み深い）と同音で綴りが違う",
     "example": {
       "en": "The process has five discrete stages.",
       "ja": "その工程は五つの個別独立の段階を持つ。"
@@ -10397,6 +10437,7 @@
       "divergent-differinginopinion"
     ],
     "origin": "dis-（別々に）＋ ラテン語 vergere（傾く）。別々の方へ開いていくこと",
+    "family": "diverge（分岐する）／ divergence（乖離）／ converge（収束する）／ diverse（多様な）",
     "example": {
       "en": "The two reports reached divergent totals.",
       "ja": "二つの報告書は食い違う合計に達した。"
@@ -10421,6 +10462,7 @@
       "elapse-passoftime"
     ],
     "origin": "e-（外へ）＋ ラテン語 labi（滑る）。時が滑り過ぎること。collapse と同語源",
+    "family": "elapsed（経過した）／ collapse（崩壊する）／ lapse（過失）／ relapse（再発）",
     "example": {
       "en": "Thirty days elapsed before any reply came.",
       "ja": "返答が来るまで三十日が経過した。"
@@ -10445,6 +10487,7 @@
       "embody-representinform"
     ],
     "origin": "em-（中へ）＋ body（体）。形のないものに体を与えること",
+    "family": "embodiment（具現）／ body（体）／ bodily（身体の）",
     "example": {
       "en": "The new model embodies the design brief.",
       "ja": "新しい型式は設計の趣旨を体現する。"
@@ -10469,6 +10512,7 @@
       "emit-giveoffsubstance"
     ],
     "origin": "e-（外へ）＋ ラテン語 mittere（送る）。外へ送り出すこと。mission と同語源",
+    "family": "emission（排出）／ emitter（放射体）／ submit（提出する）／ transmit（送信する）",
     "example": {
       "en": "The dryer emits warm air into the yard.",
       "ja": "乾燥機は構内へ暖かい空気を排出する。"
@@ -10493,6 +10537,7 @@
       "empirical-basedonobservation"
     ],
     "origin": "ギリシャ語 empeiria（経験）。実地の経験に基づくこと。experience と同語源",
+    "family": "empiricism（経験論）／ experience（経験）／ experiment（実験）／ expert（熟練者）",
     "example": {
       "en": "Empirical data supported the design change.",
       "ja": "実証に基づく資料が設計の変更を支えた。"
@@ -10517,6 +10562,7 @@
       "endanger-putatrisk"
     ],
     "origin": "en-（〜にする）＋ danger（危険）。危険な状態に置くこと",
+    "family": "danger（危険）／ dangerous（危険な）／ endangered（絶滅危惧の）",
     "example": {
       "en": "Loose loads endanger other road users.",
       "ja": "緩んだ積み荷は他の道路利用者を危険にさらす。"
@@ -10541,6 +10587,7 @@
       "equitable-fairtoallsides"
     ],
     "origin": "ラテン語 aequus（等しい）。誰にも等しく扱うこと。equal, equity と同語源",
+    "family": "equity（自己資本）／ equal（等しい）／ adequate（十分な）／ equator（赤道）",
     "example": {
       "en": "The split was equitable for both partners.",
       "ja": "その分配は双方の提携先に公平だった。"
@@ -10565,6 +10612,7 @@
       "erratic-irregularandunpredictable"
     ],
     "origin": "ラテン語 errare（さまよう）。定まらず外れること。error と同語源",
+    "family": "error（誤り）／ err（誤る）／ erroneous（誤った）／ errand（使い）",
     "example": {
       "en": "Erratic pressure damaged two seals.",
       "ja": "不規則な圧力が封を二つ傷めた。"
@@ -10589,6 +10637,7 @@
       "exemplify-serveasexample"
     ],
     "origin": "ラテン語 exemplum（見本）＋ facere（作る）。見本として示すこと。example と同語源",
+    "family": "example（例）／ exemplary（模範的な）／ sample（見本）／ exempt（免除された）",
     "example": {
       "en": "The Kobe branch exemplifies good practice.",
       "ja": "神戸支店は良い慣行の好例となる。"
@@ -10613,6 +10662,7 @@
       "expel-forceout"
     ],
     "origin": "ex-（外へ）＋ ラテン語 pellere（押す）。外へ押し出すこと。repel と同語源",
+    "family": "expulsion（追放）／ repel（はじく）／ propel（推し進める）／ compel（強いる）",
     "example": {
       "en": "Fans expel fumes through the roof vent.",
       "ja": "送風機は屋根の口から煙を退去させる。"
@@ -10637,6 +10687,7 @@
       "finite-limitedinamount"
     ],
     "origin": "ラテン語 finis（境）。境があって限りがあること。finish, confine と同語源",
+    "family": "infinite（無限の）／ finish（終える）／ define（定義する）／ confine（限る）",
     "example": {
       "en": "Yard space is finite during peak season.",
       "ja": "繁忙期の構内の場所は限りある。"
@@ -10661,6 +10712,7 @@
       "forfeiture-lossofright"
     ],
     "origin": "古仏語 forfaire（罪を犯す）。落ち度により権利を失うこと",
+    "family": "forfeit（没収される）／ forfeited（没収された）",
     "example": {
       "en": "Late filing risks forfeiture of the claim.",
       "ja": "遅い提出は請求の権利喪失を招く。"
@@ -10685,6 +10737,7 @@
       "fortify-makestronger"
     ],
     "origin": "ラテン語 fortis（強い）＋ facere（作る）。強く作り直すこと。force, effort と同語源",
+    "family": "fortification（要塞化）／ fort（要塞）／ force（力）／ effort（努力）",
     "example": {
       "en": "Steel posts fortify the perimeter fence.",
       "ja": "鋼の柱が外周の柵を強化する。"
@@ -10757,6 +10810,7 @@
       "hamper-hinderprogress"
     ],
     "origin": "中期英語 hamperen（妨げる）。動きにまとわりついて邪魔すること",
+    "family": "hampered（妨げられた）／ hampering（妨害）",
     "example": {
       "en": "Fog hampered the harbor operation.",
       "ja": "霧が港の作業の足を引っ張った。"
@@ -10781,6 +10835,7 @@
       "harness-controlanduse"
     ],
     "origin": "古仏語 harneis（馬具）。馬具で御するように力を引き出して使うこと",
+    "family": "harnessing（活用）／ harnessed（制御された）",
     "example": {
       "en": "The plant harnesses waste steam for heating.",
       "ja": "工場は廃蒸気を暖房に活用して制御する。"
@@ -10805,6 +10860,7 @@
       "hasten-speedupaction"
     ],
     "origin": "haste（急ぎ）＋ -en（〜にする）。早める働きかけをすること",
+    "family": "haste（急ぎ）／ hasty（急な）／ hastily（急いで）",
     "example": {
       "en": "The strike hastened the move to rail.",
       "ja": "争議が鉄道への転換を急がせた。"
@@ -10829,6 +10885,7 @@
       "haulage-roadtransport"
     ],
     "origin": "haul（引く）＋ -age。荷を陸路で引いて運ぶこと",
+    "family": "haul（引く）／ overhaul（分解修理する）／ hauler（運送業者）",
     "example": {
       "en": "Haulage rates rose with the fuel price.",
       "ja": "陸送の料金は燃料の価格とともに上がった。"
@@ -10853,6 +10910,7 @@
       "impartial-notfavoringside"
     ],
     "origin": "im-（否定）＋ partial（一方に偏る）。どちらにも偏らないこと",
+    "family": "partial（部分的な）／ part（部分）／ impartiality（公平）",
     "example": {
       "en": "An impartial expert examined both samples.",
       "ja": "公平無私の専門家が双方の見本を調べた。"
@@ -10877,6 +10935,7 @@
       "impending-soontooccur"
     ],
     "origin": "im-（上に）＋ ラテン語 pendere（ぶら下がる）。頭上に迫っていること。pending と同語源",
+    "family": "pending（保留中の）／ depend（左右される）／ suspend（一時停止する）",
     "example": {
       "en": "The impending audit worried the branch.",
       "ja": "間近に迫った監査が支店を不安にさせた。"
@@ -10901,6 +10960,7 @@
       "incidental-minorandaccompanying"
     ],
     "origin": "in-（上に）＋ ラテン語 cadere（落ちる）。本筋に落ちかかって付いてくること",
+    "family": "incident（出来事）／ coincide（同時に起こる）／ accident（事故）／ occasion（機会）",
     "example": {
       "en": "Incidental costs appear on page three.",
       "ja": "付随的な費用は三頁に載っている。"
@@ -10925,6 +10985,7 @@
       "inconsistent-notmatchingthroughout"
     ],
     "origin": "in-（否定）＋ consistent（一貫した）。言うことややり方が食い違うこと",
+    "family": "consistent（一貫した）／ consist（成る）／ insist（主張する）／ persist（やり通す）",
     "example": {
       "en": "Inconsistent labeling confused the depot.",
       "ja": "一貫しない表示が拠点を混乱させた。"
@@ -10949,6 +11010,7 @@
       "indicative-suggestingsomething"
     ],
     "origin": "indicate（示す）＋ -ive。それを指し示す働きがあること",
+    "family": "indicate（示す）／ indication（兆候）／ index（索引）／ dedicate（専用に充てる）",
     "example": {
       "en": "The figures are indicative of a slow autumn.",
       "ja": "その数字は緩やかな秋を示唆するものだ。"
@@ -10997,6 +11059,7 @@
       "ingenious-cleverlyinventive"
     ],
     "origin": "ラテン語 ingenium（生まれつきの才）。才知の効いた工夫。genius と同語源",
+    "family": "ingenuity（創意工夫）／ genius（天才）／ genuine（本物の）／ generate（生成する）",
     "example": {
       "en": "An ingenious jig halved the setup time.",
       "ja": "工夫に富んだ治具が段取りを半分にした。"
@@ -11021,6 +11084,7 @@
       "insurer-insuranceprovider"
     ],
     "origin": "insure（保険をかける）＋ -er。保険を引き受ける側",
+    "family": "insure（保険をかける）／ insurance（保険）／ ensure（確実にする）",
     "example": {
       "en": "The insurer settled the claim in a month.",
       "ja": "保険会社は一か月で請求を解決した。"
@@ -11045,6 +11109,7 @@
       "intact-undamagedwhole"
     ],
     "origin": "in-（否定）＋ ラテン語 tangere（触れる）。手が触れられておらず元のままなこと",
+    "family": "contact（連絡する）／ tangible（触れられる）／ attain（達成する）／ tactile（触覚の）",
     "example": {
       "en": "All twelve pallets arrived intact.",
       "ja": "荷台十二台すべてが無傷の状態で届いた。"
@@ -11069,6 +11134,7 @@
       "interrupt-breakcontinuity"
     ],
     "origin": "inter-（間に）＋ ラテン語 rumpere（破る）。流れの間に割って入ること。disrupt と同語源",
+    "family": "interruption（中断）／ disrupt（混乱させる）／ erupt（噴出する）／ corrupt（腐敗した）",
     "example": {
       "en": "A short outage interrupted the coating run.",
       "ja": "短い停電が塗装の運転を中断した。"
