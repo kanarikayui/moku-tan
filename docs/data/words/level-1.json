@@ -455,6 +455,7 @@
       "branch-localunit"
     ],
     "origin": "ラテン語 branca（動物の足）。木の枝から「枝分かれした店」へ",
+    "family": "branch out（手を広げる）／ branching（分岐）／ branches（支社）",
     "example": {
       "en": "The Kobe branch handles all orders from western Japan.",
       "ja": "神戸支店が西日本からの注文をすべて扱う。"
@@ -479,6 +480,7 @@
       "invoice-billingdocument"
     ],
     "origin": "フランス語 envoi（送ること）から。品物に添える「送り状」",
+    "family": "invoicing（請求処理）／ envoy（使節）／ voyage（航海）",
     "example": {
       "en": "Attach the invoice when you submit the expense form.",
       "ja": "経費申請書を提出するときは請求書を添付しなさい。"
@@ -1061,6 +1063,7 @@
       "ticket-travelpass"
     ],
     "origin": "フランス語 etiquet（貼り札）。etiquette と同語源",
+    "family": "ticketing（発券）／ ticketed（発券済みの）／ ticket booth（切符売り場）",
     "example": {
       "en": "Buy a ticket at the machine near the entrance.",
       "ja": "入口近くの機械で切符を買いなさい。"
@@ -1085,6 +1088,7 @@
       "traffic-vehicleflow"
     ],
     "origin": "イタリア語 trafficare（商いをする）。人と物の行き来から「交通量」へ",
+    "family": "trafficking（不正取引）／ trafficker（密売人）",
     "example": {
       "en": "Heavy traffic delayed the morning delivery run.",
       "ja": "交通量の多さで午前の配達が遅れた。"
@@ -1624,6 +1628,7 @@
       "airport-flightterminal"
     ],
     "origin": "air（空）＋ port（港）。空の港という直訳がそのまま定着",
+    "family": "air（空気）／ port（港）／ portable（持ち運べる）／ import（輸入する）",
     "example": {
       "en": "A shuttle leaves the airport every twenty minutes.",
       "ja": "送迎車が二十分ごとに空港を出る。"
@@ -1796,6 +1801,7 @@
       "cabinet-storagefurniture"
     ],
     "origin": "cabin（小屋）＋ -et（小さい）。小部屋から「戸棚」へ",
+    "family": "cabin（小屋）／ cabinetry（造作家具）",
     "example": {
       "en": "Old files are kept in the grey cabinet.",
       "ja": "古い書類は灰色の書類棚に入っている。"
@@ -2440,6 +2446,7 @@
       "floor-buildinglevel"
     ],
     "origin": "古英語 flor（床）。flat（平ら）と同系の語感",
+    "family": "flooring（床材）／ floored（床を張った）",
     "example": {
       "en": "The sales team moved to the sixth floor.",
       "ja": "営業部は六階へ移った。"
@@ -2563,6 +2570,7 @@
       "hallway-indoorpassage"
     ],
     "origin": "hall（広間）＋ way（道）。広間へ通じる道",
+    "family": "hall（広間）／ hallmark（品質証明）／ town hall（公会堂）",
     "example": {
       "en": "Boxes must not block the hallway.",
       "ja": "箱で廊下をふさいではならない。"
@@ -2714,6 +2722,7 @@
       "key-lockopener"
     ],
     "origin": "古英語 cæg（鍵）。「解く道具」から比喩的に「要点」も表す",
+    "family": "keyboard（鍵盤）／ keynote（基調講演）／ keyword（重要語）",
     "example": {
       "en": "Return the key to the security desk.",
       "ja": "鍵は警備の窓口に返しなさい。"
@@ -2738,6 +2747,7 @@
       "label-attachedtag"
     ],
     "origin": "古フランス語 label（細長い布片）。垂れ下げた札が原義",
+    "family": "labeling（表示）／ mislabel（誤表示する）／ labeled（表示された）",
     "example": {
       "en": "A red label marks fragile cartons.",
       "ja": "赤い表示が壊れ物の箱を示す。"
@@ -2960,6 +2970,7 @@
       "opinion-personalview"
     ],
     "origin": "ラテン語 opinari（思う）。根拠より「思うこと」を指す",
+    "family": "opine（意見を述べる）／ opinionated（意見の強い）／ opinion poll（世論調査）",
     "example": {
       "en": "The survey collected opinions from every branch.",
       "ja": "その調査は全支店から意見を集めた。"
@@ -4108,6 +4119,7 @@
       "average-typicalmiddle"
     ],
     "origin": "アラビア語 awariya（積み荷の損害）。損害を分け合う海事慣行から「平均」へ",
+    "family": "averaging（平均化）／ on average（平均して）",
     "example": {
       "en": "The average wait fell to four minutes.",
       "ja": "平均の待ち時間は四分に下がった。"
@@ -4328,6 +4340,7 @@
       "catalog-productlisting"
     ],
     "origin": "ギリシャ語 kata-（下へ）＋ legein（並べる）。順に書き並べた表",
+    "family": "cataloging（目録作成）／ catalogue（目録）",
     "example": {
       "en": "The spring catalog reached subscribers on Monday.",
       "ja": "春の商品目録は月曜に購読者へ届いた。"
@@ -4678,6 +4691,7 @@
       "corner-meetingofwalls"
     ],
     "origin": "ラテン語 cornu（角）。動物の角が突き出た形から",
+    "family": "cornerstone（礎石）／ cornered（追い詰められた）",
     "example": {
       "en": "A plant stands in the corner of the room.",
       "ja": "部屋の角に植木がある。"
@@ -4753,6 +4767,7 @@
       "daily-happeningeachday"
     ],
     "origin": "day（日）＋ -ly。日ごとの意",
+    "family": "day（日）／ dailies（日刊紙）／ everyday（日常の）",
     "example": {
       "en": "The daily output reached nine hundred units.",
       "ja": "毎日の生産は九百台に達した。"
@@ -5405,6 +5420,7 @@
       "gate-entrybarrier"
     ],
     "origin": "古英語 geat（門）。get（手に入れる）とは別系統",
+    "family": "gateway（出入口）／ gated（門のある）／ boarding gate（搭乗口）",
     "example": {
       "en": "The rear gate closes at seven each evening.",
       "ja": "裏の門は毎晩七時に閉まる。"
@@ -5429,6 +5445,7 @@
       "goods-tradeditems"
     ],
     "origin": "good（良い物）の複数。「良い物＝商品」という素朴な語源",
+    "family": "good（よい）／ goodwill（のれん）／ dry goods（繊維製品）",
     "example": {
       "en": "Damaged goods are set aside for inspection.",
       "ja": "破損した物品は検査のため別に置く。"
@@ -5479,6 +5496,7 @@
       "heavy-greatweight"
     ],
     "origin": "古英語 hefig。heave（持ち上げる）と同系で「持ち上げるのが大変」",
+    "family": "heavily（重く）／ heaviness（重さ）／ heavyweight（重量級）",
     "example": {
       "en": "Two workers lift the heavy rolls together.",
       "ja": "重い巻き物は二人で持ち上げる。"
@@ -5528,6 +5546,7 @@
       "hour-sixtyminutes"
     ],
     "origin": "ギリシャ語 hora（時・季節）。h は綴りだけで発音しない",
+    "family": "hourly（一時間ごとの）／ half-hour（三十分）／ man-hour（人時）",
     "example": {
       "en": "The shop stays open an extra hour on Fridays.",
       "ja": "店は金曜に一時間長く開いている。"
@@ -5902,6 +5921,7 @@
       "list-itemizedrecord"
     ],
     "origin": "古英語 liste（縁・帯）。細長い帯に書き並べたことから",
+    "family": "listing（一覧掲載）／ enlist（登録する）／ checklist（点検表）",
     "example": {
       "en": "Print the list of pending repairs.",
       "ja": "保留中の修理の一覧を印刷しなさい。"
@@ -6325,6 +6345,7 @@
       "page-sheetside"
     ],
     "origin": "ラテン語 pagina（書き付ける面）。pact（留める）と同系で「留めた葉」",
+    "family": "paging（呼び出し）／ pagination（改ページ）／ webpage（ウェブページ）",
     "example": {
       "en": "The warranty terms begin on the last page.",
       "ja": "保証の条件は最後の頁から始まる。"
@@ -6349,6 +6370,7 @@
       "paper-writingsheet"
     ],
     "origin": "ギリシャ語 papyros（パピルス）。古代の筆記材の名がそのまま残った",
+    "family": "paperwork（書類事務）／ paperless（紙不要の）／ wallpaper（壁紙）",
     "example": {
       "en": "The printer is out of thick paper.",
       "ja": "印刷機の厚い紙が切れている。"
@@ -6448,6 +6470,7 @@
       "platform-boardingarea"
     ],
     "origin": "フランス語 plate（平ら）＋ forme（形）。平らな台",
+    "family": "form（形）／ format（体裁）／ formal（正式な）／ uniform（制服）",
     "example": {
       "en": "Trains to the airport leave from platform one.",
       "ja": "空港行きの列車は一番乗り場から出る。"
@@ -6622,6 +6645,7 @@
       "provider-suppliercompany"
     ],
     "origin": "provide（供給する）＋ -er。pro-＋videre（先を見る）から",
+    "family": "provide（供給する）／ provision（規定）／ provident（先を見越した）／ provisional（仮の）",
     "example": {
       "en": "Our internet provider raised its monthly rate.",
       "ja": "当社の通信の提供元は月額を上げた。"
@@ -6973,6 +6997,7 @@
       "room-enclosedspace"
     ],
     "origin": "古英語 rum（空間）。roomy（広々した）と同じで、もとは「空きの広さ」",
+    "family": "roomy（広々とした）／ roommate（同居人）／ headroom（余裕）",
     "example": {
       "en": "The room seats twelve people comfortably.",
       "ja": "その部屋は十二人がゆったり座れる。"
@@ -7122,6 +7147,7 @@
       "sheet-flatpaper"
     ],
     "origin": "古英語 sciete（布）。薄く広がるものを指した",
+    "family": "sheeting（板材）／ spreadsheet（表計算表）／ balance sheet（貸借対照表）",
     "example": {
       "en": "Sign each sheet at the bottom right.",
       "ja": "各一枚の紙の右下に署名しなさい。"
@@ -7321,6 +7347,7 @@
       "step-singleprocedure"
     ],
     "origin": "古英語 stæpe（踏むこと）。stamp と同系",
+    "family": "stepwise（段階的な）／ footstep（足音）／ doorstep（戸口）",
     "example": {
       "en": "Skip no step in the cleaning routine.",
       "ja": "清掃の手順を一つも飛ばしてはならない。"
