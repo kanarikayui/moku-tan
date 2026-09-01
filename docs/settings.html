@@ -58,6 +58,20 @@
           <div class="option-row" id="types"></div>
         </fieldset>
 
+        <fieldset class="field">
+          <legend>正解したとき</legend>
+          <p class="description">
+            既定では、正解すると判定だけを出してすぐ次の問題へ進みます。
+            正解した語も毎回確かめたい場合は、ここをオンにしてください。
+          </p>
+          <div class="option-row">
+            <label>
+              <input id="review-on-correct" name="reviewOnCorrect" type="checkbox" />
+              <span>説明と「次へ」を表示して止まる</span>
+            </label>
+          </div>
+        </fieldset>
+
         <div class="field">
           <label for="theme">テーマ</label>
           <select id="theme" name="theme">

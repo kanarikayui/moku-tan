@@ -28,6 +28,7 @@ const dom = {
   intervalCorrect: document.getElementById('interval-correct'),
   levels: document.getElementById('levels'),
   types: document.getElementById('types'),
+  reviewOnCorrect: document.getElementById('review-on-correct'),
   theme: document.getElementById('theme'),
 };
 
@@ -56,6 +57,7 @@ function fillForm(settings) {
   dom.direction.value = settings.direction;
   dom.intervalWrong.value = String(settings.intervalWrong);
   dom.intervalCorrect.value = String(settings.intervalCorrect);
+  dom.reviewOnCorrect.checked = settings.reviewOnCorrect;
   dom.theme.value = settings.theme;
   renderCheckboxes(
     dom.levels,
@@ -78,6 +80,7 @@ function readForm() {
     intervalCorrect: Number.parseInt(dom.intervalCorrect.value, 10),
     levels: checked('levels').map(Number),
     types: checked('types'),
+    reviewOnCorrect: dom.reviewOnCorrect.checked,
     theme: dom.theme.value,
   };
 }

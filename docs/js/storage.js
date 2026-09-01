@@ -119,6 +119,10 @@ function normalizeSettings(value) {
   if (merged.levels.length === 0) merged.levels = [...LEVELS];
   if (merged.types.length === 0) merged.types = [...TYPES];
   if (!['auto', 'light', 'dark'].includes(merged.theme)) merged.theme = DEFAULT_SETTINGS.theme;
+  // この設定より前に保存された設定には無いので、既定の false に倒す
+  if (typeof merged.reviewOnCorrect !== 'boolean') {
+    merged.reviewOnCorrect = DEFAULT_SETTINGS.reviewOnCorrect;
+  }
   return merged;
 }
 

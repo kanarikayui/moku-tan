@@ -45,6 +45,8 @@ export const DEFAULT_SETTINGS = {
   levels: [...LEVELS],
   types: [...TYPES],
   theme: 'auto', // 'auto' | 'light' | 'dark'
+  // 正解したときも語の説明と「次へ」を出すか。既定は false（止めずに次問へ進む）
+  reviewOnCorrect: false,
 };
 
 /** スケジューラの調整値。設定画面からは変更しない。 */
@@ -124,6 +126,9 @@ export function collectSettingErrors(settings) {
   }
   if (!['auto', 'light', 'dark'].includes(settings.theme)) {
     errors.push('テーマの値が不正です');
+  }
+  if (typeof settings.reviewOnCorrect !== 'boolean') {
+    errors.push('正解時の表示設定の値が不正です');
   }
   return errors;
 }

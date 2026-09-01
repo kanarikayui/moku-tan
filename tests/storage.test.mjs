@@ -292,6 +292,38 @@ test('直前の結果を保存して読み戻せる', () => {
   assert.equal(loadProgress().value.entries.w0001.lastResult, 'skipped');
 });
 
+test('正解時の説明表示は既定で off', () => {
+  reset();
+  assert.equal(loadSettings().value.reviewOnCorrect, false);
+});
+
+test('正解時の説明表示を保存して読み戻せる', () => {
+  reset();
+  saveSettings({ ...DEFAULT_SETTINGS, reviewOnCorrect: true });
+  const { value, recovered } = loadSettings();
+  assert.equal(recovered, false);
+  assert.equal(value.reviewOnCorrect, true);
+});
+
+test('この設定より前の設定を読んでも off に倒れる', () => {
+  reset();
+  const legacy = { ...DEFAULT_SETTINGS };
+  delete legacy.reviewOnCorrect;
+  globalThis.localStorage.setItem(KEYS.settings, JSON.stringify(legacy));
+  const { value, recovered } = loadSettings();
+  assert.equal(recovered, false);
+  assert.equal(value.reviewOnCorrect, false);
+});
+
+test('正解時の説明表示が真偽値でなければ off に倒れる', () => {
+  reset();
+  globalThis.localStorage.setItem(
+    KEYS.settings,
+    JSON.stringify({ ...DEFAULT_SETTINGS, reviewOnCorrect: 'はい' }),
+  );
+  assert.equal(loadSettings().value.reviewOnCorrect, false);
+});
+
 test('lastResult が無い旧データや未知の値は null になる', () => {
   reset();
   globalThis.localStorage.setItem(

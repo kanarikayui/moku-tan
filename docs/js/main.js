@@ -42,6 +42,7 @@ const dom = {
   feedback: document.getElementById('feedback'),
   next: document.getElementById('next'),
   quiz: document.getElementById('quiz'),
+  hint: document.getElementById('hint'),
 };
 
 const state = {
@@ -89,11 +90,18 @@ const VERDICT = {
 };
 
 /**
- * 正解のときは判定だけを出してすぐ次へ進む。
- * 語の意味を確かめたいのは答えられなかったときなので、
- * 不正解とスキップでは詳細を出して手を止める。
+ * この 1 問で語の説明を出して手を止めるかどうか。
+ * 答えられなかったときは必ず出す。正解時は設定 reviewOnCorrect が入のときだけ出す。
  */
-function renderFeedback(result) {
+function shouldReview(result) {
+  return result !== RESULT.CORRECT || state.settings.reviewOnCorrect;
+}
+
+/**
+ * 判定を出し、必要なら語の詳細を続ける。
+ * 詳細を出さない場合は判定だけが残り、すぐ次の問題へ進む。
+ */
+function renderFeedback(result, review) {
   const { entry } = state.question;
   clearChildren(dom.feedback);
 
@@ -102,7 +110,7 @@ function renderFeedback(result) {
   verdict.textContent = VERDICT[result].label;
   dom.feedback.append(verdict);
 
-  if (result === RESULT.CORRECT) return;
+  if (!review) return;
 
   const headword = document.createElement('p');
   headword.className = 'feedback-headword';
@@ -246,17 +254,18 @@ function resolve(result, selectedIndex = null) {
   });
   saveStats(state.stats);
 
+  const review = shouldReview(result);
   markChoices(selectedIndex);
-  renderFeedback(result);
+  renderFeedback(result, review);
   renderTodayBar();
 
-  if (result === RESULT.CORRECT) {
-    // 正解なら止めずに次へ。ボタンは出さない。
+  if (!review) {
+    // 説明を出さないなら止めずに次へ。ボタンも出さない。
     state.advanceTimer = globalThis.setTimeout(nextQuestion, CORRECT_ADVANCE_DELAY);
     return;
   }
 
-  // 不正解とスキップは意味を確認できるよう、押すまで止める
+  // 説明を読めるよう、「次へ」を押すまで止める
   dom.next.hidden = false;
   dom.next.focus();
 }
@@ -300,6 +309,14 @@ function nextQuestion() {
   );
 }
 
+/** 正解時のふるまいは設定で変わるので、キーボードの案内もそれに合わせる。 */
+function renderHint() {
+  const tail = state.settings.reviewOnCorrect
+    ? '正解でも説明が出るので、確認したら Enter で次へ進みます'
+    : '正解なら自動で次へ進みます';
+  dom.hint.append(`。${tail}`);
+}
+
 function handleKeydown(event) {
   if (event.target instanceof HTMLElement && event.target.tagName === 'INPUT') return;
   // 押しっぱなしの自動リピートで、次の問題まで答えてしまうのを防ぐ
@@ -317,7 +334,7 @@ function handleKeydown(event) {
     }
     return;
   }
-  // 「次へ」は不正解のときだけ出る。正解時は自動で進むので受け付けない
+  // 「次へ」が出ているときだけ効く。自動で進む問題では受け付けない
   if (!dom.next.hidden && (event.key === 'Enter' || event.key === ' ')) {
     event.preventDefault();
     nextQuestion();
@@ -340,8 +357,9 @@ async function start() {
     showNotice(dom.notice, '保存データを読み込めなかったため初期化しました。');
   }
 
-  // 語彙データの読み込みに失敗しても、今日の成績だけは見せる
+  // 語彙データの読み込みに失敗しても、今日の成績と操作案内だけは見せる
   renderTodayBar();
+  renderHint();
 
   try {
     state.config = schedulerConfig(state.settings);
