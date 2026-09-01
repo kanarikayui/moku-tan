@@ -23,6 +23,13 @@ const POS_LABEL = {
 
 const FILTER_LABEL = { all: '', wrong: '不正解だった', skipped: 'スキップした' };
 
+/** 語の補足。出題画面と同じ順・同じ見出しで出す。 */
+const NOTE_FIELDS = [
+  ['origin', '由来'],
+  ['family', '語族'],
+  ['contrast', '使い分け'],
+];
+
 const dom = {
   notice: document.getElementById('notice'),
   count: document.getElementById('history-count'),
@@ -90,8 +97,9 @@ function buildCard(row) {
 
   appendLine(item, 'history-meaning', entry.ja.join('、'), 'ja');
 
-  if (entry.origin) {
-    appendLine(item, 'history-origin', `由来: ${entry.origin}`, 'ja');
+  for (const [field, label] of NOTE_FIELDS) {
+    if (!entry[field]) continue;
+    appendLine(item, `history-note history-${field}`, `${label}: ${entry[field]}`, 'ja');
   }
 
   if (entry.example) {

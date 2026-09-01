@@ -72,6 +72,16 @@ function clearChildren(element) {
   while (element.firstChild) element.removeChild(element.firstChild);
 }
 
+/**
+ * 語の補足。語彙データに入っているものだけを、この順で出す。
+ * 由来だけは全 2500 件にあるが、語族と使い分けは書ける語にしか入っていない。
+ */
+const NOTE_FIELDS = [
+  ['origin', '由来'],
+  ['family', '語族'],
+  ['contrast', '使い分け'],
+];
+
 const VERDICT = {
   [RESULT.CORRECT]: { className: 'is-correct', label: '○ 正解' },
   [RESULT.WRONG]: { className: 'is-wrong', label: '× 不正解' },
@@ -112,11 +122,13 @@ function renderFeedback(result) {
   meaning.textContent = entry.ja.join('、');
   dom.feedback.append(meaning);
 
-  if (entry.origin) {
-    const origin = document.createElement('p');
-    origin.className = 'feedback-origin';
-    origin.textContent = `由来: ${entry.origin}`;
-    dom.feedback.append(origin);
+  // 由来 → 語族 → 使い分け の順。成り立ち、そこから広がる語、紛らわしい語との境目と進む
+  for (const [field, label] of NOTE_FIELDS) {
+    if (!entry[field]) continue;
+    const note = document.createElement('p');
+    note.className = `feedback-note feedback-${field}`;
+    note.textContent = `${label}: ${entry[field]}`;
+    dom.feedback.append(note);
   }
 
   if (entry.example) {

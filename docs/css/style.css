@@ -287,14 +287,20 @@ body {
   color: var(--text);
 }
 
-/* 由来は補足なので、意味より一段弱い見た目にする */
-.feedback-origin,
-.history-origin {
+/* 由来・語族・使い分けは補足なので、意味より一段弱い見た目にする */
+.feedback-note,
+.history-note {
   margin-top: 0.35rem;
   padding-left: 0.6rem;
   border-left: 2px solid var(--border);
   font-size: 0.85rem;
   color: var(--text-muted);
+}
+
+/* 補足が続くときは間を詰め、ひとまとまりに見せる */
+.feedback-note + .feedback-note,
+.history-note + .history-note {
+  margin-top: 0.2rem;
 }
 
 .feedback-example-en,

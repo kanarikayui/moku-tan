@@ -10,8 +10,11 @@ import { fileURLToPath } from 'node:url';
 import { LEVELS, TYPES, PARTS_OF_SPEECH, CHOICE_COUNT, DIRECTIONS } from '../docs/js/config.js';
 import { collectDistractorCandidates, normalizeJa, normalizeEn } from '../docs/js/quiz.js';
 
-/** origin の上限。長いと出題画面で読み切れないので目安として切る。 */
-const ORIGIN_MAX_LENGTH = 120;
+/** 補足文の上限。長いと出題画面で読み切れないので目安として切る。 */
+const NOTE_MAX_LENGTH = 120;
+
+/** 任意の補足。書かれている場合だけ origin と同じ体裁を求める。 */
+const OPTIONAL_NOTES = ['family', 'contrast'];
 
 const dataDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../docs/data');
 
@@ -34,6 +37,15 @@ export async function loadAllEntries() {
     }
   }
   return { meta, entries, sources };
+}
+
+/** 補足文に共通の体裁（長さ・末尾の句点）を見る。 */
+function checkNoteFormat(text, where, errors) {
+  if (text.length > NOTE_MAX_LENGTH) {
+    errors.push(`${where} が長すぎます (${text.length} 文字)`);
+  } else if (/[。]$/.test(text)) {
+    errors.push(`${where} の末尾に句点を付けないでください`);
+  }
 }
 
 function checkRequiredFields(entry, errors) {
@@ -68,10 +80,17 @@ function checkRequiredFields(entry, errors) {
   }
   if (typeof entry.origin !== 'string' || entry.origin.trim() === '') {
     errors.push(`${where}: origin が空です`);
-  } else if (entry.origin.length > ORIGIN_MAX_LENGTH) {
-    errors.push(`${where}: origin が長すぎます (${entry.origin.length} 文字)`);
-  } else if (/[。]$/.test(entry.origin)) {
-    errors.push(`${where}: origin の末尾に句点を付けないでください`);
+  } else {
+    checkNoteFormat(entry.origin, `${where}: origin`, errors);
+  }
+  // family と contrast は書ける語にだけ入れる。無い語は画面にも出さない
+  for (const field of OPTIONAL_NOTES) {
+    if (entry[field] === undefined) continue;
+    if (typeof entry[field] !== 'string' || entry[field].trim() === '') {
+      errors.push(`${where}: ${field} が空です。書けないなら項目ごと省いてください`);
+      continue;
+    }
+    checkNoteFormat(entry[field], `${where}: ${field}`, errors);
   }
 }
 
@@ -129,7 +148,9 @@ function checkDistractorAvailability(entries, errors) {
 function checkEnrichment(entries) {
   const withIpa = entries.filter((entry) => entry.ipa).length;
   const withOrigin = entries.filter((entry) => entry.origin).length;
-  return { withIpa, withOrigin, total: entries.length };
+  const withFamily = entries.filter((entry) => entry.family).length;
+  const withContrast = entries.filter((entry) => entry.contrast).length;
+  return { withIpa, withOrigin, withFamily, withContrast, total: entries.length };
 }
 
 function checkMetaProgress(meta, entries, warnings) {
@@ -165,6 +186,9 @@ async function main() {
   console.log(
     `発音記号: ${enrichment.withIpa} / ${enrichment.total} 件　` +
       `由来: ${enrichment.withOrigin} / ${enrichment.total} 件`,
+  );
+  console.log(
+    `語族: ${enrichment.withFamily} 件　使い分け: ${enrichment.withContrast} 件（任意項目）`,
   );
   for (const warning of warnings) console.warn(`警告: ${warning}`);
 
