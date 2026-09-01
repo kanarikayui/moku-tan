@@ -214,6 +214,8 @@
       "warranty-repairpledge"
     ],
     "origin": "ゲルマン語 warjan（守る）。守ると請け合う約束。guarantee と同語源",
+    "family": "warrant（正当化する）／ guarantee（請け合う）",
+    "contrast": "品質を書面で保証したもの。期間や範囲が定められている",
     "example": {
       "en": "The warranty covers parts and labor for three years.",
       "ja": "この保証は部品代と作業費を三年間対象とする。"
@@ -460,6 +462,8 @@
       "w0005"
     ],
     "origin": "dis-（外して）＋ 俗ラテン語 pactare（縛る）。縛りを解いて送り出すこと",
+    "family": "dispatcher（配車係）",
+    "contrast": "荷や人を送り出すこと。届いたかどうかまでは言わない",
     "example": {
       "en": "We dispatch bulk orders from the northern warehouse.",
       "ja": "大口の注文は北の倉庫から発送する。"
@@ -484,6 +488,8 @@
       "alternative-otherchoice"
     ],
     "origin": "ラテン語 alter（二つのうち他方）。もう一方の選択肢。alter と同語源",
+    "family": "alternatively（あるいは）／ alter（変える）",
+    "contrast": "代わりに選べる案。alternate の「交互」とは別",
     "example": {
       "en": "The driver took an alternative route around the closed bridge.",
       "ja": "運転手は閉鎖された橋を避けて代替の経路を通った。"
@@ -660,6 +666,8 @@
       "w0050"
     ],
     "origin": "ad-（そばに）＋ ラテン語 sedere（座る）。裁判官の隣に座って税額を定めたことから",
+    "family": "assessment（評価）／ session（会）／ sediment（沈殿物）",
+    "contrast": "基準に照らして程度を判定すること。税額を定める意味もある",
     "example": {
       "en": "Inspectors assess the damage after every storm.",
       "ja": "検査員は嵐のたびに被害を判定する。"
@@ -758,6 +766,8 @@
       "comprise-consistof"
     ],
     "origin": "com-（共に）＋ ラテン語 prehendere（つかむ）。まとめて抱え込むこと。comprehend と同語源",
+    "family": "comprehensive（包括的な）／ comprehend（理解する）",
+    "contrast": "全体が部分を含むという動詞。受動態にしないのが本来の形",
     "example": {
       "en": "The board comprises seven members from four countries.",
       "ja": "取締役会は四か国から集まった七名で構成する。"
@@ -782,6 +792,8 @@
       "confidential-secret"
     ],
     "origin": "con-（強め）＋ ラテン語 fidere（信じる）。信頼した相手にだけ明かすこと",
+    "family": "confidentiality（守秘）／ confide（打ち明ける）",
+    "contrast": "部外に出してはいけないこと。confident（自信がある）と混同しやすい",
     "example": {
       "en": "Keep the pricing sheet confidential until the launch.",
       "ja": "発売まで価格表は機密の扱いにしておきなさい。"
@@ -830,6 +842,8 @@
       "consecutive-inarow"
     ],
     "origin": "con-（共に）＋ ラテン語 sequi（続く）。切れ目なく続くこと。sequence と同語源",
+    "family": "consequence（帰結）／ sequence（順序）／ subsequent（その後の）",
+    "contrast": "三日連続のように回数が続くこと。constant は途切れないこと",
     "example": {
       "en": "Staff may not work six consecutive night shifts.",
       "ja": "従業員は連続した六回の夜勤に就いてはならない。"
@@ -1148,6 +1162,8 @@
       "lease-rentalcontract"
     ],
     "origin": "古仏語 laissier（手放す）。使う権利を手放して貸すこと",
+    "family": "lessor（賃貸人）／ lessee（賃借人）",
+    "contrast": "不動産や設備を期間を決めて貸借する契約。rent より長期で正式",
     "example": {
       "en": "The lease runs for five years from April.",
       "ja": "その賃貸借契約は四月から五年間続く。"
@@ -1393,6 +1409,8 @@
       "revise-updatedocument"
     ],
     "origin": "re-（再び）＋ ラテン語 videre（見る）。見直して直すこと。vision と同語源",
+    "family": "revision（改訂）／ vision（視覚）／ review（見直す）",
+    "contrast": "全体を見直して内容を改めること。amend は条文の一部を正式に直す",
     "example": {
       "en": "We revise the handbook at the start of each year.",
       "ja": "毎年の初めに手引を改訂する。"
@@ -1609,6 +1627,8 @@
       "amend-alterofficially"
     ],
     "origin": "ex-（外へ）＋ ラテン語 menda（欠点）。欠点を取り除くこと。mend と同語源",
+    "family": "amendment（修正条項）／ mend（繕う）",
+    "contrast": "条文や規約の一部を正式に直すこと。revise は中身全体を見直す",
     "example": {
       "en": "The parties amended the delivery clause.",
       "ja": "当事者は納品の条項を修正した。"
@@ -1657,6 +1677,8 @@
       "appoint-assignposition"
     ],
     "origin": "ad-（〜へ）＋ point（点）。人や日時を一点に定めること",
+    "family": "appointment（任命・予約）／ point（点）",
+    "contrast": "役職や日時を一点に定めること。地位に就ける場面で使う",
     "example": {
       "en": "The board appointed a new plant manager.",
       "ja": "取締役会は新しい工場長を任命した。"
@@ -1849,6 +1871,8 @@
       "attain-reachgoal"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 tangere（触れる）。手が届いて触れること。contact と同語源",
+    "family": "attainment（達成）／ contact（接触）／ tangible（触れられる）",
+    "contrast": "努力の末に手が届くこと。arrive より達成の含みが強い",
     "example": {
       "en": "The plant attained its zero-defect target.",
       "ja": "工場は無欠陥の目標を達成した。"
@@ -4633,6 +4657,8 @@
       "halt-bringtostop"
     ],
     "origin": "ドイツ語 Halt（停止）。行軍を止める号令から",
+    "family": "halting（ためらいがちな）",
+    "contrast": "進行中のものをその場で止めること。再開の含みは薄い",
     "example": {
       "en": "A power cut halted the coating line.",
       "ja": "停電が塗装の生産設備を中断させた。"
@@ -5521,6 +5547,8 @@
       "literal-exactinwording"
     ],
     "origin": "ラテン語 littera（文字）。文字どおりであること。letter, literature と同語源",
+    "family": "literally（文字どおり）／ letter（文字）／ literacy（読み書き）",
+    "contrast": "文字どおりで比喩でないこと。literary（文学の）と混同しやすい",
     "example": {
       "en": "A literal reading of the clause is unhelpful.",
       "ja": "条項の文字どおりの読みは役に立たない。"
@@ -6649,6 +6677,8 @@
       "proceeds-moneyfromsale"
     ],
     "origin": "pro-（前へ）＋ ラテン語 cedere（進む）。取引から出てきた金",
+    "family": "proceed（進行する）／ procedure（手続き）／ precede（先行する）",
+    "contrast": "売却や催しで実際に得られた金額",
     "example": {
       "en": "Proceeds from the sale repaid the loan.",
       "ja": "売却収入が融資を返済した。"
@@ -8451,6 +8481,8 @@
       "succession-passingofrole"
     ],
     "origin": "sub-（後に）＋ ラテン語 cedere（進む）。後を継いで続くこと。succeed と同語源",
+    "family": "successive（連続する）／ successor（後任）",
+    "contrast": "地位や権利が次々に受け継がれる連なり",
     "example": {
       "en": "A succession plan names two candidates.",
       "ja": "継承の計画は候補者を二名挙げている。"
@@ -8523,6 +8555,8 @@
       "suspend-stoptemporarily"
     ],
     "origin": "sub-（下に）＋ ラテン語 pendere（ぶら下げる）。宙づりにして止めること。pending と同語源",
+    "family": "suspension（停止）／ pending（保留中の）／ depend（頼る）",
+    "contrast": "一時的に止めて後で再開する前提がある。halt はその場で止める",
     "example": {
       "en": "The plant suspended night runs in August.",
       "ja": "工場は八月に夜間の運転を一時停止した。"
@@ -9363,6 +9397,8 @@
       "appraise-assessvalue"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 pretium（値）。値を見立てること。price, appraisal と同語源",
+    "family": "appraisal（査定）／ price（値段）／ praise（褒める）",
+    "contrast": "専門家が資産や働きぶりの価値を定めること",
     "example": {
       "en": "A surveyor appraised the warehouse last week.",
       "ja": "測量士が先週、倉庫を見積もり評価した。"
@@ -9411,6 +9447,8 @@
       "assurance-firmpromise"
     ],
     "origin": "ad-（〜へ）＋ sure（確かな）。確かだと請け合うこと。ensure と同語源",
+    "family": "assure（保証して伝える）／ sure（確かな）",
+    "contrast": "相手を安心させる確約。warranty のような書面上の保証ではない",
     "example": {
       "en": "We received written assurance of delivery.",
       "ja": "納品の書面の確約を受け取った。"

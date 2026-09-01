@@ -44,6 +44,8 @@
       "arrive-reach"
     ],
     "origin": "ラテン語 ripa（岸）から。「岸に着く」が原義で、river と同語源",
+    "family": "arrival（到着）／ river（川）",
+    "contrast": "自動詞なので arrive at / in の形で使う。reach は前置詞が不要",
     "example": {
       "en": "The replacement parts will arrive at the plant on Friday.",
       "ja": "交換部品は金曜日に工場へ到着する。"
@@ -121,6 +123,8 @@
       "w0059"
     ],
     "origin": "de-（離して）＋ ラテン語 liberare（自由にする）。手から解き放つ→届ける。liberty と同語源",
+    "family": "delivery（配達）／ liberate（解放する）／ liberty（自由）",
+    "contrast": "受取人の手元まで届けること。dispatch は送り出す側の動作",
     "example": {
       "en": "The courier will deliver the samples before noon tomorrow.",
       "ja": "配送業者が明日の正午前にサンプルを配達する。"
@@ -145,6 +149,8 @@
       "price-amountcharged"
     ],
     "origin": "ラテン語 pretium（値打ち）。prize（賞）や praise（ほめる）と同語源",
+    "family": "priceless（値の付けられない）／ appraise（査定する）",
+    "contrast": "売り手が付ける売値。cost はかかった費用",
     "example": {
       "en": "The price includes installation but not annual maintenance.",
       "ja": "この価格には設置費が含まれるが年間保守費は含まれない。"
@@ -363,6 +369,8 @@
       "request-askfor"
     ],
     "origin": "re-（重ねて）＋ quaerere（求める）。question, inquire と同語源",
+    "family": "requisition（請求書）／ require（求める）",
+    "contrast": "丁寧に頼むこと。require のような強制力はない",
     "example": {
       "en": "Tenants may request extra parking passes at the front desk.",
       "ja": "賃借人は受付で追加の駐車証を依頼できる。"
@@ -387,6 +395,8 @@
       "report-writtenaccount"
     ],
     "origin": "re-（戻して）＋ portare（運ぶ）。持ち帰って伝えること。port, export と同語源",
+    "family": "reporter（記者）／ portable（持ち運べる）／ export（輸出する）",
+    "contrast": "調べた結果をまとめて伝えること",
     "example": {
       "en": "The safety report lists three items for immediate repair.",
       "ja": "安全報告書には至急修理すべき三点が挙げられている。"
@@ -1096,6 +1106,8 @@
       "announce-makepublic"
     ],
     "origin": "ad-（〜へ）＋ nuntiare（告げる）。pronounce, denounce と同語源",
+    "family": "announcement（発表）／ pronounce（発音する）／ denounce（糾弾する）",
+    "contrast": "不特定多数へ公に知らせること",
     "example": {
       "en": "The president will announce the results on Monday.",
       "ja": "社長が月曜に結果を発表する。"
@@ -1144,6 +1156,8 @@
       "borrow-takeonloan"
     ],
     "origin": "古英語 borgian（担保を出す）。bargain と発想が近い",
+    "family": "borrower（借り手）",
+    "contrast": "無償で借りて後で返すこと。rent は賃料を払って借りる",
     "example": {
       "en": "You may borrow the projector for one day.",
       "ja": "投影機は一日だけ借りることができる。"
@@ -1491,6 +1505,8 @@
       "accept-takeinofficially"
     ],
     "origin": "ad-（〜へ）＋ capere（つかむ）。receive と同じ capere",
+    "family": "acceptance（受諾）／ acceptable（許容できる）",
+    "contrast": "差し出されたものを受け取って認めること。except（〜を除いて）と紛らわしい",
     "example": {
       "en": "The office accepts applications until the end of March.",
       "ja": "事務所は三月末まで申込みを受理する。"
@@ -1539,6 +1555,8 @@
       "agreement-mutualunderstanding"
     ],
     "origin": "agree（同意する）＋ -ment。agree は ad-＋gratus（快い）で grateful と同語源",
+    "family": "agree（合意する）／ agreeable（心地よい）",
+    "contrast": "当事者の意思が一致した状態。contract ほど形式を問わない",
     "example": {
       "en": "Both sides reached an agreement on the delivery date.",
       "ja": "双方は納期について合意に達した。"
@@ -1875,6 +1893,8 @@
       "charge-askpayment"
     ],
     "origin": "ラテン語 carrus（荷車）。荷を積む→負担させる→請求する。car, cargo と同語源",
+    "family": "charger（充電器）／ cargo（積み荷）／ discharge（放出する）",
+    "contrast": "役務に対して代金を請求すること。名詞では担当や責任も指す",
     "example": {
       "en": "The garage charges an hourly rate for repairs.",
       "ja": "その修理場は修理に時間あたりの料金を請求する。"
@@ -2307,6 +2327,8 @@
       "fee-servicepayment"
     ],
     "origin": "古英語 feoh（家畜・財産）。家畜が富の単位だった名残",
+    "family": "feudal（封建の）",
+    "contrast": "専門的な役務や手続きへの料金。fare は乗り物の運賃",
     "example": {
       "en": "A late fee applies after the tenth day.",
       "ja": "十日目以降は延滞の料金がかかる。"
@@ -2499,6 +2521,8 @@
       "hire-employsomeone"
     ],
     "origin": "古英語 hyrian（賃金を払う）。名詞 hire（賃料）と同じ語",
+    "family": "hiring（採用）／ hire-purchase（分割購入）",
+    "contrast": "米語では人を雇うこと。英語では物を短期で借りる意味にもなる",
     "example": {
       "en": "The bakery hired four people for the holidays.",
       "ja": "そのパン屋は休暇のために四人雇った。"
@@ -2547,6 +2571,8 @@
       "inform-tellofficially"
     ],
     "origin": "in-（中に）＋ form（形）。相手の中に形を作る→知らせる",
+    "family": "information（情報）／ form（形）／ formal（正式な）",
+    "contrast": "相手に情報を伝えること。inform 人 of 事 の語順を取る",
     "example": {
       "en": "Inform the tenants about the water shutoff.",
       "ja": "断水について賃借人に知らせなさい。"
@@ -3195,6 +3221,8 @@
       "rent-periodicpayment"
     ],
     "origin": "ラテン語 reddita（返されるもの）。土地から返ってくる収益が原義",
+    "family": "rental（賃貸の）／ renter（借り手）",
+    "contrast": "賃料を払って短期に借りること。lease は不動産や設備の長期契約",
     "example": {
       "en": "The rent covers water but not electricity.",
       "ja": "賃料には水道代は含まれるが電気代は含まれない。"
@@ -3243,6 +3271,8 @@
       "reply-answerback"
     ],
     "origin": "re-（返して）＋ plicare（折る）。apply, complicate と同じ plicare",
+    "family": "replicate（複製する）／ ply（重ねる）",
+    "contrast": "問いに返す返事。respond より短く事務的な場面で使う",
     "example": {
       "en": "We await your reply before placing the order.",
       "ja": "発注の前にご返信をお待ちしている。"
@@ -3771,6 +3801,8 @@
       "amount-quantitytotal"
     ],
     "origin": "ラテン語 ad montem（山へ）。積み上がって山になる量",
+    "family": "amounting（合計して）／ mount（登る）",
+    "contrast": "数えられないものの総量。quantity は数えられる個数",
     "example": {
       "en": "The amount of paper used fell by half.",
       "ja": "使う紙の数量は半分に減った。"
@@ -4539,6 +4571,8 @@
       "cost-moneyrequired"
     ],
     "origin": "con-（共に）＋ stare（立つ）。「いくらで成り立つか」。stand, stable と同語源",
+    "family": "costly（費用のかかる）",
+    "contrast": "手に入れるのにかかった費用。price は表示される売値",
     "example": {
       "en": "The cost of packaging rose again.",
       "ja": "包装の費用がまた上がった。"
@@ -4659,6 +4693,8 @@
       "demand-buyerinterest"
     ],
     "origin": "de-（強意）＋ mandare（命じる）。mandate, command と同語源",
+    "family": "demanding（要求の厳しい）／ mandate（委任）",
+    "contrast": "強く要求すること。経済では需要を指す",
     "example": {
       "en": "Demand for compact printers keeps growing.",
       "ja": "小型の印刷機への需要は伸び続けている。"
@@ -5019,6 +5055,8 @@
       "expand-growlarger"
     ],
     "origin": "ex-（外へ）＋ pandere（広げる）。spread と同系の広がり",
+    "family": "expansion（拡張）／ expanse（広がり）",
+    "contrast": "面積や規模が外へ広がること。extend は長さや期間を伸ばす",
     "example": {
       "en": "The chain expanded into two more prefectures.",
       "ja": "その連鎖店はさらに二県へ拡大した。"
@@ -5259,6 +5297,8 @@
       "grow-increaseovertime"
     ],
     "origin": "古英語 growan（育つ）。grass, green と同語源",
+    "family": "growth（成長）／ grower（生産者）",
+    "contrast": "時間をかけて育って大きくなること。increase は数の増加を指す",
     "example": {
       "en": "Online orders grew steadily all spring.",
       "ja": "画面上の注文は春の間ずっと着実に伸びた。"
@@ -5379,6 +5419,8 @@
       "increase-makegreater"
     ],
     "origin": "in-（中へ）＋ ラテン語 crescere（伸びる）。crescent（三日月）, create と同語源",
+    "family": "increment（増加分）／ decrease（減る）／ crescent（三日月）",
+    "contrast": "数量が増えること。grow は生き物のように育つ含み",
     "example": {
       "en": "The plant increased output by a fifth.",
       "ja": "工場は生産を五分の一増やした。"
@@ -5859,6 +5901,8 @@
       "method-wayofdoing"
     ],
     "origin": "ギリシャ語 meta-（後を追って）＋ hodos（道）。道筋をたどること",
+    "family": "methodical（きちょうめんな）／ method actor（体得型俳優）",
+    "contrast": "体系立った進め方。means は目的を果たすための手立て",
     "example": {
       "en": "A simpler method cut assembly time.",
       "ja": "より単純な方法が組立時間を縮めた。"
@@ -5931,6 +5975,8 @@
       "notify-informformally"
     ],
     "origin": "ラテン語 notus（知られた）＋ facere（する）。notice と同語源",
+    "family": "notification（届出）／ note（覚え）／ notice（通知）",
+    "contrast": "正式な手続きとして通告すること。inform より事務的",
     "example": {
       "en": "Notify the office thirty days before you move.",
       "ja": "移転の三十日前に事務所へ通告しなさい。"
@@ -6459,6 +6505,8 @@
       "raise-liftlevel"
     ],
     "origin": "古ノルド語 reisa（立たせる）。rise の使役形にあたる",
+    "family": "raiser（発起人）／ rise（上がる）",
+    "contrast": "水準や金額を引き上げる他動詞。lift は重い物を物理的に持ち上げる",
     "example": {
       "en": "The mill raised its prices in January.",
       "ja": "その工場は一月に価格を引き上げた。"
@@ -6555,6 +6603,8 @@
       "reduce-makesmaller"
     ],
     "origin": "re-（後ろへ）＋ ducere（導く）。引き戻して小さくする。product と同語源",
+    "family": "reduction（削減）／ conduce（導く）／ produce（生産する）",
+    "contrast": "意図して量を減らす他動詞。decrease は自然に下がる場合にも使う",
     "example": {
       "en": "New packing reduced damage during transit.",
       "ja": "新しい梱包が輸送中の破損を減らした。"
@@ -7035,6 +7085,8 @@
       "state-expressinwords"
     ],
     "origin": "ラテン語 stare（立つ）。立っている在り方→述べる。stand, status と同語源",
+    "family": "statement（明細書）／ status（状態）／ stable（安定した）",
+    "contrast": "立場を明らかにして正式に述べること。mention は軽く触れるだけ",
     "example": {
       "en": "The contract states who pays for freight.",
       "ja": "契約は誰が運賃を払うかを述べている。"
@@ -7203,6 +7255,8 @@
       "transport-carrygoods"
     ],
     "origin": "trans-（越えて）＋ portare（運ぶ）。report, export と同語源",
+    "family": "transportation（輸送機関）／ portable（持ち運べる）／ import（輸入する）",
+    "contrast": "大量の荷や人を長い距離運ぶこと",
     "example": {
       "en": "Rail transports the heavy rolls inland.",
       "ja": "鉄道が重い巻き物を内陸へ輸送する。"

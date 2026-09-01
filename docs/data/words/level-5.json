@@ -71,6 +71,8 @@
       "covenant-bindingpromise"
     ],
     "origin": "con-（共に）＋ ラテン語 venire（来る）。歩み寄って結んだ約束。convene と同語源",
+    "family": "convene（招集する）／ convention（協定）／ venue（開催地）",
+    "contrast": "契約書の中で当事者が負う個別の約束条項",
     "example": {
       "en": "A covenant in the loan limits further borrowing.",
       "ja": "融資の約款が追加の借入を制限している。"
@@ -3820,6 +3822,8 @@
       "efficacy-abilitytoproduceeffect"
     ],
     "origin": "ex-（外へ）＋ ラテン語 facere（作る）。狙った結果を出す力。effective と同語源",
+    "family": "efficacious（効き目のある）／ effective（効果的な）",
+    "contrast": "効き目そのものを指す名詞。薬や施策の評価に使う",
     "example": {
       "en": "Trials confirmed the coating's efficacy.",
       "ja": "試験が塗膜の有効性を確かめた。"

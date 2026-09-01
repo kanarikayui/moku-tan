@@ -117,6 +117,8 @@
       "revenue-income"
     ],
     "origin": "re-（戻って）＋ venire（来る）。戻ってくるお金。event, invent と同語源",
+    "family": "revenues（収入源）／ avenue（大通り）／ venue（開催地）",
+    "contrast": "費用を引く前の売上総額。profit は費用を引いた後",
     "example": {
       "en": "Overseas revenue accounted for half of last year's total.",
       "ja": "海外の収益は昨年の総額の半分を占めた。"
@@ -144,6 +146,8 @@
       "w0050"
     ],
     "origin": "ラテン語 aestimare（値をつける）。esteem（尊重する）と同語源",
+    "family": "estimation（評価）／ esteem（尊重する）",
+    "contrast": "おおよその数字を出すこと。appraise は専門家が価値を定める",
     "example": {
       "en": "Please estimate the repair cost before Thursday's meeting.",
       "ja": "木曜の会議までに修理費を見積もってください。"
@@ -168,6 +172,8 @@
       "recruit-hire"
     ],
     "origin": "re-（再び）＋ crescere（育つ）。増員して部隊を育て直すこと。increase と同語源",
+    "family": "recruitment（採用活動）／ increase（増える）／ crescent（三日月）",
+    "contrast": "人を募って集めること。個々の採用決定は hire",
     "example": {
       "en": "We plan to recruit six engineers before the plant opens.",
       "ja": "工場の開設前に技術者を六名採用する予定だ。"
@@ -290,6 +296,8 @@
       "contract-legalagreement"
     ],
     "origin": "con-（共に）＋ trahere（引く）。互いに引き合って結ぶ。attract, tractor と同語源",
+    "family": "contractor（請負業者）／ contraction（収縮）／ attract（引きつける）",
+    "contrast": "法的拘束力のある取り決め全体。covenant はその中の個別条項",
     "example": {
       "en": "The contract runs for two years with an option to extend.",
       "ja": "この契約は二年間で、延長の選択権が付いている。"
@@ -414,6 +422,8 @@
       "expense-businesscost"
     ],
     "origin": "ex-（外へ）＋ pendere（量る・払う）。天秤で量って払った名残。pension と同語源",
+    "family": "expensive（高価な）／ expend（費やす）",
+    "contrast": "業務で出ていく費用。price は売り手が付ける値段",
     "example": {
       "en": "Travel expense claims require original receipts.",
       "ja": "出張経費の請求には原本の領収書が必要だ。"
@@ -486,6 +496,8 @@
       "efficient-wastefree"
     ],
     "origin": "ex-（外へ）＋ facere（作る）。少ない手で成果を出す。effect, factory と同語源",
+    "family": "efficiency（効率）／ effect（効果）",
+    "contrast": "少ない手間で成果を出すこと。effective は結果が出るかどうかを言う",
     "example": {
       "en": "The new sorting line is far more efficient than the old one.",
       "ja": "新しい仕分け設備は旧型よりはるかに効率的だ。"
@@ -953,6 +965,8 @@
       "w0294"
     ],
     "origin": "ex-（外へ）＋ value（価値）。価値を引き出して測ること",
+    "family": "evaluation（評価）／ value（価値）／ valid（有効な）",
+    "contrast": "良し悪しを見極めること。assess より価値判断の色が濃い",
     "example": {
       "en": "The panel will evaluate each proposal on cost.",
       "ja": "審査団は各提案を費用の面から評価する。"
@@ -1246,6 +1260,8 @@
       "permit-officialpermission"
     ],
     "origin": "per-（通して）＋ mittere（送る）。通してやること。mission, transmit と同語源",
+    "family": "permission（許可）／ permissible（許される）",
+    "contrast": "公式に許すこと。名詞では許可証そのものを指す",
     "example": {
       "en": "A building permit is required before demolition starts.",
       "ja": "解体を始める前に建築の許可証が必要だ。"
@@ -1613,6 +1629,8 @@
       "adjust-changesetting"
     ],
     "origin": "ad-（〜へ）＋ juxta（近くに）。近づけて合わせること",
+    "family": "adjustment（調整）／ just（正確な）／ justify（正当化する）",
+    "contrast": "ずれを細かく合わせ込むこと。大きく変える alter とは度合いが違う",
     "example": {
       "en": "Adjust the pressure before the first run.",
       "ja": "最初の運転の前に圧力を調節しなさい。"
@@ -1733,6 +1751,8 @@
       "alter-makedifferent"
     ],
     "origin": "ラテン語 alter（他方）。別のものに変えること。alternative と同語源",
+    "family": "alteration（改変）／ alternative（代替の）／ alien（異なる）",
+    "contrast": "形や性質そのものを変えること。衣服の寸法直しにも使う",
     "example": {
       "en": "Do not alter the wording without approval.",
       "ja": "承認なしに文言を変更してはならない。"
@@ -1877,6 +1897,8 @@
       "assure-tellconfidently"
     ],
     "origin": "ad-（〜へ）＋ securus（心配のない）。secure, sure と同語源",
+    "family": "assurance（確約）／ sure（確かな）",
+    "contrast": "人に言って安心させること。目的語は必ず人",
     "example": {
       "en": "The seller assured us the parts are genuine.",
       "ja": "売り主は部品が本物だと保証して伝えた。"
@@ -2093,6 +2115,8 @@
       "capacity-maximumamount"
     ],
     "origin": "ラテン語 capere（つかむ）。受け入れられる量。capture, receive と同語源",
+    "family": "capable（有能な）／ capture（捕らえる）／ receive（受け取る）",
+    "contrast": "受け入れられる量や地位を指す名詞。capable は能力を言う形容詞",
     "example": {
       "en": "The hall has a capacity of five hundred.",
       "ja": "その会場の収容力は五百人だ。"
@@ -3317,6 +3341,8 @@
       "ensure-makecertain"
     ],
     "origin": "en-（〜にする）＋ sure（確かな）。確かな状態にすること",
+    "family": "sure（確かな）／ insure（保険をかける）",
+    "contrast": "物事が確実に起こるようにすること。目的語は事柄",
     "example": {
       "en": "Double checks ensure the labels match.",
       "ja": "二重の確認で表示の一致を確実にする。"
@@ -3581,6 +3607,8 @@
       "extend-makelonger"
     ],
     "origin": "ex-（外へ）＋ ラテン語 tendere（伸ばす）。外へ引き伸ばすこと。tension と同語源",
+    "family": "extension（内線）／ extent（範囲）／ tension（張力）",
+    "contrast": "長さや期限を先へ伸ばすこと。expand は面的に広がる",
     "example": {
       "en": "Both sides agreed to extend the lease.",
       "ja": "双方は賃貸借の延長に同意した。"
@@ -3869,6 +3897,8 @@
       "guarantee-promisecertainty"
     ],
     "origin": "ゲルマン語 warjan（守る）。相手に代わって守ると約束すること。warranty と同語源",
+    "family": "guarantor（保証人）／ warranty（保証書）",
+    "contrast": "品質や支払いを請け合うこと。warranty は書面としての保証を指す",
     "example": {
       "en": "The maker guarantees delivery within a week.",
       "ja": "製造業者は一週間以内の納品を請け合う。"
@@ -3965,6 +3995,8 @@
       "impact-strongeffect"
     ],
     "origin": "im-（中へ）＋ ラテン語 pangere（打ち込む）。打ち当たって残す作用",
+    "family": "impactful（影響の大きい）",
+    "contrast": "打撃のように強く残る影響。名詞で使うことが多い",
     "example": {
       "en": "The new route had little impact on costs.",
       "ja": "新しい経路は費用にほとんど影響がなかった。"
@@ -4013,6 +4045,8 @@
       "income-moneyreceived"
     ],
     "origin": "in（中へ）＋ come（来る）。手元へ入って来るお金",
+    "family": "incoming（入ってくる）",
+    "contrast": "手元に入ってくる所得。企業では revenue と区別して使う",
     "example": {
       "en": "Rental income covers the loan payments.",
       "ja": "賃貸の所得が融資の返済を賄う。"
@@ -4109,6 +4143,8 @@
       "influence-affectdecision"
     ],
     "origin": "in-（中へ）＋ ラテン語 fluere（流れる）。じわじわ流れ込む力。fluid と同語源",
+    "family": "influential（影響力のある）／ influx（流入）／ fluid（流動体）",
+    "contrast": "じわじわ方向づける力。affect より間接的で時間がかかる",
     "example": {
       "en": "Reviews strongly influence first-time buyers.",
       "ja": "評価は初めての買い手を強く左右する。"
@@ -4541,6 +4577,8 @@
       "loan-borrowedmoney"
     ],
     "origin": "古ノルド語 lan（貸したもの）。lend と同語源で、貸し出した金",
+    "family": "lend（貸す）／ lender（貸し手）",
+    "contrast": "貸し付けた金そのもの。borrow は借りる側の動作",
     "example": {
       "en": "The loan runs for seven years at fixed rates.",
       "ja": "その融資は固定金利で七年続く。"
@@ -4685,6 +4723,8 @@
       "mention-refertobriefly"
     ],
     "origin": "ラテン語 mens（心）。心に浮かんだことを口に出すこと。mental と同語源",
+    "family": "mentionable（言及に値する）／ mental（心の）",
+    "contrast": "話の途中でついでに触れること。state は公式にはっきり述べる",
     "example": {
       "en": "The letter mentions a delay of two weeks.",
       "ja": "その手紙は二週間の遅れに言及している。"
@@ -5525,6 +5565,8 @@
       "procedure-establishedprocess"
     ],
     "origin": "pro-（前へ）＋ ラテン語 cedere（進む）。段取りを踏んで進むこと",
+    "family": "proceed（進行する）／ process（工程）／ precede（先行する）",
+    "contrast": "定められた手順。method より公式で順序が決まっている",
     "example": {
       "en": "The refund procedure takes about ten days.",
       "ja": "返金の手続きは約十日かかる。"
@@ -5621,6 +5663,8 @@
       "profit-financialgain"
     ],
     "origin": "pro-（前へ）＋ ラテン語 facere（作る）。前へ進んだ分の実り",
+    "family": "profitable（もうかる）／ proficient（熟達した）",
+    "contrast": "売上から費用を引いた利益。revenue は引く前の総額",
     "example": {
       "en": "Profit rose despite the higher freight bills.",
       "ja": "運賃の増加にもかかわらず利益は伸びた。"
@@ -5837,6 +5881,8 @@
       "quantity-countedamount"
     ],
     "origin": "ラテン語 quantus（どれだけ）。どれだけあるかの数",
+    "family": "quantify（数量化する）／ quantum（量子）",
+    "contrast": "数えられる個数や分量。quality（質）と対をなす",
     "example": {
       "en": "Check the quantity against the packing list.",
       "ja": "個数を梱包明細と照合しなさい。"
@@ -5861,6 +5907,8 @@
       "rate-measuredproportion"
     ],
     "origin": "ラテン語 ratus（計算された）。計算で出す割合。ratio, reason と同語源",
+    "family": "ratio（比）／ ratify（批准する）／ rational（合理的な）",
+    "contrast": "単位あたりの割合や料率。総額ではない",
     "example": {
       "en": "The hourly rate rises after eight in the evening.",
       "ja": "夜八時以降は時間あたりの率が上がる。"
@@ -5885,6 +5933,8 @@
       "reach-arriveatlevel"
     ],
     "origin": "古英語 ræcan（差し伸べる）。手を伸ばして届くこと",
+    "family": "reachable（到達可能な）",
+    "contrast": "他動詞なので目的語を直に取る。arrive は at や in が要る",
     "example": {
       "en": "Output reached a record in the third quarter.",
       "ja": "生産は第三四半期に記録に到達した。"
@@ -6293,6 +6343,8 @@
       "require-demandasnecessary"
     ],
     "origin": "re-（強め）＋ ラテン語 quaerere（求める）。強く求めること。question と同語源",
+    "family": "requirement（要件）／ requisite（必須の）／ request（依頼する）",
+    "contrast": "規定や事情として必要とすること。頼む意味はない",
     "example": {
       "en": "The permit requires two signatures.",
       "ja": "その許可証は署名を二つ求める。"
@@ -6413,6 +6465,8 @@
       "respond-replytoquery"
     ],
     "origin": "re-（返して）＋ ラテン語 spondere（約束する）。呼びかけに返すこと",
+    "family": "response（反応）／ responsible（責任のある）／ correspond（対応する）",
+    "contrast": "呼びかけに反応すること。reply より広く、行動での応答も含む",
     "example": {
       "en": "The desk responds to emails within a day.",
       "ja": "窓口は一日以内に電子便へ応答する。"
@@ -6629,6 +6683,8 @@
       "secure-obtainsafely"
     ],
     "origin": "ラテン語 se-（〜なしに）＋ cura（心配）。心配のない状態にすること。cure と同語源",
+    "family": "security（保安）／ securely（確実に）",
+    "contrast": "手に入れて確保すること。安全な状態にする意味もある",
     "example": {
       "en": "The team secured space on the next vessel.",
       "ja": "その班は次の船の積み場所を確保した。"
@@ -7157,6 +7213,8 @@
       "succeed-takeoverposition"
     ],
     "origin": "sub-（後に）＋ ラテン語 cedere（進む）。前任の後に続くこと",
+    "family": "success（成功）／ successor（後任）／ succession（継承）",
+    "contrast": "後を継ぐこと。to を伴うと継承、in を伴うと成功",
     "example": {
       "en": "Mr. Aoki succeeds her as plant manager.",
       "ja": "青木氏が工場長として彼女の後任となる。"
@@ -7709,6 +7767,8 @@
       "volume-quantityhandled"
     ],
     "origin": "ラテン語 volvere（巻く）。巻物の巻きの太さ、そこからかさや量。involve と同語源",
+    "family": "voluminous（かさばる）／ involve（巻き込む）／ revolve（回転する）",
+    "contrast": "かさや取扱量。もとは巻物の巻きの太さ",
     "example": {
       "en": "Volume at the port doubled in five years.",
       "ja": "港の取扱量は五年で倍になった。"
@@ -7901,6 +7961,8 @@
       "adopt-startusing"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 optare（選ぶ）。選んで自分のものにすること。option と同語源",
+    "family": "adoption（採用）／ adapt（適応する）／ option（選択肢）",
+    "contrast": "方針や案を選んで採り入れること。adapt（適応する）と一字違い",
     "example": {
       "en": "The plant adopted a paperless work order.",
       "ja": "工場は紙を使わない作業指示を採り入れた。"
@@ -7949,6 +8011,8 @@
       "affect-produceeffecton"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 facere（作る）。相手に働きかけて変化を起こすこと",
+    "family": "affection（愛情）／ effect（結果）",
+    "contrast": "直接はたらきかけて変化を起こす動詞。名詞の effect と綴りを混同しやすい",
     "example": {
       "en": "Humidity affects how the glue sets.",
       "ja": "湿度が接着剤の固まり方に作用する。"
@@ -7973,6 +8037,8 @@
       "allow-permitaction"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 laudare（褒める）。よしと認めること",
+    "family": "allowance（手当）／ allowable（許容される）",
+    "contrast": "黙認も含む広い許し。permit のような公式さはない",
     "example": {
       "en": "The rules allow one guest per resident.",
       "ja": "規則は居住者一名につき客一名を許す。"
@@ -7997,6 +8063,8 @@
       "alternate-everysecondone"
     ],
     "origin": "ラテン語 alter（二つのうち他方）。二つが入れ替わること。alternative と同語源",
+    "family": "alternately（交互に）／ alter（変える）",
+    "contrast": "二つが交互に入れ替わること。名詞では代理人も指す",
     "example": {
       "en": "Cleaning happens on alternate weeks.",
       "ja": "清掃は交互の週に行われる。"
@@ -8309,6 +8377,8 @@
       "boost-raisesharply"
     ],
     "origin": "語源不詳の口語。下から突き上げて押し上げる感じの語",
+    "family": "booster（増強するもの）",
+    "contrast": "外から力を加えて押し上げること。自然に増える increase とは向きが違う",
     "example": {
       "en": "Free delivery boosted weekend orders.",
       "ja": "無料配送が週末の注文を押し上げた。"
@@ -8357,6 +8427,8 @@
       "capable-havingability"
     ],
     "origin": "ラテン語 capere（取る）。受け止めてこなせること。capacity と同語源",
+    "family": "capacity（収容力）／ capture（捕らえる）／ accept（受理する）",
+    "contrast": "こなす力がある形容詞。be capable of の形で使う",
     "example": {
       "en": "A capable technician fixed it in minutes.",
       "ja": "有能な技術者が数分で直した。"
@@ -8621,6 +8693,8 @@
       "confident-surelybelieving"
     ],
     "origin": "con-（強め）＋ ラテン語 fidere（信じる）。強く信じている状態。faith と同語源",
+    "family": "confidence（自信）／ confide（打ち明ける）",
+    "contrast": "自信がある状態。confidential（部外秘の）とは意味がまったく違う",
     "example": {
       "en": "Management is confident about the autumn launch.",
       "ja": "経営陣は秋の発売を確信している。"
@@ -8693,6 +8767,8 @@
       "constant-continuouswithoutpause"
     ],
     "origin": "con-（共に）＋ ラテン語 stare（立つ）。同じ状態で立ち続けること。stand と同語源",
+    "family": "constancy（不変）／ stand（立つ）／ stable（安定した）",
+    "contrast": "途切れず一定であること。consecutive は回数が連続すること",
     "example": {
       "en": "Constant vibration loosened the bolts.",
       "ja": "絶え間ない振動が留め具を緩めた。"
@@ -8981,6 +9057,8 @@
       "decline-decreasesteadily"
     ],
     "origin": "de-（下へ）＋ ラテン語 clinare（傾く）。下へ傾いていくこと。incline と同語源",
+    "family": "declination（傾斜）／ incline（傾く）",
+    "contrast": "勢いや業績が下向きに衰えること。申し出を断る意味もある",
     "example": {
       "en": "Orders declined during the wet season.",
       "ja": "注文は雨季の間に落ち込んだ。"
@@ -9005,6 +9083,8 @@
       "decrease-becomeless"
     ],
     "origin": "de-（下へ）＋ ラテン語 crescere（伸びる）。伸びが下向きになること。increase と対",
+    "family": "decrement（減少分）／ increase（増える）／ crescent（三日月）",
+    "contrast": "数量が下がること。自動詞でも他動詞でも使える",
     "example": {
       "en": "Fuel costs decreased for a third month.",
       "ja": "燃料費は三か月続けて下がった。"
@@ -9485,6 +9565,8 @@
       "efficiency-outputperinput"
     ],
     "origin": "ex-（外へ）＋ ラテン語 facere（作る）。手間に対してどれだけ成果を出すか",
+    "family": "efficient（効率的な）／ effect（効果）",
+    "contrast": "手間に対する成果の比。effectiveness（有効性）とは測るものが違う",
     "example": {
       "en": "Efficiency rose after the belts were replaced.",
       "ja": "帯の交換後、効率は上がった。"
@@ -9509,6 +9591,8 @@
       "effective-producingdesiredresult"
     ],
     "origin": "ex-（外へ）＋ ラテン語 facere（作る）。狙った結果を実際に生むこと",
+    "family": "effect（効果）／ effectively（実質的に）／ efficacy（有効性）",
+    "contrast": "狙った結果が出ること。efficient は無駄が少ないこと",
     "example": {
       "en": "The new filter proved highly effective.",
       "ja": "新しい濾過器はきわめて効果的だと分かった。"
@@ -9605,6 +9689,8 @@
       "employ-givework"
     ],
     "origin": "em-（中へ）＋ ラテン語 plicare（折り込む）。仕事の中へ人を組み入れること",
+    "family": "employment（雇用）／ employer（雇用主）／ imply（暗に示す）",
+    "contrast": "雇用関係を結ぶ硬い語。hire は採用の場面で使う口語",
     "example": {
       "en": "The plant employs ninety people locally.",
       "ja": "工場は地元で九十人を就労させている。"
@@ -9869,6 +9955,8 @@
       "expect-anticipatearrival"
     ],
     "origin": "ex-（外を）＋ ラテン語 specere（見る）。先を見て待つこと。inspect と同語源",
+    "family": "expectation（期待）／ expectancy（見込み）／ spectacle（光景）",
+    "contrast": "先を見越して待つこと。accept と綴りが近い",
     "example": {
       "en": "We expect the container on Thursday.",
       "ja": "木曜に貨物箱を予期している。"
@@ -10973,6 +11061,8 @@
       "lift-raiseupward"
     ],
     "origin": "古ノルド語 lypta（持ち上げる）。空気（loft）へ上げる語と同系",
+    "family": "lifter（持ち上げる装置）／ aloft（高く）",
+    "contrast": "重い物を手や機械で持ち上げること。raise は水準や価格にも使える",
     "example": {
       "en": "Never lift the drum without a partner.",
       "ja": "相方なしに樽を持ち上げてはならない。"
@@ -11021,6 +11111,8 @@
       "literature-productdocuments"
     ],
     "origin": "ラテン語 littera（文字）。文字で書かれたもの。letter と同語源",
+    "family": "literary（文学の）／ letter（文字）",
+    "contrast": "商談では文学でなく、配布する印刷資料を指すことが多い",
     "example": {
       "en": "Product literature is stocked at the booth.",
       "ja": "商品の印刷資料は売り場に置いてある。"
@@ -11117,6 +11209,8 @@
       "manner-wayofdoing"
     ],
     "origin": "ラテン語 manus（手）。手のこなし方、そこからやり方。manual と同語源",
+    "family": "mannerism（型にはまった癖）／ manual（手作業の）／ manage（管理する）",
+    "contrast": "振る舞い方や流儀。複数形 manners は行儀作法",
     "example": {
       "en": "Handle complaints in a calm manner.",
       "ja": "苦情は落ち着いたやり方で扱いなさい。"
@@ -11189,6 +11283,8 @@
       "means-methodofachieving"
     ],
     "origin": "ラテン語 medius（中間）。目的に至る途中の道具立て。medium と同語源",
+    "family": "meantime（その間）／ medium（媒体）／ mediate（調停する）",
+    "contrast": "目的を果たすための手立て。単複同形で a means of と使う",
     "example": {
       "en": "Rail is the cheapest means of transport.",
       "ja": "鉄道は最も安い輸送の手段だ。"
@@ -11333,6 +11429,8 @@
       "modify-makesmallchange"
     ],
     "origin": "ラテン語 modus（測り）＋ facere（作る）。寸法を測り直して整えること",
+    "family": "modification（仕様変更）／ mode（方式）／ moderate（穏やかな）",
+    "contrast": "仕様や設定を部分的に手直しすること",
     "example": {
       "en": "Engineers modified the guard rail.",
       "ja": "技術者は安全柵を手直しした。"

@@ -164,6 +164,8 @@
       "comprehensive-coveringall"
     ],
     "origin": "com-（共に）＋ ラテン語 prehendere（つかむ）。まとめて抱え込むこと。comprise と同語源",
+    "family": "comprehend（理解する）／ comprise（構成する）",
+    "contrast": "漏れなく網羅していること。形容詞なので主語の性質を述べる",
     "example": {
       "en": "The plan offers comprehensive coverage for imported machinery.",
       "ja": "この契約は輸入機械に包括的な補償を提供する。"
@@ -847,6 +849,8 @@
       "diminish-becomeless"
     ],
     "origin": "di-（すっかり）＋ ラテン語 minuere（減らす）。少なくなること。minor, minus と同語源",
+    "family": "diminution（縮小）／ minor（小さい）／ minimum（最小）",
+    "contrast": "少しずつ目減りしていくこと。decrease より緩やかな含み",
     "example": {
       "en": "Complaints diminished after the new labels appeared.",
       "ja": "新しい表示が出てから苦情は減少した。"
@@ -2471,6 +2475,8 @@
       "adept-veryskillful"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 apisci（達する）。腕が届いていること",
+    "family": "adeptly（巧みに）／ apt（しがちな）",
+    "contrast": "腕が達している形容詞。動詞の adopt と混同しやすい",
     "example": {
       "en": "An adept operator halves the setup time.",
       "ja": "巧みな担当者は段取りを半分にする。"
@@ -5135,6 +5141,8 @@
       "expend-usemoneyoreffort"
     ],
     "origin": "ex-（外へ）＋ ラテン語 pendere（払う）。払い出して使うこと。expenditure と同語源",
+    "family": "expenditure（出費）／ expense（経費）／ spend（使う）",
+    "contrast": "資源や労力を使い果たすこと。expand と綴りが一字違い",
     "example": {
       "en": "The firm expended little on advertising.",
       "ja": "会社は広告にほとんど費やさなかった。"
