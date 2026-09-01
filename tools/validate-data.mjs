@@ -48,6 +48,23 @@ function checkNoteFormat(text, where, errors) {
   }
 }
 
+/**
+ * family は `語（訳）／ 語（訳）` の形で書く。
+ * 括弧の中が英字だけだと訳の書き忘れなので、画面に出る前に落とす。
+ */
+function checkFamilyFormat(text, where, errors) {
+  const glosses = [...text.matchAll(/（([^）]*)）/g)].map((match) => match[1]);
+  if (glosses.length === 0) {
+    errors.push(`${where}: 語族は 語（訳） の形で書いてください`);
+    return;
+  }
+  for (const gloss of glosses) {
+    if (!/[^\x00-\x7f]/.test(gloss)) {
+      errors.push(`${where}: 語族の「${gloss}」に日本語の訳がありません`);
+    }
+  }
+}
+
 function checkRequiredFields(entry, errors) {
   const where = entry.id ?? '(id なし)';
   if (typeof entry.id !== 'string' || !/^[wp]\d{4}$/.test(entry.id)) {
@@ -91,6 +108,7 @@ function checkRequiredFields(entry, errors) {
       continue;
     }
     checkNoteFormat(entry[field], `${where}: ${field}`, errors);
+    if (field === 'family') checkFamilyFormat(entry[field], where, errors);
   }
 }
 
