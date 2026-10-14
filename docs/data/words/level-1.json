@@ -2208,6 +2208,7 @@
       "crew-workteam"
     ],
     "origin": "古フランス語 creue（増員）。増やした人手の一団",
+    "trivia": "集合名詞なので、一人を指すときは a crew member と言う。a crew では乗組員全体を意味する",
     "example": {
       "en": "The night crew loads the trucks at eleven.",
       "ja": "夜の作業班は十一時に貨物車へ積み込む。"
@@ -2881,6 +2882,7 @@
       "ladder-climbingframe"
     ],
     "origin": "古英語 hlæder。lean（もたれる）と同系で「立てかけるもの」",
+    "trivia": "社内の出世コースを career ladder と呼ぶ。女性の昇進を阻む壁は glass ceiling",
     "example": {
       "en": "A worker is climbing a ladder to the roof.",
       "ja": "作業員がはしごで屋根へ上っている。"
@@ -3243,6 +3245,7 @@
     ],
     "origin": "prae-（前に）＋ esse（ある）。人の前に差し出すこと",
     "family": "presence（存在）／ presentation（発表）／ presently（間もなく）",
+    "trivia": "名詞「贈り物」、形容詞「出席している」、動詞「提示する」で強勢の位置が変わる多機能な語",
     "example": {
       "en": "Present your badge at the security gate.",
       "ja": "警備門で名札を提示しなさい。"
@@ -3268,6 +3271,7 @@
     ],
     "origin": "print（押し付ける）＋ -er。ラテン語 premere（押す）で press と同語源",
     "family": "print（印刷する）／ imprint（刻印）",
+    "trivia": "印刷業者も印刷機も printer。TOEIC では印刷会社とのやり取りが頻出の場面になる",
     "example": {
       "en": "The printer on this floor takes large paper.",
       "ja": "この階の印刷機は大判の紙を扱える。"
@@ -3344,6 +3348,7 @@
       "queue-waitingline"
     ],
     "origin": "ラテン語 cauda（尾）。列の後ろに続く様子を尾に見立てた",
+    "trivia": "最後の四文字 ueue を取り去っても発音が変わらない語として知られる。英国では行列、米国では line",
     "example": {
       "en": "A long queue formed at the service counter.",
       "ja": "受付のカウンターに長い列ができた。"
@@ -3369,6 +3374,7 @@
     ],
     "origin": "re-（強意）＋ commend（ゆだねる）。mandate と同語源",
     "family": "recommendation（推薦）／ commend（推奨する）／ mandate（委任）",
+    "trivia": "m が二つで n が一つ。つい recomend や reccommend と書き間違える綴りの難物",
     "example": {
       "en": "The clerk recommended the sturdier model.",
       "ja": "係員はより丈夫な型を勧めた。"
@@ -3394,6 +3400,7 @@
     ],
     "origin": "re-（再び）＋ fresh（新鮮な）。元気を取り戻させるもの",
     "family": "refresh（元気づける）／ fresh（新鮮な）",
+    "trivia": "会議の案内文では複数形 refreshments で「軽食と飲み物」。単数だと「気分転換」になる",
     "example": {
       "en": "Refreshments are served during the break.",
       "ja": "休憩中に軽食が出される。"
@@ -3707,6 +3714,7 @@
       "stair-stepstructure"
     ],
     "origin": "古英語 stæger（上る）。climb と同じ「上る」動作から",
+    "trivia": "一段を stair、階段全体を stairs または staircase と呼ぶ。stair は単数で使うことが少ない",
     "example": {
       "en": "Use the stairs during the fire drill.",
       "ja": "避難訓練の間は階段を使いなさい。"
@@ -4042,6 +4050,7 @@
     ],
     "origin": "ad-（〜へ）＋ directus（まっすぐな）。宛先を指し示すこと。direct と同語源",
     "family": "addressee（宛先人）／ direct（向ける）",
+    "trivia": "名詞は /ˈædres/、動詞は /əˈdres/。動詞では「対処する」の意味で会議文書によく出る",
     "example": {
       "en": "Write the delivery address in block letters.",
       "ja": "配達の住所は活字体で書きなさい。"
@@ -4068,6 +4077,7 @@
     "origin": "ラテン語 ad montem（山へ）。積み上がって山になる量",
     "family": "amounting（合計して）／ mount（登る）",
     "contrast": "数えられないものの総量。quantity は数えられる個数",
+    "trivia": "不可算名詞に使い、数えられるものには number を使う。a large amount of water と a number of people",
     "example": {
       "en": "The amount of paper used fell by half.",
       "ja": "使う紙の数量は半分に減った。"
@@ -4093,6 +4103,7 @@
     ],
     "origin": "announce（告げる）＋ -ment。nuntiare（告げる）から",
     "family": "announce（発表する）／ pronounce（発音する）／ denounce（糾弾する）",
+    "trivia": "社内通知も空港放送も announcement。TOEIC では「お知らせ」として頻出の語形",
     "example": {
       "en": "An announcement about the move went out today.",
       "ja": "移転についての通知が本日出された。"
@@ -4118,6 +4129,7 @@
     ],
     "origin": "a-（分けて）＋ part（部分）。建物を分けた一区画",
     "family": "apart（離れて）／ part（部分）／ depart（出発する）",
+    "trivia": "英国では flat。apartment は米語で、TOEIC の不動産広告では apartment が使われる",
     "example": {
       "en": "The apartment above the shop is now empty.",
       "ja": "店の上の集合住宅は今は空いている。"
@@ -4143,6 +4155,7 @@
     ],
     "origin": "approve（認める）＋ -al。ラテン語 probare（良いと試す）で prove と同語源",
     "family": "approve（承認する）／ prove（証明する）／ proof（証拠）",
+    "trivia": "承認の意味だけでなく、賛同も指す。approval rating は支持率のこと",
     "example": {
       "en": "Building work waits on city approval.",
       "ja": "建築工事は市の認可を待っている。"
@@ -4167,6 +4180,7 @@
       "area-definedspace"
     ],
     "origin": "ラテン語 area（空き地）。もとは打穀場を指した",
+    "trivia": "面積と地域の両方を指す。TOEIC では reception area（受付スペース）のような使い方が多い",
     "example": {
       "en": "Smoking is banned in every indoor area.",
       "ja": "屋内の区域はすべて禁煙だ。"
@@ -4192,6 +4206,7 @@
     ],
     "origin": "arrive（着く）＋ -al。ripa（岸）から",
     "family": "arrive（到着する）／ river（川）",
+    "trivia": "到着便の表示は Arrivals、出発は Departures と、空港では複数形で掲げる",
     "example": {
       "en": "The arrival board shows a delay of an hour.",
       "ja": "到着便の掲示板は一時間の遅れを示している。"
@@ -4217,6 +4232,7 @@
     ],
     "origin": "assign（割り当てる）＋ -ment。ad-＋signum（しるし）で sign と同語源",
     "family": "assign（割り当てる）／ sign（印）／ design（設計する）",
+    "trivia": "課題も任務も指し、法律では権利の「譲渡」も assignment。場面で訳がかなり変わる",
     "example": {
       "en": "Her first assignment was to sort the archive.",
       "ja": "彼女の最初の割り当てられた仕事は書庫の整理だった。"
@@ -4242,6 +4258,7 @@
     ],
     "origin": "ラテン語 audire（聞く）。audio, audit と同語源で「聞く人々」",
     "family": "audio（音声の）／ audit（監査する）／ audible（聞き取れる）",
+    "trivia": "集合名詞で、一人は an audience member。聴衆全体が一つの単位として扱われる",
     "example": {
       "en": "The audience filled the hall by nine.",
       "ja": "聴衆は九時までに会場を埋めた。"
@@ -4293,6 +4310,7 @@
     ],
     "origin": "base（土台）＋ -ment。建物の土台の階",
     "family": "base（土台）／ basis（基礎）／ basic（基本の）",
+    "trivia": "地階を basement、地下一階を B1 と表すのは和製的な省略。英語では basement level 1 と言う",
     "example": {
       "en": "Spare chairs are stored in the basement.",
       "ja": "予備の椅子は地階にしまってある。"
@@ -4369,6 +4387,7 @@
       "bridge-roadoverwater"
     ],
     "origin": "古英語 brycg。丸太を渡す構造物を指した古い語",
+    "trivia": "歯科の「ブリッジ」も船の「艦橋」も同じ語。両側を渡すという発想が共通している",
     "example": {
       "en": "Trucks avoid the old bridge during repairs.",
       "ja": "修理の間、貨物車は古い橋を避ける。"
@@ -4418,6 +4437,7 @@
     ],
     "origin": "build（建てる）＋ -ing。build は古英語 byldan（住居を作る）から",
     "family": "build（建てる）／ builder（建築業者）",
+    "trivia": "進行形と紛らわしいが、名詞としての building は「建物」で動詞から独立している",
     "example": {
       "en": "The building opened three years ago.",
       "ja": "その建物は三年前に開いた。"
@@ -4442,6 +4462,7 @@
       "bulletin-noticeboard"
     ],
     "origin": "イタリア語 bullettino（小さな公文書）。bill と同じ bulla（封印）から",
+    "trivia": "もとは小さな公文書。bulletin board（掲示板）は計算機の電子掲示板の名にも受け継がれた",
     "example": {
       "en": "Shift changes appear on the bulletin board.",
       "ja": "勤務の交代は掲示板に出る。"
@@ -4545,6 +4566,7 @@
     ],
     "origin": "choose（選ぶ）の名詞形。古フランス語 chois を経て英語へ",
     "family": "choose（選ぶ）／ choosy（えり好みする）",
+    "trivia": "choose の名詞形だが綴りが大きく変わる。have no choice but to は「〜するしかない」",
     "example": {
       "en": "Buyers now have a wider choice of colors.",
       "ja": "買い手は色の選択肢が広がった。"
@@ -4622,6 +4644,7 @@
     ],
     "origin": "col-（共に）＋ legere（拾う）。select, elect と同語源",
     "family": "collection（回収）／ collective（集団の）／ select（選ぶ）／ elect（選出する）",
+    "trivia": "call collect は料金着信払いの通話のこと。米国の古い電話文化を今に残す表現",
     "example": {
       "en": "Drivers collect empty pallets on Fridays.",
       "ja": "運転手は金曜に空の荷台を集める。"
@@ -4673,6 +4696,7 @@
     ],
     "origin": "com-（共に）＋ mens（心）。心に浮かんだことを添える",
     "family": "commentary（解説）／ commentator（解説者）",
+    "trivia": "No comment. は取材拒否の定型句。動詞では comment on の形を取る",
     "example": {
       "en": "The inspector added a comment about drainage.",
       "ja": "検査員は排水について所見を加えた。"
@@ -4724,6 +4748,7 @@
     ],
     "origin": "com-（共に）＋ putare（数える）。もとは計算する人を指した",
     "family": "compute（計算する）／ computation（計算）／ dispute（論争）",
+    "trivia": "もとは「計算する人」を指した職名で、機械の名になったのは二十世紀半ば",
     "example": {
       "en": "Each desk has a computer and a lamp.",
       "ja": "各机に計算機と照明がある。"
@@ -4749,6 +4774,7 @@
     ],
     "origin": "con-（共に）＋ dicere（言う）。取り決めた事柄→状態。dictate と同語源",
     "family": "conditional（条件付きの）／ dictate（口述する）／ predict（予測する）",
+    "trivia": "複数形 conditions は「状況」や「条件」。契約書の terms and conditions で定番の組み合わせ",
     "example": {
       "en": "The crates arrived in perfect condition.",
       "ja": "木箱は申し分ない状態で届いた。"
@@ -4801,6 +4827,7 @@
     ],
     "origin": "con-（共に）＋ struere（積む）。structure, instruct と同語源",
     "family": "construct（築く）／ structure（構造）／ instruct（指示する）／ destruction（破壊）",
+    "trivia": "under construction（工事中）は標識の定番表現。建設と「構文」の両方を指す",
     "example": {
       "en": "Construction on the annex starts in May.",
       "ja": "別館の建設は五月に始まる。"
@@ -4826,6 +4853,7 @@
     ],
     "origin": "ラテン語 copia（豊富）。増やすことから複製へ。copious と同語源",
     "family": "copier（複写機）／ copious（おびただしい）",
+    "trivia": "一部の複製だけでなく、書籍の「冊」も copy。広告の文案も copy と呼び、copywriter の語源になった",
     "example": {
       "en": "Keep a copy of the signed form.",
       "ja": "署名した用紙の写しを保管しなさい。"
@@ -4851,6 +4879,7 @@
     ],
     "origin": "ラテン語 cornu（角）。動物の角が突き出た形から",
     "family": "cornerstone（礎石）／ cornered（追い詰められた）",
+    "trivia": "cut corners（手を抜く）、around the corner（すぐ近くに）など、比喩表現の多い語",
     "example": {
       "en": "A plant stands in the corner of the room.",
       "ja": "部屋の角に植木がある。"
@@ -4877,6 +4906,7 @@
     "origin": "con-（共に）＋ stare（立つ）。「いくらで成り立つか」。stand, stable と同語源",
     "family": "costly（費用のかかる）",
     "contrast": "手に入れるのにかかった費用。price は表示される売値",
+    "trivia": "過去形・過去分詞も cost で変化しない。cut, put, set と同じ無変化動詞",
     "example": {
       "en": "The cost of packaging rose again.",
       "ja": "包装の費用がまた上がった。"
@@ -4902,6 +4932,7 @@
     ],
     "origin": "ラテン語 currere（走る）。今走っている→現在の。occur, course と同語源",
     "family": "currency（通貨）／ currently（現在）／ occur（起こる）／ recur（再発する）",
+    "trivia": "「現在の」と「流れ」が同じ語。電流も海流も current で、時の流れという比喩が核にある",
     "example": {
       "en": "The current price list expires in June.",
       "ja": "現在の価格表は六月に期限が切れる。"
@@ -4927,6 +4958,7 @@
     ],
     "origin": "day（日）＋ -ly。日ごとの意",
     "family": "day（日）／ dailies（日刊紙）／ everyday（日常の）",
+    "trivia": "名詞では日刊紙。dailies は複数の日刊紙を指し、報道記事でよく使う",
     "example": {
       "en": "The daily output reached nine hundred units.",
       "ja": "毎日の生産は九百台に達した。"
@@ -4978,6 +5010,7 @@
     ],
     "origin": "deliver（引き渡す）＋ -able。引き渡すべきものという新しい名詞用法",
     "family": "deliver（配達する）／ delivery（配達）",
+    "trivia": "形容詞から名詞に転じた比較的新しい語。プロジェクト管理で「成果物」を指す",
     "example": {
       "en": "The first deliverable is due in October.",
       "ja": "最初の納品物は十月が期限だ。"
@@ -5004,6 +5037,7 @@
     "origin": "de-（強意）＋ mandare（命じる）。mandate, command と同語源",
     "family": "demanding（要求の厳しい）／ mandate（委任）",
     "contrast": "強く要求すること。経済では需要を指す",
+    "trivia": "経済の「需要」と、強い「要求」が同じ語。supply and demand は経済の基本対",
     "example": {
       "en": "Demand for compact printers keeps growing.",
       "ja": "小型の印刷機への需要は伸び続けている。"
@@ -5029,6 +5063,7 @@
     ],
     "origin": "de-（離れて）＋ part（分ける）。その場から分かれ去ること",
     "family": "department（部門）／ departure（出発）／ apart（離れて）",
+    "trivia": "departure から transfer までの空港表示は、すべて動詞の名詞形で統一されている",
     "example": {
       "en": "The coach departs from platform three.",
       "ja": "長距離バスは三番乗り場から出発する。"
@@ -5054,6 +5089,7 @@
     ],
     "origin": "de-（細かく）＋ tailler（切る）。切り分けた小片。tailor と同語源",
     "family": "retail（小売）／ tailor（仕立てる）",
+    "trivia": "名詞は /ˈdiːteɪl/ とも /dɪˈteɪl/ とも読む。米英で強勢の好みが分かれる語",
     "example": {
       "en": "Every detail of the plan is in the appendix.",
       "ja": "計画の詳細はすべて付録にある。"
@@ -5079,6 +5115,7 @@
     ],
     "origin": "de-（逆に）＋ voloper（包む）。envelope（包む）の反対で「包みを開く」",
     "family": "development（開発）／ developer（開発業者）／ envelope（封筒）",
+    "trivia": "写真の「現像」も develop。包みを開くという原義が、像を浮かび上がらせる意味に生きている",
     "example": {
       "en": "The team developed a lighter shipping box.",
       "ja": "その班はより軽い配送箱を開発した。"
@@ -5157,6 +5194,7 @@
     ],
     "origin": "dis-（離れて）＋ stare（立つ）。離れて立つ隔たり。stand と同語源",
     "family": "distant（遠い）／ stand（立つ）／ constant（絶え間ない）",
+    "trivia": "long-distance call は長距離電話。keep one's distance は「距離を置く」で比喩にも使う",
     "example": {
       "en": "The distance to the port is thirty kilometers.",
       "ja": "港までの距離は三十キロだ。"
@@ -5182,6 +5220,7 @@
     ],
     "origin": "due（負うている）＋ -ty。owe（負う）と同系で「果たすべきもの」",
     "family": "dutiful（忠実な）／ due（支払期限の）／ debt（負債）",
+    "trivia": "関税も duty で、免税店は duty-free shop。義務と税が同じ語なのは「負うもの」だから",
     "example": {
       "en": "Locking the gate is the guard's duty.",
       "ja": "門の施錠は警備員の職務だ。"
@@ -5207,6 +5246,7 @@
     ],
     "origin": "古英語 earnian（報いを得る）。harvest（収穫）と同系",
     "family": "earnings（収益）／ earner（稼ぎ手）",
+    "trivia": "稼ぐだけでなく「評価を勝ち取る」にも使う。earn a reputation は努力で得た評判",
     "example": {
       "en": "Drivers earn extra for weekend routes.",
       "ja": "運転手は週末の経路で余分に稼ぐ。"
@@ -5232,6 +5272,7 @@
     ],
     "origin": "ex-（外へ）＋ fortis（強い）。力を外に出すこと。force, fort と同語源",
     "family": "fort（要塞）／ force（力）／ fortify（強化する）",
+    "trivia": "make an effort が基本形。do an effort とは言わないので、動詞の組み合わせに注意",
     "example": {
       "en": "The recycling effort began two years ago.",
       "ja": "再利用の取り組みは二年前に始まった。"
@@ -5257,6 +5298,7 @@
     ],
     "origin": "ラテン語 intra（内へ）。interior, internal と同語源",
     "family": "entrance（入口）／ entry（記入項目）",
+    "trivia": "入るだけでなく「記入する」も enter。計算機の Enter キーは入力を確定する動作から",
     "example": {
       "en": "Enter the serial number without spaces.",
       "ja": "通し番号は空白なしで入力しなさい。"
@@ -5282,6 +5324,7 @@
     ],
     "origin": "ラテン語 integer（欠けのない）。integrity, integer と同語源",
     "family": "entirely（完全に）／ integrity（完全性）／ integrate（一体化する）",
+    "trivia": "whole とほぼ同義だが、entire の方が硬く書き言葉向き。整数 integer も同じ語根",
     "example": {
       "en": "The entire batch was tested for leaks.",
       "ja": "全体の生産分が漏れの検査を受けた。"
@@ -5307,6 +5350,7 @@
     ],
     "origin": "ラテン語 aequus（平らな）。equator, adequate と同語源",
     "family": "equality（平等）／ equity（自己資本）／ adequate（十分な）／ equator（赤道）",
+    "trivia": "数学の等号も equal。Equal Employment Opportunity（雇用機会均等）は米国の重要な法概念",
     "example": {
       "en": "The two branches had equal sales last year.",
       "ja": "昨年、二つの支店の売上は等しかった。"
@@ -5358,6 +5402,7 @@
     ],
     "origin": "ex-（外へ）＋ ire（行く）。「彼は退場する」という舞台指示語がそのまま名詞に",
     "family": "transit（通過）／ initiate（着手する）／ transition（移行）",
+    "trivia": "非常口は emergency exit。ラテン語の「彼は出る」という動詞がそのまま名詞になった",
     "example": {
       "en": "The nearest exit is behind the stage.",
       "ja": "最も近い出口は舞台の後ろだ。"
@@ -5384,6 +5429,7 @@
     "origin": "ex-（外へ）＋ pandere（広げる）。spread と同系の広がり",
     "family": "expansion（拡張）／ expanse（広がり）",
     "contrast": "面積や規模が外へ広がること。extend は長さや期間を伸ばす",
+    "trivia": "会社の拡大にも気体の膨張にも使う。縮むのは contract で、契約の contract と同じ綴り",
     "example": {
       "en": "The chain expanded into two more prefectures.",
       "ja": "その連鎖店はさらに二県へ拡大した。"
@@ -5409,6 +5455,7 @@
     ],
     "origin": "ラテン語 extra（〜の外に）。定めの外に付け足すもの",
     "family": "extraordinary（並外れた）／ external（外部の）",
+    "trivia": "ラテン語で「外の」。映画のエキストラは、本筋の外にいる出演者という意味",
     "example": {
       "en": "Ask for an extra set of towels.",
       "ja": "追加のタオルを一組頼みなさい。"
@@ -5434,6 +5481,7 @@
     ],
     "origin": "ラテン語 fingere（形づくる）。fiction, effigy と同語源で「形・数字」",
     "family": "figurative（比喩的な）／ configure（設定する）／ fiction（作り話）／ feign（装う）",
+    "trivia": "数字・図・人影・体型と意味が広い。figure out（解き明かす）は日常会話の頻出表現",
     "example": {
       "en": "The final figure appears on page four.",
       "ja": "最終の数値は四ページに載っている。"
@@ -5459,6 +5507,7 @@
     ],
     "origin": "ラテン語 finis（終わり）。finish, define と同語源",
     "family": "finalize（最終決定する）／ finish（終える）／ finite（限りある）／ define（定義する）",
+    "trivia": "スポーツの決勝も finals。大学の期末試験も finals で、複数形にすると別の意味になる",
     "example": {
       "en": "The final version goes out on Friday.",
       "ja": "最終の版は金曜に配布される。"
@@ -5484,6 +5533,7 @@
     ],
     "origin": "ラテン語 figere（打ち込む）。固定する→直す。fixed, affix と同語源",
     "family": "fixture（据え付け品）／ fixed（固定の）／ affix（貼り付ける）",
+    "trivia": "修理・固定・用意と幅広い。米語では fix a meal（食事を用意する）という使い方もある",
     "example": {
       "en": "A plumber came to fix the leaking pipe.",
       "ja": "配管工が漏れる管を直しに来た。"
@@ -5509,6 +5559,7 @@
     ],
     "origin": "古英語 folgian（付いていく）。fellow（仲間）と同系",
     "family": "following（次の）／ follower（追随者）",
+    "trivia": "as follows（以下のとおり）は三単現の s が付く定型句。文書で頻出する",
     "example": {
       "en": "Follow the numbered steps in the manual.",
       "ja": "手引書の番号順の手順に従って進みなさい。"
@@ -5534,6 +5585,7 @@
     ],
     "origin": "fore（前）＋ -ward（〜の方へ）。前方へ送ること",
     "family": "forwarding（転送）／ forwarder（取扱業者）",
+    "trivia": "転送も「前へ」も forward。メールの Fw: はこの語の略で、転送を示す",
     "example": {
       "en": "Forward the message to the site office.",
       "ja": "その伝言を現場事務所へ転送しなさい。"
@@ -5559,6 +5611,7 @@
     ],
     "origin": "ラテン語 frons（額）。顔の前面から建物の正面へ",
     "family": "frontier（最前線）／ confront（立ち向かう）／ affront（侮辱）",
+    "trivia": "up front は「前払いで」。建物の正面から時間の前倒しまで、比喩が広い",
     "example": {
       "en": "Deliveries arrive at the front of the building.",
       "ja": "配達は建物の正面に届く。"
@@ -5610,6 +5663,7 @@
     ],
     "origin": "good（良い物）の複数。「良い物＝商品」という素朴な語源",
     "family": "good（よい）／ goodwill（のれん）／ dry goods（繊維製品）",
+    "trivia": "常に複数形で、a good とは言えない。dry goods は繊維製品、white goods は白物家電",
     "example": {
       "en": "Damaged goods are set aside for inspection.",
       "ja": "破損した物品は検査のため別に置く。"
@@ -5636,6 +5690,7 @@
     "origin": "古英語 growan（育つ）。grass, green と同語源",
     "family": "growth（成長）／ grower（生産者）",
     "contrast": "時間をかけて育って大きくなること。increase は数の増加を指す",
+    "trivia": "grow a business（事業を育てる）という他動詞用法は比較的新しく、経済記事で定着した",
     "example": {
       "en": "Online orders grew steadily all spring.",
       "ja": "画面上の注文は春の間ずっと着実に伸びた。"
@@ -5661,6 +5716,7 @@
     ],
     "origin": "古英語 hefig。heave（持ち上げる）と同系で「持ち上げるのが大変」",
     "family": "heavily（重く）／ heaviness（重さ）／ heavyweight（重量級）",
+    "trivia": "heavy traffic（交通渋滞）、heavy rain（大雨）など、量の多さにも使う",
     "example": {
       "en": "Two workers lift the heavy rolls together.",
       "ja": "重い巻き物は二人で持ち上げる。"
@@ -5686,6 +5742,7 @@
     ],
     "origin": "古英語 healdan（保つ）。「催す」は「場を保つ」から派生",
     "family": "holder（保持者）／ holding（保有）／ withhold（保留する）／ uphold（支持する）",
+    "trivia": "電話の「少々お待ちください」は Please hold. 保留を hold と呼ぶのもここから",
     "example": {
       "en": "The firm holds a safety briefing each month.",
       "ja": "会社は毎月、安全の説明会を開催する。"
@@ -5737,6 +5794,7 @@
     ],
     "origin": "古フランス語 emprouer（利益にする）。profit と同じ「得になる」発想",
     "family": "improvement（改良）／ improved（改良された）",
+    "trivia": "利益や健康が「よくなる」自動詞でも使える。improve on は「上回る成果を出す」",
     "example": {
       "en": "New lighting improved the packing accuracy.",
       "ja": "新しい照明が梱包の正確さを改善した。"
@@ -5763,6 +5821,7 @@
     "origin": "in-（中へ）＋ ラテン語 crescere（伸びる）。crescent（三日月）, create と同語源",
     "family": "increment（増加分）／ decrease（減る）／ crescent（三日月）",
     "contrast": "数量が増えること。grow は生き物のように育つ含み",
+    "trivia": "名詞は /ˈɪnkriːs/、動詞は /ɪnˈkriːs/ と強勢が移る。record や present と同じ型",
     "example": {
       "en": "The plant increased output by a fifth.",
       "ja": "工場は生産を五分の一増やした。"
@@ -5789,6 +5848,7 @@
     "origin": "ラテン語 industrius（勤勉な）。勤勉さから産業の意へ",
     "family": "industrial（工業の）／ industrious（勤勉な）",
     "contrast": "工業や産業そのもの。industrial（工業の）と industrious（勤勉な）は別の語なので取り違えやすい",
+    "trivia": "勤勉という意味もあり、industrious は「勤勉な」。industrial（工業の）と取り違えやすい",
     "example": {
       "en": "The printing industry faces rising paper costs.",
       "ja": "印刷産業は紙代の上昇に直面している。"
@@ -5814,6 +5874,7 @@
     ],
     "origin": "inform（形づくる）＋ -ation。相手の中に形を作るもの",
     "family": "inform（知らせる）／ form（形）／ formal（正式な）",
+    "trivia": "不可算名詞なので informations とは言えない。数えるときは a piece of information",
     "example": {
       "en": "More information appears on the second page.",
       "ja": "さらに詳しい情報は二ページ目にある。"
@@ -5838,6 +5899,7 @@
       "inside-withininterior"
     ],
     "origin": "in（中）＋ side（側）。内側という直訳",
+    "trivia": "inside information は「内部情報」で、株取引では insider trading（インサイダー取引）につながる",
     "example": {
       "en": "The inside walls need a fresh coat.",
       "ja": "内側の壁は塗り直しが要る。"
@@ -5863,6 +5925,7 @@
     ],
     "origin": "ラテン語 ex-（外へ）＋ ire（行く）。外へ出てきたもの→争点。exit と同語源",
     "family": "issuance（発行）／ exit（出口）／ transit（通過）",
+    "trivia": "問題・発行・号と意味が広い。雑誌の「最新号」は the latest issue",
     "example": {
       "en": "The main issue is the missing serial tag.",
       "ja": "主な問題点は通し番号の札がないことだ。"
@@ -5888,6 +5951,7 @@
     ],
     "origin": "ラテン語 jungere（つなぐ）。junction, yoke と同語源",
     "family": "joint（連帯の）／ conjunction（接続）／ adjunct（付属物）",
+    "trivia": "join us は「仲間に加わる」。会議への参加案内で頻出し、attend より親しみのある響き",
     "example": {
       "en": "She joined the logistics team in April.",
       "ja": "彼女は四月に物流の班に加わった。"
@@ -5964,6 +6028,7 @@
     ],
     "origin": "ラテン語 largus（豊富な）。もとは「気前がよい」の意",
     "family": "largely（大部分は）／ enlarge（拡大する）",
+    "trivia": "大きさには large、量には much や a lot を使う。a large amount of の形が自然",
     "example": {
       "en": "A large crate blocks the side aisle.",
       "ja": "大きい木箱が横の通路をふさいでいる。"
@@ -5989,6 +6054,7 @@
     ],
     "origin": "古英語 lædan（導く）。load（積む）と同系で「連れて行く」",
     "family": "leader（指導者）／ leading（首位の）／ leadership（指導力）",
+    "trivia": "動詞 /liːd/（導く）と名詞 /led/（鉛）で発音が別。lead time（所要期間）は /liːd/",
     "example": {
       "en": "She leads a team of nine designers.",
       "ja": "彼女は九名の設計者の班を率いる。"
@@ -6014,6 +6080,7 @@
     ],
     "origin": "古英語 leornian。lore（言い伝え）と同系",
     "family": "learning（学習）／ learner（学習者）",
+    "trivia": "英では learnt、米では learned と過去形が分かれる。形容詞 learned（博学な）は二音節で読む",
     "example": {
       "en": "New hires learn the system in one week.",
       "ja": "新入社員は一週間でその仕組みを習う。"
@@ -6039,6 +6106,7 @@
     ],
     "origin": "ラテン語 littera（文字）。literature, literal と同語源",
     "family": "literal（文字どおりの）／ literature（印刷資料）／ literacy（読み書き能力）",
+    "trivia": "手紙と文字の両方を指す。literal（文字どおりの）や literature（文学）と同じ語根",
     "example": {
       "en": "A letter from the landlord arrived today.",
       "ja": "家主からの手紙が本日届いた。"
@@ -6090,6 +6158,7 @@
     ],
     "origin": "古英語 liste（縁・帯）。細長い帯に書き並べたことから",
     "family": "listing（一覧掲載）／ enlist（登録する）／ checklist（点検表）",
+    "trivia": "価格表は price list、定価は list price。船が傾くことも list と言い、これは別語源",
     "example": {
       "en": "Print the list of pending repairs.",
       "ja": "保留中の修理の一覧を印刷しなさい。"
@@ -6115,6 +6184,7 @@
     ],
     "origin": "ラテン語 locus（場所）。location, allocate と同語源",
     "family": "locate（場所を定める）／ location（所在地）／ allocate（割り当てる）",
+    "trivia": "電車の「各駅停車」も local train。地元という意味だけでなく「その場の」という広がりがある",
     "example": {
       "en": "A local firm supplies the packaging film.",
       "ja": "地元の会社が包装用の膜を供給する。"
@@ -6140,6 +6210,7 @@
     ],
     "origin": "古英語 loc（閉じるもの）。link と同系で「かみ合わせる」",
     "family": "locker（施錠棚）／ unlock（解錠する）",
+    "trivia": "lock in は「固定する」。金利を lock in するのは、変動しないよう確定させること",
     "example": {
       "en": "Lock the storeroom before you leave.",
       "ja": "退出の前に倉庫を施錠しなさい。"
@@ -6165,6 +6236,7 @@
     ],
     "origin": "古英語 mægen（力）。might（力）と同系で「力のある＝主要な」",
     "family": "mainly（主に）／ mainstream（主流）",
+    "trivia": "水道やガスの本管も the mains。英国では電源コンセントを mains と呼ぶ",
     "example": {
       "en": "The main road is closed for resurfacing.",
       "ja": "主要な道路は舗装のため閉鎖されている。"
@@ -6190,6 +6262,7 @@
     ],
     "origin": "イタリア語 maneggiare（馬を手で御す）。ラテン語 manus（手）から",
     "family": "management（経営）／ manager（管理者）／ manual（手作業の）／ manipulate（操る）",
+    "trivia": "「どうにか〜する」という意味もあり、manage to do は成功の含みを持つ。難しさを前提にした語",
     "example": {
       "en": "He manages three branches in the region.",
       "ja": "彼は地域内の三支店を運営している。"
@@ -6215,6 +6288,7 @@
     ],
     "origin": "ラテン語 mercatus（取引）。merchant, commerce と同語源",
     "family": "marketing（市場活動）／ merchant（商人）／ commerce（商業）",
+    "trivia": "市場調査は market research、市場開拓は market development。複合語の作り方が豊富",
     "example": {
       "en": "The overseas market grew faster than expected.",
       "ja": "海外の市場は予想より速く伸びた。"
@@ -6240,6 +6314,7 @@
     ],
     "origin": "ラテン語 membrum（手足）。体の一部＝集団の一員",
     "family": "membership（会員資格）",
+    "trivia": "会員の意味だけでなく、身体の「手足」も member。組織を身体にたとえる発想が残る",
     "example": {
       "en": "Members receive early notice of sales.",
       "ja": "会員は売り出しの知らせを早く受け取る。"
@@ -6292,6 +6367,7 @@
     ],
     "origin": "ラテン語 modulus（小さな尺度）。mode, modest と同語源",
     "family": "modify（手直しする）／ mode（方式）／ modern（現代の）",
+    "trivia": "模型・模範・型式・ファッションモデルと意味が広い。動詞では「模型を作る」と「模倣する」の両方に使う",
     "example": {
       "en": "The older model is no longer produced.",
       "ja": "古い型式はもう製造されていない。"
@@ -6344,6 +6420,7 @@
     "origin": "ラテン語 notus（知られた）＋ facere（する）。notice と同語源",
     "family": "notification（届出）／ note（覚え）／ notice（通知）",
     "contrast": "正式な手続きとして通告すること。notice（掲示）は貼り出す知らせを指す",
+    "trivia": "notify 人 of 事 の語順を取る。inform と同じ型で、目的語に人が来るのが特徴",
     "example": {
       "en": "Notify the office thirty days before you move.",
       "ja": "移転の三十日前に事務所へ通告しなさい。"
@@ -6393,6 +6470,7 @@
     ],
     "origin": "古英語 openian。up と同系で「持ち上げて開ける」",
     "family": "opening（欠員）／ openly（公然と）",
+    "trivia": "open to は「〜に開かれている」。open to the public（一般公開）は案内文の定番",
     "example": {
       "en": "Open the loading door at six sharp.",
       "ja": "六時ちょうどに荷積みの扉を開けなさい。"
@@ -6418,6 +6496,7 @@
     ],
     "origin": "ラテン語 optare（選ぶ）。opt, adopt と同語源",
     "family": "optional（任意の）／ opt（選択する）／ adopt（採り入れる）",
+    "trivia": "optional（任意の）は「選んでも選ばなくてもよい」。義務でないことを明示する語",
     "example": {
       "en": "Leather seats are an option on this model.",
       "ja": "革の座席はこの型式で選べる仕様だ。"
@@ -6442,6 +6521,7 @@
       "outside-externalsurface"
     ],
     "origin": "out（外）＋ side（側）。inside の対",
+    "trivia": "outside the box（既成概念の外で）という比喩が定着している。think outside the box が有名",
     "example": {
       "en": "The outside stairs need a handrail.",
       "ja": "外側の階段には手すりが要る。"
@@ -6467,6 +6547,7 @@
     ],
     "origin": "own（自分の）＋ -er。own は古英語 agen（所有する）から",
     "family": "own（所有する）／ ownership（所有権）",
+    "trivia": "所有者だが、企業の「持ち主」も指す。owner-operator は所有と運営を兼ねる事業者",
     "example": {
       "en": "The owner repainted the shop last spring.",
       "ja": "所有者は昨春、店を塗り直した。"
@@ -6516,6 +6597,7 @@
     ],
     "origin": "ラテン語 pagina（書き付ける面）。pact（留める）と同系で「留めた葉」",
     "family": "paging（呼び出し）／ pagination（改ページ）／ webpage（ウェブページ）",
+    "trivia": "呼び出しの page（館内放送で人を呼ぶ）も同じ語。ホテルや空港の場面で出る",
     "example": {
       "en": "The warranty terms begin on the last page.",
       "ja": "保証の条件は最後の頁から始まる。"
@@ -6567,6 +6649,7 @@
     ],
     "origin": "ラテン語 pars（部分）。party, partial と同語源",
     "family": "partial（部分的な）／ partly（部分的に）／ depart（出発する）／ apartment（アパート）",
+    "trivia": "部品・部分・役割と意味が広い。take part in（参加する）も「役割を取る」から",
     "example": {
       "en": "One part arrived bent and was returned.",
       "ja": "部品が一つ曲がって届き、返された。"
@@ -6618,6 +6701,7 @@
     ],
     "origin": "ラテン語 planus（平ら）。平面図から計画の意へ。plain, explain と同語源",
     "family": "planner（計画立案者）／ planning（企画）",
+    "trivia": "建築の「平面図」も plan。floor plan は間取り図で、不動産広告で頻出する",
     "example": {
       "en": "The plan calls for two new loading bays.",
       "ja": "計画では荷積み場を二つ新設する。"
@@ -6643,6 +6727,7 @@
     ],
     "origin": "フランス語 plate（平ら）＋ forme（形）。平らな台",
     "family": "form（形）／ format（体裁）／ formal（正式な）／ uniform（制服）",
+    "trivia": "駅のホームは和製英語で、英語では platform。政党の「公約」も platform と呼ぶ",
     "example": {
       "en": "Trains to the airport leave from platform one.",
       "ja": "空港行きの列車は一番乗り場から出る。"
@@ -6668,6 +6753,7 @@
     ],
     "origin": "ラテン語 ponere（置く）。deposit, compose と同語源",
     "family": "positioning（位置づけ）／ posit（前提として置く）／ deposit（預ける）／ compose（構成する）",
+    "trivia": "地位・位置・立場。動詞では「配置する」で、市場での位置づけを positioning と言う",
     "example": {
       "en": "The position requires weekend availability.",
       "ja": "その職は週末の勤務が求められる。"
@@ -6719,6 +6805,7 @@
     ],
     "origin": "pre-（前に）＋ ferre（運ぶ）。他より前に置くこと。offer, transfer と同語源",
     "family": "preference（好み）／ preferable（望ましい）／ transfer（移す）／ refer（参照する）",
+    "trivia": "prefer A to B の形を取り、than は使わない。比較級に見えて than を取らない点が要注意",
     "example": {
       "en": "Most buyers prefer the matte finish.",
       "ja": "多くの買い手はつや消しの仕上げを好む。"
@@ -6744,6 +6831,7 @@
     ],
     "origin": "pro-（前へ）＋ cedere（進む）。proceed, succeed と同語源",
     "family": "proceed（進行する）／ procedure（手続き）／ procession（行列）",
+    "trivia": "名詞は /ˈprɑːses/、動詞は「処理する」。食品の processed food は加工食品",
     "example": {
       "en": "The drying process takes about four hours.",
       "ja": "乾燥の工程は約四時間かかる。"
@@ -6795,6 +6883,7 @@
     ],
     "origin": "pro-（前へ）＋ jacere（投げる）。前に投げ出す計画。inject, eject と同語源",
     "family": "projection（見通し）／ projector（投影機）／ reject（退ける）／ inject（注入する）",
+    "trivia": "名詞 /ˈprɑːdʒekt/（企画）と動詞 /prəˈdʒekt/（投影する・予測する）で強勢が移る",
     "example": {
       "en": "The harbor project runs until next autumn.",
       "ja": "港湾の事業計画は来秋まで続く。"
@@ -6820,6 +6909,7 @@
     ],
     "origin": "provide（供給する）＋ -er。pro-＋videre（先を見る）から",
     "family": "provide（供給する）／ provision（規定）／ provident（先を見越した）／ provisional（仮の）",
+    "trivia": "サービス提供者を service provider と呼ぶ。医療では医師や病院を指すこともある",
     "example": {
       "en": "Our internet provider raised its monthly rate.",
       "ja": "当社の通信の提供元は月額を上げた。"
@@ -6845,6 +6935,7 @@
     ],
     "origin": "ラテン語 populus（人々）。people, popular と同語源",
     "family": "publish（出版する）／ publication（刊行物）／ publicity（宣伝）／ republic（共和国）",
+    "trivia": "go public は「株式を公開する」。上場を意味する経済用語として定着している",
     "example": {
       "en": "Public transport reaches the site every hour.",
       "ja": "公共の交通機関が一時間ごとに現場へ来る。"
@@ -6870,6 +6961,7 @@
     ],
     "origin": "pro-（前に）＋ ponere（置く）。前に置いた目当て。propose と同語源",
     "family": "propose（提案する）／ pose（置く）／ suppose（想定する）",
+    "trivia": "on purpose は「わざと」。目的の語が、意図的という副詞句になった",
     "example": {
       "en": "The purpose of the visit is a safety review.",
       "ja": "訪問の目的は安全の見直しだ。"
@@ -6896,6 +6988,7 @@
     "origin": "古ノルド語 reisa（立たせる）。rise の使役形にあたる",
     "family": "raiser（発起人）／ rise（上がる）",
     "contrast": "水準や金額を引き上げる他動詞。lift は重い物を物理的に持ち上げる",
+    "trivia": "raise は他動詞、rise は自動詞。給料の値上げは米語で a raise、英語で a rise",
     "example": {
       "en": "The mill raised its prices in January.",
       "ja": "その工場は一月に価格を引き上げた。"
@@ -6921,6 +7014,7 @@
     ],
     "origin": "古フランス語 rang（列）。並びの幅から範囲の意へ。arrange と同語源",
     "family": "arrange（取りまとめる）／ rank（等級）",
+    "trivia": "範囲のほか、料理用のレンジ（こんろ）も range。山脈も mountain range と呼ぶ",
     "example": {
       "en": "Prices fall within a narrow range.",
       "ja": "価格は狭い範囲に収まっている。"
@@ -6946,6 +7040,7 @@
     ],
     "origin": "ラテン語 ratio（計算・理）。rate, ratio と同語源",
     "family": "reasonable（妥当な）／ ratio（比）／ rational（合理的な）",
+    "trivia": "理由と理性の両方を指す。ratio（比）や rational（合理的な）と同じ語根",
     "example": {
       "en": "State the reason for the return on the slip.",
       "ja": "返品の理由を伝票に記しなさい。"
@@ -6971,6 +7066,7 @@
     ],
     "origin": "re-（再び）＋ cor（心）。心に呼び戻すこと。cordial, courage と同語源",
     "family": "recording（録音）／ recorder（記録装置）／ accord（一致）／ courage（勇気）",
+    "trivia": "名詞 /ˈrekərd/、動詞 /rɪˈkɔːrd/ と強勢が移る。on record は「記録に残して」",
     "example": {
       "en": "Keep a record of every service visit.",
       "ja": "訪問整備のたびに記録を残しなさい。"
@@ -6997,6 +7093,7 @@
     "origin": "re-（後ろへ）＋ ducere（導く）。引き戻して小さくする。product と同語源",
     "family": "reduction（削減）／ conduce（導く）／ produce（生産する）",
     "contrast": "意図して量を減らす他動詞。decrease は自然に下がる場合にも使う",
+    "trivia": "be reduced to は「〜に成り下がる」という否定的な意味。値引き表示の reduced も同じ語",
     "example": {
       "en": "New packing reduced damage during transit.",
       "ja": "新しい梱包が輸送中の破損を減らした。"
@@ -7022,6 +7119,7 @@
     ],
     "origin": "ラテン語 regere（治める）。regal, direct と同語源で「治める範囲」",
     "family": "regional（地域の）／ reign（統治）／ regular（定期の）",
+    "trivia": "地域のほか、身体の「部位」も region。abdominal region は腹部",
     "example": {
       "en": "Sales in the western region doubled.",
       "ja": "西の地域の売上は倍になった。"
@@ -7047,6 +7145,7 @@
     ],
     "origin": "re-（再び）＋ mind（心）。心に呼び戻させること",
     "family": "reminder（督促状）／ mind（心）／ mindful（意識している）",
+    "trivia": "remind 人 of 事 の語順。remember（自分が思い出す）と向きが逆になる",
     "example": {
       "en": "Remind the team about the fire drill.",
       "ja": "避難訓練について班に思い出させなさい。"
@@ -7072,6 +7171,7 @@
     ],
     "origin": "re-（離して）＋ movere（動かす）。move, motion と同語源",
     "family": "removal（撤去）／ movement（動き）／ motive（動機）",
+    "trivia": "取り外すだけでなく、職を「解く」意味もある。remove from office は解任",
     "example": {
       "en": "Remove the packing film before use.",
       "ja": "使う前に包装の膜を取り除きなさい。"
@@ -7097,6 +7197,7 @@
     ],
     "origin": "古英語 ræst（休息）。ドイツ語 Rast と同系",
     "family": "restful（安らかな）／ restless（落ち着かない）",
+    "trivia": "「休息」と「残り」が同じ綴りだが語源は別。the rest of us は「私たちの残り」",
     "example": {
       "en": "Drivers take a rest every two hours.",
       "ja": "運転手は二時間ごとに休憩を取る。"
@@ -7122,6 +7223,7 @@
     ],
     "origin": "re-（跳ね返って）＋ salire（跳ぶ）。跳ね返ってきたもの。salmon と同語源",
     "family": "resultant（結果として生じる）／ resilient（回復力のある）／ salient（際立った）",
+    "trivia": "result in は「〜という結果になる」、result from は「〜が原因で起こる」。前置詞で向きが逆転する",
     "example": {
       "en": "The test result arrives on Thursday.",
       "ja": "試験の結果は木曜に届く。"
@@ -7147,6 +7249,7 @@
     ],
     "origin": "re-（再び）＋ view（見る）。もう一度見直すこと",
     "family": "revise（改訂する）／ view（見方）／ vision（視覚）",
+    "trivia": "見直し・批評・復習と幅広い。performance review は人事評価面談のこと",
     "example": {
       "en": "The annual review starts in November.",
       "ja": "年次の見直しは十一月に始まる。"
@@ -7172,6 +7275,7 @@
     ],
     "origin": "古英語 rum（空間）。roomy（広々した）と同じで、もとは「空きの広さ」",
     "family": "roomy（広々とした）／ roommate（同居人）／ headroom（余裕）",
+    "trivia": "「部屋」と「余地」の両方を指す。room for improvement は「改善の余地」",
     "example": {
       "en": "The room seats twelve people comfortably.",
       "ja": "その部屋は十二人がゆったり座れる。"
@@ -7197,6 +7301,7 @@
     ],
     "origin": "ラテン語 salvus（無傷の）。salvation, save と同語源",
     "family": "safe（安全な）／ save（救う）／ salvage（回収する）",
+    "trivia": "安全を safety、警備を security と使い分ける。工場の掲示では safety first が定番",
     "example": {
       "en": "Safety comes before speed on this line.",
       "ja": "この生産設備では速さより安全が先だ。"
@@ -7222,6 +7327,7 @@
     ],
     "origin": "ラテン語 salvare（無事にする）。safe と同語源",
     "family": "saving（節約）／ safe（安全な）／ salvage（回収する）",
+    "trivia": "救う・蓄える・省くと意味が広い。save time（時間を節約する）は日常でも業務でも頻出",
     "example": {
       "en": "Bulk buying saves about eight percent.",
       "ja": "まとめ買いで約八パーセント節約できる。"
@@ -7247,6 +7353,7 @@
     ],
     "origin": "ラテン語 secare（切る）。切り分けた区分。segment, insect と同語源",
     "family": "sector（部門）／ segment（区分）／ insect（昆虫）",
+    "trivia": "断面も部門も section。insect（昆虫）は「切れ目のある体」で同じ語根",
     "example": {
       "en": "Frozen goods sit in the rear section.",
       "ja": "冷凍の品は奥の区画にある。"
@@ -7272,6 +7379,7 @@
     ],
     "origin": "ラテン語 servus（しもべ）。serve, servant と同語源",
     "family": "serve（仕える）／ servant（使用人）／ deserve（値する）",
+    "trivia": "給仕・業務・点検と幅広い。車の定期点検も service で、英国では MOT 検査と区別する",
     "example": {
       "en": "Repair service is available on weekdays only.",
       "ja": "修理の業務は平日のみ受け付ける。"
@@ -7297,6 +7405,7 @@
     ],
     "origin": "古英語 scearu（切り分け）。shear（切る）と同系",
     "family": "shareholder（株主）／ sharing（共有）",
+    "trivia": "株式の share は「分け前」が原義。shareholder は株主で、stockholder とほぼ同義",
     "example": {
       "en": "Two teams share the meeting room.",
       "ja": "二つの班が会議室を分け合う。"
@@ -7322,6 +7431,7 @@
     ],
     "origin": "古英語 sciete（布）。薄く広がるものを指した",
     "family": "sheeting（板材）／ spreadsheet（表計算表）／ balance sheet（貸借対照表）",
+    "trivia": "紙だけでなく、シーツや金属の板も sheet。balance sheet は貸借対照表",
     "example": {
       "en": "Sign each sheet at the bottom right.",
       "ja": "各一枚の紙の右下に署名しなさい。"
@@ -7347,6 +7457,7 @@
     ],
     "origin": "assize（法で定めた基準）の頭が落ちた形。定められた寸法の意",
     "family": "sizable（かなり大きな）／ oversize（規格外の）",
+    "trivia": "one-size-fits-all は「万能の」。サイズの語が比喩として制度の話にも使われる",
     "example": {
       "en": "Check the size before you cut the board.",
       "ja": "板を切る前に寸法を確かめなさい。"
@@ -7372,6 +7483,7 @@
     ],
     "origin": "ラテン語 spatium（広がり）。spacious, expatiate と同語源",
     "family": "spacious（広々とした）／ spatial（空間の）",
+    "trivia": "宇宙と空間と余白を同じ語で表す。office space は賃貸物件の広告で頻出する",
     "example": {
       "en": "There is space for two more racks.",
       "ja": "棚をあと二つ置く空間がある。"
@@ -7397,6 +7509,7 @@
     ],
     "origin": "ラテン語 species（種類）。他と種類を分けたもの。specific と同語源",
     "family": "specialize（専門とする）／ specialist（専門家）／ species（種）／ specific（具体的な）",
+    "trivia": "特売は special offer、本日のおすすめは today's special。店の掲示でよく見る",
     "example": {
       "en": "A special rate applies to long stays.",
       "ja": "長期の滞在には特別な料金が適用される。"
@@ -7422,6 +7535,7 @@
     ],
     "origin": "古英語 sped（成功・繁栄）。うまく運ぶこと→速さ",
     "family": "speedy（迅速な）／ speedily（速やかに）",
+    "trivia": "速度違反は speeding。up to speed は「最新の状況に追いついて」という比喩",
     "example": {
       "en": "Lower the belt speed during inspection.",
       "ja": "検査中は帯の速度を落としなさい。"
@@ -7471,6 +7585,7 @@
     ],
     "origin": "古英語 styrtan（跳ね上がる）。急に動き出す感じが原義",
     "family": "starter（始動装置）／ startup（新興企業）",
+    "trivia": "開始のほか「驚いて跳び上がる」という別義もある。start-up は新興企業",
     "example": {
       "en": "Start the pump only after the valve opens.",
       "ja": "弁が開いてから送水機を始めなさい。"
@@ -7497,6 +7612,7 @@
     "origin": "ラテン語 stare（立つ）。立っている在り方→述べる。stand, status と同語源",
     "family": "statement（明細書）／ status（状態）／ stable（安定した）",
     "contrast": "立場を明らかにして正式に述べること。mention は軽く触れるだけ",
+    "trivia": "国家・州・状態・述べる。米国の state は州で、state of the art は「最新鋭の」",
     "example": {
       "en": "The contract states who pays for freight.",
       "ja": "契約は誰が運賃を払うかを述べている。"
@@ -7522,6 +7638,7 @@
     ],
     "origin": "古英語 stæpe（踏むこと）。stamp と同系",
     "family": "stepwise（段階的な）／ footstep（足音）／ doorstep（戸口）",
+    "trivia": "step by step（段階的に）、take steps（措置を講じる）など、比喩表現が豊富",
     "example": {
       "en": "Skip no step in the cleaning routine.",
       "ja": "清掃の手順を一つも飛ばしてはならない。"
@@ -7548,6 +7665,7 @@
     "origin": "store（蓄える）＋ -age。instaurare（蓄える）から",
     "family": "store（保管する）／ restore（復旧する）",
     "contrast": "置いておくこと自体を指す。売り場としての建物は store",
+    "trivia": "倉庫業も storage。in storage は「保管中」で、物流の文書で頻出する",
     "example": {
       "en": "Cold storage costs more in summer.",
       "ja": "冷蔵の保管は夏に費用が増す。"
@@ -7573,6 +7691,7 @@
     ],
     "origin": "sub-（下から）＋ cedere（進む）。後に続いて進むこと。process と同語源",
     "family": "succeed（成功する）／ successful（成功した）／ successor（後任）",
+    "trivia": "succeed には「成功する」と「後を継ぐ」の二義があるが、名詞は success と succession で分かれる",
     "example": {
       "en": "The trial run was a clear success.",
       "ja": "試験の運転は明らかな成功だった。"
@@ -7624,6 +7743,7 @@
     ],
     "origin": "ラテン語 taxare（評価する）。tax と同語源で「課されたもの」",
     "family": "taskforce（専門部会）／ tax（税）",
+    "trivia": "task force（特別作業班）は軍の編成語から経営用語になった。tax（税）と同じ語根",
     "example": {
       "en": "Each task takes about twenty minutes.",
       "ja": "各作業は約二十分かかる。"
@@ -7649,6 +7769,7 @@
     ],
     "origin": "古英語 team（引く一群）。tow（引く）と同系で「共に引く仲間」",
     "family": "teamwork（協働）／ teammate（仲間）",
+    "trivia": "もとは馬をつないだ一組。引く力を合わせる発想が、協働の意味につながった",
     "example": {
       "en": "A team of six handles the night route.",
       "ja": "六名の班が夜間の経路を担当する。"
@@ -7675,6 +7796,7 @@
     "origin": "trans-（越えて）＋ portare（運ぶ）。report, export と同語源",
     "family": "transportation（輸送機関）／ portable（持ち運べる）／ import（輸入する）",
     "contrast": "大量の荷や人を長い距離運ぶこと",
+    "trivia": "英国では輸送全般、米国では transportation を好む。公共交通は public transport",
     "example": {
       "en": "Rail transports the heavy rolls inland.",
       "ja": "鉄道が重い巻き物を内陸へ輸送する。"
@@ -7700,6 +7822,7 @@
     ],
     "origin": "ラテン語 valere（力がある）。available, valid と同語源",
     "family": "valuable（貴重な）／ evaluate（評価する）／ valid（有効な）／ prevail（優勢である）",
+    "trivia": "価値と数値の両方を指す。value for money は「値段に見合う価値」",
     "example": {
       "en": "The building's value rose after the renovation.",
       "ja": "改装後、建物の価値は上がった。"
