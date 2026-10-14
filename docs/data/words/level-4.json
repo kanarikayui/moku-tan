@@ -705,6 +705,7 @@
     ],
     "origin": "ラテン語 candidus（白い）。裏のない白さ。candle, candidate と同語源",
     "family": "candor（率直さ）／ candidate（候補者）／ candle（ろうそく）／ incandescent（白熱の）",
+    "trivia": "カメラの candid shot は「作らない自然な一枚」。candid camera は隠し撮り番組の名から広まった",
     "example": {
       "en": "The manager gave a candid account of the delay.",
       "ja": "部長は遅延について率直な説明をした。"
@@ -3776,6 +3777,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 spirare（息をする）。息を合わせて事を企てること。spirit と同語源",
     "family": "conspiracy（陰謀）／ spirit（精神）／ inspire（着想を与える）／ expire（失効する）",
+    "trivia": "「息を合わせる」が原義。spirit, inspire, respire と同じ spirare の系統で、息が語の中心にある",
     "example": {
       "en": "Two suppliers were accused of conspiring.",
       "ja": "二社の供給業者が共謀したと指摘された。"
@@ -5183,6 +5185,7 @@
     ],
     "origin": "ギリシャ語 eu（よく）＋ pheme（言葉）。角の立たない言い換え",
     "family": "euphemistic（婉曲な）／ euphoria（陶酔）／ eulogy（賛辞）",
+    "trivia": "pass away（亡くなる）や let go（解雇する）が代表例。TOEIC では遠回しな通知文で出る",
     "example": {
       "en": "Restructuring is a euphemism for job cuts.",
       "ja": "再編は人員削減の婉曲表現だ。"

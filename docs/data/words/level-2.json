@@ -125,6 +125,7 @@
     "origin": "re-（戻って）＋ venire（来る）。戻ってくるお金。event, invent と同語源",
     "family": "revenues（収入源）／ avenue（大通り）／ venue（開催地）",
     "contrast": "費用を引く前の売上総額。profit は費用を引いた後",
+    "trivia": "「戻ってくるもの」が原義。米国の国税庁は Internal Revenue Service、略して IRS",
     "example": {
       "en": "Overseas revenue accounted for half of last year's total.",
       "ja": "海外の収益は昨年の総額の半分を占めた。"
@@ -230,6 +231,7 @@
     ],
     "origin": "ラテン語 invenire（見つける）。見つけ出して並べた目録。invent と同語源",
     "family": "inventor（発明者）／ invent（発明する）／ event（出来事）",
+    "trivia": "もとは「見つけたものの一覧」。invent は「見つけ出す」が原義で、発明の意味は後から",
     "example": {
       "en": "Store staff count the inventory on the last day of the month.",
       "ja": "店舗の従業員は月末に在庫を数える。"
@@ -1051,6 +1053,7 @@
     ],
     "origin": "ex-（外へ）＋ spirare（息をする）。息を吐き切る→効力が尽きる。spirit と同語源",
     "family": "expiration（満了）／ spirit（精神）／ inspire（着想を与える）／ respire（呼吸する）",
+    "trivia": "「息を外へ吐く」が原義で、人が息を引き取る意味もある。期限切れとどちらも「尽きる」感覚",
     "example": {
       "en": "The parking permit expires at the end of March.",
       "ja": "駐車許可証は三月末に失効する。"
@@ -1942,6 +1945,7 @@
     "origin": "ad-（〜へ）＋ signum（しるし）。しるしを付けて割り振る。sign, design と同語源",
     "family": "assignment（担当業務）／ sign（印）／ design（設計する）／ resign（辞任する）",
     "contrast": "担当として割り当てること。assist（手伝う）と綴りが近いが意味は別",
+    "trivia": "署名で担当を示した名残で、sign と同根。法律では assignee（譲受人）が権利を引き継ぐ",
     "example": {
       "en": "The chief assigned the audit to two clerks.",
       "ja": "主任は監査を二名の事務員に任せた。"
@@ -3619,6 +3623,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 videre（見る）。誰の目にも見えている事実。video と同語源",
     "family": "evident（見て取れる）／ evidently（明らかに）／ video（映像）／ vision（視覚）",
+    "trivia": "「外から見える」が原義で、証拠は目に見えるものという発想。video, vision と同じ videre の系統",
     "example": {
       "en": "Photographs serve as evidence of the damage.",
       "ja": "写真が破損の証拠となる。"
@@ -3945,6 +3950,7 @@
     ],
     "origin": "中期オランダ語 vracht（積み荷の運賃）。船に積んで運ぶ荷",
     "family": "freighter（貨物船）／ freight forwarder（貨物取扱業者）",
+    "trivia": "貨物船を freighter と呼ぶが、空輸でも air freight と言う。船に限られていた語が輸送手段を問わなくなった",
     "example": {
       "en": "Freight to the island moves by ferry.",
       "ja": "島への貨物は渡し船で運ばれる。"
@@ -4046,6 +4052,7 @@
     "origin": "ゲルマン語 warjan（守る）。相手に代わって守ると約束すること。warranty と同語源",
     "family": "guarantor（保証人）／ warranty（保証書）",
     "contrast": "品質や支払いを請け合うこと。warranty は書面としての保証を指す",
+    "trivia": "warrant と同語源の二重語。ノルマン人が w を gu と発音したため、同じ語が二通りの綴りで英語に入った",
     "example": {
       "en": "The maker guarantees delivery within a week.",
       "ja": "製造業者は一週間以内の納品を請け合う。"
@@ -4424,6 +4431,7 @@
     ],
     "origin": "en-（〜にする）＋ sure（確かな）。損失に備えて確かにしておく仕組み",
     "family": "insure（保険をかける）／ insurer（保険会社）／ ensure（確実にする）",
+    "trivia": "英国では生命保険を assurance、損害保険を insurance と呼び分ける慣習が今も一部に残る",
     "example": {
       "en": "Cargo insurance covers the sea voyage.",
       "ja": "貨物の保険が海上の航行を対象とする。"
@@ -5403,6 +5411,7 @@
     ],
     "origin": "ラテン語 pater（父）。手本となる型、そこから繰り返しの型",
     "family": "patterned（模様入りの）／ patron（後援者）／ paternal（父方の）",
+    "trivia": "patron（後援者）と同じ語から分かれた二重語。手本を示す人と、手本そのものに意味が割れた",
     "example": {
       "en": "Sales follow a clear seasonal pattern.",
       "ja": "売上ははっきりした季節の傾向を示す。"
@@ -5503,6 +5512,7 @@
     ],
     "origin": "ギリシャ語 polis（都市）。都市を治める方針。police, politics と同語源",
     "family": "politics（政治）／ police（警察）／ political（政治の）／ policy holder（保険契約者）",
+    "trivia": "「方針」の policy と「保険証券」の policy は別語源。後者はギリシャ語 apodeixis（証明）系で、綴りが偶然そろった",
     "example": {
       "en": "Company policy bans open flames indoors.",
       "ja": "会社の方針は屋内の裸火を禁じる。"
@@ -6906,6 +6916,7 @@
     ],
     "origin": "ギリシャ語 skopein（見る）。見渡せる範囲。telescope と同語源",
     "family": "telescope（望遠鏡）／ microscope（顕微鏡）／ skeptical（懐疑的な）",
+    "trivia": "望遠鏡も顕微鏡も「見る道具」。-scope の付く語はすべてこの skopein から来ている",
     "example": {
       "en": "The scope of the warranty excludes misuse.",
       "ja": "保証の適用範囲は誤用を除く。"
@@ -9533,6 +9544,7 @@
     ],
     "origin": "de-（はっきり）＋ ラテン語 signum（印）。印を描いて形を決めること。sign と同語源",
     "family": "designate（指定する）／ designer（設計者）／ sign（印）／ signature（署名）",
+    "trivia": "もとは「印を付けて示す」こと。意匠と意図の両方を指すのは、どちらも「狙いを定める」から",
     "example": {
       "en": "Engineers designed a lighter frame.",
       "ja": "技術者はより軽い枠を設計した。"

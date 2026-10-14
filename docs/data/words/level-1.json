@@ -304,6 +304,7 @@
     ],
     "origin": "ラテン語 scheda（紙片）から。予定を書いた小さな紙が原義",
     "family": "scheduled（予定された）／ reschedule（予定を組み直す）",
+    "trivia": "英音は「シェデュール」、米音は「スケジュール」と読みが割れる珍しい語。school と同じギリシャ語系の綴りが原因",
     "example": {
       "en": "Please check the schedule posted near the staff entrance.",
       "ja": "従業員入口の近くに掲示された予定表を確認してください。"
@@ -483,6 +484,7 @@
     "origin": "フランス語 envoi（送ること）から。品物に添える「送り状」",
     "family": "invoicing（請求処理）／ envoy（使節）／ voyage（航海）",
     "contrast": "代金を請求する書面。involve（関与させる）や invoke（援用する）と綴りが近い",
+    "trivia": "単数形に見えて、もとはフランス語 envois（送り状の複数形）。英語に入るとき複数の s が語尾に取り込まれた",
     "example": {
       "en": "Attach the invoice when you submit the expense form.",
       "ja": "経費申請書を提出するときは請求書を添付しなさい。"
@@ -1170,6 +1172,7 @@
     ],
     "origin": "ギリシャ語 apo-（離れて）＋ logos（言葉）。もとは「弁明する」",
     "family": "apology（謝罪）／ apologetic（申し訳なさそうな）",
+    "trivia": "もとは罪を認める言葉ではなく弁明すること。プラトンの『ソクラテスの弁明』は Apology と訳される",
     "example": {
       "en": "We apologize for the delay in your order.",
       "ja": "ご注文の遅れについて謝ります。"
@@ -1634,6 +1637,7 @@
     ],
     "origin": "air（空）＋ port（港）。空の港という直訳がそのまま定着",
     "family": "air（空気）／ port（港）／ portable（持ち運べる）／ import（輸入する）",
+    "trivia": "port（港）を空に当てはめた直訳が二十世紀に定着した。heliport（ヘリポート）も同じ作り方",
     "example": {
       "en": "A shuttle leaves the airport every twenty minutes.",
       "ja": "送迎車が二十分ごとに空港を出る。"
@@ -1708,6 +1712,7 @@
       "badge-identitytag"
     ],
     "origin": "中英語 bage（しるし）。所属を示す小札",
+    "trivia": "所属を示す小札から、今は警官の記章や電子的な認証バッジまで。動詞で「名札を付ける」とも使う",
     "example": {
       "en": "Wear your badge in all restricted areas.",
       "ja": "立入制限のある区域では名札を着けなさい。"
@@ -1881,6 +1886,7 @@
       "carpet-floorcovering"
     ],
     "origin": "ラテン語 carpere（摘み取る）。ほぐした繊維で織ったことから",
+    "trivia": "ほぐした古布を織り直して作ったことから。同じ carpere は carpe diem（その日を摘め）の carpe でもある",
     "example": {
       "en": "Workers rolled up the carpet before painting.",
       "ja": "作業員は塗装の前にじゅうたんを巻き上げた。"
@@ -2354,6 +2360,7 @@
     ],
     "origin": "e-（外へ）＋ venire（来る）。表に出てきた出来事。invent, adventure と同語源",
     "family": "eventual（最終的な）／ prevent（防ぐ）／ invent（発明する）／ venue（開催地）",
+    "trivia": "「外へ出てくること」が原義。competition に対して event は競技種目そのものを指す使い方もある",
     "example": {
       "en": "The autumn event drew over two hundred guests.",
       "ja": "秋の催しには二百人を超える客が集まった。"
@@ -2456,6 +2463,7 @@
     ],
     "origin": "古英語 flor（床）。flat（平ら）と同系の語感",
     "family": "flooring（床材）／ floored（床を張った）",
+    "trivia": "建物の階を指すのは英米で数え方が違う。英国の first floor は二階で、一階は ground floor",
     "example": {
       "en": "The sales team moved to the sixth floor.",
       "ja": "営業部は六階へ移った。"
@@ -2481,6 +2489,7 @@
     ],
     "origin": "ラテン語 forma（形）。決まった形式の用紙",
     "family": "formal（正式な）／ format（体裁）／ inform（知らせる）／ reform（改革する）",
+    "trivia": "用紙・形式・体調と意味が広い。in good form は「調子がよい」で、書類とは関係ない",
     "example": {
       "en": "Complete the yellow form for reimbursement.",
       "ja": "払い戻しには黄色い用紙を記入しなさい。"
@@ -2505,6 +2514,7 @@
       "garage-vehicleshelter"
     ],
     "origin": "フランス語 garer（しまう）。船を係留する語から車を収める場へ",
+    "trivia": "フランス語読みの名残で、英音は「ギャリジ」、米音は「ガラージュ」と発音が割れる",
     "example": {
       "en": "Company cars are parked in the underground garage.",
       "ja": "社用車は地下の車庫に止めてある。"
@@ -2733,6 +2743,7 @@
     ],
     "origin": "古英語 cæg（鍵）。「解く道具」から比喩的に「要点」も表す",
     "family": "keyboard（鍵盤）／ keynote（基調講演）／ keyword（重要語）",
+    "trivia": "鍵そのものから「要点」「重要な」へ比喩が広がった。keynote（基調講演）は合唱の音程を決める主音から",
     "example": {
       "en": "Return the key to the security desk.",
       "ja": "鍵は警備の窓口に返しなさい。"
@@ -2758,6 +2769,7 @@
     ],
     "origin": "古フランス語 label（細長い布片）。垂れ下げた札が原義",
     "family": "labeling（表示）／ mislabel（誤表示する）／ labeled（表示された）",
+    "trivia": "もとは垂れ下げた細い布。衣類のタグから、瓶の貼り紙、果ては人に貼る「レッテル」まで広がった",
     "example": {
       "en": "A red label marks fragile cartons.",
       "ja": "赤い表示が壊れ物の箱を示す。"
@@ -3559,6 +3571,7 @@
     ],
     "origin": "ラテン語 signum（しるし）。signal, design と同語源",
     "family": "signal（合図）／ signature（署名）／ significant（著しい）／ design（設計する）",
+    "trivia": "名詞と動詞で意味がかなり違う。動詞の「署名する」は、しるしを書き付けるという原義の直系",
     "example": {
       "en": "Sign the delivery slip when the goods arrive.",
       "ja": "品物が届いたら納品票に署名しなさい。"
@@ -3807,6 +3820,7 @@
       "wall-verticalsurface"
     ],
     "origin": "ラテン語 vallum（柵・土塁）。軍営の防壁が原義",
+    "trivia": "ローマ軍が野営地の周囲に築いた土塁の名。英国の Hadrian's Wall もこの vallum の系統",
     "example": {
       "en": "Notices are pinned to the wall near the door.",
       "ja": "掲示は扉の近くの壁に留められている。"
@@ -4209,6 +4223,7 @@
     "origin": "古英語 brand（焼き印）。家畜に焼き印を押したことから",
     "family": "branding（銘柄づくり）／ brand-new（真新しい）",
     "contrast": "商品の銘柄。branch（支店）と一字違いなので取り違えやすい",
+    "trivia": "家畜に焼き印を押して持ち主を示した。商標として商品に押す印へ広がり、今は企業の評判そのものを指す",
     "example": {
       "en": "Shoppers prefer the store's own brand.",
       "ja": "買い物客は店独自の銘柄を好む。"
@@ -4331,6 +4346,7 @@
     ],
     "origin": "イタリア語 cassa（金庫）。case（箱）と同語源",
     "family": "cashier（レジ係）／ cashless（現金不要の）",
+    "trivia": "もとは金を入れる箱そのものを指した。箱の中身が「現金」になり、箱の方は cashier（レジ係）に残った",
     "example": {
       "en": "The market takes cash but not cards.",
       "ja": "その市場は現金を扱うが札は扱わない。"
@@ -4356,6 +4372,7 @@
     ],
     "origin": "ギリシャ語 kata-（下へ）＋ legein（並べる）。順に書き並べた表",
     "family": "cataloging（目録作成）／ catalogue（目録）",
+    "trivia": "ギリシャ語で「順に書き並べたもの」。商品目録のほか、図書館の蔵書目録や天体カタログにも使う",
     "example": {
       "en": "The spring catalog reached subscribers on Monday.",
       "ja": "春の商品目録は月曜に購読者へ届いた。"
@@ -4432,6 +4449,7 @@
     ],
     "origin": "ラテン語 civitas（市民の共同体）。civil, citizen と同語源",
     "family": "citizen（市民）／ civic（市民の）／ civil（民間の）",
+    "trivia": "ローマでは市民の共同体そのものを civitas と呼び、建物の集まりではなかった。citizen はその構成員",
     "example": {
       "en": "The firm runs depots in four cities.",
       "ja": "同社は四つの都市に拠点を持つ。"
@@ -4457,7 +4475,7 @@
     ],
     "origin": "ギリシャ語 klerikos（聖職者）。読み書きができたのが聖職者だった名残",
     "family": "clerical（事務の）／ cleric（聖職者）",
-    "trivia": "中世に読み書きができたのはほぼ聖職者だけで、記録や計算は彼らの仕事だった。clergy（聖職者）と同じ語",
+    "trivia": "米音は /klɜːrk/ だが英音は /klɑːk/ で「クラーク」と聞こえる。Derby や sergeant と同じ er を ar と読む古い綴りの名残",
     "example": {
       "en": "A clerk enters each order by hand.",
       "ja": "事務員が注文を一件ずつ手で入力する。"
@@ -4508,6 +4526,7 @@
     ],
     "origin": "ラテン語 columna（柱）。縦に並ぶことから紙面の欄へ",
     "family": "columnist（コラム執筆者）",
+    "trivia": "建築の柱から新聞の縦の欄へ。定期寄稿を columnist と呼ぶのも、紙面の柱という発想から",
     "example": {
       "en": "Enter the code in the second column.",
       "ja": "二番目の欄に番号を入れなさい。"
@@ -5567,6 +5586,7 @@
     ],
     "origin": "ギリシャ語 hora（時・季節）。h は綴りだけで発音しない",
     "family": "hourly（一時間ごとの）／ half-hour（三十分）／ man-hour（人時）",
+    "trivia": "綴りの h を発音しない数少ない語の一つ。honest, honor, heir も同じくフランス語経由で h が黙字になった",
     "example": {
       "en": "The shop stays open an extra hour on Fridays.",
       "ja": "店は金曜に一時間長く開いている。"
@@ -5793,6 +5813,7 @@
       "lamp-lightfixture"
     ],
     "origin": "ギリシャ語 lampas（たいまつ）。lantern と同語源",
+    "trivia": "ギリシャ語 lampas はたいまつのこと。同じ語から lantern（手提げランプ）と lampoon は別系統なので注意",
     "example": {
       "en": "A lamp hangs above each workbench.",
       "ja": "各作業台の上に照明器具が下がっている。"
@@ -5918,6 +5939,7 @@
     ],
     "origin": "ラテン語 libella（水準器）。libra（天秤）から来た水平の基準",
     "family": "equilibrium（均衡）／ deliberate（意図的な）／ libra（天秤）",
+    "trivia": "libra は天秤のことで、天秤座 Libra や重さの lb（ポンド）の略号も同じ語から来ている",
     "example": {
       "en": "Check the oil level before each shift.",
       "ja": "各勤務の前に油の水準を確かめなさい。"
@@ -6119,6 +6141,7 @@
     "origin": "ギリシャ語 meta-（後を追って）＋ hodos（道）。道筋をたどること",
     "family": "methodical（きちょうめんな）／ method actor（体得型俳優）",
     "contrast": "体系立った進め方。means は目的を果たすための手立て",
+    "trivia": "同じ hodos（道）から period（ひと回り）、episode（間に差し挟む話）が生まれている",
     "example": {
       "en": "A simpler method cut assembly time.",
       "ja": "より単純な方法が組立時間を縮めた。"
@@ -6169,6 +6192,7 @@
     ],
     "origin": "moon（月）と同語源。月の満ち欠けが暦の単位だった",
     "family": "monthly（毎月の）／ moon（月）",
+    "trivia": "moon と同語源だが綴りが離れたのは発音の変化による。太陰暦の名残が語そのものに残っている",
     "example": {
       "en": "Sales rose for the third month running.",
       "ja": "売上は三か月連続で伸びた。"
@@ -6392,6 +6416,7 @@
     ],
     "origin": "ギリシャ語 papyros（パピルス）。古代の筆記材の名がそのまま残った",
     "family": "paperwork（書類事務）／ paperless（紙不要の）／ wallpaper（壁紙）",
+    "trivia": "パピルスは紙ではなく、草の茎を薄く裂いて貼り合わせたもの。製法は違うのに名だけが受け継がれた",
     "example": {
       "en": "The printer is out of thick paper.",
       "ja": "印刷機の厚い紙が切れている。"
@@ -6442,6 +6467,7 @@
     ],
     "origin": "ギリシャ語 peri-（周りを）＋ hodos（道）。一巡りする区切り。method と同じ hodos",
     "family": "periodic（周期的な）／ periodical（定期刊行物）",
+    "trivia": "英語の period は「終止符」も指す。アメリカ口語で Period! と言えば「以上、話は終わり」",
     "example": {
       "en": "The trial period lasts ninety days.",
       "ja": "試用の期間は九十日続く。"
@@ -6542,6 +6568,7 @@
     ],
     "origin": "ギリシャ語 prattein（行う）。理論に対する「実行」",
     "family": "practical（実用的な）／ practitioner（実務家）",
+    "trivia": "英では名詞 practice と動詞 practise を綴り分けるが、米ではどちらも practice で済ます",
     "example": {
       "en": "Weekly checks are standard practice here.",
       "ja": "週ごとの点検はここでの標準的な慣行だ。"
@@ -6617,6 +6644,7 @@
     ],
     "origin": "ギリシャ語 pro-（前に）＋ graphein（書く）。前もって書き出した次第",
     "family": "programming（計画立案）／ programmer（設計者）",
+    "trivia": "英国綴りは programme。米国綴りの program が計算機の分野で世界に広まり、英国でもその用法だけは program と書く",
     "example": {
       "en": "The program lists three afternoon talks.",
       "ja": "催しの次第には午後の講演が三つ載っている。"
@@ -7445,6 +7473,7 @@
     ],
     "origin": "ギリシャ語 syn-（共に）＋ histanai（立てる）。組み立てられた全体",
     "family": "systematic（体系的な）／ systematically（体系的に）",
+    "trivia": "組み立てられた全体という原義から、体制・制度・装置まで幅広く指す。日本語の「システム」より守備範囲が広い",
     "example": {
       "en": "The booking system went live in April.",
       "ja": "予約の仕組みは四月に稼働した。"
@@ -7571,6 +7600,7 @@
     ],
     "origin": "古英語 wice（巡り）。weak とは無関係で「順に巡るもの」",
     "family": "weekly（毎週の）／ weekday（平日）／ weekend（週末）",
+    "trivia": "曜日の名は北欧神話の神に由来する。Wednesday は Woden、Thursday は Thor、Friday は Frigg から",
     "example": {
       "en": "Orders ship within one week of payment.",
       "ja": "注文は入金から一週以内に発送される。"

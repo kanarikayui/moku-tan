@@ -1433,6 +1433,7 @@
     ],
     "origin": "ゲルマン語 warjan（守る）。守ると請け合うこと。warranty, guarantee と同語源",
     "family": "warranty（保証）／ warranted（正当と認められる）／ guarantee（請け合う）",
+    "trivia": "逮捕状も品質保証も同じ語。「守ると請け合う」が公文書と商取引の両方へ広がった",
     "example": {
       "en": "The small gap does not warrant a full recall.",
       "ja": "わずかな隙間は全品回収を正当化するものではない。"
@@ -4712,6 +4713,7 @@
     ],
     "origin": "hyper-（越えて）＋ ギリシャ語 ballein（投げる）。度を越して言うこと",
     "family": "hyperbolic（誇張した）／ hyper-（超えて）／ parable（たとえ話）／ symbol（象徴）",
+    "trivia": "「百万回言った」のような誇張表現を指す修辞用語。発音は四音節で「ハイパーボリ」",
     "example": {
       "en": "The advert relied on plain hyperbole.",
       "ja": "その広告は露骨な誇張表現に頼った。"
@@ -8139,6 +8141,7 @@
     ],
     "origin": "mortgage（抵当）＋ -ee。抵当権を持つ側。mortgagor と対",
     "family": "mortgage（住宅融資）／ mortgagor（抵当権設定者）／ mortal（死すべき）",
+    "trivia": "-ee は行為を受ける側、-or は行う側。mortgagee（抵当権者）と mortgagor（設定者）は一字で立場が逆転する",
     "example": {
       "en": "The mortgagee inspected the property twice.",
       "ja": "抵当権者はその不動産を二度検分した。"

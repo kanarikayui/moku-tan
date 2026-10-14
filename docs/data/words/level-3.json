@@ -1581,6 +1581,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 vocare（呼ぶ）。助けに呼ばれて弁護すること。voice と同語源",
     "family": "advocacy（唱道）／ vocal（声の）／ voice（声）／ invoke（援用する）",
+    "trivia": "法廷で被告の側に呼ばれた弁護人のこと。今は特定の主張を支持する人を広く指す",
     "example": {
       "en": "The union advocates shorter night shifts.",
       "ja": "組合は短い夜勤を擁護する。"
@@ -2838,6 +2839,7 @@
     "origin": "con-（共に）＋ ラテン語 venire（来る）。一堂に来させること。convention と同語源",
     "family": "convention（協定）／ convenient（便利な）／ venue（開催地）／ intervene（介入する）",
     "contrast": "人を一堂に集めること。convert（転用する）や convey（伝達する）と綴りが近い",
+    "trivia": "convention は「集まり」から「慣習」「協定」まで指す。集まって決めたことが決まりになる発想",
     "example": {
       "en": "The chair convened an extra session.",
       "ja": "議長は臨時の回を招集した。"
@@ -4642,6 +4644,7 @@
     ],
     "origin": "ラテン語 frangere（砕く）。砕いた一片。fragile, fragment と同語源",
     "family": "fractional（ごくわずかな）／ fracture（骨折）／ fragile（壊れやすい）／ fragment（断片）",
+    "trivia": "砕けた一片が原義で、分数の意味は後から。fracture（骨折）や fragile（壊れやすい）と同じ系統",
     "example": {
       "en": "Only a fraction of stock was damaged.",
       "ja": "在庫のわずかな部分だけが破損した。"
@@ -9328,6 +9331,7 @@
     ],
     "origin": "ラテン語 venire（来る）。人が集まって来る場所。convene と同語源",
     "family": "convene（招集する）／ convention（協定）／ event（催し）／ intervene（介入する）",
+    "trivia": "「人が来る場所」が原義で、法律では「裁判地」を指す。change of venue は裁判所の移送のこと",
     "example": {
       "en": "The venue changed to the harbor hall.",
       "ja": "開催地は港のホールに変わった。"
@@ -9353,6 +9357,7 @@
     ],
     "origin": "ラテン語 verus（真）＋ dicere（言う）。真実を言い渡した結論。verify と同語源",
     "family": "verify（照合する）／ veracity（真実性）／ dictate（口述する）／ predict（見込む）",
+    "trivia": "陪審が「真実を述べる」ことが原義。評決は今も陪審が口頭で読み上げる形式を取る国が多い",
     "example": {
       "en": "The verdict favored the shipping agent.",
       "ja": "判定結果は運送代理店に有利だった。"
@@ -10299,6 +10304,7 @@
     "origin": "ラテン語 consulere（相談する）。相談して示す助言。consultant と同語源",
     "family": "counselor（相談員）／ consult（相談する）／ consultant（助言者）／ council（協議会）",
     "contrast": "助言そのものを指す名詞。council（協議会）とは綴りが一字違いで別の語",
+    "trivia": "法廷では「弁護人」そのものを指す。counsel for the defense（被告側弁護人）のように冠詞なしで使う",
     "example": {
       "en": "Legal counsel advised a written reply.",
       "ja": "法務の助言は書面の返答を勧めた。"
