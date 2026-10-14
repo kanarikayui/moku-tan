@@ -742,6 +742,7 @@
     ],
     "origin": "ラテン語 facere（作る）から。fact, manufacture と同語源",
     "family": "factor（要因）／ manufacture（製造する）／ fact（事実）",
+    "trivia": "もとは商館や代理店を指した。工場の意味に固まったのは産業革命期で、比較的新しい用法",
     "example": {
       "en": "The factory runs two shifts during the busy season.",
       "ja": "工場は繁忙期に二交代で稼働する。"
@@ -793,6 +794,7 @@
     ],
     "origin": "inter-（互いに）＋ view（見る）。「顔を見合わせる場」",
     "family": "view（見方）／ review（見直す）／ preview（下見）",
+    "trivia": "「互いに見る」が原義。取材も面接も同じ語で、報道では「インタビュー」、採用では「面接」と訳し分ける",
     "example": {
       "en": "Your interview is scheduled for ten on Thursday.",
       "ja": "面接は木曜の十時に予定されている。"
@@ -817,6 +819,7 @@
       "luggage-travelbags"
     ],
     "origin": "lug（引きずる）＋ -age。引きずって運ぶものの総称",
+    "trivia": "英語では luggage、米語では baggage が好まれる。どちらも不可算名詞で a luggage とは言えない",
     "example": {
       "en": "Leave your luggage with the hotel front desk.",
       "ja": "手荷物はホテルの受付に預けなさい。"
@@ -842,6 +845,7 @@
     ],
     "origin": "ラテン語 manu（手で）＋ tenere（保つ）。「手で保ち続ける」。maintain と同語源",
     "family": "maintain（維持する）／ manual（手作業の）／ contain（含む）",
+    "trivia": "建物にも機械にも使うが、法律では「扶養料」の意味もある。英国では離婚後の生活費を maintenance と呼ぶ",
     "example": {
       "en": "Routine maintenance takes place on the first Sunday.",
       "ja": "定例の保守は第一日曜に行われる。"
@@ -943,6 +947,7 @@
     "origin": "receive と同じ capere（つかむ）から。p は綴りだけで発音しない",
     "family": "receive（受け取る）／ recipient（受取人）／ reception（受付）",
     "contrast": "領収書という書面を指す名詞。動詞は receive で綴りも発音も違う",
+    "trivia": "p を発音しない語。中世の学者がラテン語 receptum に似せて p を書き足したため、綴りだけが残った",
     "example": {
       "en": "Keep the receipt to claim your travel costs.",
       "ja": "出張費を請求するために領収書を保管しなさい。"
@@ -993,6 +998,7 @@
     ],
     "origin": "ship（船で送る）＋ -ment。今は船に限らず「出荷」全般を指す",
     "family": "ship（出荷する）／ shipping（配送）／ shipper（荷主）",
+    "trivia": "船を使わなくても shipment と言う。米語では陸送でも ship を動詞に使うため、混乱しやすい",
     "example": {
       "en": "The shipment left the port on Tuesday evening.",
       "ja": "出荷分は火曜の夕方に港を出た。"
@@ -1586,6 +1592,7 @@
     ],
     "origin": "ad-（〜へ）＋ vertere（向ける）。人の注意を向けさせるもの。convert と同語源",
     "family": "advertise（宣伝する）／ advert（言及する）／ divert（そらす）",
+    "trivia": "英音は /ədˈvɜːtɪsmənt/ で強勢が二音節目、米音は /ˌædvərˈtaɪzmənt/ と大きく異なる",
     "example": {
       "en": "The advertisement ran in three local newspapers.",
       "ja": "その広告は地元紙三紙に載った。"
@@ -1936,6 +1943,7 @@
     ],
     "origin": "ラテン語 certus（確かな）＋ facere（する）。certain と同語源",
     "family": "certify（証明する）／ certain（確かな）／ certification（認証）",
+    "trivia": "証明書のほか、米国では預金証書を certificate of deposit、略して CD と呼ぶ",
     "example": {
       "en": "Bring your training certificate on the first day.",
       "ja": "初日に研修の証明書を持参しなさい。"
@@ -3218,6 +3226,7 @@
     ],
     "origin": "ラテン語 qualis（どのような）。「どのようであるか」が質",
     "family": "qualify（資格を満たす）／ qualification（資格要件）／ qualitative（質的な）",
+    "trivia": "「品質」と「性質」の両方を指す。quality of life（生活の質）のように、良し悪しを含まない使い方もある",
     "example": {
       "en": "Buyers praised the quality of the stitching.",
       "ja": "買い手は縫製の品質を褒めた。"
@@ -3496,6 +3505,7 @@
     ],
     "origin": "example の頭が落ちた形。ex-（外へ）＋ emere（取る）で「取り出したもの」",
     "family": "example（例）／ exemplify（好例となる）",
+    "trivia": "example（例）と同じ語から分かれた二重語。頭の音が落ちて sample になった",
     "example": {
       "en": "Send two fabric samples to the buyer.",
       "ja": "買い手に布の見本を二枚送りなさい。"
@@ -3646,6 +3656,7 @@
     ],
     "origin": "sur-（上から）＋ videre（見る）。上から見渡すこと。supervisor と同語源",
     "family": "surveyor（測量士）／ view（見方）／ vision（視覚）",
+    "trivia": "「上から見渡す」が原義。測量と意識調査という離れた二つの意味を持つのはこのため",
     "example": {
       "en": "Guests fill out a short survey at checkout.",
       "ja": "客は退出の際に短い調査票に記入する。"
@@ -3796,6 +3807,7 @@
     "origin": "古フランス語 wagier（保証する）。約束した支払い。wager（賭け）と同語源",
     "family": "wages（賃金）／ wager（賭け）",
     "contrast": "働いた時間や出来高に応じて払う賃金。salary は期間で固定される",
+    "trivia": "wager（賭け）と同語源で、どちらも「約束して差し出すもの」。賃金も賭け金も元は同じ発想",
     "example": {
       "en": "The starting wage rose by fifty yen.",
       "ja": "初任の時給は五十円上がった。"
@@ -4984,6 +4996,7 @@
     "origin": "ラテン語 dividere（分ける）。工夫して分けた仕掛け。divide と同語源",
     "family": "devise（考案する）／ divide（分割する）／ division（分割）",
     "contrast": "名詞で機器そのものを指す。動詞の devise（考案する）と綴りが一字違い",
+    "trivia": "名詞の device と動詞の devise で綴りが変わる。advice と advise、practice と practise と同じ型",
     "example": {
       "en": "A small device measures the humidity.",
       "ja": "小さな装置が湿度を測る。"
@@ -5460,6 +5473,7 @@
     ],
     "origin": "古英語 geat（門）。get（手に入れる）とは別系統",
     "family": "gateway（出入口）／ gated（門のある）／ boarding gate（搭乗口）",
+    "trivia": "搭乗口の意味は空港とともに広まった。-gate を付けて不祥事を表すのは Watergate 事件から",
     "example": {
       "en": "The rear gate closes at seven each evening.",
       "ja": "裏の門は毎晩七時に閉まる。"

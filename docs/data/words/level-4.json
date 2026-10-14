@@ -2623,6 +2623,7 @@
     ],
     "origin": "ad-（〜へ）＋ 古仏語 jorn（日）。別の日へ回して会を閉じること。journal と同語源",
     "family": "adjournment（休会）／ journal（日誌）／ journey（旅程）／ sojourn（滞在）",
+    "trivia": "「別の日へ」が原義なので、短い休憩は recess と使い分ける。議会用語として今も生きている",
     "example": {
       "en": "The session adjourned until two o'clock.",
       "ja": "その回は二時まで休会した。"
@@ -7409,6 +7410,7 @@
     ],
     "origin": "ラテン語 medius（中間）。間に立って取り持つこと。mediate と同語源",
     "family": "mediate（調停する）／ mediator（調停者）／ medium（媒体）／ intermediary（仲介者）",
+    "trivia": "調停人に決定権はなく、当事者が合意して初めて終わる。拘束力のある仲裁とはこの一点で決定的に違う",
     "example": {
       "en": "Mediation avoided a costly court case.",
       "ja": "仲介が費用のかさむ裁判を避けた。"
@@ -8206,6 +8208,7 @@
     ],
     "origin": "ラテン語 plangere（嘆く）。訴えを起こした側。complain と同語源",
     "family": "plaintive（もの悲しい）／ complain（苦情を言う）／ complaint（苦情）",
+    "trivia": "訴えられる側は defendant。plaintiff は「嘆く人」が原義で、complain（苦情を言う）と同じ語根",
     "example": {
       "en": "The plaintiff sought damages for the delay.",
       "ja": "原告は遅延の損害賠償を求めた。"

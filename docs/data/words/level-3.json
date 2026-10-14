@@ -121,6 +121,7 @@
     ],
     "origin": "ラテン語 iter（旅路）。たどる道筋を書いたもの",
     "family": "itinerant（巡回の）／ transit（通過）／ initiate（着手する）",
+    "trivia": "旅程表のほか、巡回の経路も指す。itinerant（巡回の）は同じ iter（旅路）から",
     "example": {
       "en": "Your itinerary includes a factory tour on the second day.",
       "ja": "あなたの旅程には二日目の工場見学が含まれている。"
@@ -171,6 +172,7 @@
     ],
     "origin": "ラテン語 tenere（保つ）。借りて占有している人。maintain, retain と同語源",
     "family": "tenancy（賃借権）／ tenure（在職期間）／ retain（保持する）／ maintain（維持する）",
+    "trivia": "フランス語の現在分詞がそのまま名詞化した語。lieutenant（副官）も「代わりに保つ者」で同じ tenir の系統",
     "example": {
       "en": "Each tenant receives two keys and one parking pass.",
       "ja": "各賃借人は鍵二本と駐車証一枚を受け取る。"
@@ -426,6 +428,7 @@
     ],
     "origin": "fore（前もって）＋ cast（投げる）。先へ目算を投げること",
     "family": "forecaster（予報担当）／ cast（投げる）／ broadcast（放送する）",
+    "trivia": "天気予報だけでなく、売上予測にも使う。予言めいた predict より、根拠のある見通しという含み",
     "example": {
       "en": "Analysts forecast steady demand through the winter season.",
       "ja": "分析担当は冬の期間を通じて堅調な需要を予測している。"
@@ -451,6 +454,7 @@
     ],
     "origin": "ラテン語 ligare（結ぶ）。支払いに縛られている分。ally, oblige と同語源",
     "family": "liable（責任を問われる）／ ally（同盟する）／ alliance（提携）／ rely（当てにする）",
+    "trivia": "be liable to は「〜しがちだ」とも訳せるが、よくない事柄にしか使わない。be likely to との違いがここにある",
     "example": {
       "en": "The report lists total liability at the end of each quarter.",
       "ja": "報告書は各四半期末の負債総額を示している。"
@@ -531,6 +535,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 quaerere（求める）。求めて手に入れること。require と同語源",
     "family": "acquire（獲得する）／ require（求める）／ inquire（尋ねる）／ conquer（征服する）",
+    "trivia": "企業買収は M&A（merger and acquisition）と略す。merger が対等合併、acquisition が買収と使い分ける",
     "example": {
       "en": "The acquisition added two plants in the south.",
       "ja": "その買収により南部の工場が二つ加わった。"
@@ -661,6 +666,7 @@
     ],
     "origin": "apply（当てる）＋ -ance。用途に当てて使う器具",
     "family": "apply（適用する）／ application（適用）／ applicable（適用できる）",
+    "trivia": "家電に限らず「当てて使う器具」。医療では義歯や装具も dental appliance と呼ぶ",
     "example": {
       "en": "Every appliance carries a two-year repair pledge.",
       "ja": "すべての家電製品に二年間の修理の約束が付く。"
@@ -1123,6 +1129,7 @@
     ],
     "origin": "ラテン語 hospes（客・主）。客をもてなすこと。hotel, hospital と同語源",
     "family": "hospitable（もてなしのよい）／ hospital（病院）／ hotel（宿）／ host（主人）",
+    "trivia": "hospital, hotel, hostel, host はすべて同じ hospes の系統。客をもてなす語が病院の名にもなった",
     "example": {
       "en": "The hotel is known for its careful hospitality.",
       "ja": "そのホテルは丁寧な接客で知られている。"
@@ -1202,6 +1209,7 @@
     "origin": "古仏語 laissier（手放す）。使う権利を手放して貸すこと",
     "family": "lessor（賃貸人）／ lessee（賃借人）",
     "contrast": "不動産や設備を期間を決めて貸借する契約。rent より長期で正式",
+    "trivia": "貸す側が lessor、借りる側が lessee。-or と -ee で立場が逆になる法律語の典型",
     "example": {
       "en": "The lease runs for five years from April.",
       "ja": "その賃貸借契約は四月から五年間続く。"
@@ -1353,6 +1361,7 @@
     ],
     "origin": "over（すっかり）＋ haul（引く）。綱を総点検した船乗り言葉から",
     "family": "haul（引く）／ haulage（陸送）／ hauling（運搬）",
+    "trivia": "もとは帆船の綱をすべて点検する作業。今は制度や法律の抜本的な見直しにも使う",
     "example": {
       "en": "Engineers overhaul each press every four years.",
       "ja": "技術者は四年ごとに各印刷機を分解修理する。"
@@ -1910,6 +1919,7 @@
     "origin": "ラテン語 ad satis（十分に）。負債を払うに足るもの。satisfy と同語源",
     "family": "assets（資産）／ satisfy（満たす）／ saturate（飽和させる）",
     "contrast": "負債を払うに足る財産。assert（主張する）や assess（判定する）と綴りが近い",
+    "trivia": "もとは「負債を払うに足りるだけある」という状態を表す句で、名詞ではなかった。複数形 assets の方が先にできた",
     "example": {
       "en": "The vans are the firm's largest asset.",
       "ja": "貨物車が会社の最大の資産だ。"
@@ -2536,6 +2546,7 @@
     ],
     "origin": "comply（従う）＋ -ance。決まりに従っている状態",
     "family": "comply（従う）／ compliant（準拠した）／ complete（完全な）",
+    "trivia": "法令順守のほか、医療では患者が指示を守ることも compliance。どちらも「求めに応じる」",
     "example": {
       "en": "Compliance training runs every autumn.",
       "ja": "法令順守の研修は毎秋行われる。"
@@ -3995,6 +4006,7 @@
     ],
     "origin": "en-（〜に）＋ ラテン語 dorsum（背）。証書の裏へ署名すること",
     "family": "endorse（支持する）／ dorsal（背側の）",
+    "trivia": "小切手の裏書きが原義。有名人が商品を推薦する意味も同じ語で、裏に名前を書く発想が共通する",
     "example": {
       "en": "The check requires an endorsement.",
       "ja": "その小切手には裏書きが必要だ。"
@@ -4146,6 +4158,7 @@
     ],
     "origin": "ラテン語 aequus（等しい）。公平な取り分、そこから自己資本。equal と同語源",
     "family": "equitable（公平な）／ equal（等しい）／ adequate（十分な）／ equator（赤道）",
+    "trivia": "「公平」と「自己資本」という離れた二つの意味を持つ。英国の衡平法 equity は、硬直した慣習法を公平で補う制度だった",
     "example": {
       "en": "Equity funded most of the expansion.",
       "ja": "自己資本が拡張の大半を賄った。"
@@ -5575,6 +5588,7 @@
     "origin": "inter-（間に）＋ ラテン語 vallum（柵）。柵と柵の間、そこから間隔",
     "family": "intervene（介入する）／ interior（内装）／ wall（壁）",
     "contrast": "二つの時点や物のあいだ。internal（内部の）と一字違い",
+    "trivia": "英国では劇や映画の休憩時間を interval、米国では intermission と呼ぶ",
     "example": {
       "en": "Service intervals shortened to six months.",
       "ja": "整備の間隔は六か月に縮まった。"
@@ -5802,6 +5816,7 @@
     ],
     "origin": "仏語 loger（宿営させる）。軍の宿営と補給の術、そこから物流",
     "family": "logistical（物流上の）／ lodge（宿泊させる）",
+    "trivia": "もとは軍の補給を指す言葉で、ビジネス用語になったのは二十世紀後半。語の出世した例としてよく挙がる",
     "example": {
       "en": "Logistics costs vary with the season.",
       "ja": "物流の費用は季節で変わる。"
@@ -6502,6 +6517,7 @@
     ],
     "origin": "ラテン語 patere（開いている）。公開状として与えられた独占権",
     "family": "patented（特許取得済みの）／ patently（明白に）／ patent office（特許庁）",
+    "trivia": "ラテン語で「開かれた」。発明を公開する代わりに独占権を与える制度なので、原義の「公開」が核心を突いている",
     "example": {
       "en": "The patent expires in four years.",
       "ja": "その特許は四年後に切れる。"
@@ -6727,6 +6743,7 @@
     ],
     "origin": "ラテン語 portare（運ぶ）＋ folium（葉・紙）。書類ばさみ、そこから保有一覧",
     "family": "portable（持ち運べる）／ folio（二つ折り本）／ foliage（葉）",
+    "trivia": "書類ばさみが原義。大臣の職務を portfolio と呼ぶのは、担当書類を収めた鞄を持つことから",
     "example": {
       "en": "The firm reviewed its property portfolio.",
       "ja": "会社は不動産の保有一覧を見直した。"
@@ -7228,6 +7245,7 @@
     ],
     "origin": "ラテン語 quota pars（どれだけの割り前）。割り当てられた分。quote と同語源",
     "family": "quotation（見積書）／ quote（見積もる）／ quotient（商）",
+    "trivia": "輸入割当も採用枠も quota。quote（見積もる）と同語源で、どちらも「どれだけか」を定める語",
     "example": {
       "en": "The plant met its export quota early.",
       "ja": "工場は輸出の割当量を早く達成した。"
@@ -8505,6 +8523,7 @@
     ],
     "origin": "ラテン語 separare（分ける）。雇用を切り離すときの金。separate と同語源",
     "family": "sever（切り離す）／ separate（分ける）／ separation（分離）",
+    "trivia": "severance pay は解雇時の手当。sever は「切り離す」で、雇用を断つことへの補償という意味合い",
     "example": {
       "en": "Severance is based on years of service.",
       "ja": "退職金は勤続の年数に基づく。"
@@ -8604,6 +8623,7 @@
     ],
     "origin": "ラテン語 species（種）＋ facere（作る）。細目まで種分けして書いたもの",
     "family": "specify（明示する）／ specific（具体的な）／ species（種）／ special（特別な）",
+    "trivia": "仕様書は spec と略す。複数形 specs は眼鏡を指す俗語でもあり、文脈で読み分ける",
     "example": {
       "en": "The specification calls for stainless fittings.",
       "ja": "仕様書はステンレスの継手を求めている。"
@@ -9006,6 +9026,7 @@
     ],
     "origin": "ラテン語 tenere（保つ）。地位を保っている期間。retain, tenant と同語源",
     "family": "tenured（終身在職の）／ tenant（賃借人）／ retain（保持する）／ maintain（維持する）",
+    "trivia": "大学教員の終身在職権を指すことが多い。tenant（賃借人）と同じ tenere（保つ）の系統",
     "example": {
       "en": "Her tenure as manager lasted six years.",
       "ja": "支配人としての彼女の在職期間は六年だった。"
@@ -9879,6 +9900,7 @@
     ],
     "origin": "bench（台）＋ mark（印）。測量の基準として台に刻んだ印",
     "family": "bench（台）／ mark（印）／ benchmarking（比較評価）",
+    "trivia": "測量士が石や壁に刻んだ基準の印。そこに標尺（bench）を据えて高さを測ったことからこの名になった",
     "example": {
       "en": "The plant beat the industry benchmark.",
       "ja": "工場は業界の基準指標を上回った。"

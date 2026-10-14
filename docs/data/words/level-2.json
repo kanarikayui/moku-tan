@@ -181,6 +181,7 @@
     "origin": "re-（再び）＋ crescere（育つ）。増員して部隊を育て直すこと。increase と同語源",
     "family": "recruitment（採用活動）／ increase（増える）／ crescent（三日月）",
     "contrast": "人を募って集めること。個々の採用決定は hire",
+    "trivia": "もとは軍の新兵補充。会社の採用担当を recruiter と呼ぶのも、兵を集める語がそのまま移ったもの",
     "example": {
       "en": "We plan to recruit six engineers before the plant opens.",
       "ja": "工場の開設前に技術者を六名採用する予定だ。"
@@ -257,6 +258,7 @@
     ],
     "origin": "ware（商品）＋ house（家）。商品を置く家",
     "family": "ware（商品）／ warehousing（倉庫保管）／ hardware（金物）",
+    "trivia": "ware は「売り物」の古い語。hardware, software の ware もこれで、商品という意味が共通している",
     "example": {
       "en": "Boxes are stacked along the warehouse wall.",
       "ja": "箱が倉庫の壁沿いに積み上げられている。"
@@ -819,6 +821,7 @@
     ],
     "origin": "com-（共に）＋ mittere（送る）。任せて送り出す→歩合。mission と同語源",
     "family": "commissioner（委員長）／ commit（確約する）／ mission（任務）／ transmit（送信する）",
+    "trivia": "「委ねること」が原義で、委員会も歩合給も同じ語。委員会は commission、歩合は on commission",
     "example": {
       "en": "Sales staff earn a commission on every contract.",
       "ja": "営業担当は契約ごとに歩合を得る。"
@@ -894,6 +897,7 @@
     ],
     "origin": "de-（下へ）＋ legare（任じる）。任を下ろすこと。colleague と同語源",
     "family": "delegation（代表団）／ legate（使節）／ relegate（格下げする）",
+    "trivia": "名詞は /ˈdelɪɡət/、動詞は /ˈdelɪɡeɪt/ と語尾の発音が変わる。estimate や separate と同じ型",
     "example": {
       "en": "Managers should delegate routine approvals to their teams.",
       "ja": "管理職は定型の承認を部下に委任すべきだ。"
@@ -1079,6 +1083,7 @@
     ],
     "origin": "ラテン語 facilis（容易な）。「事をしやすくするもの」。facile, factory と同語源",
     "family": "facilitate（円滑にする）／ facile（容易な）／ faculty（教職員）",
+    "trivia": "複数形 facilities はトイレを遠回しに指すこともある。公共施設の案内表示で見かける",
     "example": {
       "en": "The training facility includes a small print shop.",
       "ja": "その研修施設には小さな印刷室がある。"
@@ -2121,6 +2126,7 @@
     ],
     "origin": "ラテン語 bi-（二つ）＋ lanx（皿）。二皿の天秤が原義",
     "family": "imbalance（不均衡）／ balanced（釣り合いの取れた）",
+    "trivia": "二皿の天秤が原義なので、balance sheet（貸借対照表）は左右が釣り合う表という意味そのもの",
     "example": {
       "en": "The account balance appears at the bottom.",
       "ja": "口座の残高は下部に表示される。"
@@ -2873,6 +2879,7 @@
     ],
     "origin": "court（宮廷）＋ -esy。宮廷の作法が原義",
     "family": "courteous（礼儀正しい）／ court（法廷）／ courtly（宮廷風の）",
+    "trivia": "courtesy car（代車）や courtesy bus（無料送迎バス）のように、「無料で提供される」という意味でも広く使う",
     "example": {
       "en": "Staff are praised for their courtesy to guests.",
       "ja": "職員は客への礼儀を褒められている。"
@@ -4381,6 +4388,7 @@
     ],
     "origin": "in-（中を）＋ ラテン語 specere（見る）。中まで覗いて見ること。spectacle と同語源",
     "family": "inspect（点検する）／ inspector（検査官）／ spectacle（光景）／ prospect（見込み客）",
+    "trivia": "検査官は inspector だが、英国警察の警部も inspector。見回る役という原義が両方に生きている",
     "example": {
       "en": "The annual inspection takes a full day.",
       "ja": "年次の検査は丸一日かかる。"
@@ -4708,6 +4716,7 @@
     ],
     "origin": "ラテン語 licere（許される）。公に許された証",
     "family": "licensee（免許保有者）／ licensed（認可された）／ licit（適法の）",
+    "trivia": "英では名詞 licence と動詞 license を綴り分ける。practice と practise、advice と advise も同じ型",
     "example": {
       "en": "A forklift license is required for this job.",
       "ja": "この仕事には荷役車の免許が要る。"
@@ -4859,6 +4868,7 @@
     ],
     "origin": "ラテン語 manus（手）＋ facere（作る）。もとは手作り、今は工場生産",
     "family": "manufacturer（製造業者）／ manual（手作業の）／ factory（工場）／ fact（事実）",
+    "trivia": "原義は「手で作る」なのに、今は機械による大量生産を指す。意味が正反対に近い方へ動いた例",
     "example": {
       "en": "The plant manufactures valves for shipping.",
       "ja": "その工場は船舶用の弁を製造する。"
@@ -5437,6 +5447,7 @@
     ],
     "origin": "ラテン語 per centum（百につき）。百を基準にした比",
     "family": "percent（百分率）／ century（世紀）／ centimeter（センチ）",
+    "trivia": "per cent はラテン語 per centum（百につき）。英国では per cent と二語に分けて書くことが多い",
     "example": {
       "en": "A small percentage of orders arrive late.",
       "ja": "注文のわずかな割合が遅れて届く。"
@@ -5941,6 +5952,7 @@
     ],
     "origin": "pro-（前へ）＋ ラテン語 movere（動かす）。前へ押し出すこと。motion と同語源",
     "family": "promote（促進する）／ promoter（主催者）／ motion（動き）／ demote（降格する）",
+    "trivia": "昇進と販売促進を同じ語で表す。どちらも「前へ押し出す」で、人を上へ、商品を人前へ押し出す",
     "example": {
       "en": "The summer promotion doubled foot traffic.",
       "ja": "夏の販売促進が来店者を倍にした。"
@@ -6366,6 +6378,7 @@
     ],
     "origin": "ラテン語 regula（定規）。定規を当てて行いをそろえる決まり",
     "family": "regulate（規制する）／ regulator（規制当局）／ regular（定期の）／ rule（規則）",
+    "trivia": "regular（規則的な）と同じ rule の系統。略して regs と呼ばれることもある",
     "example": {
       "en": "New regulations govern packaging waste.",
       "ja": "新しい規制が包装の廃棄物を扱う。"
@@ -7292,6 +7305,7 @@
     ],
     "origin": "ラテン語 spondere（約束する）。支えると約束する人。respond と同語源",
     "family": "sponsorship（協賛）／ respond（応答する）／ spouse（配偶者）／ espouse（支持する）",
+    "trivia": "保証人が原義で、洗礼の代父母も sponsor と呼ぶ。資金提供の意味は二十世紀の放送から広まった",
     "example": {
       "en": "The bank sponsors the town's summer festival.",
       "ja": "その銀行は町の夏祭りを後援する。"
@@ -7317,6 +7331,7 @@
     ],
     "origin": "古仏語 estendard（掲げる旗）。旗を立てて基準を示したことから",
     "family": "standardize（規格化する）／ stand（立つ）／ standing（立場）",
+    "trivia": "旗を立てて部隊の集合点を示した軍の慣習から。今も旗を standard と呼ぶ用法が残っている",
     "example": {
       "en": "The batch met every safety standard.",
       "ja": "その生産分は安全の基準をすべて満たした。"
@@ -7888,6 +7903,7 @@
     ],
     "origin": "古英語 trendan（回る）。向きが回って進む先",
     "family": "trendy（流行の）／ trending（話題の）",
+    "trivia": "「回る・向く」が原義。trendy（流行の）は二十世紀の造語で、trend より新しい",
     "example": {
       "en": "The trend toward smaller packs continues.",
       "ja": "小型の包装への動向は続いている。"
@@ -9894,6 +9910,7 @@
     ],
     "origin": "ラテン語 durare（続く）。続いている長さ。durable と同語源",
     "family": "durable（耐久性のある）／ endure（耐える）／ during（〜の間）／ duress（強迫）",
+    "trivia": "「続く長さ」なので、始点と終点がある期間を指す。for the duration は「その間ずっと」",
     "example": {
       "en": "The duration of the test is four hours.",
       "ja": "試験の継続時間は四時間だ。"

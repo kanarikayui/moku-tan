@@ -22,6 +22,7 @@
     ],
     "origin": "ラテン語 ad mortem（死へ）。負債を少しずつ消していくこと。mortal と同語源",
     "family": "amortization（償却額）／ mortal（死すべき）／ mortgage（住宅融資）／ mortality（死亡率）",
+    "trivia": "無形資産は amortize、有形資産は depreciate と、会計では償却の語を使い分ける",
     "example": {
       "en": "The company will amortize the software over five years.",
       "ja": "同社はその情報処理設備を五年で分割償却する。"
@@ -48,6 +49,7 @@
     "origin": "ラテン語 arbiter（裁定者）。第三者に判断を委ねる手続き。arbitrary と同語源",
     "family": "arbitrate（仲裁する）／ arbitrator（仲裁人）／ arbitrary（恣意的な）",
     "contrast": "第三者が裁定を下し当事者を縛る手続き。mediate は合意を促すだけで強制力がない",
+    "trivia": "裁判より速く安いとされ、国際取引では契約書に仲裁条項を入れるのが通例。判断は arbitral award と呼ぶ",
     "example": {
       "en": "Disputes go to arbitration rather than to the courts.",
       "ja": "紛争は裁判ではなく仲裁に付される。"
@@ -74,6 +76,7 @@
     "origin": "con-（共に）＋ ラテン語 venire（来る）。歩み寄って結んだ約束。convene と同語源",
     "family": "convene（招集する）／ convention（協定）／ venue（開催地）",
     "contrast": "契約書の中で当事者が負う個別の約束条項",
+    "trivia": "聖書の「契約」もこの語で訳される。旧約・新約の「約」は Old Covenant, New Covenant とも言う",
     "example": {
       "en": "A covenant in the loan limits further borrowing.",
       "ja": "融資の約款が追加の借入を制限している。"
@@ -176,6 +179,7 @@
     ],
     "origin": "ラテン語 quorum（〜のうちの）。議決に必要な出席の数",
     "family": "quorums（定足数）／ quota（割当量）／ quotation（見積書）",
+    "trivia": "ラテン語の「〜のうちの」で、委員任命状の決まり文句の一部が切り取られて名詞になった",
     "example": {
       "en": "The vote was delayed because no quorum was present.",
       "ja": "定足数に達しなかったため採決は先送りされた。"
@@ -351,6 +355,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 latus（側）。本体の脇に添えて差し出す担保",
     "family": "collaterally（付随的に）／ lateral（横の）／ bilateral（二者間の）／ unilateral（一方的な）",
+    "trivia": "本体の脇にあるという原義から、collateral damage（巻き添え被害）という遠回しな軍事用語も生まれた",
     "example": {
       "en": "The firm offered its delivery fleet as collateral.",
       "ja": "同社は配送車両を担保として差し出した。"
@@ -434,6 +439,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 pretium（値）。値が下がる分。price, appraise と同語源",
     "family": "depreciate（価値が下がる）／ appreciate（評価する）／ price（値段）／ appraise（査定する）",
+    "trivia": "価値が下がるのが depreciation、上がるのが appreciation。為替でも通貨安・通貨高にこの対が使われる",
     "example": {
       "en": "Depreciation on the new presses starts in April.",
       "ja": "新しい印刷機の減価償却は四月に始まる。"
@@ -536,6 +542,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 crescere（伸びる）。少しずつ積み増えること。increase と同語源",
     "family": "accrual（発生主義）／ increase（増やす）／ create（創造する）／ crescent（三日月）",
+    "trivia": "会計の発生主義を accrual basis と呼ぶ。現金の動きでなく、権利が生じた時点で計上する考え方",
     "example": {
       "en": "Interest accrues from the date of the transfer.",
       "ja": "利息は振込の日から発生する。"
@@ -2387,6 +2394,7 @@
     ],
     "origin": "古仏語 franc（自由な）。自由に営業する権利。frank と同語源",
     "family": "franchisee（加盟店）／ franchisor（本部）／ frank（率直な）／ enfranchise（選挙権を与える）",
+    "trivia": "もとは「自由・特権」で、参政権の意味もある。universal franchise は普通選挙権のこと",
     "example": {
       "en": "The franchise runs for ten years.",
       "ja": "その営業権は十年続く。"
@@ -5388,6 +5396,7 @@
     ],
     "origin": "ラテン語 lis（争い）＋ agere（行う）。法廷で争うこと",
     "family": "litigate（訴訟を起こす）／ litigant（訴訟当事者）／ litigious（訴訟好きな）",
+    "trivia": "訴訟好きを litigious と言う。litigation は時間も費用もかかるため、契約書は仲裁を選ぶことが多い",
     "example": {
       "en": "Litigation lasted almost three years.",
       "ja": "訴訟はほぼ三年続いた。"
