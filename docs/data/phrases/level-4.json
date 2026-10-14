@@ -294,7 +294,7 @@
       "weighin-giveopinion"
     ],
     "origin": "ボクサーの計量（weigh in）から。議論に加わって意見を投じること",
-    "trivia": "議論に意見を投じること。ボクサーの計量という原義から",
+    "trivia": "ボクサーの計量から来た表現。議論に重みを加える、という含みを持つ",
     "example": {
       "en": "Two directors weighed in on the pricing plan.",
       "ja": "取締役二名が価格の案について意見を述べた。"
@@ -795,7 +795,7 @@
       "cometoterms-reachacceptance"
     ],
     "origin": "terms（条件）に至ること。折り合いをつけること",
-    "trivia": "「折り合いをつける」。terms は「条件」で、条件に至るという発想",
+    "trivia": "terms は「条件」で、条件に至るという発想。受け入れがたい事実に使うことが多い",
     "example": {
       "en": "Both sides came to terms with the loss.",
       "ja": "双方は損失に折り合いをつけた。"
@@ -1120,7 +1120,7 @@
       "onthegrounds-becauseofreason"
     ],
     "origin": "ground は「根拠」。その根拠に立って",
-    "trivia": "「〜という理由で」。ground は「根拠」の意味",
+    "trivia": "複数形 grounds で「根拠」を表す。単数の ground（地面）とは用法が分かれる",
     "example": {
       "en": "The claim failed on the grounds that notice was late.",
       "ja": "通知が遅れたという理由で請求は退けられた。"
@@ -1145,7 +1145,7 @@
       "putinplace-establishsystem"
     ],
     "origin": "place（あるべき場所）に置くこと。仕組みを整えること",
-    "trivia": "制度や仕組みを整えること。be in place は「整っている」",
+    "trivia": "be in place は「整っている」。制度や体制が機能している状態を指す",
     "example": {
       "en": "New controls were put in place last spring.",
       "ja": "新しい管理は昨春に整備された。"
@@ -1195,7 +1195,7 @@
       "runcounter-opposeprinciple"
     ],
     "origin": "counter は「逆向きに」。方針と逆へ走ること",
-    "trivia": "「〜に反する」。counter は「逆向きに」という副詞",
+    "trivia": "counterargument（反論）や counterpart（相手方）も同じ接頭辞。counter- は「逆・対」を表す",
     "example": {
       "en": "The practice runs counter to the guidelines.",
       "ja": "その慣行は指針に反する。"
@@ -1695,7 +1695,7 @@
       "becommitted-fullydedicated"
     ],
     "origin": "com-（共に）＋ ラテン語 mittere（送る）。身を託して打ち込んでいること",
-    "trivia": "打ち込んでいること。commit a crime なら「罪を犯す」で別義になる",
+    "trivia": "commit a crime なら「罪を犯す」で別義になる。同じ語が善悪どちらにも使われる",
     "example": {
       "en": "The firm is committed to zero waste.",
       "ja": "会社は廃棄物ゼロに専心する。"
@@ -2195,7 +2195,7 @@
       "followsuit-dothesame"
     ],
     "origin": "トランプで同じ suit（絵柄）を出すことから。同じ動きに続くこと",
-    "trivia": "トランプで同じ絵柄を出すことから。他に倣って同じ行動を取ること",
+    "trivia": "トランプの手札から来た表現。他社が値下げしたら follow suit するのが典型例",
     "example": {
       "en": "Rivals followed suit within a month.",
       "ja": "競合は一か月以内に同じ動きをした。"
@@ -2370,7 +2370,7 @@
       "lookto-relyonforfuture"
     ],
     "origin": "to は「相手の方へ」。期待して目を向けること",
-    "trivia": "「期待して目を向ける」。look to someone for help は助けを求めること",
+    "trivia": "look to someone for help は「人に助けを求める」。look at（見る）とは意味が離れる",
     "example": {
       "en": "The firm looks to exports for growth.",
       "ja": "会社は成長を輸出に期待して目を向ける。"
@@ -2445,7 +2445,7 @@
       "meetdeadline-finishintime"
     ],
     "origin": "meet は「ぴたり合う」。期限に合わせること",
-    "trivia": "期限に間に合わせること。miss the deadline はその逆",
+    "trivia": "miss the deadline はその逆。meet a target（目標を達成する）も同じ用法",
     "example": {
       "en": "The team met the deadline by working late.",
       "ja": "その班は遅くまで働いて期限に間に合わせた。"

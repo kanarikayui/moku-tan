@@ -100,7 +100,7 @@
     ],
     "origin": "nec-（ない）＋ otium（余暇）。「暇ではない＝商談中」が原義",
     "family": "negotiation（交渉事）／ negotiable（交渉の余地がある）",
-    "trivia": "neg-（否定）＋ otium（余暇）。「余暇でない状態」つまり仕事が原義で、商談の意味は後から絞り込まれた",
+    "trivia": "商談の意味に絞られたのは英語に入ってから。もとは「忙しいこと」全般を指した",
     "example": {
       "en": "Our team will negotiate the shipping rates in person.",
       "ja": "当社の担当が直接、輸送料金を交渉する。"
@@ -527,8 +527,8 @@
     ],
     "origin": "ex-（外へ）＋ facere（作る）。少ない手で成果を出す。effect, factory と同語源",
     "family": "efficiency（効率）／ effect（効果）",
-    "contrast": "少ない手間で成果を出すこと。effective は結果が出るかどうかを言う",
-    "trivia": "effective（効果がある）との違いが TOEIC でも問われる。efficient は少ない手間で成果を出すこと",
+    "contrast": "effective は狙った結果が出るかどうか、efficient はそれをどれだけ安く速く出すかを言う",
+    "trivia": "effective（効果がある）との違いが TOEIC でも問われる。efficient は手間の少なさを言う",
     "example": {
       "en": "The new sorting line is far more efficient than the old one.",
       "ja": "新しい仕分け設備は旧型よりはるかに効率的だ。"
@@ -869,7 +869,7 @@
     ],
     "origin": "com-（共に）＋ petere（求める）。同じものを求め合う相手。appetite と同語源",
     "family": "compete（競う）／ competition（競争）／ competent（有能な）",
-    "trivia": "com-（共に）＋ petere（求める）で、原義は「共に求める」。争うより「同じものを目指す」が先にある",
+    "trivia": "争うより「同じものを目指す」が語の出発点。appetite（食欲）も同じ petere の系統",
     "example": {
       "en": "A competitor opened a branch across the street.",
       "ja": "競合他社が通りの向かいに支店を開いた。"
@@ -4193,8 +4193,8 @@
     ],
     "origin": "ゲルマン語 warjan（守る）。相手に代わって守ると約束すること。warranty と同語源",
     "family": "guarantor（保証人）／ warranty（保証書）",
-    "contrast": "品質や支払いを請け合うこと。warranty は書面としての保証を指す",
-    "trivia": "warrant と同語源の二重語。ノルマン人が w を gu と発音したため、同じ語が二通りの綴りで英語に入った",
+    "contrast": "warranty は書面としての保証、guarantee は請け合う行為そのもの。動詞になるのは guarantee だけ",
+    "trivia": "ノルマン人が w を gu と発音したため、同じ語が warranty と guarantee の二通りで英語に入った",
     "example": {
       "en": "The maker guarantees delivery within a week.",
       "ja": "製造業者は一週間以内の納品を請け合う。"
@@ -5628,7 +5628,7 @@
     ],
     "origin": "ラテン語 per centum（百につき）。百を基準にした比",
     "family": "percent（百分率）／ century（世紀）／ centimeter（センチ）",
-    "trivia": "per cent はラテン語 per centum（百につき）。英国では per cent と二語に分けて書くことが多い",
+    "trivia": "英国では per cent と二語に分けて書くことが多い。記号の % は per cento の崩れた形",
     "example": {
       "en": "A small percentage of orders arrive late.",
       "ja": "注文のわずかな割合が遅れて届く。"
@@ -8659,8 +8659,8 @@
     ],
     "origin": "ラテン語 alter（二つのうち他方）。二つが入れ替わること。alternative と同語源",
     "family": "alternately（交互に）／ alter（変える）",
-    "contrast": "二つが交互に入れ替わること。名詞では代理人も指す",
-    "trivia": "米音では形容詞 /ˈɔːltərnət/、動詞 /ˈɔːltərneɪt/ と語尾が変わる",
+    "contrast": "名詞では「代理人」も指す。alternative（代わりの案）とは品詞も意味も別",
+    "trivia": "米音では形容詞 /ˈɔːltərnət/、動詞 /ˈɔːltərneɪt/ と語尾が変わる。名詞では「代理人」も指す",
     "example": {
       "en": "Cleaning happens on alternate weeks.",
       "ja": "清掃は交互の週に行われる。"
@@ -9747,7 +9747,7 @@
     "origin": "de-（下へ）＋ ラテン語 crescere（伸びる）。伸びが下向きになること。increase と対",
     "family": "decrement（減少分）／ increase（増える）／ crescent（三日月）",
     "contrast": "数量が下がること。自動詞でも他動詞でも使える",
-    "trivia": "名詞 /ˈdiːkriːs/、動詞 /dɪˈkriːs/ と強勢が移る。increase と同じ型",
+    "trivia": "名詞 /ˈdiːkriːs/、動詞 /dɪˈkriːs/ と強勢が移る。record や present と同じ型",
     "example": {
       "en": "Fuel costs decreased for a third month.",
       "ja": "燃料費は三か月続けて下がった。"
@@ -10677,8 +10677,8 @@
     ],
     "origin": "ex-（外を）＋ ラテン語 specere（見る）。先を見て待つこと。inspect と同語源",
     "family": "expectation（期待）／ expectancy（見込み）／ spectacle（光景）",
-    "contrast": "先を見越して待つこと。accept と綴りが近い",
-    "trivia": "be expecting は「妊娠している」の遠回しな言い方にもなる",
+    "contrast": "accept（受理する）と綴りが近い。expect はまだ起きていないことに向かう",
+    "trivia": "be expecting は「妊娠している」の遠回しな言い方にもなる。expectancy は life expectancy（平均寿命）で使う",
     "example": {
       "en": "We expect the container on Thursday.",
       "ja": "木曜に貨物箱を予期している。"

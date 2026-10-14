@@ -47,7 +47,7 @@
     "origin": "ラテン語 ripa（岸）から。「岸に着く」が原義で、river と同語源",
     "family": "arrival（到着）／ river（川）",
     "contrast": "自動詞なので arrive at / in の形で使う。reach は前置詞が不要",
-    "trivia": "ラテン語 ad ripam（岸へ）から。船が岸に着くことが原義で、陸路や空路に広がったのは後のこと",
+    "trivia": "船が岸に着くことが本来の意味で、陸路や空路に広がったのは後のこと。arrival は空港の表示でおなじみ",
     "example": {
       "en": "The replacement parts will arrive at the plant on Friday.",
       "ja": "交換部品は金曜日に工場へ到着する。"
@@ -74,7 +74,7 @@
     "origin": "custom（習慣）＋ -er。「習慣的に買いに来る人」",
     "family": "custom（慣例）／ customary（慣例の）／ customize（あつらえる）",
     "contrast": "商品を買う客。小売や飲食の文脈で使う",
-    "trivia": "custom（習慣）から。習慣的に通ってくる人という発想で、一見客ではなく常連が元の姿",
+    "trivia": "一見客ではなく常連が元の姿。custom には「ひいきにすること」という古い名詞用法もある",
     "example": {
       "en": "A customer called about a missing item in the box.",
       "ja": "顧客から箱の中の品物が足りないと電話があった。"
@@ -288,7 +288,7 @@
     ],
     "origin": "re-（手元へ）＋ capere（つかむ）。capture, accept と同語源",
     "family": "receipt（領収書）／ reception（受付）／ recipient（受取人）",
-    "trivia": "re-（元へ）＋ capere（取る）。receipt（領収書）は p を書くのに発音しない、綴りの代表的な難物",
+    "trivia": "receipt（領収書）は p を書くのに発音しない。中世の学者がラテン語に似せて書き足した名残",
     "example": {
       "en": "We receive shipments from the supplier every Tuesday.",
       "ja": "毎週火曜日に供給業者から荷物を受け取る。"
@@ -393,7 +393,7 @@
     "origin": "re-（重ねて）＋ quaerere（求める）。question, inquire と同語源",
     "family": "requisition（請求書）／ require（求める）",
     "contrast": "丁寧に頼むこと。require のような強制力はない",
-    "trivia": "re-（強め）＋ quaerere（求める）。question や inquiry も同じ語根で、「問い求める」が共通する",
+    "trivia": "question や inquiry も同じ語根で、「問い求める」が共通する。requisition は正式な請求書",
     "example": {
       "en": "Tenants may request extra parking passes at the front desk.",
       "ja": "賃借人は受付で追加の駐車証を依頼できる。"
@@ -420,7 +420,7 @@
     "origin": "re-（戻して）＋ portare（運ぶ）。持ち帰って伝えること。port, export と同語源",
     "family": "reporter（記者）／ portable（持ち運べる）／ export（輸出する）",
     "contrast": "調べた結果をまとめて伝えること",
-    "trivia": "re-（元へ）＋ portare（運ぶ）。調べたことを持ち帰るのが原義で、記者を reporter と呼ぶのも同じ",
+    "trivia": "記者を reporter と呼ぶのも「持ち帰って伝える人」から。report card は成績表",
     "example": {
       "en": "The safety report lists three items for immediate repair.",
       "ja": "安全報告書には至急修理すべき三点が挙げられている。"
@@ -526,7 +526,7 @@
     ],
     "origin": "re-（再び）＋ ラテン語 parare（整える）。prepare, prepare と同じ parare を持つ",
     "family": "reparation（賠償）／ prepare（準備する）／ apparatus（装置）",
-    "trivia": "re-（再び）＋ parare（整える）。prepare（準備する）と兄弟の語で、整え直すのが repair",
+    "trivia": "prepare と兄弟の語。どちらも parare（整える）を持ち、再び整えるか前もって整えるかで分かれる",
     "example": {
       "en": "A technician came to repair the copier on the third floor.",
       "ja": "技術者が三階のコピー機を修理しに来た。"
@@ -947,7 +947,7 @@
     ],
     "origin": "pay（払う）＋ -ment。pay はラテン語 pacare（なだめる）で、peace と同語源",
     "family": "pay（支払う）／ payable（支払うべき）／ payroll（給与名簿）",
-    "trivia": "pay はラテン語 pacare（なだめる）から。借りを返して相手をなだめる、という発想が語源にある",
+    "trivia": "借りを返して相手をなだめる、という発想が語の奥にある。peace（平和）とも同じ根",
     "example": {
       "en": "Payment is due thirty days after the invoice date.",
       "ja": "支払いは請求書の日付から三十日以内が期限だ。"
@@ -1319,7 +1319,7 @@
     ],
     "origin": "ex-（外に）＋ planus（平ら）。平らに広げて見せること。plain と同語源",
     "family": "explanation（説明）／ explanatory（説明的な）／ plain（平易な）",
-    "trivia": "ex-（外へ）＋ planus（平ら）。折り畳んだものを平らに広げる、という視覚的な比喩",
+    "trivia": "折り畳んだものを平らに広げる、という視覚的な比喩。plain（平易な）も同じ語根",
     "example": {
       "en": "The trainer will explain the safety rules first.",
       "ja": "指導員がまず安全規則を説明する。"
@@ -1345,7 +1345,7 @@
     ],
     "origin": "in-（中に）＋ claudere（閉じる）。close, exclude と同語源",
     "family": "inclusion（包含）／ inclusive（込みの）／ exclude（除く）／ conclude（結論づける）",
-    "trivia": "in-（中へ）＋ claudere（閉じる）。close, exclude, conclude すべてこの claudere の系統",
+    "trivia": "exclude（除く）、conclude（結論づける）、close（閉じる）すべて claudere の系統",
     "example": {
       "en": "The fee does not include overnight shipping.",
       "ja": "この料金は翌日配送を含まない。"
@@ -1375,7 +1375,7 @@
     "origin": "ob-（〜に向けて）＋ ferre（運ぶ）。差し出すこと。transfer, conference と同語源",
     "family": "offering（提供品）／ offertory（献金）",
     "contrast": "自分から差し出すこと。応じるかどうかは相手に委ねる",
-    "trivia": "ob-（〜へ）＋ ferre（運ぶ）。教会の献金を offering と呼ぶのも「差し出すもの」から",
+    "trivia": "教会の献金を offering と呼ぶのも「差し出すもの」から。offertory は献金の時間",
     "example": {
       "en": "The hotel offered to store our display panels.",
       "ja": "ホテルは展示用の板を保管すると申し出た。"
@@ -1453,7 +1453,7 @@
     ],
     "origin": "re-（戻って）＋ turn（回る）。もと来た向きへ回ること",
     "family": "returnable（返品可能な）／ turn（回る）",
-    "trivia": "re-（元へ）＋ turn（回る）。税の申告書を tax return と呼ぶのは、書類を役所へ戻すことから",
+    "trivia": "税の申告書を tax return と呼ぶのは、書類を役所へ戻すことから。返品も return",
     "example": {
       "en": "Customers may return unopened items within a month.",
       "ja": "顧客は未開封の品を一か月以内に返品できる。"
@@ -1482,7 +1482,7 @@
     ],
     "origin": "se-（離して）＋ legere（選び取る）。collect, elect と同語源",
     "family": "selection（選抜）／ selective（えり好みする）／ elect（選出する）／ collect（集める）",
-    "trivia": "se-（離して）＋ legere（選ぶ）。elect, collect, intelligent もすべてこの legere の系統",
+    "trivia": "elect（選出する）、collect（集める）、intelligent（聡明な）もすべて legere の系統",
     "example": {
       "en": "Select a payment method before you continue.",
       "ja": "先に進む前に支払い方法を選びなさい。"
@@ -1614,7 +1614,7 @@
     "origin": "ad-（〜へ）＋ capere（つかむ）。receive と同じ capere",
     "family": "acceptance（受諾）／ acceptable（許容できる）",
     "contrast": "差し出されたものを受け取って認めること。except（〜を除いて）と紛らわしい",
-    "trivia": "ad-（〜へ）＋ capere（取る）。capable, capture, receive すべて capere の仲間",
+    "trivia": "capable（有能な）、capture（捕らえる）、receive（受け取る）すべて capere の仲間",
     "example": {
       "en": "The office accepts applications until the end of March.",
       "ja": "事務所は三月末まで申込みを受理する。"
@@ -1796,7 +1796,7 @@
     ],
     "origin": "ラテン語 bulla（封印）。封をした公文書から「請求書」へ",
     "family": "billing（請求業務）／ billboard（大型看板）",
-    "trivia": "中世ラテン語 bulla（封印・公文書）から。法案も請求書も紙幣も bill なのはこのため",
+    "trivia": "法案も請求書も紙幣も bill なのは、どれも封をした公文書に由来するため",
     "example": {
       "en": "The waiter brought the bill to our table.",
       "ja": "給仕が席まで勘定書を持ってきた。"
@@ -2026,7 +2026,7 @@
     "origin": "ラテン語 carrus（荷車）。荷を積む→負担させる→請求する。car, cargo と同語源",
     "family": "charger（充電器）／ cargo（積み荷）／ discharge（放出する）",
     "contrast": "役務に対して代金を請求すること。名詞では担当や責任も指す",
-    "trivia": "ラテン語 carrus（荷車）から。car, cargo, carry すべて同じ荷車の系統",
+    "trivia": "car（車）、cargo（積み荷）、carry（運ぶ）すべて同じ荷車の系統。充電器も charger",
     "example": {
       "en": "The garage charges an hourly rate for repairs.",
       "ja": "その修理場は修理に時間あたりの料金を請求する。"
@@ -2078,7 +2078,7 @@
     ],
     "origin": "com-（共に）＋ par（等しい）。並べて等しさを測ること。pair, par と同語源",
     "family": "comparison（比較）／ comparable（比較できる）／ pair（対）",
-    "trivia": "com-（共に）＋ par（対等）。pair（対）や par（基準値）と同じ語根",
+    "trivia": "pair（対）や par（基準値）と同じ語根。ゴルフの par も「等しい基準」という意味",
     "example": {
       "en": "Compare the two quotes before you decide.",
       "ja": "決める前に二つの見積書を比べなさい。"
@@ -2104,7 +2104,7 @@
     ],
     "origin": "com-（強意）＋ plangere（打ち嘆く）。胸を打って嘆くのが原義",
     "family": "complain（苦情を言う）／ plaintiff（原告）",
-    "trivia": "「胸を打って嘆く」が原義。plaintiff（原告）も同じ語で、訴えは嘆きから始まる",
+    "trivia": "plaintiff（原告）も同じ語で、訴えは嘆きから始まるという発想が法律語に残る",
     "example": {
       "en": "The manager logged every complaint about the noise.",
       "ja": "支配人は騒音についての苦情をすべて記録した。"
@@ -2130,7 +2130,7 @@
     ],
     "origin": "con-（共に）＋ cernere（ふるいにかける）。心にかかること。discern と同語源",
     "family": "concerning（〜に関する）／ discern（識別する）／ certain（確かな）",
-    "trivia": "con-（共に）＋ cernere（ふるい分ける）。discern（識別する）や certain（確かな）と同じ系統",
+    "trivia": "discern（識別する）や certain（確かな）と同じ系統。ふるいにかけて選り分けるのが核",
     "example": {
       "en": "Staff raised a concern about the new schedule.",
       "ja": "従業員は新しい勤務表について懸念を示した。"
@@ -2233,6 +2233,7 @@
       "deliveryman-personwhodelivers"
     ],
     "origin": "delivery（配達）＋ man。deliver と同じ liberare から",
+    "trivia": "性別を含む語を避け、delivery driver や courier と言い換えるのが近年の傾向",
     "example": {
       "en": "The deliveryman left the box at the side door.",
       "ja": "配達員は箱を通用口に置いていった。"
@@ -2257,7 +2258,7 @@
       "desk-worktable"
     ],
     "origin": "ラテン語 discus（円盤・板）。dish, disc と同語源",
-    "trivia": "ラテン語 discus（円盤）から。dish（皿）や disk（円盤）と同じ語で、平らな板が共通する",
+    "trivia": "dish（皿）や disk（円盤）と同じ語。平らな板という形が共通している",
     "example": {
       "en": "Papers are stacked neatly on the desk.",
       "ja": "書類が机の上にきちんと積まれている。"
@@ -2518,7 +2519,7 @@
     ],
     "origin": "ラテン語 filum（糸）。書類を糸で綴じたことから",
     "family": "filing（書類整理）／ profile（横顔）",
-    "trivia": "ラテン語 filum（糸）から。書類を糸で綴じたことが原義で、行列の file（縦列）も同じ",
+    "trivia": "行列の single file（一列縦隊）も同じ語。糸に通して並べるという発想",
     "example": {
       "en": "File the receipts by month, not by vendor.",
       "ja": "領収書は業者別ではなく月別にとじなさい。"
@@ -2753,7 +2754,7 @@
     "origin": "in-（中に）＋ form（形）。相手の中に形を作る→知らせる",
     "family": "information（情報）／ form（形）／ formal（正式な）",
     "contrast": "相手に情報を伝えること。inform 人 of 事 の語順を取る",
-    "trivia": "in-（中へ）＋ form（形）。相手の中に形を作るのが知らせること。information も同じ",
+    "trivia": "information も同じ語。形のない知らせを相手の中に形づくる、という発想が語の中心にある",
     "example": {
       "en": "Inform the tenants about the water shutoff.",
       "ja": "断水について賃借人に知らせなさい。"
@@ -2779,7 +2780,7 @@
     ],
     "origin": "in-（上に）＋ struere（積む）。structure, construct と同語源",
     "family": "instruct（指示する）／ instrument（計器）／ structure（構造）／ construct（築く）",
-    "trivia": "in-（中へ）＋ struere（積む）。structure（構造）や construct（築く）と同じ系統",
+    "trivia": "structure（構造）や construct（築く）と同じ系統。積み上げるのが共通の核",
     "example": {
       "en": "Follow the instruction printed on the label.",
       "ja": "表示に印刷された指示に従いなさい。"
@@ -3037,7 +3038,7 @@
     ],
     "origin": "ラテン語 mittere（送る）。mission, transmit と同語源",
     "family": "messenger（使者）／ mission（任務）／ transmit（送信する）",
-    "trivia": "ラテン語 mittere（送る）から。mission, submit, transmit すべて同じ系統",
+    "trivia": "mission（任務）、submit（提出する）、transmit（送信する）すべて同じ系統",
     "example": {
       "en": "She left a message with the receptionist.",
       "ja": "彼女は受付係に伝言を残した。"
@@ -3089,7 +3090,7 @@
     ],
     "origin": "ラテン語 opinari（思う）。根拠より「思うこと」を指す",
     "family": "opine（意見を述べる）／ opinionated（意見の強い）／ opinion poll（世論調査）",
-    "trivia": "ラテン語 opinari（思う）から。世論調査は opinion poll、社説は opinion piece",
+    "trivia": "世論調査は opinion poll、社説は opinion piece。根拠より「思うこと」を指す点が fact と違う",
     "example": {
       "en": "The survey collected opinions from every branch.",
       "ja": "その調査は全支店から意見を集めた。"
@@ -3193,7 +3194,7 @@
     ],
     "origin": "post（郵便）＋ -age。post はラテン語 ponere（置く）で駅を置いた制度から",
     "family": "post（郵便）／ postal（郵便の）",
-    "trivia": "post（郵便）＋ -age（料金）。切手は postage stamp、郵便番号は英で postcode、米で ZIP code",
+    "trivia": "切手は postage stamp。郵便番号は英国で postcode、米国で ZIP code と呼び名が違う",
     "example": {
       "en": "Postage for overseas parcels rose last month.",
       "ja": "海外小包の郵便料金は先月上がった。"
@@ -3506,7 +3507,7 @@
     "origin": "re-（返して）＋ plicare（折る）。apply, complicate と同じ plicare",
     "family": "replicate（複製する）／ ply（重ねる）",
     "contrast": "問いに返す返事。respond より短く事務的な場面で使う",
-    "trivia": "re-（元へ）＋ plicare（折る）。折り返すのが返事、という発想。replicate（複製する）も同じ系統",
+    "trivia": "replicate（複製する）も同じ系統。折り返すという動作が返事と複製の両方につながった",
     "example": {
       "en": "We await your reply before placing the order.",
       "ja": "発注の前にご返信をお待ちしている。"
@@ -3817,7 +3818,7 @@
     ],
     "origin": "ラテン語 trahere（引く）。引きずるもの→列車、引き伸ばす→訓練する",
     "family": "training（研修）／ trainee（研修生）／ trainer（指導員）",
-    "trivia": "ラテン語 trahere（引く）から。列車も「引かれるもの」で、tractor（牽引車）と同じ系統",
+    "trivia": "列車も「引かれるもの」で、tractor（牽引車）や attract（引きつける）と同じ系統",
     "example": {
       "en": "We train new drivers for two full weeks.",
       "ja": "新しい運転手は丸二週間研修する。"
@@ -3869,7 +3870,7 @@
     ],
     "origin": "up（新しく）＋ date（日付）。日付を新しくすること",
     "family": "date（日付）／ up-to-date（最新の）",
-    "trivia": "up（最新まで）＋ date（日付）。日付を今に合わせるのが原義で、計算機以前からある語",
+    "trivia": "日付を今に合わせるのが原義で、計算機以前からある語。up-to-date は形容詞形",
     "example": {
       "en": "Update the contact list after each transfer.",
       "ja": "転勤のたびに連絡先の一覧を更新しなさい。"
@@ -3895,7 +3896,7 @@
     ],
     "origin": "ラテン語 visitare（見に行く）。visit, vision と同語源",
     "family": "visit（訪問する）／ visible（見える）／ vision（視覚）",
-    "trivia": "visit はラテン語 visere（見に行く）から。vision や visible と同じ videre の系統",
+    "trivia": "vision や visible と同じ videre の系統。見に行くという原義が訪問の意味になった",
     "example": {
       "en": "Every visitor must wear a temporary pass.",
       "ja": "訪問者は全員、仮の通行証を着けねばならない。"
@@ -3998,7 +3999,7 @@
       "window-glassopening"
     ],
     "origin": "古ノルド語 vindauga（風の目）。wind（風）＋ eye（目）",
-    "trivia": "古ノルド語 vindauga（風の目）から。ガラスが入る前、壁に開けた穴から風が入ったことをそのまま名にした",
+    "trivia": "ガラスが入る前、壁に開けた穴から風が入ったことをそのまま名にした",
     "example": {
       "en": "Someone is cleaning the windows outside.",
       "ja": "誰かが外で窓を清掃している。"
@@ -6002,7 +6003,7 @@
       "lamp-lightfixture"
     ],
     "origin": "ギリシャ語 lampas（たいまつ）。lantern と同語源",
-    "trivia": "ギリシャ語 lampas はたいまつのこと。同じ語から lantern（手提げランプ）と lampoon は別系統なので注意",
+    "trivia": "lantern（手提げランプ）も同じ語。lampoon（風刺文）は別系統なので混同しやすい",
     "example": {
       "en": "A lamp hangs above each workbench.",
       "ja": "各作業台の上に照明器具が下がっている。"

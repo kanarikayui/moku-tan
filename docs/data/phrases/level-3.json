@@ -922,7 +922,7 @@
       "carryweight-haveinfluence"
     ],
     "origin": "weight（重み）を carry（帯びる）。発言に重さがあること",
-    "trivia": "発言に重みがあること。His opinion carries weight. のように使う",
+    "trivia": "His opinion carries weight. のように使う。重みの有無を論じる定型表現",
     "example": {
       "en": "Her opinion carries weight with the board.",
       "ja": "彼女の意見は取締役会で重みを持つ。"
@@ -997,7 +997,7 @@
       "complywith-meetrequirement"
     ],
     "origin": "com-（すっかり）＋ ラテン語 plere（満たす）。求めを満たすこと",
-    "trivia": "規則を満たすこと。compliance は企業統治の重要語",
+    "trivia": "compliance は企業統治の重要語。compliance officer は法令順守の責任者",
     "example": {
       "en": "Packaging must comply with export rules.",
       "ja": "包装は輸出の要件を満たさねばならない。"
@@ -1197,7 +1197,7 @@
       "gointoeffect-startbeingapplied"
     ],
     "origin": "effect（効力）の中へ入ること。come into effect と同じ発想",
-    "trivia": "come into effect と同じ意味。米国では go を使うことが多い",
+    "trivia": "米国では go、英国では come を使う傾向がある。意味の違いはない",
     "example": {
       "en": "The ban goes into effect next Monday.",
       "ja": "その禁止は来週月曜に実施される。"

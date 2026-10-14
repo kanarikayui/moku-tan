@@ -1796,8 +1796,8 @@
     ],
     "origin": "ad-（〜へ）＋ point（点）。人や日時を一点に定めること",
     "family": "appointment（任命・予約）／ point（点）",
-    "contrast": "役職や日時を一点に定めること。地位に就ける場面で使う",
-    "trivia": "appointed は「任命された」。医師の予約も appointment で、同じ語の名詞形",
+    "contrast": "地位に就ける場面で使う。disappoint（失望させる）は「約束を解く」が原義で対になる",
+    "trivia": "医師の予約も appointment。人も日時も「一点に定める」という共通の発想",
     "example": {
       "en": "The board appointed a new plant manager.",
       "ja": "取締役会は新しい工場長を任命した。"
@@ -1978,8 +1978,8 @@
     ],
     "origin": "ラテン語 ad satis（十分に）。負債を払うに足るもの。satisfy と同語源",
     "family": "assets（資産）／ satisfy（満たす）／ saturate（飽和させる）",
-    "contrast": "負債を払うに足る財産。assert（主張する）や assess（判定する）と綴りが近い",
-    "trivia": "もとは「負債を払うに足りるだけある」という状態を表す句で、名詞ではなかった。複数形 assets の方が先にできた",
+    "contrast": "assert（主張する）や assess（判定する）と綴りが近い。asset だけが名詞",
+    "trivia": "もとは「負債を払うに足りるだけある」という句で、名詞ではなかった。複数形 assets の方が先にできた",
     "example": {
       "en": "The vans are the firm's largest asset.",
       "ja": "貨物車が会社の最大の資産だ。"
@@ -5586,8 +5586,8 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 stilla（しずく）。しずくのように少しずつ入れること",
     "family": "instillation（浸透）／ distill（蒸留する）／ still（蒸留器）",
-    "contrast": "しずくのように少しずつ植え付けること。install（取り付ける）と一字違い",
-    "trivia": "価値観を植え付けることにも使う。instill confidence は自信を持たせること",
+    "contrast": "install（取り付ける）と一字違い。instill は目に見えないものを少しずつ入れる",
+    "trivia": "instill confidence は「自信を持たせる」。distill（蒸留する）と同じ stilla（しずく）の系統",
     "example": {
       "en": "Drills instill safe habits in new staff.",
       "ja": "訓練が新しい職員に安全な習慣を浸透させる。"
@@ -5719,8 +5719,8 @@
     ],
     "origin": "ラテン語 interim（その間に）。本決まりまでの間のこと",
     "family": "interim report（中間報告）／ interval（間隔）",
-    "contrast": "本決まりまでの間の。interior（内装）と綴りが近い",
-    "trivia": "interim report は中間報告。暫定の意味で、人事では interim CEO も使う",
+    "contrast": "interior（内装）と綴りが近い。interim は時間、interior は空間を指す",
+    "trivia": "interim report は中間報告。人事では interim CEO（暫定経営トップ）としても使う",
     "example": {
       "en": "An interim report appears in August.",
       "ja": "中間の報告書は八月に出る。"
@@ -10052,7 +10052,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 filius（息子）。子として結び付いた会社",
     "family": "affiliation（提携）／ filial（子としての）／ file（列）",
-    "trivia": "ad-（〜へ）＋ filius（息子）で「子とする」。提携先を家族にたとえる発想は subsidiary と同じ",
+    "trivia": "提携先を家族にたとえる発想は subsidiary（子会社）と同じ。filial は「子としての」",
     "example": {
       "en": "An affiliate handles sales in Taiwan.",
       "ja": "系列会社が台湾での販売を担う。"

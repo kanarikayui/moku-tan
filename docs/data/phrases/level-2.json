@@ -4050,7 +4050,7 @@
       "instock-availableforsale"
     ],
     "origin": "stock（在庫）の中にあること。out of stock と対",
-    "trivia": "out of stock との対。have in stock は「在庫がある」",
+    "trivia": "have in stock は「在庫がある」。入荷待ちは on back order と表示する",
     "example": {
       "en": "Both sizes are in stock this week.",
       "ja": "今週は両方の寸法の在庫があって出せる。"

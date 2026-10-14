@@ -1950,7 +1950,7 @@
     ],
     "origin": "assign（譲る）＋ -ee（受ける人）。権利を譲り受ける側。sign と同語源",
     "family": "assign（割り当てる）／ assignment（担当業務）／ sign（印）／ design（設計する）",
-    "trivia": "権利を譲り受けた側。譲渡人は assignor で、-ee と -or で立場が分かれる",
+    "trivia": "譲渡人は assignor。-ee と -or で立場が逆になる法律語の典型",
     "example": {
       "en": "The assignee assumes all outstanding duties.",
       "ja": "譲受人は未履行の義務をすべて引き継ぐ。"
@@ -1976,8 +1976,8 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 testis（証人）。証人として確かだと示すこと。testify と同語源",
     "family": "attestation（証明）／ testify（証言する）／ testament（遺言）／ protest（抗議する）",
-    "contrast": "証人として真実だと示すこと。attend（出席する）や attempt（試みる）と綴りが近い",
-    "trivia": "attestation clause は遺言の「証人条項」。立会人が署名する部分",
+    "contrast": "attend（出席する）や attempt（試みる）と綴りが近い。attest だけが証明に関わる",
+    "trivia": "attestation clause は遺言の「証人条項」。立会人が署名する部分を指す",
     "example": {
       "en": "Two witnesses attest to the signature.",
       "ja": "証人二名がその署名を証明する。"
@@ -2235,7 +2235,7 @@
     ],
     "origin": "covenant（約款）＋ -ee（受ける人）。約款の利益を受ける当事者",
     "family": "covenant（約款）／ covenantor（約定義務者）／ convene（招集する）／ venue（開催地）",
-    "trivia": "約款の利益を受ける側。義務を負う側は covenantor で、-ee と -or で分かれる",
+    "trivia": "義務を負う側は covenantor。-ee と -or で立場が分かれる",
     "example": {
       "en": "The covenantee may enforce the clause.",
       "ja": "受益当事者はその条項を執行できる。"
@@ -3868,7 +3868,7 @@
     ],
     "origin": "dis-（否定）＋ ラテン語 fidere（信じる）。自分を信じきれないこと。confident と対",
     "family": "diffidence（自信のなさ）／ confident（確信している）／ faith（信頼）／ fidelity（忠実）",
-    "trivia": "be diffident about は「〜に自信がない」。confident との対で覚えたい",
+    "trivia": "be diffident about は「〜に自信がない」。shy より内面の自信のなさを指す",
     "example": {
       "en": "A diffident trainee grew confident quickly.",
       "ja": "自信のない研修生はすぐに自信をつけた。"
@@ -4542,7 +4542,7 @@
     ],
     "origin": "ラテン語 fastidium（嫌気）。細部まで気になる性分。fastidious と同語源",
     "family": "fastidious（細かいことにうるさい）／ fastidiously（几帳面に）",
-    "trivia": "fastidious の名詞形。細部へのこだわりを表す",
+    "trivia": "形容詞 fastidious の名詞形。細部へのこだわりが度を越している含みを持つ",
     "example": {
       "en": "Her fastidiousness suited the clean room.",
       "ja": "彼女の潔癖さは無塵室に合っていた。"
@@ -5084,7 +5084,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 calx（かかと）。踏み込むように繰り返し教え込むこと",
     "family": "inculcation（教え込み）／ recalcitrant（扱いにくい）／ calcium（カルシウム）",
-    "trivia": "inculcate values は「価値観を植え付ける」。繰り返し教え込むこと",
+    "trivia": "inculcate values は「価値観を植え付ける」。教育や訓練の文脈で使う",
     "example": {
       "en": "Drills inculcate the evacuation route.",
       "ja": "訓練が避難の経路を教え込む。"
@@ -5316,7 +5316,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 testari（遺言する）。遺言を残さずに亡くなること。testify と同語源",
     "family": "testator（遺言者）／ testify（証言する）／ testament（遺言）／ attest（証明する）",
-    "contrast": "遺言を残さず亡くなること。integrate（一体化する）と綴りが近いが無関係",
+    "contrast": "integrate（一体化する）と綴りが近いが無関係。intestate は遺言の有無を言う法律語",
     "trivia": "die intestate は「遺言を残さずに死ぬ」。法定相続分で分けることになる",
     "example": {
       "en": "The founder died intestate in 2019.",
@@ -6616,7 +6616,7 @@
     ],
     "origin": "re-（後ろへ）＋ ラテン語 calx（かかと）。蹴り返すような反抗。recalcitrant と同語源",
     "family": "recalcitrant（扱いにくい）／ inculcate（教え込む）／ calcium（カルシウム）",
-    "trivia": "従わない態度を表す名詞。recalcitrant が形容詞形",
+    "trivia": "形容詞 recalcitrant の名詞形。組織の中で指示に従わない態度を指す",
     "example": {
       "en": "Recalcitrance over the new rota faded.",
       "ja": "新しい勤務表への反抗は薄れた。"
@@ -8061,8 +8061,8 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 jurare（誓う）。誓いにかけて求めること。jury, justice と同語源",
     "family": "adjuration（懇願）／ jury（陪審）／ justice（正義）／ perjury（偽証）",
-    "contrast": "誓いにかけて厳かに求めること。adjust（調節する）と綴りが近い",
-    "trivia": "厳かに命じる、懇願するという意味。宗教的な響きを持つ古い語",
+    "contrast": "adjust（調節する）と綴りが近い。adjure は誓いを持ち出して迫ること",
+    "trivia": "法廷や宗教の場で使う古風な語。誓いを持ち出して相手に迫るという重みがある",
     "example": {
       "en": "The chair adjured both sides to settle.",
       "ja": "議長は双方に和解を厳かに求めた。"

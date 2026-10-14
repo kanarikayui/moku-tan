@@ -293,7 +293,7 @@
       "indefault-failuretoperform"
     ],
     "origin": "default は「果たすべきことの欠落」。それが履行されない場合に",
-    "trivia": "「〜がない場合は」。default は「果たすべきことの欠落」が原義",
+    "trivia": "default は計算機では「初期値」。法律では「不履行」で、分野ごとに訳が変わる",
     "example": {
       "en": "In default of payment, the goods remain ours.",
       "ja": "支払いの不履行の場合、商品は当方に帰属する。"
@@ -569,7 +569,7 @@
       "inwitness-formalclosing"
     ],
     "origin": "witness（証）＋ whereof（そのことの）。署名欄の前に置く定型文",
-    "trivia": "署名欄の直前に置く定型句。IN WITNESS WHEREOF と大文字で書く慣習がある",
+    "trivia": "IN WITNESS WHEREOF と大文字で書く慣習がある。英文契約の末尾に置く",
     "example": {
       "en": "In witness whereof, both parties sign below.",
       "ja": "以上の証として、双方が下記に署名する。"
@@ -694,7 +694,7 @@
       "withoutlimit-notrestrictedto"
     ],
     "origin": "limitation（限定）を付けずに。列挙を例示にとどめる定型文",
-    "trivia": "including without limitation は「これらに限らず」。列挙を例示にとどめる定型句",
+    "trivia": "including without limitation は「これらに限らず」。列挙を例示にとどめる狙いがある",
     "example": {
       "en": "The list includes, without limitation, spare parts.",
       "ja": "一覧は限定なしに予備の部品を含む。"
@@ -1294,7 +1294,7 @@
       "subjectmatter-topiccovered"
     ],
     "origin": "subject（主題）＋ matter（事柄）。契約が扱う対象そのもの",
-    "trivia": "契約や特許が扱う対象そのもの。subject matter jurisdiction は事物管轄",
+    "trivia": "subject matter jurisdiction は「事物管轄」。どの裁判所が扱うかを決める概念",
     "example": {
       "en": "The subject matter of the clause is storage.",
       "ja": "その条項の対象事項は保管である。"

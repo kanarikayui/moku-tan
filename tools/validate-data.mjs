@@ -19,6 +19,9 @@ const OPTIONAL_NOTES = ['family', 'contrast', 'trivia'];
 /** origin のすぐ下に並ぶため、同じ文を繰り返してはいけない項目。 */
 const NO_ORIGIN_OVERLAP = ['contrast', 'trivia'];
 
+/** 由来との言い換えとみなす近さの境目。これ以上似ていたら書き直す。 */
+const NOTE_SIMILARITY_LIMIT = 0.7;
+
 /** エラーメッセージで使う、画面上の見出しと同じ呼び名。 */
 const NOTE_LABEL = { family: '語族', contrast: '使い分け', trivia: '豆知識' };
 
@@ -63,22 +66,39 @@ function checkNoteFormat(text, where, errors) {
   }
 }
 
+/** 文字 2 連鎖の重なりで文の近さを測る。1 に近いほど似ている。 */
+function similarity(a, b) {
+  const bigrams = (text) => {
+    const set = new Set();
+    for (let i = 0; i < text.length - 1; i += 1) set.add(text.slice(i, i + 2));
+    return set;
+  };
+  const left = bigrams(a);
+  const right = bigrams(b);
+  if (left.size === 0 || right.size === 0) return a === b ? 1 : 0;
+  let shared = 0;
+  for (const gram of left) if (right.has(gram)) shared += 1;
+  return (2 * shared) / (left.size + right.size);
+}
+
 /**
  * 任意の補足は origin のすぐ下に並ぶ。
- * 同じ文を繰り返すと画面で二度読ませることになるので、重なりを弾く。
+ * 言い回しを変えただけの繰り返しも読み手には二度手間なので、
+ * 完全一致だけでなく「ほぼ同じ」もここで弾く。
  */
 function checkOriginOverlap(entry, field, label, where, errors) {
   const split = (text) =>
-    new Set(
-      text
-        .split(/[。．]/)
-        .map((part) => part.trim())
-        .filter((part) => part.length >= 8),
-    );
+    text
+      .split(/[。．]/)
+      .map((part) => part.trim())
+      .filter((part) => part.length >= 8);
   const origin = split(entry.origin ?? '');
   for (const clause of split(entry[field])) {
-    if (origin.has(clause)) {
-      errors.push(`${where}: ${label}の「${clause}」が由来と同じ文です`);
+    for (const source of origin) {
+      if (similarity(clause, source) >= NOTE_SIMILARITY_LIMIT) {
+        errors.push(`${where}: ${label}の「${clause}」が由来の「${source}」とほぼ同じです`);
+        break;
+      }
     }
   }
 }

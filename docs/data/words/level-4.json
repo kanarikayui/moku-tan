@@ -1207,7 +1207,7 @@
     ],
     "origin": "ラテン語 metus（恐れ）。細部の粗相を恐れるほど丁寧なこと",
     "family": "meticulously（几帳面に）／ meticulousness（緻密さ）",
-    "trivia": "ラテン語 metus（恐れ）から。細かいところを間違えるのを恐れる、という由来が語感に残る",
+    "trivia": "細かいところを間違えるのを恐れる、という感覚が語に残る。褒め言葉として使われることが多い",
     "example": {
       "en": "Her meticulous records made the audit simple.",
       "ja": "彼女の几帳面な記録が監査を容易にした。"
@@ -3651,8 +3651,8 @@
     ],
     "origin": "com-（強め）＋ ラテン語 mandare（託す）。よしとして人に託し勧めること。mandate と同語源",
     "family": "commendation（表彰）／ recommend（推薦する）／ mandate（委任事項）／ command（命令する）",
-    "contrast": "よしとして人に勧めること。comment（所見）や commence（開始する）と綴りが近い",
-    "trivia": "commendable は「称賛に値する」。recommend（推薦する）の兄弟語",
+    "contrast": "comment（所見）や commence（開始する）と綴りが近い。recommend の兄弟語",
+    "trivia": "commendable は「称賛に値する」。recommend は com- が re- に替わった兄弟語",
     "example": {
       "en": "The auditor commended the record keeping.",
       "ja": "監査人は記録の管理を推奨した。"
@@ -3784,8 +3784,8 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 donare（許し与える）。とがめず見逃すこと。donate と同語源",
     "family": "condonation（黙認）／ donate（寄付する）／ donor（提供者）／ pardon（許す）",
-    "contrast": "とがめずに見逃すこと。condense（要約して短くする）と綴りが近い",
-    "trivia": "condone violence は「暴力を容認する」。否定文で使われることが多い",
+    "contrast": "condense（要約して短くする）と綴りが近い。condone は許し、condense は圧縮",
+    "trivia": "否定文で使われることが多い。We cannot condone this. は「容認できない」",
     "example": {
       "en": "The firm does not condone unsafe shortcuts.",
       "ja": "会社は危険な近道を大目に見ない。"
@@ -3811,8 +3811,8 @@
     ],
     "origin": "con-（共に）＋ ラテン語 fluere（流れる）。流れが合わさる所。fluid と同語源",
     "family": "fluid（流動体）／ influence（左右する）／ affluent（裕福な）／ fluctuate（変動する）",
-    "contrast": "流れが合わさる地点。conference（会議）や confidence（自信）と綴りが近い",
-    "trivia": "a confluence of factors は「要因の重なり」。川の合流という原義から",
+    "contrast": "conference（会議）や confidence（自信）と綴りが近い。con- のあとで見分ける",
+    "trivia": "a confluence of factors は「要因の重なり」。地理では川の合流点そのものを指す",
     "example": {
       "en": "The depot sits at the confluence of two routes.",
       "ja": "拠点は二つの経路の合流点にある。"
@@ -5559,7 +5559,7 @@
     "origin": "ex-（外へ）＋ ラテン語 pendere（払う）。払い出して使うこと。expenditure と同語源",
     "family": "expenditure（出費）／ expense（経費）／ spend（使う）",
     "contrast": "資源や労力を使い果たすこと。expel（退去させる）と一字違い",
-    "trivia": "expenditure の動詞形。expend resources は資源を使い果たすこと",
+    "trivia": "expend resources は「資源を使い果たす」。expand（拡大する）と一字違いで意味が別",
     "example": {
       "en": "The firm expended little on advertising.",
       "ja": "会社は広告にほとんど費やさなかった。"
@@ -7037,8 +7037,8 @@
     ],
     "origin": "ラテン語 integer（欠けのない）。欠かせば全体が成り立たないこと。integrity と同語源",
     "family": "integrate（一体化する）／ integrity（完全性）／ entire（全体の）／ integer（整数）",
-    "contrast": "欠かせば全体が成り立たない部分。integrate（一体化する）の形容詞ではない",
-    "trivia": "数学の「積分」も integral。全体に不可欠な部分という原義",
+    "contrast": "integrate（一体化する）の形容詞ではない。integral は「欠かせない」という性質を言う",
+    "trivia": "数学の「積分」も integral。部分を積み上げて全体を出すという発想",
     "example": {
       "en": "The guard is integral to the press.",
       "ja": "その安全柵は印刷機と不可分のものだ。"
@@ -8218,7 +8218,7 @@
     ],
     "origin": "pains（骨折り）＋ taking（取る）。手間を惜しまないこと",
     "family": "pains（骨折り）／ painstakingly（念入りに）／ pain（痛み）",
-    "trivia": "painstaking research は「丹念な調査」。手間を惜しまないことを褒める",
+    "trivia": "painstaking research は「丹念な調査」。pains は複数形で「骨折り」を意味する",
     "example": {
       "en": "Painstaking work restored the old press.",
       "ja": "念入りな作業が古い印刷機を復元した。"
@@ -8918,8 +8918,8 @@
     ],
     "origin": "pro-（〜のために）＋ ラテン語 curare（世話する）。手を尽くして手に入れること。procurement と同語源",
     "family": "procurement（調達）／ cure（治療）／ curator（学芸員）／ accurate（正確な）",
-    "contrast": "手を尽くして必要な物を手に入れること。procedure（手続き）と綴りが近い",
-    "trivia": "procurement officer は「調達担当者」。企業や官庁の職名",
+    "contrast": "procedure（手続き）と綴りが近い。procure は物を手に入れる動詞",
+    "trivia": "procurement officer は「調達担当者」。企業や官庁の職名として使われる",
     "example": {
       "en": "The team procured a rare bearing overnight.",
       "ja": "その班は一晩で希少な軸受けを調達して手に入れた。"
@@ -8971,7 +8971,7 @@
     ],
     "origin": "pro-（前へ）＋ ラテン語 fundere（注ぐ）。注ぎこぼれるほど多いこと。diffuse と同語源",
     "family": "profusion（多量）／ diffuse（拡散させる）／ confuse（混同する）／ refuse（断る）",
-    "trivia": "profuse apologies は「平謝り」。あふれるほど多いこと",
+    "trivia": "profuse apologies は「平謝り」。profusion は「豊富さ」で名詞形",
     "example": {
       "en": "Profuse condensation formed on the pipes.",
       "ja": "多量の結露が管に生じた。"
@@ -9228,7 +9228,7 @@
     ],
     "origin": "語源不詳。どちらを取るべきか決めかねる状態",
     "family": "quandaries（板挟み）",
-    "trivia": "be in a quandary は「板挟みで困る」。どちらを選ぶか決めかねる状態",
+    "trivia": "be in a quandary は「板挟みで困る」。語源がはっきりしない珍しい語",
     "example": {
       "en": "The board faced a quandary over the site.",
       "ja": "取締役会は敷地をめぐる板挟みに直面した。"
@@ -9620,8 +9620,8 @@
     ],
     "origin": "re-（元へ）＋ ラテン語 salire（跳ぶ）。押されても跳ね返ること。salmon, result と同語源",
     "family": "resilience（回復力）／ salient（際立った）／ result（結果）／ assail（攻撃する）",
-    "contrast": "押されても跳ね返る力があること。resident（居住者）と綴りが近い",
-    "trivia": "resilience は「回復力」。心理学と防災の両分野で重要な概念",
+    "contrast": "resident（居住者）と綴りが近い。resilient は形容詞で、跳ね返る強さを表す",
+    "trivia": "resilience は「回復力」。心理学と防災の両分野で重要な概念として使われる",
     "example": {
       "en": "A resilient network absorbed the shock.",
       "ja": "回復力のある網が衝撃を吸収した。"
@@ -11023,7 +11023,7 @@
     ],
     "origin": "ラテン語 vacillare（ぐらつく）。決めかねて揺れること",
     "family": "vacillation（動揺）／ vacillating（揺れ動く）",
-    "trivia": "vacillation は「優柔不断」。決めかねて揺れることを批判的に言う",
+    "trivia": "vacillation は「優柔不断」。批判的な響きを持つので、人を評するときは注意が要る",
     "example": {
       "en": "The board vacillated over the two sites.",
       "ja": "取締役会は二か所をめぐって揺れ動いた。"
@@ -11101,7 +11101,7 @@
     ],
     "origin": "adventure（冒険）の短縮。risk を承知で踏み出すこと",
     "family": "adventure（冒険）／ venturesome（冒険的な）／ event（催し）／ convene（招集する）",
-    "trivia": "adventure（冒険）が縮まった語。venture capital（投資資金）も「危険を承知で出す金」という含み",
+    "trivia": "venture capital（投資資金）も「危険を承知で出す金」という含み。joint venture は合弁事業",
     "example": {
       "en": "The firm ventured into laboratory glass.",
       "ja": "会社は実験用のガラスに思い切って試みた。"
