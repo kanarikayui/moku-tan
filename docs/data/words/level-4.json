@@ -272,6 +272,7 @@
     ],
     "origin": "ラテン語 vertere（回す）。あちこちに向きを変えて使えること。convert と同語源",
     "family": "versatility（汎用性）／ verse（詩）／ convert（転用する）／ reverse（逆にする）",
+    "trivia": "「向きを変えられる」が原義。多才な人にも多用途の道具にも使えるのは、この原義が広いため",
     "example": {
       "en": "This versatile scanner handles receipts and large drawings.",
       "ja": "この多用途の読み取り機は領収書も大判図面も扱える。"
@@ -1163,6 +1164,7 @@
     ],
     "origin": "ラテン語 metus（恐れ）。細部の粗相を恐れるほど丁寧なこと",
     "family": "meticulously（几帳面に）／ meticulousness（緻密さ）",
+    "trivia": "ラテン語 metus（恐れ）から。細かいところを間違えるのを恐れる、という由来が語感に残る",
     "example": {
       "en": "Her meticulous records made the audit simple.",
       "ja": "彼女の几帳面な記録が監査を容易にした。"
@@ -1238,6 +1240,7 @@
     ],
     "origin": "per-（すっかり）＋ ラテン語 ire（行く）。行き着いて傷んでしまう品",
     "family": "perish（滅びる）／ perishing（消滅しつつある）",
+    "trivia": "生鮮品を perishables と複数形で呼ぶ。空輸の貨物票にはこの語の表示が付く",
     "example": {
       "en": "Perishable goods travel in refrigerated trucks.",
       "ja": "傷みやすい品は冷蔵の車両で運ばれる。"
@@ -1623,6 +1626,7 @@
     ],
     "origin": "ギリシャ語 monos（一つ）＋ polein（売る）。売り手が一つだけの状態",
     "family": "monopolize（独占する）／ monopolist（独占者）／ monologue（独白）",
+    "trivia": "ボードゲームの名は、独占の弊害を教える目的で作られた前身のゲームに由来する",
     "example": {
       "en": "The bureau investigated a possible monopoly.",
       "ja": "局は独占の可能性を調査した。"
@@ -9538,6 +9542,7 @@
     ],
     "origin": "ラテン語 salvus（無事な）。無事な分を助け出すこと。save, safe と同語源",
     "family": "salvageable（回収可能な）／ save（救う）／ safe（安全な）／ salvation（救済）",
+    "trivia": "海難救助が原義で、沈んだ船や積み荷を引き上げること。廃品回収の意味は後から広がった",
     "example": {
       "en": "Crews salvaged half the damaged stock.",
       "ja": "作業班は破損した在庫の半分を回収して再生した。"
@@ -10714,6 +10719,7 @@
     ],
     "origin": "adventure（冒険）の短縮。risk を承知で踏み出すこと",
     "family": "adventure（冒険）／ venturesome（冒険的な）／ event（催し）／ convene（招集する）",
+    "trivia": "adventure（冒険）が縮まった語。venture capital（投資資金）も「危険を承知で出す金」という含み",
     "example": {
       "en": "The firm ventured into laboratory glass.",
       "ja": "会社は実験用のガラスに思い切って試みた。"

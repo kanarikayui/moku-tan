@@ -179,6 +179,7 @@
     "origin": "employ（雇う）＋ -ee。語尾の -ee は「〜される側」を表す（trainee なども同じ）",
     "family": "employ（雇う）／ employer（雇用主）／ employment（雇用）／ unemployed（無職の）",
     "contrast": "雇われている個人を指し、一人ずつ数えられる",
+    "trivia": "-ee は行為を受ける側を表す接尾辞。employer（雇う側）と一字違いで立場が逆になる",
     "example": {
       "en": "Every employee receives a badge on the first day.",
       "ja": "全従業員は初日に社員証を受け取る。"
@@ -229,6 +230,7 @@
     ],
     "origin": "con-（共に）＋ ferre（運ぶ）。意見を持ち寄る場。transfer, offer と同語源",
     "family": "confer（協議する）／ refer（参照する）／ transfer（移す）",
+    "trivia": "大規模な学会や国際会議を指し、社内の打ち合わせには meeting を使う。規模で語を選び分ける",
     "example": {
       "en": "The annual sales conference takes place in Osaka this year.",
       "ja": "年次営業会議は今年大阪で開かれる。"
@@ -458,6 +460,7 @@
     ],
     "origin": "ラテン語 branca（動物の足）。木の枝から「枝分かれした店」へ",
     "family": "branch out（手を広げる）／ branching（分岐）／ branches（支社）",
+    "trivia": "木の枝が原義で、支店も分岐も同じ語。三権分立の立法・行政・司法も branch と呼ぶ",
     "example": {
       "en": "The Kobe branch handles all orders from western Japan.",
       "ja": "神戸支店が西日本からの注文をすべて扱う。"
@@ -667,6 +670,7 @@
     ],
     "origin": "dis-（取り去る）＋ count（数える）。数え上げた額から差し引くこと",
     "family": "count（数える）／ account（勘定）／ recount（語る）",
+    "trivia": "もとは「数え引く」。割引率は percent off、値引き後の価格は discounted price と言い分ける",
     "example": {
       "en": "Members receive a discount on all repair services.",
       "ja": "会員はすべての修理業務で割引を受けられる。"
@@ -769,6 +773,7 @@
     "origin": "in-（中に）＋ stall（置き場・仕切り）。所定の場所に据えること",
     "family": "installation（設置）／ installment（分割払い）",
     "contrast": "機器やソフトを所定の位置に据え付けること",
+    "trivia": "機器の据え付けだけでなく、人を職に就かせる意味もある。就任式を installation と呼ぶ",
     "example": {
       "en": "Technicians will install the new shelving on Saturday.",
       "ja": "技術者が土曜に新しい棚を取り付ける。"
@@ -1025,6 +1030,7 @@
     "origin": "古英語 stæf（杖）。杖を支えに集まる一団から「職員」へ",
     "family": "staffing（人員配置）／ understaffed（人手不足の）",
     "contrast": "職員全体をまとめて指す集合名詞。a staff で「一人の職員」にはならない",
+    "trivia": "「杖」の staff と同じ語。杖が指揮権の象徴だったことから軍の参謀本部を指し、そこから職員全体へ広がった",
     "example": {
       "en": "Kitchen staff wear gloves at all times.",
       "ja": "厨房の職員は常に手袋を着用する。"
@@ -1127,6 +1133,7 @@
     ],
     "origin": "ラテン語 vehere（運ぶ）。convey, vector と同語源",
     "family": "vehicular（車両の）／ convey（運び伝える）",
+    "trivia": "薬を溶かす溶媒や、思想を伝える手段も vehicle と呼ぶ。「運ぶもの」という原義が広く生きている",
     "example": {
       "en": "Park the company vehicle behind the loading dock.",
       "ja": "社用の車両は荷積み場の裏に駐車しなさい。"
@@ -1541,6 +1548,7 @@
     ],
     "origin": "de-（下に）＋ ponere（置く）。「置いておく金」。position, compose と同語源",
     "family": "deposition（供述）／ depose（供述する）／ position（位置）／ compose（構成する）",
+    "trivia": "預金も手付金も保証金も deposit。「下に置く」が原義で、預けて置いておくものすべてを指す",
     "example": {
       "en": "A deposit of ten percent secures the booking.",
       "ja": "一割の手付金で予約が確保される。"
@@ -1844,6 +1852,7 @@
       "cafeteria-staffdininghall"
     ],
     "origin": "スペイン語 cafeteria（コーヒー店）。cafe と同語源",
+    "trivia": "スペイン語の「コーヒー店」から米国英語に入った。社員食堂の意味は米国で定着したもの",
     "example": {
       "en": "The cafeteria serves lunch from eleven thirty.",
       "ja": "社員食堂は十一時半から昼食を出す。"
@@ -2293,6 +2302,7 @@
     ],
     "origin": "e-（外へ）＋ levare（持ち上げる）。level, lever と同語源",
     "family": "elevate（持ち上げる）／ elevation（高度）／ levy（課徴金）",
+    "trivia": "英国では lift と呼ぶ。米英で呼び名が割れる代表例で、TOEIC では elevator が使われる",
     "example": {
       "en": "Take the elevator to the eighth floor.",
       "ja": "昇降機で八階へ上がりなさい。"
@@ -2599,6 +2609,7 @@
     ],
     "origin": "hall（広間）＋ way（道）。広間へ通じる道",
     "family": "hall（広間）／ hallmark（品質証明）／ town hall（公会堂）",
+    "trivia": "米語では廊下、英語では玄関広間を指すことがある。hall 一語だと意味がさらに割れる",
     "example": {
       "en": "Boxes must not block the hallway.",
       "ja": "箱で廊下をふさいではならない。"
@@ -2827,6 +2838,7 @@
     ],
     "origin": "中世ラテン語 lobia（回廊）。lodge（山小屋）と同語源",
     "family": "lobbying（陳情活動）",
+    "trivia": "議会のロビーで議員に働きかけたことから、lobbying（陳情活動）という動詞用法が生まれた",
     "example": {
       "en": "The lobby is being repainted this week.",
       "ja": "ロビーは今週塗り直されている。"
@@ -2877,6 +2889,7 @@
     ],
     "origin": "ラテン語 manus（手）。manage, manufacture と同語源で「手引き」",
     "family": "manually（手作業で）／ manage（管理する）／ manufacture（製造する）／ manicure（爪の手入れ）",
+    "trivia": "「手の」が原義で、手引き書も手動も同じ語。manual transmission は手で変速する機構",
     "example": {
       "en": "The manual explains how to reset the timer.",
       "ja": "手引書は計時器の戻し方を説明している。"
@@ -5022,6 +5035,7 @@
     ],
     "origin": "direct（示す）＋ -ory。人や物の在りかを示す一覧",
     "family": "direct（向ける）／ direction（方向）／ director（責任者）",
+    "trivia": "名簿のほか、計算機のフォルダも directory。どちらも「どこにあるかを指し示す」もの",
     "example": {
       "en": "The staff directory is updated each quarter.",
       "ja": "職員の名簿は四半期ごとに新しくなる。"
@@ -5222,6 +5236,7 @@
     ],
     "origin": "ex-（外へ）＋ change（換える）。互いに換え合うこと",
     "family": "exchangeable（交換可能な）／ change（変える）",
+    "trivia": "為替も物々交換も同じ語。exchange rate（為替レート）と exchange student（交換留学生）で意味の幅が分かる",
     "example": {
       "en": "Guests can exchange money at the front desk.",
       "ja": "客は受付で両替できる。"

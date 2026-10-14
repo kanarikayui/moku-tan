@@ -230,6 +230,7 @@
     ],
     "origin": "re-（戻して）＋ ラテン語 mittere（送る）。金を送ること。emit, mission と同語源",
     "family": "remit（送金する）／ emit（排出する）／ submit（提出する）／ transmit（送信する）",
+    "trivia": "海外で働く人が母国へ送る金を remittance と呼び、国によっては国家収入の柱になっている",
     "example": {
       "en": "Please note the invoice number on your remittance.",
       "ja": "送金の際は請求書番号を明記してください。"
@@ -1185,6 +1186,7 @@
     ],
     "origin": "re-（戻して）＋ 古仏語 abattre（打ち落とす）。払った分から打ち戻す金",
     "family": "rebated（払い戻された）／ abate（和らぐ）／ battle（戦い）／ debate（討論）",
+    "trivia": "購入後に申請して受け取る割戻しを指す。米国では mail-in rebate という販促手法が一般的",
     "example": {
       "en": "Bulk buyers receive a rebate at year end.",
       "ja": "大口の買い手は年度末に割戻金を受け取る。"
@@ -6726,6 +6728,7 @@
     ],
     "origin": "ラテン語 salus（健康）。ためになる働きがあること。salute, salvage と同語源",
     "family": "salute（敬礼する）／ salubrious（健康によい）／ salvage（回収して再生する）／ safe（安全な）",
+    "trivia": "salus（健康）が核で、salute（敬礼する）も「健康を祈る」挨拶から。乾杯の Salute! も同じ",
     "example": {
       "en": "The fine had a salutary effect on speeding.",
       "ja": "罰金は速度超過に効き目のある効果があった。"

@@ -155,6 +155,7 @@
     "origin": "ラテン語 aestimare（値をつける）。esteem（尊重する）と同語源",
     "family": "estimation（評価）／ esteem（尊重する）",
     "contrast": "おおよその数字を出すこと。appraise は専門家が価値を定める",
+    "trivia": "esteem（尊重する）と同じ語から分かれた二重語。どちらも「値踏みする」が原義",
     "example": {
       "en": "Please estimate the repair cost before Thursday's meeting.",
       "ja": "木曜の会議までに修理費を見積もってください。"
@@ -363,6 +364,7 @@
     "origin": "post-（後に）＋ ponere（置く）。後ろに置き直すこと。position と同語源",
     "family": "postponement（延期）／ component（構成要素）／ opponent（相手）",
     "contrast": "日時を後ろへ移すこと。新しい日程を決める含みがある",
+    "trivia": "日程を先へ延ばすことなので、中止には使えない。中止は cancel か call off を使う",
     "example": {
       "en": "Heavy snow forced the organizers to postpone the fair.",
       "ja": "大雪のため主催者は見本市を延期した。"
@@ -414,6 +416,7 @@
     "origin": "con-（すっかり）＋ firmus（固い）。firm, affirm と同語源",
     "family": "confirmation（確認書）／ confirmed（確定した）／ firm（固い）",
     "contrast": "裏を取って確定させること。書面や連絡を伴う正式な確認に使う",
+    "trivia": "firm（固い）が核で、ぐらついていたものを固める語。確認メールは confirmation と名詞形で言う",
     "example": {
       "en": "Call the vendor to confirm the installation date.",
       "ja": "業者に電話して設置日を確認しなさい。"
@@ -440,6 +443,7 @@
     "origin": "ex-（外へ）＋ pendere（量る・払う）。天秤で量って払った名残。pension と同語源",
     "family": "expensive（高価な）／ expend（費やす）",
     "contrast": "業務で出ていく費用。price は売り手が付ける値段",
+    "trivia": "at the expense of は「〜を犠牲にして」。費用の語が比喩に転じ、金銭と関係なく使われる",
     "example": {
       "en": "Travel expense claims require original receipts.",
       "ja": "出張経費の請求には原本の領収書が必要だ。"
@@ -465,6 +469,7 @@
     ],
     "origin": "re-（再び）＋ novus（新しい）。new, innovate と同語源",
     "family": "renovation（改修）／ novel（斬新な）／ innovate（刷新する）",
+    "trivia": "novus（新しい）が核なので、innovate（刷新する）と兄弟の語。建物を新しくするのが renovate",
     "example": {
       "en": "The owner plans to renovate the lobby over the holidays.",
       "ja": "所有者は休暇中にロビーを改装する予定だ。"
@@ -595,6 +600,7 @@
     ],
     "origin": "apply（申し込む）＋ -ant。plicare（折り重ねる）から",
     "family": "apply（申し込む）／ application（申込書）／ applicable（適用できる）",
+    "trivia": "応募者が applicant、申込書が application。同じ語根で人と書類を呼び分ける",
     "example": {
       "en": "Every applicant must provide two written references.",
       "ja": "応募者は全員、書面の推薦を二通提出する。"
@@ -670,6 +676,7 @@
     ],
     "origin": "ラテン語 audire（聞く）。「聞くための場所」。audience と同語源",
     "family": "audience（聴衆）／ audio（音声の）／ audit（監査する）／ audible（聞き取れる）",
+    "trivia": "「聞く場所」が原義。audio, audit, audience と同じ audire の系統で、聴くことが核にある",
     "example": {
       "en": "The auditorium seats four hundred people.",
       "ja": "その講堂は四百人分の席がある。"
@@ -695,6 +702,7 @@
     ],
     "origin": "ラテン語 bibere（飲む）。imbibe（飲み込む）と同語源",
     "family": "beverages（飲料類）／ imbibe（飲む）",
+    "trivia": "飲み物全般を指す硬い語で、メニューより業務文書に出る。食品と合わせて food and beverage、略して F&B",
     "example": {
       "en": "Beverage service begins after the opening remarks.",
       "ja": "飲料の提供は開会のあいさつの後に始まる。"
@@ -720,6 +728,7 @@
     ],
     "origin": "フランス語 brocher（縫い綴じる）。仮綴じの小冊子",
     "family": "brochure stand（資料台）",
+    "trivia": "フランス語で「綴じたもの」。折っただけの薄い印刷物は leaflet や flyer と呼び分ける",
     "example": {
       "en": "Take a brochure from the rack near the door.",
       "ja": "扉の近くの棚から小冊子を取りなさい。"
@@ -796,6 +805,7 @@
     ],
     "origin": "com-（共に）＋ legare（任じる）。同じ任に就く者。delegate と同語源",
     "family": "collegial（同僚的な）／ college（大学）／ league（連盟）",
+    "trivia": "同じ職場の同僚を指し、友人の意味はない。上司・部下を問わず使えるのが coworker との違い",
     "example": {
       "en": "Ask a colleague to cover the front desk.",
       "ja": "受付を代わってもらうよう同僚に頼みなさい。"
@@ -847,6 +857,7 @@
     ],
     "origin": "com-（共に）＋ petere（求める）。同じものを求め合う相手。appetite と同語源",
     "family": "compete（競う）／ competition（競争）／ competent（有能な）",
+    "trivia": "com-（共に）＋ petere（求める）で、原義は「共に求める」。争うより「同じものを目指す」が先にある",
     "example": {
       "en": "A competitor opened a branch across the street.",
       "ja": "競合他社が通りの向かいに支店を開いた。"
@@ -1109,6 +1120,7 @@
     ],
     "origin": "head（頭）＋ quarters（宿営地）。軍の司令部が原義",
     "family": "head（頭）／ quarter（区画）／ quarterly（四半期ごとの）",
+    "trivia": "単数扱いも複数扱いもする。The headquarters is in Tokyo. も are in Tokyo. も正しい",
     "example": {
       "en": "Headquarters approves all purchases above one million yen.",
       "ja": "本社が百万円を超える購入をすべて承認する。"
@@ -1340,6 +1352,7 @@
     "origin": "フランス語 personnel（人員）。person（人）の集合を指す",
     "family": "person（個人）／ personal（個人の）／ personality（人柄）",
     "contrast": "人事部門や職員全体を指す。personal（個人の）とは綴りも意味も別",
+    "trivia": "フランス語から入ったため語尾に強勢が来る。personal（個人の）と綴りも発音も紛らわしい",
     "example": {
       "en": "Personnel keeps the signed contracts on the third floor.",
       "ja": "人事部は署名済みの契約書を三階に保管している。"
@@ -1422,6 +1435,7 @@
     ],
     "origin": "re-（戻して）＋ fundere（注ぐ）。金を注ぎ戻すこと。fund, confuse と同語源",
     "family": "fund（資金）／ refundable（払い戻し可能な）／ found（創業する）",
+    "trivia": "払った分をそのまま返すのが refund、条件付きで一部戻すのが rebate。店頭では refund が普通",
     "example": {
       "en": "A full refund applies if the tour is canceled.",
       "ja": "旅程が中止になった場合は全額の返金となる。"
@@ -1522,6 +1536,7 @@
     ],
     "origin": "trans-（越えて）＋ ferre（運ぶ）。offer, conference と同語源",
     "family": "transferable（譲渡できる）／ refer（参照する）／ prefer（好む）／ confer（協議する）",
+    "trivia": "乗り換えも振込も転勤も同じ語。「越えて運ぶ」という原義のまま、場面ごとに訳語が変わる",
     "example": {
       "en": "The firm will transfer two engineers to Sendai.",
       "ja": "会社は技術者二名を仙台に転勤させる。"
@@ -1547,6 +1562,7 @@
     ],
     "origin": "ラテン語 uti（使う）。use, utensil と同語源で「役に立つもの」",
     "family": "utilize（役立てる）／ use（使う）／ usage（使用量）",
+    "trivia": "電気・ガス・水道を utilities と複数形で呼ぶ。公共料金の請求書は utility bill",
     "example": {
       "en": "Utility costs are shared among the three tenants.",
       "ja": "公共料金は三名の賃借人で分担する。"
@@ -1622,6 +1638,7 @@
     ],
     "origin": "ad-（〜へ）＋ cura（注意）。手をかけた→正確な。cure, curious と同語源",
     "family": "accuracy（正確さ）／ cure（治療）／ curator（学芸員）",
+    "trivia": "cura（世話・注意）が核で、丁寧に手をかけたから正確、という発想。cure（治療）と同じ系統",
     "example": {
       "en": "Accurate counts prevent shipping disputes.",
       "ja": "正確な数え上げが出荷の争いを防ぐ。"
@@ -3907,6 +3924,7 @@
     ],
     "origin": "ラテン語 flectere（曲げる）。折れずに曲がること。reflect と同語源",
     "family": "flexibility（柔軟性）／ flex（曲げる）／ reflect（反映する）／ deflect（そらす）",
+    "trivia": "flex（曲げる）から。flextime（時差出勤制度）も同じ語で、働き方の融通を指す",
     "example": {
       "en": "The plant offers flexible starting hours.",
       "ja": "工場は柔軟な始業時間を用意している。"
@@ -3932,6 +3950,7 @@
     ],
     "origin": "ラテン語 frangere（砕く）。砕けやすいこと。fracture, fragment と同語源",
     "family": "fragility（もろさ）／ fragment（断片）／ fraction（わずかな部分）／ fracture（骨折）",
+    "trivia": "荷物の「取扱注意」の表示に使われる。fraction（分数）や fracture（骨折）と同じ「砕ける」の系統",
     "example": {
       "en": "Fragile items travel with extra padding.",
       "ja": "壊れやすい品は緩衝材を増やして運ばれる。"
@@ -5624,6 +5643,7 @@
     ],
     "origin": "pre-（前もって）＋ ラテン語 caedere（切る）。きっちり切りそろえてあること",
     "family": "precisely（正確に）／ precision（精度）／ concise（簡潔な）／ incisive（鋭い）",
+    "trivia": "「前もって切りそろえる」が原義。precision（精度）は工業でも測定でも鍵になる語",
     "example": {
       "en": "Precise cutting reduces waste on every sheet.",
       "ja": "精密な裁断が紙ごとの無駄を減らす。"
@@ -5851,6 +5871,7 @@
     ],
     "origin": "pro-（前へ）＋ ラテン語 ducere（導く）。世の中へ引き出すこと",
     "family": "product（製品）／ production（生産）／ productive（生産的な）／ reduce（減らす）",
+    "trivia": "名詞では /ˈproʊduːs/ と前に強勢が移り、「農産物」を指す。動詞との読み分けに注意",
     "example": {
       "en": "The mill produces two hundred rolls daily.",
       "ja": "その工場は毎日二百巻きを生産する。"
@@ -7055,6 +7076,7 @@
     ],
     "origin": "ラテン語 sedere（座る）。人が席に着いている時間の区切り。sit と同語源",
     "family": "sedentary（座りがちな）／ reside（居住する）／ sediment（沈殿物）",
+    "trivia": "「座っている時間」が原義。国会の会期も、録音の一回も、学習の一区切りも session",
     "example": {
       "en": "The morning session covers safety topics.",
       "ja": "午前の回次は安全の話題を扱う。"
@@ -8154,6 +8176,7 @@
     ],
     "origin": "with-（後ろへ）＋ draw（引く）。後ろへ引き戻すこと",
     "family": "withdrawal（引き出し）／ draw（引く）／ drawer（引き出し）",
+    "trivia": "預金引き出しも撤退も同じ語。ATM の画面に Withdrawal と出るのはこの名詞形",
     "example": {
       "en": "Staff may withdraw cash from the lobby machine.",
       "ja": "職員はロビーの機械から現金を引き出せる。"
@@ -8179,6 +8202,7 @@
     ],
     "origin": "work（作業）＋ shop（仕事場）。手を動かして学ぶ場",
     "family": "work（働く）／ workforce（労働力）／ workplace（職場）",
+    "trivia": "もとは職人の作業場。参加者が手を動かす講習の意味は二十世紀に広まった比較的新しい用法",
     "example": {
       "en": "A workshop on packing runs every Tuesday.",
       "ja": "梱包の講習会が毎週火曜に開かれる。"
@@ -8410,6 +8434,7 @@
     "origin": "ラテン語 ambire（票を求めて歩き回る）。上を目指して動くこと",
     "family": "ambition（野心）／ ambitiously（野心的に）／ ambient（周囲の）",
     "contrast": "上を目指して手を伸ばすこと。ambiguous（あいまいな）と綴りが近い",
+    "trivia": "ラテン語で「票を求めて歩き回る」。選挙運動の語が、野心という内面の性質を指すようになった",
     "example": {
       "en": "The maker set an ambitious export goal.",
       "ja": "製造業者は野心的な輸出の目標を掲げた。"
@@ -10739,6 +10764,7 @@
     ],
     "origin": "hand（手）＋ book（本）。手元に置いて引く本",
     "family": "hand（手）／ handle（取っ手）／ handling（取り扱い）",
+    "trivia": "manual が手順書なのに対し、handbook は便覧・要覧。手に収まる大きさという意味が語に残る",
     "example": {
       "en": "The staff handbook explains leave rules.",
       "ja": "職員の便覧は休暇の規則を説明する。"
@@ -11437,6 +11463,7 @@
     ],
     "origin": "leaf（葉）＋ -let（小さい）。木の葉のように薄い刷り物",
     "family": "leaf（葉）／ leafy（葉の茂った）／ leaves（葉の複数形）",
+    "trivia": "木の葉のように薄い紙という発想。動詞で「ビラを配る」とも使う",
     "example": {
       "en": "Leaflets sit in a rack by the door.",
       "ja": "刷り物は扉のそばの棚にある。"

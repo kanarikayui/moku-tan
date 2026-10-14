@@ -70,6 +70,7 @@
     ],
     "origin": "sub-（下に）＋ ラテン語 sedere（座る）。親会社の下に座る会社",
     "family": "subsidy（補助金）／ subsidize（補助する）／ reside（居住する）",
+    "trivia": "親会社は parent company。親子にたとえる言い方は英語でも日本語でも共通している",
     "example": {
       "en": "Its Thai subsidiary assembles parts for the whole region.",
       "ja": "タイの子会社が地域全体向けの部品を組み立てている。"
@@ -278,6 +279,7 @@
     ],
     "origin": "dis-（別々に）＋ ラテン語 legere（選ぶ）。よく選び分けて丁寧に働くこと",
     "family": "diligence（勤勉さ）／ elect（選出する）／ select（選ぶ）／ collect（集める）",
+    "trivia": "「よく選び分ける」が原義で、もとは丁寧さを表した。勤勉という意味に寄ったのは後のこと",
     "example": {
       "en": "A diligent clerk noticed the error in the shipping label.",
       "ja": "勤勉な事務員が配送票の誤りに気づいた。"
@@ -403,6 +405,7 @@
     ],
     "origin": "ラテン語 durare（続く）。長くもつこと。duration, during と同語源",
     "family": "durability（耐久性）／ duration（継続時間）／ during（〜の間）／ endure（耐える）",
+    "trivia": "耐久消費財を durable goods と呼ぶ。during（〜の間）も同じ durare（続く）の系統",
     "example": {
       "en": "These crates are durable enough for overseas shipping.",
       "ja": "これらの木箱は海外輸送に十分耐久性のあるものだ。"
@@ -587,6 +590,7 @@
     ],
     "origin": "allow（認める）＋ -ance。認めて渡す分",
     "family": "allow（許す）／ allowable（許容される）／ applaud（拍手する）",
+    "trivia": "手当のほか、子どもの小遣いも allowance。英国では pocket money と言うことが多い",
     "example": {
       "en": "Night shift workers receive a monthly allowance.",
       "ja": "夜勤の作業員は月々の手当を受け取る。"
@@ -926,6 +930,7 @@
     ],
     "origin": "de-（欠けて）＋ ラテン語 facere（作る）。足りずに欠けている分",
     "family": "deficient（不足した）／ deficiency（不備）／ defect（欠陥）／ perfect（完全な）",
+    "trivia": "ラテン語の「足りない」という動詞がそのまま名詞になった語。帳簿で不足額に添えた一語が独立した",
     "example": {
       "en": "The branch closed the year with a small deficit.",
       "ja": "その支店は小幅な赤字で年度を終えた。"
@@ -1029,6 +1034,7 @@
     ],
     "origin": "仏語 entreprendre（引き受ける）。事業を自ら引き受ける人。enterprise と同語源",
     "family": "entrepreneurial（起業家的な）／ enterprise（企業）／ comprise（構成する）",
+    "trivia": "フランス語のまま英語に入ったため綴りが難しい。起業家精神を entrepreneurship と言う",
     "example": {
       "en": "A young entrepreneur opened three cafes downtown.",
       "ja": "若い起業家が中心街に喫茶店を三軒開いた。"
@@ -1971,6 +1977,7 @@
     ],
     "origin": "ギリシャ語 authentes（自ら行う者）。本人の手による本物であること",
     "family": "authenticity（真正性）／ author（著者）／ authority（権限）",
+    "trivia": "ギリシャ語で「自分の手で行う者」。本物かどうかを判定することを authenticate、認証と訳す",
     "example": {
       "en": "Only authentic parts carry the hologram.",
       "ja": "本物の部品だけに光る印が付く。"
@@ -5209,6 +5216,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 flare（吹く）。空気を吹き込んで膨らむこと",
     "family": "inflate（膨らませる）／ deflation（物価下落）／ flatulence（膨張）",
+    "trivia": "もとは空気で膨らませること。物価の膨張に使ったのは十九世紀の米国が早く、経済用語としては新しい",
     "example": {
       "en": "Inflation pushed up the packaging budget.",
       "ja": "物価上昇が包装の予算を押し上げた。"
@@ -7647,6 +7655,7 @@
     "origin": "reimburse（払い戻す）＋ -ment。立て替え分を財布へ戻すこと",
     "family": "reimburse（払い戻す）／ disbursement（支払支出）",
     "contrast": "払い戻しそのものを指す名詞",
+    "trivia": "出張精算の申請書は expense report、払い戻しが reimbursement。TOEIC の社内文書で定番の組み合わせ",
     "example": {
       "en": "Reimbursement takes about ten working days.",
       "ja": "償還払いは約十営業日かかる。"
@@ -8198,6 +8207,7 @@
     ],
     "origin": "ラテン語 rigere（こわばる）。曲がらず固いこと",
     "family": "rigidity（硬直性）／ rigorous（厳密な）／ rigor（厳しさ）",
+    "trivia": "固くて曲がらないことから、規則や態度の厳しさにも使う。rigorous（厳密な）は同じ語根の別語",
     "example": {
       "en": "Rigid shift rules discouraged applicants.",
       "ja": "硬直的な勤務の規則が応募者を遠ざけた。"
@@ -9725,6 +9735,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 filius（息子）。子として結び付いた会社",
     "family": "affiliation（提携）／ filial（子としての）／ file（列）",
+    "trivia": "ad-（〜へ）＋ filius（息子）で「子とする」。提携先を家族にたとえる発想は subsidiary と同じ",
     "example": {
       "en": "An affiliate handles sales in Taiwan.",
       "ja": "系列会社が台湾での販売を担う。"
