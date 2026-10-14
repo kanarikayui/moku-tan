@@ -14,7 +14,13 @@ import { collectDistractorCandidates, normalizeJa, normalizeEn } from '../docs/j
 const NOTE_MAX_LENGTH = 120;
 
 /** 任意の補足。書かれている場合だけ origin と同じ体裁を求める。 */
-const OPTIONAL_NOTES = ['family', 'contrast'];
+const OPTIONAL_NOTES = ['family', 'contrast', 'trivia'];
+
+/** origin のすぐ下に並ぶため、同じ文を繰り返してはいけない項目。 */
+const NO_ORIGIN_OVERLAP = ['contrast', 'trivia'];
+
+/** エラーメッセージで使う、画面上の見出しと同じ呼び名。 */
+const NOTE_LABEL = { family: '語族', contrast: '使い分け', trivia: '豆知識' };
 
 const dataDir = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../docs/data');
 
@@ -49,10 +55,10 @@ function checkNoteFormat(text, where, errors) {
 }
 
 /**
- * contrast は origin のすぐ下に並ぶ。
+ * 任意の補足は origin のすぐ下に並ぶ。
  * 同じ文を繰り返すと画面で二度読ませることになるので、重なりを弾く。
  */
-function checkContrastOverlap(entry, where, errors) {
+function checkOriginOverlap(entry, field, label, where, errors) {
   const split = (text) =>
     new Set(
       text
@@ -61,9 +67,9 @@ function checkContrastOverlap(entry, where, errors) {
         .filter((part) => part.length >= 8),
     );
   const origin = split(entry.origin ?? '');
-  for (const clause of split(entry.contrast)) {
+  for (const clause of split(entry[field])) {
     if (origin.has(clause)) {
-      errors.push(`${where}: 使い分けの「${clause}」が由来と同じ文です`);
+      errors.push(`${where}: ${label}の「${clause}」が由来と同じ文です`);
     }
   }
 }
@@ -129,7 +135,9 @@ function checkRequiredFields(entry, errors) {
     }
     checkNoteFormat(entry[field], `${where}: ${field}`, errors);
     if (field === 'family') checkFamilyFormat(entry[field], where, errors);
-    if (field === 'contrast') checkContrastOverlap(entry, where, errors);
+    if (NO_ORIGIN_OVERLAP.includes(field)) {
+      checkOriginOverlap(entry, field, NOTE_LABEL[field], where, errors);
+    }
   }
 }
 
@@ -189,7 +197,8 @@ function checkEnrichment(entries) {
   const withOrigin = entries.filter((entry) => entry.origin).length;
   const withFamily = entries.filter((entry) => entry.family).length;
   const withContrast = entries.filter((entry) => entry.contrast).length;
-  return { withIpa, withOrigin, withFamily, withContrast, total: entries.length };
+  const withTrivia = entries.filter((entry) => entry.trivia).length;
+  return { withIpa, withOrigin, withFamily, withContrast, withTrivia, total: entries.length };
 }
 
 function checkMetaProgress(meta, entries, warnings) {
@@ -227,7 +236,8 @@ async function main() {
       `由来: ${enrichment.withOrigin} / ${enrichment.total} 件`,
   );
   console.log(
-    `語族: ${enrichment.withFamily} 件　使い分け: ${enrichment.withContrast} 件（任意項目）`,
+    `語族: ${enrichment.withFamily} 件　使い分け: ${enrichment.withContrast} 件　` +
+      `豆知識: ${enrichment.withTrivia} 件（いずれも任意項目）`,
   );
   for (const warning of warnings) console.warn(`警告: ${warning}`);
 

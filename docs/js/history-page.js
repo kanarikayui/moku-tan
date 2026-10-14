@@ -28,6 +28,7 @@ const NOTE_FIELDS = [
   ['origin', '由来'],
   ['family', '語族'],
   ['contrast', '使い分け'],
+  ['trivia', '豆知識'],
 ];
 
 const dom = {

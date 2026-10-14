@@ -256,12 +256,15 @@ test('lastResult を持たない旧データでも履歴に並ぶ', () => {
   assert.equal(rows[0].skipped, 0);
 });
 
-// 履歴画面は row.entry から発音記号・由来・語族・使い分けを読む。
+// 履歴画面は row.entry から発音記号・由来・語族・使い分け・豆知識を読む。
 // ここで entry を作り直すと、任意項目が画面に出なくなる。
 test('履歴の行は語彙データのエントリをそのまま渡す', () => {
   const enriched = [
     entry('a', { ipa: '/eɪ/', origin: 'a の由来' }),
-    entry('b', { ipa: '/biː/', origin: 'b の由来', family: 'b の語族', contrast: 'b の使い分け' }),
+    entry('b', {
+      ipa: '/biː/', origin: 'b の由来', family: 'b の語族',
+      contrast: 'b の使い分け', trivia: 'b の豆知識',
+    }),
     entry('c', { ipa: '/siː/', origin: 'c の由来' }),
   ];
   const rows = recentEntries(history, enriched);
@@ -269,8 +272,10 @@ test('履歴の行は語彙データのエントリをそのまま渡す', () =>
   assert.equal(rows[0].entry.origin, 'b の由来');
   assert.equal(rows[0].entry.family, 'b の語族');
   assert.equal(rows[0].entry.contrast, 'b の使い分け');
+  assert.equal(rows[0].entry.trivia, 'b の豆知識');
   assert.deepEqual(rows[0].entry, enriched[1]);
   // 任意項目なので、持たない語では undefined のまま渡る
   assert.equal(rows[1].entry.family, undefined);
   assert.equal(rows[1].entry.contrast, undefined);
+  assert.equal(rows[1].entry.trivia, undefined);
 });

@@ -75,12 +75,13 @@ function clearChildren(element) {
 
 /**
  * 語の補足。語彙データに入っているものだけを、この順で出す。
- * 由来だけは全 2500 件にあるが、語族と使い分けは書ける語にしか入っていない。
+ * 由来だけは全 2500 件にあるが、語族・使い分け・豆知識は書ける語にしか入っていない。
  */
 const NOTE_FIELDS = [
   ['origin', '由来'],
   ['family', '語族'],
   ['contrast', '使い分け'],
+  ['trivia', '豆知識'],
 ];
 
 const VERDICT = {
@@ -130,7 +131,7 @@ function renderFeedback(result, review) {
   meaning.textContent = entry.ja.join('、');
   dom.feedback.append(meaning);
 
-  // 由来 → 語族 → 使い分け の順。成り立ち、そこから広がる語、紛らわしい語との境目と進む
+  // 成り立ち → そこから広がる語 → 紛らわしい語との境目 → 記憶に残る逸話、の順で読ませる
   for (const [field, label] of NOTE_FIELDS) {
     if (!entry[field]) continue;
     const note = document.createElement('p');
