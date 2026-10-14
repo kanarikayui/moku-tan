@@ -18,6 +18,7 @@
       "discretion-byownjudgment"
     ],
     "origin": "dis-（分けて）＋ ラテン語 cernere（見分ける）。その人の見分けに委ねて。discern と同語源",
+    "trivia": "at my discretion のように所有格が入る。at the discretion of なら対象を後ろに置く",
     "example": {
       "en": "Refunds are issued at the manager's discretion.",
       "ja": "返金は責任者の裁量で行われる。"
@@ -42,6 +43,7 @@
       "inlieu-instead"
     ],
     "origin": "仏語 lieu（場所）。そのものの場所に代えて。location と同語源",
+    "trivia": "lieu は単独ではほぼ使わない。in lieu of notice は「予告に代えて」の解雇手当",
     "example": {
       "en": "Staff may take a day off in lieu of overtime pay.",
       "ja": "従業員は残業代の代わりに休暇を取ることができる。"
@@ -66,6 +68,7 @@
       "nullvoid-havingnolegalforce"
     ],
     "origin": "ラテン語 nullus（無い）＋ void（空）。同義語を重ねて無効を念押しする法律文",
+    "trivia": "同義語を重ねるのは、ノルマン征服後に英語とフランス語の法律用語を併記した名残",
     "example": {
       "en": "The clause becomes null and void if the site is sold.",
       "ja": "その敷地が売却された場合、この条項は無効なものとなる。"
@@ -90,6 +93,7 @@
       "pursuantto-inaccordancewithrule"
     ],
     "origin": "pur-（前へ）＋ ラテン語 sequi（続く）。それに沿って続く形で。sequence と同語源",
+    "trivia": "米国の法律文書で特に多用される。under や in accordance with と同義",
     "example": {
       "en": "Records are kept for seven years pursuant to local law.",
       "ja": "記録は現地の法令に基づいて七年間保管される。"
@@ -114,6 +118,7 @@
       "inarrears-behindonpayment"
     ],
     "origin": "古仏語 arere（後ろに）。支払いが後ろへ回ったままであること",
+    "trivia": "英国では給与の後払いを paid in arrears と言う。滞納とは限らない点に注意",
     "example": {
       "en": "Two tenants remain in arrears for the winter quarter.",
       "ja": "二名の賃借人が冬の四半期分を滞納している。"
@@ -138,6 +143,7 @@
       "waiveright-relinquishclaim"
     ],
     "origin": "waive（放棄する）＋ right（権利）。権利を手放すこと",
+    "trivia": "署名で権利を放棄する行為を指す。放棄書そのものは waiver",
     "example": {
       "en": "Signing here does not waive the right to a hearing.",
       "ja": "ここに署名しても審問の権利を放棄することにはならない。"
@@ -162,6 +168,7 @@
       "inperpetuity-forever"
     ],
     "origin": "per-（通して）＋ ラテン語 petere（進む）。切れ目なく続く形で。perpetual と同語源",
+    "trivia": "著作権など期限のない権利に使う。rule against perpetuities は英米法の古典的法理",
     "example": {
       "en": "The easement runs with the land in perpetuity.",
       "ja": "その通行権は土地に付いて永久に続く。"
@@ -186,6 +193,7 @@
       "withoutrecourse-noclaimback"
     ],
     "origin": "recourse は「立ち戻って求める権利」。それを付けずに譲ること",
+    "trivia": "手形の裏書に添える文言。後で請求されない条件で譲り渡すこと",
     "example": {
       "en": "The note was sold without recourse to the bank.",
       "ja": "その手形は銀行への償還請求権なしで売却された。"
@@ -210,6 +218,7 @@
       "forcemajeure-uncontrollableevent"
     ],
     "origin": "仏語で「より大きな力」。当事者に抗えない事変",
+    "trivia": "フランス語のまま英語で使う。災害や戦争で履行できない場合の免責条項",
     "example": {
       "en": "A force majeure clause covers port closures.",
       "ja": "不可抗力の条項は港の閉鎖を対象とする。"
@@ -234,6 +243,7 @@
       "prorata-inproportion"
     ],
     "origin": "ラテン語 pro rata parte（定めた割合に応じて）。比に応じて。rate と同語源",
+    "trivia": "日割り計算も pro rata。保険料や家賃の精算で日常的に使われる",
     "example": {
       "en": "Charges are split pro rata among the tenants.",
       "ja": "費用は賃借人の間で按分で分けられる。"
@@ -258,6 +268,7 @@
       "bonafide-genuineandsincere"
     ],
     "origin": "ラテン語 bona fides（善い信）。裏のない誠実さ。faith と同語源",
+    "trivia": "ラテン語で「善い信をもって」。good faith の直訳にあたる",
     "example": {
       "en": "Only bona fide offers reach the second round.",
       "ja": "誠意ある申し出だけが二次の選考に進む。"
@@ -282,6 +293,7 @@
       "indefault-failuretoperform"
     ],
     "origin": "default は「果たすべきことの欠落」。それが履行されない場合に",
+    "trivia": "「〜がない場合は」。default は「果たすべきことの欠落」が原義",
     "example": {
       "en": "In default of payment, the goods remain ours.",
       "ja": "支払いの不履行の場合、商品は当方に帰属する。"
@@ -306,6 +318,7 @@
       "notwithstanding-despiteabove"
     ],
     "origin": "前の条文に逆らわれても効く、という優先の宣言",
+    "trivia": "前の条文より後の条文を優先させる宣言。契約書の読み方を左右する重要句",
     "example": {
       "en": "Notwithstanding the foregoing, refunds require a receipt.",
       "ja": "前記にかかわらず、返金には領収書が必要だ。"
@@ -330,6 +343,7 @@
       "severally-individuallyresponsible"
     ],
     "origin": "severally は「別々に」。各自が単独で全責任を負うこと",
+    "trivia": "jointly and severally liable なら「連帯して各自が全額を負う」。責任範囲が大きく変わる",
     "example": {
       "en": "The partners are severally liable for the debt.",
       "ja": "各出資者はその負債に個別に責任を負う。"
@@ -354,6 +368,7 @@
       "timeessence-deadlinecritical"
     ],
     "origin": "essence は「本質」。期限が契約の本質にあたるという定型文",
+    "trivia": "期限を守ることが契約の本質だと宣言する一句。これがあると遅延が重大な違反になる",
     "example": {
       "en": "Time is of the essence in this supply contract.",
       "ja": "この供給契約では期限厳守とする。"
@@ -378,6 +393,7 @@
       "holdharmless-protectfromliability"
     ],
     "origin": "harmless（害を受けない）状態に hold（保つ）。損を負わせないと約すこと",
+    "trivia": "indemnify and hold harmless の対で使う。損害を負わせないと約束すること",
     "example": {
       "en": "The owner holds the contractor harmless for delays.",
       "ja": "所有者は遅延について請負業者を免責とする。"
@@ -403,6 +419,7 @@
     ],
     "origin": "escrow は第三者預託。条件が整うまで預けた状態で",
     "contrast": "すでに預けられている状態を表す前置詞句",
+    "trivia": "取引が成立するまで第三者が預かる状態。米国の不動産売買では標準的な仕組み",
     "example": {
       "en": "The funds stay in escrow until both sides sign.",
       "ja": "資金は双方が署名するまで第三者に預けておく。"
@@ -427,6 +444,7 @@
       "subjecttoapproval-needsconsent"
     ],
     "origin": "approval（承認）の下に置かれていること",
+    "trivia": "承認が下りて初めて効力を持つこと。見積書や仮契約の注記に使う",
     "example": {
       "en": "The transfer is subject to approval by the board.",
       "ja": "その譲渡は取締役会の承認を条件とする。"
@@ -451,6 +469,7 @@
       "windingup-dissolvingcompany"
     ],
     "origin": "wind up（締めくくる）から。会社を畳んで残務を片づけること",
+    "trivia": "会社を畳む手続き全体を指す。liquidation は資産の換価に焦点がある",
     "example": {
       "en": "The winding up of the unit took nine months.",
       "ja": "その部門の会社の清算には九か月かかった。"
@@ -475,6 +494,7 @@
       "armslength-independentterms"
     ],
     "origin": "腕一本分の距離を置いて。なれ合いのない対等な関係",
+    "trivia": "独立した当事者間の取引を arm's length transaction と呼ぶ。税務で重要な概念",
     "example": {
       "en": "The sale was made at arm's length between the firms.",
       "ja": "その売買は両社の間で対等な立場で行われた。"
@@ -499,6 +519,7 @@
       "benullvoid-losealllegalforce"
     ],
     "origin": "null（無い）＋ void（空）。効力がまったくないこと",
+    "trivia": "契約が初めから無効であることを宣言する。無効と取消は法的効果が違う",
     "example": {
       "en": "The option is null and void after May.",
       "ja": "その選択権は五月以降、効力を失う。"
@@ -523,6 +544,7 @@
       "inconsideration-inexchangefor"
     ],
     "origin": "consideration は契約法で「対価」。それと引き換えに",
+    "trivia": "consideration は英米契約法の「約因」。対価がないと契約が成立しない原則",
     "example": {
       "en": "In consideration of the fee, access is granted.",
       "ja": "料金の対価として立入りが認められる。"
@@ -547,6 +569,7 @@
       "inwitness-formalclosing"
     ],
     "origin": "witness（証）＋ whereof（そのことの）。署名欄の前に置く定型文",
+    "trivia": "署名欄の直前に置く定型句。IN WITNESS WHEREOF と大文字で書く慣習がある",
     "example": {
       "en": "In witness whereof, both parties sign below.",
       "ja": "以上の証として、双方が下記に署名する。"
@@ -571,6 +594,7 @@
       "jointsever-sharedandindividual"
     ],
     "origin": "joint（連帯）と several（各別）。全員でも各自でも責を問える形",
+    "trivia": "債権者はどの債務者にも全額を請求できる。債務者にとって最も重い責任形態",
     "example": {
       "en": "Liability is joint and several among partners.",
       "ja": "責任は出資者の間で連帯のものとなる。"
@@ -595,6 +619,7 @@
       "saveexcept-withtheexceptionof"
     ],
     "origin": "save（〜を除いて）＋ except（除く）。同義語を重ねた法律文の言い回し",
+    "trivia": "save も except も「除いて」の意味。法律文書で同義語を重ねる慣習の例",
     "example": {
       "en": "All rights transfer, save and except the trademark.",
       "ja": "商標を除いては全ての権利が移転する。"
@@ -619,6 +644,7 @@
       "subjectterms-governedbyconditions"
     ],
     "origin": "terms（条件）の下に置かれること",
+    "trivia": "条件に従うことを前提とする宣言。契約の冒頭や注記で使う",
     "example": {
       "en": "Delivery is made subject to the terms below.",
       "ja": "納品は下記の条件に従うことを前提に行われる。"
@@ -643,6 +669,7 @@
       "timeandmaterials-costplushours"
     ],
     "origin": "time（工数）と materials（材料）。かかった分だけ精算する方式",
+    "trivia": "実際にかかった工数と材料で精算する方式。固定価格 fixed price との対",
     "example": {
       "en": "The repair was billed on time and materials.",
       "ja": "修理は実費精算方式で請求された。"
@@ -667,6 +694,7 @@
       "withoutlimit-notrestrictedto"
     ],
     "origin": "limitation（限定）を付けずに。列挙を例示にとどめる定型文",
+    "trivia": "including without limitation は「これらに限らず」。列挙を例示にとどめる定型句",
     "example": {
       "en": "The list includes, without limitation, spare parts.",
       "ja": "一覧は限定なしに予備の部品を含む。"
@@ -691,6 +719,7 @@
       "advalorem-accordingtovalue"
     ],
     "origin": "ラテン語で「価額に応じて」。値段を基準に課すこと。value と同語源",
+    "trivia": "重量や個数で課す従量税 specific duty との対。輸入品の価額に税率を掛けて算出する",
     "example": {
       "en": "An ad valorem duty applies to these goods.",
       "ja": "これらの品には従価の税がかかる。"
@@ -715,6 +744,7 @@
       "asiswhereis-inpresentcondition"
     ],
     "origin": "今あるまま、今ある場所で。手を入れず現状のまま引き渡すこと",
+    "trivia": "現状有姿で引き渡す条件。売主が瑕疵の責任を負わないことを意味する",
     "example": {
       "en": "The equipment is sold as is where is.",
       "ja": "その機器は現状有姿で売られる。"
@@ -739,6 +769,7 @@
       "atdiscretionof-decidedbyparty"
     ],
     "origin": "discretion は「見分ける力」。その者の判断に委ねて",
+    "trivia": "判断を委ねる相手を後ろに置く。at one's discretion と語順が違うだけ",
     "example": {
       "en": "Extensions are at the discretion of the lender.",
       "ja": "延長は貸し手の判断に委ねて決まる。"
@@ -763,6 +794,7 @@
       "bonafidepurch-innocentbuyer"
     ],
     "origin": "bona fide（善意の）＋ purchaser（買主）。事情を知らずに買った者",
+    "trivia": "事情を知らずに買った者は保護される、という英米法の原則を表す",
     "example": {
       "en": "A bona fide purchaser keeps clear title.",
       "ja": "善意の買主は瑕疵のない権利を保つ。"
@@ -787,6 +819,7 @@
       "byoperationlaw-automaticallylegally"
     ],
     "origin": "operation は「働き」。当事者の意思でなく法の働きで",
+    "trivia": "当事者の意思とは無関係に法律上そうなること。相続や時効がその例",
     "example": {
       "en": "The lease ends by operation of law.",
       "ja": "賃貸借は法の作用により終了する。"
@@ -811,6 +844,7 @@
       "condprecedent-mustoccurfirst"
     ],
     "origin": "precedent は「先に立つ」。先に満たされて初めて効く条件",
+    "trivia": "これが満たされるまで義務が発生しない条件。condition subsequent はその逆",
     "example": {
       "en": "Payment is a condition precedent to delivery.",
       "ja": "支払いは納品の停止条件である。"
@@ -835,6 +869,7 @@
       "duediligence-thoroughinvestigation"
     ],
     "origin": "due（相応の）＋ diligence（入念さ）。求められる水準の調査",
+    "trivia": "買収前の精査のほか、「相当な注意」という一般的な意味でも使う",
     "example": {
       "en": "Due diligence took six weeks to complete.",
       "ja": "適正評価手続の完了に六週間かかった。"
@@ -859,6 +894,7 @@
       "forceoflaw-legallybinding"
     ],
     "origin": "law（法）の force（力）。法と同じ強さで縛ること",
+    "trivia": "法と同じ拘束力を持つこと。ガイドラインに force of law がないなら従う義務はない",
     "example": {
       "en": "The guideline lacks the force of law.",
       "ja": "その指針に法的拘束力はない。"
@@ -908,6 +944,7 @@
       "goodfaith-honestintention"
     ],
     "origin": "faith はラテン語 fides（信）。裏のない誠実さ。bona fide の英語形",
+    "trivia": "in good faith は「誠実に」。bad faith（悪意）との対で法律文書に使う",
     "example": {
       "en": "Both sides negotiated in good faith.",
       "ja": "双方は信義誠実に基づいて交渉した。"
@@ -932,6 +969,7 @@
       "perpetuityclause-neverendingterm"
     ],
     "origin": "in perpetuity（永久に）＋ clause（条項）。期限を切らない定め",
+    "trivia": "期限を定めない条項。契約期間の定めがないことを明示する",
     "example": {
       "en": "A perpetuity clause troubles the lender.",
       "ja": "永久条項は貸し手を悩ませる。"
@@ -956,6 +994,7 @@
       "letterofcredit-bankpaymentguarantee"
     ],
     "origin": "credit（信用）を記した letter（書状）。銀行が支払いを請け合う書面",
+    "trivia": "略して L/C。銀行が支払いを保証することで、見知らぬ相手との貿易が成り立つ",
     "example": {
       "en": "The bank issued a letter of credit.",
       "ja": "銀行が信用状を発行した。"
@@ -980,6 +1019,7 @@
       "liquiddamages-agreedcompensation"
     ],
     "origin": "liquidate は「額を確定する」。前もって定めておく賠償額",
+    "trivia": "あらかじめ定めた賠償額。実損の立証が要らない代わりに過大だと無効になりうる",
     "example": {
       "en": "Liquidated damages accrue for each late day.",
       "ja": "予定損害賠償額は遅延の日ごとに発生する。"
@@ -1004,6 +1044,7 @@
       "materialbreach-seriousviolation"
     ],
     "origin": "material は「実質にかかわる」。契約の根幹を損なう違反",
+    "trivia": "これがあると相手方は契約を解除できる。軽微な違反 minor breach では解除まではできない",
     "example": {
       "en": "A material breach allows immediate termination.",
       "ja": "重大な違反は即時の解除を認める。"
@@ -1028,6 +1069,7 @@
       "nondisclosure-keepinginformationsecret"
     ],
     "origin": "non-（否定）＋ disclosure（開示）。明かさないと約すこと",
+    "trivia": "non-disclosure agreement は略して NDA。商談の入口で結ぶことが多い",
     "example": {
       "en": "A non disclosure clause binds both parties.",
       "ja": "秘密保持の条項が双方を拘束する。"
@@ -1052,6 +1094,7 @@
       "oftheessence-criticallyimportant"
     ],
     "origin": "essence（本質）。取り決めの本質をなす要素であること",
+    "trivia": "time is of the essence の形で使うのがほとんど。単独ではあまり見ない",
     "example": {
       "en": "Punctual delivery is of the essence here.",
       "ja": "ここでは時間どおりの納品が不可欠の要素である。"
@@ -1076,6 +1119,7 @@
       "proratabasis-proportionalsplit"
     ],
     "origin": "pro rata（比に応じて）＋ basis（方式）。割合に応じて配分する形",
+    "trivia": "日割りや按分で配分する方式を示す。保険や配当の計算で使う",
     "example": {
       "en": "Costs divide on a pro rata basis.",
       "ja": "費用は按分方式で分けられる。"
@@ -1100,6 +1144,7 @@
       "powerofattorney-legalauthorization"
     ],
     "origin": "attorney は「代理人」。代理する力を与える書面。attornment と同語源",
+    "trivia": "略して POA。本人に代わって署名する権限を与える書面",
     "example": {
       "en": "A power of attorney allows the agent to sign.",
       "ja": "委任状により代理人は署名できる。"
@@ -1124,6 +1169,7 @@
       "primafacie-onfirstappearance"
     ],
     "origin": "ラテン語で「第一印象では」。反証がない限り成り立つこと。primary と同語源",
+    "trivia": "ラテン語で「一見して」。prima facie case は一応の立証ができた状態",
     "example": {
       "en": "The log is prima facie evidence of delivery.",
       "ja": "その記録は納品の一応の証拠となる。"
@@ -1148,6 +1194,7 @@
       "quietenjoyment-undisturbedoccupation"
     ],
     "origin": "quiet は「妨げのない」。邪魔されず使い収益できる権利",
+    "trivia": "covenant of quiet enjoyment は賃貸借の基本条項。貸主が借主の使用を妨げない約束",
     "example": {
       "en": "The lease guarantees quiet enjoyment.",
       "ja": "賃貸借は平穏な使用収益を保証する。"
@@ -1172,6 +1219,7 @@
       "firstrefusal-priorityoption"
     ],
     "origin": "最初に断る権利、つまり他より先に買うか決められる権利",
+    "trivia": "略して ROFR。他者と同条件で先に買う権利を持つこと",
     "example": {
       "en": "The tenant holds a right of first refusal.",
       "ja": "賃借人は優先交渉権を持つ。"
@@ -1196,6 +1244,7 @@
       "severalliab-individualobligation"
     ],
     "origin": "several は「各別の」。各自が自分の分だけ負う責任",
+    "trivia": "joint and several liability とは負担範囲が大きく違い、債権者が誰にいくら請求できるかが変わる",
     "example": {
       "en": "Several liability limits each partner's exposure.",
       "ja": "分割責任が各出資者の負担を限る。"
@@ -1220,6 +1269,7 @@
       "statutelimit-timebartoclaim"
     ],
     "origin": "statute（法令）＋ limitation（期限）。訴えを起こせる期間の定め",
+    "trivia": "期間が過ぎると訴えられなくなる制度。罪や請求の種類で年数が異なる",
     "example": {
       "en": "The statute of limitations runs for three years.",
       "ja": "出訴期限は三年間続く。"
@@ -1244,6 +1294,7 @@
       "subjectmatter-topiccovered"
     ],
     "origin": "subject（主題）＋ matter（事柄）。契約が扱う対象そのもの",
+    "trivia": "契約や特許が扱う対象そのもの。subject matter jurisdiction は事物管轄",
     "example": {
       "en": "The subject matter of the clause is storage.",
       "ja": "その条項の対象事項は保管である。"
@@ -1268,6 +1319,7 @@
       "termsconditions-fullcontractterms"
     ],
     "origin": "terms（条項）と conditions（条件）を重ねた定型。取引の決め事一式",
+    "trivia": "略して T&C。同義語を重ねた法律文の典型で、利用規約の名としても定着した",
     "example": {
       "en": "The terms and conditions appear overleaf.",
       "ja": "取引条件一式は裏面に載っている。"
@@ -1292,6 +1344,7 @@
       "thirdparty-outsideperson"
     ],
     "origin": "当事者二者に対する三人目。契約の外にいる者",
+    "trivia": "third-party liability は第三者賠償責任。保険商品の名としても広く使われる",
     "example": {
       "en": "No third party may inspect the records.",
       "ja": "第三者は記録を閲覧できない。"
@@ -1316,6 +1369,7 @@
       "titledeed-ownershipdocument"
     ],
     "origin": "title（権原）＋ deed（証書）。所有を示す書面",
+    "trivia": "所有権を示す書面。title は「権原」で、肩書きの title と同じ語",
     "example": {
       "en": "The title deed is held by the bank.",
       "ja": "権利証書は銀行が保管している。"
@@ -1340,6 +1394,7 @@
       "bestofknowledge-asfarasaware"
     ],
     "origin": "知っている限りの最善で、という留保の定型文",
+    "trivia": "断定を避けて責任範囲を限る定型句。契約の表明保証でよく使う",
     "example": {
       "en": "To the best of our knowledge, the data is complete.",
       "ja": "知る限りにおいて資料は完全である。"
@@ -1364,6 +1419,7 @@
       "underseal-formallyexecuted"
     ],
     "origin": "seal（印章）を押した形式。署名だけより強い効力を持つ証書",
+    "trivia": "印章を押した証書。署名だけの契約より出訴期限が長いなど効力が強い",
     "example": {
       "en": "The deed was executed under seal.",
       "ja": "その証書は捺印証書として作成された。"
@@ -1388,6 +1444,7 @@
       "unjustenrich-unfairgain"
     ],
     "origin": "unjust（不当な）＋ enrichment（利得）。法の根拠なく得た利",
+    "trivia": "法的根拠なく得た利益は返すべき、という原則。契約がなくても請求できる根拠になる",
     "example": {
       "en": "The claim rests on unjust enrichment.",
       "ja": "その請求は不当利得に基づく。"
@@ -1412,6 +1469,7 @@
       "visavis-incomparisonwith"
     ],
     "origin": "仏語で「顔と顔を向き合わせて」。それと対比して",
+    "trivia": "フランス語で「向かい合って」。比較の対象を示すほか「〜に関して」の意味でも使う",
     "example": {
       "en": "Costs rose vis a vis the previous year.",
       "ja": "費用は前年と対比して上がった。"
@@ -1436,6 +1494,7 @@
       "immediateeffect-startingnow"
     ],
     "origin": "immediate（間を置かない）＋ effect（効力）。ただちに効くこと",
+    "trivia": "即時発効を宣言する定型句。解雇や規則変更の通知で使う",
     "example": {
       "en": "The suspension applies with immediate effect.",
       "ja": "停止は即時発効で適用される。"
@@ -1460,6 +1519,7 @@
       "withoutprejudice-notwaivingrights"
     ],
     "origin": "prejudice は「前もっての判断・不利益」。以後の権利を損なわない断り書き",
+    "trivia": "和解交渉の書面に付すと、後で証拠に使われない。英米の実務で重要な慣行",
     "example": {
       "en": "The offer is made without prejudice.",
       "ja": "その申し出は権利を留保して行われる。"
@@ -1484,6 +1544,7 @@
       "workinprogress-unfinishedgoods"
     ],
     "origin": "in progress（進行中）。まだ仕上がっていない途中の作業",
+    "trivia": "会計では「仕掛品」、現場では「作業中」。略して WIP と書く",
     "example": {
       "en": "Work in progress is counted at month end.",
       "ja": "仕掛品は月末に集計される。"
