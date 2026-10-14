@@ -129,6 +129,7 @@
     ],
     "origin": "ラテン語 lucrum（利得）。もうけを生むこと",
     "family": "lucre（利得）／ lucratively（もうかる形で）",
+    "trivia": "lucrative contract は「もうかる契約」。利益の大きさを表す",
     "example": {
       "en": "Maintenance contracts proved more lucrative than sales.",
       "ja": "保守契約は販売よりもうかることが分かった。"
@@ -154,6 +155,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 damnum（損害）＋ facere（作る）。損害がない状態にすること",
     "family": "indemnity（補償義務）／ damage（損害）／ condemn（非難する）／ damn（罵る）",
+    "trivia": "indemnify and hold harmless は英文契約の定型句。損害を補償し責任を負わせないという意味",
     "example": {
       "en": "The carrier agrees to indemnify the client for damaged cargo.",
       "ja": "運送業者は破損した貨物について顧客に賠償することに同意する。"
@@ -205,6 +207,7 @@
     ],
     "origin": "ラテン語 morari（遅らせる）。しばらく待つと定めること",
     "family": "delay（遅らせる）／ demurrage（超過停泊料）／ morose（不機嫌な）",
+    "trivia": "債務支払いの猶予から、核実験の一時停止まで幅広く使う。期限を区切った停止を指す",
     "example": {
       "en": "The city placed a moratorium on new warehouse permits.",
       "ja": "市は新しい倉庫の許可について一時停止を定めた。"
@@ -256,6 +259,7 @@
     ],
     "origin": "ラテン語 stipulari（取り決める）。契約に書き入れて定めること",
     "family": "stipulation（規定条件）／ stipend（定期手当）",
+    "trivia": "as stipulated in Article 5 は「第五条に定めるとおり」。契約書の定番表現",
     "example": {
       "en": "The lease stipulates that repairs begin within ten days.",
       "ja": "賃貸借契約は修理を十日以内に始めると明記している。"
@@ -281,6 +285,7 @@
     ],
     "origin": "sur-（上に）＋ charge（請求）。本料金の上に載せる料金",
     "family": "charge（請求する）／ discharge（放出する）／ cargo（積み荷）／ car（車）",
+    "trivia": "燃油サーチャージは fuel surcharge。原油高のときに運賃へ上乗せされる",
     "example": {
       "en": "A fuel surcharge applies to deliveries outside the city.",
       "ja": "市外への配達には燃料の追加料金がかかる。"
@@ -306,6 +311,7 @@
     ],
     "origin": "turn（回る）＋ over（入れ替わる）。人や商品が入れ替わる度合い",
     "family": "turn（回る）／ overturn（覆す）／ turnaround（好転）",
+    "trivia": "「離職率」と「売上高」の両方を指す。英国では売上を turnover と呼ぶことが多い",
     "example": {
       "en": "Night shift turnover fell after the bonus was introduced.",
       "ja": "手当の導入後、夜勤の離職率は下がった。"
@@ -331,6 +337,7 @@
     ],
     "origin": "under（下に）＋ write（書く）。証券の下に署名して危険を引き受けること",
     "family": "underwriter（引受人）／ write（書く）／ writ（令状）",
+    "trivia": "保険の引受も証券の引受も underwrite。危険を引き受けるという共通の発想",
     "example": {
       "en": "A local bank agreed to underwrite the bond issue.",
       "ja": "地元の銀行が債券の発行を引き受けることに同意した。"
@@ -383,6 +390,7 @@
     "origin": "in-（否定）＋ ラテン語 solvere（解く・払う）。支払いを解けないこと。solution と同語源",
     "family": "insolvency（支払不能状態）／ solvent（支払い能力のある）／ solve（解く）／ dissolve（溶かす）",
     "contrast": "支払いを果たせない状態。insolent（無礼な）と綴りが近い",
+    "trivia": "支払不能の状態を指し、法的な破産手続は bankruptcy と区別する",
     "example": {
       "en": "The supplier became insolvent after losing its largest client.",
       "ja": "最大の取引先を失い、その供給業者は支払い不能になった。"
@@ -467,6 +475,7 @@
     "origin": "ラテン語 proprius（自分の）。所有者が独占していること。property と同語源",
     "family": "proprietor（所有者）／ property（不動産）／ proper（適切な）／ propriety（妥当性）",
     "contrast": "propriety（妥当性）と綴りが近い。proprietary は形容詞で、独自技術や独占権を言う",
+    "trivia": "proprietary software は「独占的ソフトウェア」。open source との対で使う",
     "example": {
       "en": "The coating uses a proprietary blend of resins.",
       "ja": "その塗膜は独占的な樹脂の配合を用いている。"
@@ -518,6 +527,7 @@
     ],
     "origin": "ラテン語 vestire（着せる）。権利をまとって確定していること。invest と同語源",
     "family": "vest（権利を確定する）／ invest（投資する）／ divest（事業を売却する）／ vestment（法衣）",
+    "trivia": "vested interest は「既得権益」。変化に抵抗する勢力を指して使われる",
     "example": {
       "en": "Retirement benefits become vested after five years of service.",
       "ja": "退職給付は勤続五年で確定したものになる。"
@@ -569,6 +579,7 @@
     ],
     "origin": "ラテン語 actuarius（記録係）。数理で保険を計算する人。act と同語源",
     "family": "actuarial（保険数理の）／ act（行う）／ action（行動）／ actual（実際の）",
+    "trivia": "保険料率を計算する専門職。数学と統計の高度な資格が要る職業として知られる",
     "example": {
       "en": "An actuary reviewed the pension assumptions.",
       "ja": "保険数理士が年金の前提を見直した。"
@@ -594,6 +605,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 judex（裁判官）。裁定を下すこと。judge, justice と同語源",
     "family": "adjudication（裁定手続）／ judge（裁く）／ judicial（司法の）／ justice（正義）",
+    "trivia": "紛争に判断を下すこと。裁判所だけでなく行政機関が行う場合も含む",
     "example": {
       "en": "A panel will adjudicate the warranty claim.",
       "ja": "審査団が保証の請求を裁定する。"
@@ -622,6 +634,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 terere（すり減らす）。すり減るように減っていくこと",
     "family": "attrite（すり減らす）／ detriment（損失）／ trite（使い古された）",
+    "trivia": "戦争の「消耗戦」は war of attrition。自然減による人員削減も attrition",
     "example": {
       "en": "The firm cut staff through attrition, not layoffs.",
       "ja": "同社は解雇ではなく自然減で人員を減らした。"
@@ -647,6 +660,7 @@
     ],
     "origin": "be-（強め）＋ 古英語 cwethan（言う）。遺言で言い残して譲るもの",
     "family": "bequeath（遺言で残す）／ quoth（言った）",
+    "trivia": "遺言による贈与を指し、生前贈与の gift とは区別される",
     "example": {
       "en": "A bequest from a founder funded the new wing.",
       "ja": "創業者からの遺贈が新棟の資金となった。"
@@ -672,6 +686,7 @@
     ],
     "origin": "ラテン語 caveat（用心せよ）。付け加える但し書き",
     "family": "caveats（但し書き）／ caution（用心）／ cautious（慎重な）／ precaution（予防措置）",
+    "trivia": "caveat emptor は「買主注意せよ」。売買の基本原則を表すラテン語",
     "example": {
       "en": "The report carries a caveat about small samples.",
       "ja": "報告書には標本の少なさについて但し書きが付いている。"
@@ -697,6 +712,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 tangere（触れる）。成否が別の事に触れて決まること。contact と同語源",
     "family": "contingency（不測の事態）／ contact（連絡する）／ tangible（具体的な形のある）／ intact（無傷の）",
+    "trivia": "contingent liability は「偶発債務」。起こるかどうか不確かな債務",
     "example": {
       "en": "The bonus is contingent on meeting the target.",
       "ja": "賞与は目標の達成を条件付きのものとする。"
@@ -723,6 +739,7 @@
     "origin": "de-（離れて）＋ ラテン語 ferre（運ぶ）。先へ運んで後回しにすること。transfer と同語源",
     "family": "deferral（繰延）／ deference（敬意）／ transfer（移す）",
     "contrast": "決定や支払いを先へ延ばすこと。defect（欠陥）と綴りが近い",
+    "trivia": "deferred tax は「繰延税金」。会計上の重要概念",
     "example": {
       "en": "The firm deferred the equipment purchase to autumn.",
       "ja": "同社は機器の購入を秋に繰り延べた。"
@@ -749,6 +766,7 @@
     "origin": "dis-（外す）＋ ラテン語 vestire（着せる）。まとっていたものを脱ぐこと。invest と対",
     "family": "divestiture（事業売却）／ invest（投資する）／ vest（権利を確定する）／ vested（確定した）",
     "contrast": "まとっていた事業を手放すこと。diverse（多様な）と綴りが近い",
+    "trivia": "divestment は投資の引き揚げ。環境問題では化石燃料からの divestment が話題になる",
     "example": {
       "en": "The group divested its printing arm last spring.",
       "ja": "そのグループは昨春、印刷の事業を売却した。"
@@ -800,6 +818,7 @@
     ],
     "origin": "en-（〜にする）＋ ラテン語 cumbrus（障害）。財産に付いた重荷",
     "family": "encumber（負担を負わせる）／ encumbrancer（担保権者）／ cumber（妨げる）",
+    "trivia": "不動産に付いた担保や地役権を指す。free of encumbrances は「負担のない」",
     "example": {
       "en": "The title search revealed no encumbrance on the lot.",
       "ja": "権利の調査でその区画に抵当権はなかった。"
@@ -852,6 +871,7 @@
     ],
     "origin": "古仏語 forfaire（罪を犯す）。落ち度により権利を失うこと。forfeiture と同語源",
     "family": "forfeiture（権利喪失）／ forfeited（没収された）",
+    "trivia": "スポーツでは「不戦敗」も forfeit。権利を失うという原義",
     "example": {
       "en": "Late bidders forfeit the registration fee.",
       "ja": "入札に遅れた者は登録料が没収される。"
@@ -877,6 +897,7 @@
     ],
     "origin": "ラテン語 gratus（ありがたい）。感謝として渡す金。grateful, grace と同語源",
     "family": "gratuitous（無償の）／ grateful（感謝している）／ grace（優雅さ）／ gratitude（感謝）",
+    "trivia": "米国ではチップのこと。サービス料として自動加算される場合もある",
     "example": {
       "en": "A gratuity is added for parties above eight.",
       "ja": "八名を超える団体には心付けが加算される。"
@@ -902,6 +923,7 @@
     ],
     "origin": "im-（〜に）＋ ラテン語 pes（足）。足かせをはめて進ませないこと。expedite と対",
     "family": "impediment（障害）／ expedite（迅速に処理する）／ pedestrian（歩行者）／ pedal（ペダル）",
+    "trivia": "impediment は「障害」。speech impediment は言語障害",
     "example": {
       "en": "Narrow aisles impede the movement of pallets.",
       "ja": "通路の狭さが荷台の移動を阻害する。"
@@ -927,6 +949,7 @@
     ],
     "origin": "in-（上に）＋ ラテン語 cumbere（横たわる）。その席に就いていること",
     "family": "incumbency（在任期間）／ encumber（負担を負わせる）／ succumb（屈する）",
+    "trivia": "現職者を指すほか、be incumbent on で「〜の責務である」",
     "example": {
       "en": "The incumbent chair will step down in June.",
       "ja": "現職の議長は六月に退く。"
@@ -952,6 +975,7 @@
     ],
     "origin": "in-（〜へ）＋ ラテン語 jungere（つなぐ）。行いを縛る裁判所の命令。join と同語源",
     "family": "injunctive（差し止めの）／ join（加わる）／ joint（連帯の）／ junction（合流点）",
+    "trivia": "preliminary injunction は「仮差止命令」。本案判決前の暫定措置",
     "example": {
       "en": "An injunction halted work on the site.",
       "ja": "差し止め命令により現場の作業が止まった。"
@@ -980,6 +1004,7 @@
     ],
     "origin": "ラテン語 item（同様に）。一項目ずつ書き並べること",
     "family": "item（項目）／ itemized（項目別の）／ itemization（明細化）",
+    "trivia": "itemized bill は「明細付きの請求書」。内訳を示した書類",
     "example": {
       "en": "Please itemize the labor and material charges.",
       "ja": "作業費と材料費を項目別に記載してください。"
@@ -1005,6 +1030,7 @@
     ],
     "origin": "ラテン語 ligamen（結び目）。債権が財産に結び付いた権利。ligament, ally と同語源",
     "family": "liens（先取特権）／ ally（同盟する）／ alliance（提携）／ liability（負債）",
+    "trivia": "mechanic's lien は「工事代金の先取特権」。建設業者が代金を確保する手段",
     "example": {
       "en": "The builder placed a lien on the property.",
       "ja": "建設業者はその不動産に先取特権を設定した。"
@@ -1033,6 +1059,7 @@
     ],
     "origin": "ラテン語 liquidus（流れる）。財産を現金という流動形に変えること。liquid と同語源",
     "family": "liquidation（清算）／ liquid（液体）／ liquidity（流動性）／ liquefy（液化する）",
+    "trivia": "会社の清算のほか、資産を「現金化する」意味でも使う",
     "example": {
       "en": "The court ordered the firm to liquidate its assets.",
       "ja": "裁判所は同社に資産を清算するよう命じた。"
@@ -1058,6 +1085,7 @@
     ],
     "origin": "ラテン語 nomen（名）。名目だけであること。name, nominate と同語源",
     "family": "nominally（名目上）／ nominate（推挙する）／ noun（名詞）／ name（名前）",
+    "trivia": "nominal GDP は「名目国内総生産」。物価変動を除いた real GDP との対",
     "example": {
       "en": "The tenant pays a nominal rent for storage.",
       "ja": "その賃借人は保管に名目上の賃料を払っている。"
@@ -1086,6 +1114,7 @@
     ],
     "origin": "out（外へ）＋ lay（置く）。外へ払い出した金",
     "family": "lay（置く）／ layout（配置）／ outlays（支出）",
+    "trivia": "capital outlay は「設備投資額」。支出そのものを指す会計用語",
     "example": {
       "en": "The initial outlay for the press was substantial.",
       "ja": "印刷機への当初の支出は相当な額だった。"
@@ -1111,6 +1140,7 @@
     ],
     "origin": "pre-（前もって）＋ ラテン語 emere（買う）。先に押さえてしまうこと",
     "family": "preemption（先買い）／ exempt（免除された）／ redeem（償還する）／ prompt（促進する）",
+    "trivia": "放送の「番組の差し替え」も preempt。緊急報道で通常番組を打ち切ること",
     "example": {
       "en": "The maker preempted rivals with an early launch.",
       "ja": "その製造業者は早期の発売で競合に先んじた。"
@@ -1136,6 +1166,7 @@
     ],
     "origin": "pre-（前に）＋ ラテン語 rogare（尋ねる）。真っ先に意見を問われる特権",
     "family": "prerogatives（特権）／ interrogate（尋問する）／ derogate（一部を無効にする）／ arrogate（不当に自分のものとする）",
+    "trivia": "royal prerogative は英国の「国王大権」。議会を通さない権限を指す",
     "example": {
       "en": "Setting the agenda is the chair's prerogative.",
       "ja": "議題を決めるのは議長の特権だ。"
@@ -1161,6 +1192,7 @@
     ],
     "origin": "procuracy（代理権）の縮まった形。代わりに議決する権。procure と同語源",
     "family": "procure（調達して手に入れる）／ procuration（代理権）",
+    "trivia": "proxy statement は「委任状説明書」。株主総会の招集通知に添付される",
     "example": {
       "en": "Shareholders may vote by proxy before the meeting.",
       "ja": "株主は総会の前に代理投票で議決できる。"
@@ -1212,6 +1244,7 @@
     ],
     "origin": "re-（戻って）＋ ラテン語 currere（走る）。相手へ立ち戻って求める権利。current と同語源",
     "family": "course（進路）／ current（現在の）／ occur（起こる）／ recur（再発する）",
+    "trivia": "without recourse は手形の「償還請求権なし」。裏書時に責任を負わない条件",
     "example": {
       "en": "The lender has no recourse against the seller.",
       "ja": "貸し手は売り主に対して償還請求権を持たない。"
@@ -1237,6 +1270,7 @@
     ],
     "origin": "re-（元へ）＋ ラテン語 emere（買う）。買い戻して権利を解くこと",
     "family": "redemption（償還）／ exempt（免除された）／ example（例）／ preempt（先んじる）",
+    "trivia": "redeem a bond は「債券を償還する」。クーポンの引き換えにも使う",
     "example": {
       "en": "The company will redeem the bonds in March.",
       "ja": "同社は三月に債券を償還する。"
@@ -1262,6 +1296,7 @@
     ],
     "origin": "ラテン語 solvere（解く・払う）。支払いを果たせる状態。solution と同語源",
     "family": "solvent（支払い能力のある）／ insolvency（支払不能状態）／ solve（解く）／ dissolve（溶かす）",
+    "trivia": "solvency ratio は「支払能力比率」。保険会社の健全性を測る指標",
     "example": {
       "en": "The bank questioned the supplier's solvency.",
       "ja": "銀行はその供給業者の支払い能力を疑った。"
@@ -1287,6 +1322,7 @@
     ],
     "origin": "ラテン語 statuere（立てる）。法として立てられていること。institute と同語源",
     "family": "statute（法令）／ state（述べる）／ status（状態）／ institute（創設する）",
+    "trivia": "statutory holiday は「法定休日」。法律で定められた休みを指す",
     "example": {
       "en": "Statutory notice runs to thirty days.",
       "ja": "法定の通知期間は三十日に及ぶ。"
@@ -1312,6 +1348,7 @@
     ],
     "origin": "sub-（下から）＋ ラテン語 sedere（座る）。下から支えるために出す金",
     "family": "subsidize（補助する）／ subsidiary（子会社）／ reside（居住する）／ session（回次）",
+    "trivia": "農業補助金は agricultural subsidy。貿易摩擦の火種になることが多い",
     "example": {
       "en": "A city subsidy covered half the solar panels.",
       "ja": "市の補助金が太陽光の板の半分を賄った。"
@@ -1363,6 +1400,7 @@
     ],
     "origin": "trust（信託）＋ -ee（受ける人）。財産を託されて管理する人",
     "family": "trust（信託）／ trustworthy（信頼できる）／ entrust（委託する）",
+    "trivia": "board of trustees は「理事会」。大学や財団の最高意思決定機関",
     "example": {
       "en": "The trustee reports to the fund every quarter.",
       "ja": "受託者は四半期ごとに基金へ報告する。"
@@ -1391,6 +1429,7 @@
     ],
     "origin": "ラテン語 valere（値する）。値を定めること。value, valid と同語源",
     "family": "value（価値）／ valuable（貴重な）／ evaluate（評価する）／ valid（有効な）",
+    "trivia": "企業価値の評価も valuation。投資判断の中心になる作業",
     "example": {
       "en": "The valuation of the warehouse came in low.",
       "ja": "倉庫の評価額は低く出た。"
@@ -1417,6 +1456,7 @@
     "origin": "ラテン語 vendere（売る）。売る側の業者",
     "family": "vend（売る）／ vending（自動販売）",
     "contrast": "物を売る側の業者。売買の場面で使う",
+    "trivia": "露天商も vendor。street vendor は路上販売者",
     "example": {
       "en": "Each vendor sets up a booth by Thursday noon.",
       "ja": "各販売業者は木曜の正午までに売り場を設ける。"
@@ -1468,6 +1508,7 @@
     ],
     "origin": "古英語 writan（書く）。裁判所が書いて出す命令書。write と同語源",
     "family": "write（書く）／ underwrite（引き受ける）／ writing（文書）",
+    "trivia": "writ of habeas corpus は「人身保護令状」。不当な拘束から人を守る制度",
     "example": {
       "en": "A writ was served on the shipping agent.",
       "ja": "令状が運送代理店に送達された。"
@@ -1518,6 +1559,7 @@
     ],
     "origin": "ギリシャ語 zone（帯）。土地を帯状に区切って用途を定めること",
     "family": "zone（区域）／ zonal（帯状の）",
+    "trivia": "用途地域を定める制度。住宅地に工場を建てられないのはこの規制による",
     "example": {
       "en": "Zoning prevents a factory on that block.",
       "ja": "用途地域規制がその区画への工場の建設を阻む。"
@@ -1544,6 +1586,7 @@
     "origin": "中世ラテン語 amalgama（水銀との合金）。溶け合って一つになること",
     "family": "amalgamation（合併）",
     "contrast": "会社どうしが対等に溶け合って一体になること。consolidate より使い道が狭い",
+    "trivia": "歯科の詰め物アマルガムも amalgam。水銀と他の金属の合金という原義",
     "example": {
       "en": "The two carriers amalgamated to cut overhead.",
       "ja": "二つの運送会社は間接費を削るため合併した。"
@@ -1569,6 +1612,7 @@
     ],
     "origin": "古仏語 abeance（口を開けて待つ）。宙に浮いて定まらない状態",
     "family": "abeyant（停止中の）／ abeyances（停止状態）",
+    "trivia": "in abeyance は「宙に浮いた状態で」。権利や計画が一時停止していること",
     "example": {
       "en": "The claim is in abeyance until the survey.",
       "ja": "その請求は調査まで一時的停止状態にある。"
@@ -1594,6 +1638,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 crescere（伸びる）。付け加わって増える分。accrue と同語源",
     "family": "accretive（価値を高める）／ accrue（発生する）／ increase（増やす）／ crescent（三日月）",
+    "trivia": "地質では「付加」。土地が川や海の作用で増えることを法律でも accretion と呼ぶ",
     "example": {
       "en": "Interest accretion is booked each month.",
       "ja": "利息の増加分は毎月計上される。"
@@ -1619,6 +1664,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 quies（静けさ）。異を唱えず静かにしていること。quiet と同語源",
     "family": "acquiescence（黙認）／ quiet（静かな）／ quiescent（静止した）／ tranquil（穏やかな）",
+    "trivia": "acquiesce in の形を取る。しぶしぶ黙認するという含みがある",
     "example": {
       "en": "The buyer acquiesced in the revised date.",
       "ja": "買い手は改めた期日を黙認した。"
@@ -1645,6 +1691,7 @@
     "origin": "ad-（〜へ）＋ ラテン語 jungere（つなぐ）。本体に添えてつないだもの。join と同語源",
     "family": "adjunctive（付属の）／ join（加わる）／ junction（合流点）／ injunction（差し止め命令）",
     "contrast": "adjust（調節する）と綴りが近い。adjunct は名詞で、主たるものに添えた付属物",
+    "trivia": "adjunct professor は米国の「非常勤講師」。本務でない立場を指す",
     "example": {
       "en": "A cooling adjunct fits the older press.",
       "ja": "冷却の付属物が古い印刷機に取り付く。"
@@ -1670,6 +1717,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 mittere（送る）。中へ入れてよいこと。admit, mission と同語源",
     "family": "admit（認める）／ admission（入場）／ submit（提出する）／ transmit（送信する）",
+    "trivia": "admissible evidence は「証拠能力のある証拠」。裁判で採用できるかどうかの基準",
     "example": {
       "en": "The log was ruled admissible by the panel.",
       "ja": "その記録は審査団に証拠として認められると判断された。"
@@ -1695,6 +1743,7 @@
     ],
     "origin": "中世ラテン語 affidavit（彼は誓った）。宣誓して述べた書面。faith と同語源",
     "family": "affidavits（宣誓供述書）／ faith（信頼）／ fidelity（忠実）／ confide（打ち明ける）",
+    "trivia": "宣誓のうえ書面で述べた供述。偽証すれば罰せられる法的な重みを持つ",
     "example": {
       "en": "An affidavit accompanied the customs claim.",
       "ja": "宣誓供述書が通関の請求に添えられた。"
@@ -1720,6 +1769,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 gravis（重い）。重い損害を負わされたこと。grave と同語源",
     "family": "grieve（嘆く）／ grievance（苦情申し立て）／ grave（重大な）／ aggravate（悪化させる）",
+    "trivia": "aggrieved party は「被害を受けた当事者」。訴える資格の有無を判断する概念",
     "example": {
       "en": "The aggrieved party may seek arbitration.",
       "ja": "被害を受けた当事者は仲裁を求められる。"
@@ -1745,6 +1795,7 @@
     ],
     "origin": "ラテン語 alius（他）。他人のものにすること。alien と同語源",
     "family": "alien（外国の）／ alienable（譲渡できる）／ inalienable（譲り渡せない）／ alias（別名）",
+    "trivia": "人を「疎外する」意味もある。権利の譲渡と心の離反が同じ語",
     "example": {
       "en": "The owner may not alienate the easement.",
       "ja": "所有者は通行権を譲渡できない。"
@@ -1770,6 +1821,7 @@
     ],
     "origin": "ラテン語 ad mortem（死へ）。負債を消していく額。amortize と同語源",
     "family": "amortize（分割償却する）／ mortal（死すべき）／ mortgage（住宅融資）",
+    "trivia": "EBITDA の A は amortization。利払い前・税引き前・償却前利益を表す指標",
     "example": {
       "en": "Amortization appears below operating profit.",
       "ja": "償却額は営業利益の下に載る。"
@@ -1795,6 +1847,7 @@
     ],
     "origin": "ラテン語 ancilla（女中）。本体に付き添って助けるもの",
     "family": "ancillaries（付属設備）／ ancilla（助手）",
+    "trivia": "ancillary revenue は航空会社の「付帯収入」。座席指定や手荷物の料金を指す",
     "example": {
       "en": "Ancillary services are billed separately.",
       "ja": "補助的な業務は別に請求される。"
@@ -1820,6 +1873,7 @@
     ],
     "origin": "ラテン語 annus（年）。年ごとに支払われる金。annual と同語源",
     "family": "annual（年次の）／ anniversary（記念日）／ annals（年代記）",
+    "trivia": "年金保険商品を指す。一定額を定期的に受け取る仕組み",
     "example": {
       "en": "An annuity funds the retirement plan.",
       "ja": "年金保険が退職の制度を賄う。"
@@ -1845,6 +1899,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 pertinere（属する）。主物に属する物。pertain と同語源",
     "family": "appurtenant（従たる）／ pertain（関係する）／ pertinent（関連のある）／ retain（保持する）",
+    "trivia": "主たる不動産に従って移る権利や設備。庭の井戸や通行権などが当たる",
     "example": {
       "en": "The parking bay is an appurtenance of the unit.",
       "ja": "駐車区画はその区分の従物だ。"
@@ -1894,6 +1949,7 @@
     ],
     "origin": "assign（譲る）＋ -ee（受ける人）。権利を譲り受ける側。sign と同語源",
     "family": "assign（割り当てる）／ assignment（担当業務）／ sign（印）／ design（設計する）",
+    "trivia": "権利を譲り受けた側。譲渡人は assignor で、-ee と -or で立場が分かれる",
     "example": {
       "en": "The assignee assumes all outstanding duties.",
       "ja": "譲受人は未履行の義務をすべて引き継ぐ。"
@@ -1920,6 +1976,7 @@
     "origin": "ad-（〜へ）＋ ラテン語 testis（証人）。証人として確かだと示すこと。testify と同語源",
     "family": "attestation（証明）／ testify（証言する）／ testament（遺言）／ protest（抗議する）",
     "contrast": "証人として真実だと示すこと。attend（出席する）や attempt（試みる）と綴りが近い",
+    "trivia": "attestation clause は遺言の「証人条項」。立会人が署名する部分",
     "example": {
       "en": "Two witnesses attest to the signature.",
       "ja": "証人二名がその署名を証明する。"
@@ -1945,6 +2002,7 @@
     ],
     "origin": "古仏語 esvuidier（空にする）。関わりを空にして避けること。void と同語源",
     "family": "avoid（避ける）／ void（失効させる）／ vacant（空いている）／ devoid（全くない）",
+    "trivia": "tax avoidance（節税）は合法、tax evasion（脱税）は違法。法律上の重要な区別",
     "example": {
       "en": "Tax avoidance schemes drew scrutiny.",
       "ja": "税の回避行為の仕組みが吟味を招いた。"
@@ -1970,6 +2028,7 @@
     ],
     "origin": "古仏語 bailler（引き渡す）。物を預けて管理を託すこと",
     "family": "bailee（受寄者）／ bail（保釈金）／ bailor（寄託者）",
+    "trivia": "物を預ける法律関係。クリーニング店やコインロッカーも bailment にあたる",
     "example": {
       "en": "Storage creates a bailment of the goods.",
       "ja": "保管は商品の寄託を生じさせる。"
@@ -1995,6 +2054,7 @@
     ],
     "origin": "bi-（二つ）＋ ラテン語 latus（側）。両方の側で取り決めること。unilateral と対",
     "family": "lateral（横の）／ unilateral（一方的な）／ collateral（担保）／ latitude（裁量の幅）",
+    "trivia": "bilateral trade agreement は「二国間貿易協定」。多国間の multilateral との対",
     "example": {
       "en": "A bilateral agreement governs the depot.",
       "ja": "二者間の協定が拠点を規律する。"
@@ -2096,6 +2156,7 @@
     ],
     "origin": "ラテン語 cognoscere（知る）。知っていること。recognize と同語源",
     "family": "cognizance（認識）／ recognize（認める）／ acquaint（知らせて慣れさせる）／ cognate（同族の）",
+    "trivia": "be cognizant of は「〜を認識している」。法律文書で使う硬い表現",
     "example": {
       "en": "The buyer was cognizant of the defect.",
       "ja": "買い手はその欠陥を認識していた。"
@@ -2121,6 +2182,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 ludere（遊ぶ）。示し合わせて事を運ぶこと。illusion と同語源",
     "family": "collusive（なれ合いの）／ illusion（錯覚）／ elusive（とらえどころのない）／ allude（ほのめかす）",
+    "trivia": "価格カルテルも collusion。競争法で厳しく禁じられる行為",
     "example": {
       "en": "Collusion between bidders is prohibited.",
       "ja": "入札者の間のなれ合いは禁じられている。"
@@ -2146,6 +2208,7 @@
     ],
     "origin": "consign（託送する）＋ -or。荷を送り出す側。consignment と同語源",
     "family": "consign（託送する）／ consignment（委託販売品）／ sign（印）／ design（設計する）",
+    "trivia": "荷を送る側が consignor、受け取る側が consignee。船荷証券の記載事項",
     "example": {
       "en": "The consignor pays the export duty.",
       "ja": "荷送人が輸出の税を払う。"
@@ -2171,6 +2234,7 @@
     ],
     "origin": "covenant（約款）＋ -ee（受ける人）。約款の利益を受ける当事者",
     "family": "covenant（約款）／ covenantor（約定義務者）／ convene（招集する）／ venue（開催地）",
+    "trivia": "約款の利益を受ける側。義務を負う側は covenantor で、-ee と -or で分かれる",
     "example": {
       "en": "The covenantee may enforce the clause.",
       "ja": "受益当事者はその条項を執行できる。"
@@ -2196,6 +2260,7 @@
     ],
     "origin": "ラテン語 morari（遅らせる）。停泊が長引いた分の割増料。moratorium と同語源",
     "family": "demur（異議を唱える）／ moratorium（一時停止）／ delay（遅れ）",
+    "trivia": "コンテナを期限超過で保持した場合の割増料。国際物流で頻出する費用",
     "example": {
       "en": "Demurrage accrues after five free days.",
       "ja": "超過停泊料は無料の五日を過ぎて発生する。"
@@ -2222,6 +2287,7 @@
     "origin": "de-（下へ）＋ pose（置く）。書面に置き下ろして述べること",
     "family": "deposition（供述）／ deponent（供述者）／ deposit（預ける）／ position（位置）",
     "contrast": "宣誓のうえ書面で述べること。deposit（手付金）と綴りが近い",
+    "trivia": "deposition は米国民事訴訟の「証言録取」。法廷外で行う宣誓証言",
     "example": {
       "en": "The manager deposed about the shipment.",
       "ja": "支配人はその出荷について供述した。"
@@ -2247,6 +2313,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 rogare（求める・定める）。定めの一部を引き下げること",
     "family": "derogation（一部無効）／ interrogate（尋問する）／ arrogate（不当に自分のものとする）／ prerogative（特権）",
+    "trivia": "derogation は EU 法の「適用除外」。加盟国が一時的に規定を外れること",
     "example": {
       "en": "No clause may derogate from statutory rights.",
       "ja": "いかなる条項も法定の権利の一部を無効にできない。"
@@ -2272,6 +2339,7 @@
     ],
     "origin": "de-（すり減らして）＋ ラテン語 terere（こする）。すり減って生じる損。detrimental と同語源",
     "family": "detrimental（有害な）／ attrition（自然減）／ trite（使い古された）",
+    "trivia": "to the detriment of は「〜を損なって」。契約書や判決文で使う",
     "example": {
       "en": "The change worked to the tenant's detriment.",
       "ja": "その変更は賃借人の損失に働いた。"
@@ -2297,6 +2365,7 @@
     ],
     "origin": "dis-（外へ）＋ 後期ラテン語 bursa（財布）。財布から出す支払い。reimburse と同語源",
     "family": "disburse（支出する）／ reimburse（払い戻す）／ purse（財布）／ bursar（会計係）",
+    "trivia": "弁護士費用の「実費」も disbursements。報酬 fee と分けて請求する",
     "example": {
       "en": "Disbursements are logged by project code.",
       "ja": "支払支出は事業の番号ごとに記録される。"
@@ -2346,6 +2415,7 @@
     ],
     "origin": "古仏語 estouper（栓をする）。前言と食い違う主張に栓をする原則。stop と同語源",
     "family": "estop（禁じる）／ stop（止める）／ stopper（栓）",
+    "trivia": "前言と矛盾する主張を封じる原則。promissory estoppel は約束的禁反言",
     "example": {
       "en": "Estoppel prevents the seller from denying it.",
       "ja": "禁反言が売り主の否認を妨げる。"
@@ -2371,6 +2441,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 agere（駆る）。急いで対処を迫られる事態。act と同語源",
     "family": "exigent（差し迫った）／ exact（寸分違わぬ）／ act（行う）／ agenda（協議事項）",
+    "trivia": "the exigencies of war は「戦時の緊急事態」。差し迫った必要を指す",
     "example": {
       "en": "Operational exigency justified the detour.",
       "ja": "運用上の緊急の必要が迂回を正当化した。"
@@ -2422,6 +2493,7 @@
     ],
     "origin": "ラテン語 fungi（果たす）。同種同量なら入れ替えが利くこと。function と同語源",
     "family": "fungibility（代替可能性）／ function（機能）／ perfunctory（おざなりの）",
+    "trivia": "fungible token は交換可能なトークン。NFT の non-fungible はその否定形",
     "example": {
       "en": "Bulk resin is a fungible commodity.",
       "ja": "大量の樹脂は代替可能な商品だ。"
@@ -2447,6 +2519,7 @@
     ],
     "origin": "古仏語 garnir（知らせる・備える）。第三者に通告して債権を押さえること",
     "family": "garnish（差し押さえる）／ garnishee（第三債務者）",
+    "trivia": "wage garnishment は「給与差押え」。債権者が給与から直接回収する手続き",
     "example": {
       "en": "A garnishment order reached the bank.",
       "ja": "債権差押えの命令が銀行に届いた。"
@@ -2472,6 +2545,7 @@
     ],
     "origin": "ラテン語 heres（相続人）。相続の対象となる財産。heir, heritage と同語源",
     "family": "heredity（遺伝）／ heir（相続人）／ heritage（遺産）／ inherit（受け継ぐ）",
+    "trivia": "相続の対象となる財産を指す古い法律語。英国の不動産法で使われる",
     "example": {
       "en": "The hereditament includes the outbuildings.",
       "ja": "その相続財産には離れが含まれる。"
@@ -2497,6 +2571,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 damnum（損害）。損害を埋める義務。indemnify と同語源",
     "family": "indemnify（賠償する）／ damage（損害）／ condemn（非難する）",
+    "trivia": "indemnity insurance は「賠償責任保険」。損害を埋める保険の総称",
     "example": {
       "en": "An indemnity covers third-party claims.",
       "ja": "補償義務が第三者の請求を対象とする。"
@@ -2522,6 +2597,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 solvere（払う）。支払いを果たせない状態。solvency と対",
     "family": "insolvent（支払い不能の）／ solvency（支払い能力）／ solve（解く）／ dissolve（溶かす）",
+    "trivia": "insolvency practitioner は英国の「倒産処理専門家」。法定資格を持つ職業",
     "example": {
       "en": "Insolvency proceedings began in March.",
       "ja": "支払不能状態の手続きは三月に始まった。"
@@ -2547,6 +2623,7 @@
     ],
     "origin": "ab-（離れて）＋ ラテン語 rogare（定める）。定めを取り払うこと。derogate と同語源",
     "family": "abrogate（廃止する）／ derogate（一部を無効にする）／ arrogate（不当に自分のものとする）／ interrogate（尋問する）",
+    "trivia": "条約や法の廃止を指す。abrogate が動詞形",
     "example": {
       "en": "Abrogation of the pact ended the quota.",
       "ja": "条約の破棄が割当量を終わらせた。"
@@ -2572,6 +2649,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 cedere（進む）。歩み寄って加わること。accede と同語源",
     "family": "accede（同意して応じる）／ proceed（進行する）／ concede（譲歩する）／ recede（後退する）",
+    "trivia": "EU への「加盟」も accession。accession treaty は加盟条約",
     "example": {
       "en": "Accession to the scheme took two months.",
       "ja": "その仕組みへの加入に二か月かかった。"
@@ -2597,6 +2675,7 @@
     ],
     "origin": "action（訴訟）＋ -able。訴えを起こせること",
     "family": "action（行動）／ act（行う）／ actual（実際の）／ actuary（保険数理士）",
+    "trivia": "「訴訟の対象となる」のほか、経営では「実行に移せる」。actionable insight は使える知見",
     "example": {
       "en": "The statement was ruled actionable.",
       "ja": "その陳述は訴訟の対象となると判断された。"
@@ -2622,6 +2701,7 @@
     ],
     "origin": "adjudicate（裁定する）＋ -ion。判断を下す手続き",
     "family": "adjudicate（裁定する）／ judge（裁く）／ judicial（司法の）／ justice（正義）",
+    "trivia": "破産手続の「宣告」も adjudication。裁定を下す手続き全体を指す",
     "example": {
       "en": "Adjudication resolved the payment dispute.",
       "ja": "裁定手続が支払いの争いを解決した。"
@@ -2647,6 +2727,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 vocare（呼ぶ）。声を上げて支持すること。advocate と同語源",
     "family": "advocate（擁護する）／ vocal（声の）／ voice（声）／ invoke（援用する）",
+    "trivia": "advocacy group は「圧力団体」。特定の主張を推し進める組織",
     "example": {
       "en": "The group's advocacy changed the guideline.",
       "ja": "その団体の唱道が指針を変えた。"
@@ -2672,6 +2753,7 @@
     ],
     "origin": "ラテン語 alacer（活発な）。ためらいのない身軽さ",
     "family": "alacritous（機敏な）／ alert（警戒した）",
+    "trivia": "with alacrity は「進んで喜んで」。快く応じる様子を表す書き言葉",
     "example": {
       "en": "Staff responded with notable alacrity.",
       "ja": "職員は際立った快活な素早さで応じた。"
@@ -2697,6 +2779,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 melior（より良い）。良い方へ改める手立て",
     "family": "ameliorate（改善する）／ meliorate（良くする）",
+    "trivia": "状況の改善を指す硬い語。ameliorate が動詞形",
     "example": {
       "en": "Amelioration of the drainage cost little.",
       "ja": "排水の改良措置は費用が少なかった。"
@@ -2723,6 +2806,7 @@
     "origin": "ad-（〜へ）＋ ラテン語 nullus（無い）。無いものにすること。nullify, null と同語源",
     "family": "annulment（無効宣告）／ null（無効の）／ nullify（無効にする）／ none（誰も〜ない）",
     "contrast": "取り決めを無かったことにすること。annual（年次の）と一字違い",
+    "trivia": "結婚の「無効宣告」も annulment。離婚と違い、初めから無効とする制度",
     "example": {
       "en": "The court annulled the disputed clause.",
       "ja": "裁判所は争いのある条項を取り消して無に帰した。"
@@ -2748,6 +2832,7 @@
     ],
     "origin": "ante-（前に）＋ ラテン語 cedere（進む）。先に立って起きた事柄。precedent と同語源",
     "family": "antecede（先行する）／ precedent（前例）／ proceed（進行する）／ recede（後退する）",
+    "trivia": "文法では代名詞が指す「先行詞」。論理では「前件」を指す",
     "example": {
       "en": "The antecedent facts fill two pages.",
       "ja": "先行する事情は二頁を占める。"
@@ -2773,6 +2858,7 @@
     ],
     "origin": "ラテン語 arbiter（立会人）。判断を下す第三者。arbitration と同語源",
     "family": "arbitrate（仲裁する）／ arbitration（仲裁）／ arbitrary（恣意的な）",
+    "trivia": "arbiter of taste は「流行の判定者」。何が良いかを決める立場を指す",
     "example": {
       "en": "An independent arbiter reviewed both claims.",
       "ja": "独立した裁定者が双方の主張を確認した。"
@@ -2798,6 +2884,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 rogare（求める）。筋を越えて自分に取り込むこと",
     "family": "arrogance（傲慢）／ arrogant（傲慢な）／ interrogate（尋問する）／ derogate（一部を無効にする）",
+    "trivia": "arrogate powers は「権限を僭称する」。正当でない権力の取り込みを批判する語",
     "example": {
       "en": "No branch may arrogate pricing authority.",
       "ja": "どの支店も価格の権限を不当に自分のものとしてはならない。"
@@ -2823,6 +2910,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 tenuis（薄い）。薄く細くして弱めること。thin と同系",
     "family": "attenuation（減衰）／ tenuous（希薄な）／ extenuate（情状を酌量する）／ thin（薄い）",
+    "trivia": "ワクチンの「弱毒化」も attenuation。病原体の毒性を弱める処理",
     "example": {
       "en": "Rubber mounts attenuate the vibration.",
       "ja": "ゴムの取付部が振動を弱める。"
@@ -2848,6 +2936,7 @@
     ],
     "origin": "ラテン語 audere（あえてする）。ひるまず踏み込むこと",
     "family": "audacity（大胆さ）／ audaciously（大胆不敵に）",
+    "trivia": "audacious plan は「大胆不敵な計画」。褒めにも批判にもなる",
     "example": {
       "en": "An audacious bid won the harbor contract.",
       "ja": "大胆不敵な入札が港湾の契約を勝ち取った。"
@@ -2873,6 +2962,7 @@
     ],
     "origin": "ラテン語 augur（鳥占い師）。先を告げる前触れ。inaugurate と同語源",
     "family": "augur（占い師）／ inaugurate（開設する）／ inaugural（初回の）",
+    "trivia": "吉凶の前触れを指す。古代ローマの鳥占いから来た語",
     "example": {
       "en": "Early orders were a good augury.",
       "ja": "早期の注文はよい前兆だった。"
@@ -2898,6 +2988,7 @@
     ],
     "origin": "ギリシャ語 autos（自ら）＋ nomos（法）。自らの決まりで動くこと。autonomy と同語源",
     "family": "autonomy（自主性）／ automatic（自動の）／ economy（経済）／ astronomy（天文学）",
+    "trivia": "autonomous vehicle は「自動運転車」。自ら判断して動くという原義",
     "example": {
       "en": "An autonomous loader works the night yard.",
       "ja": "自律的な積載機が夜の構内で働く。"
@@ -2923,6 +3014,7 @@
     ],
     "origin": "ギリシャ語 axioma（値するもの）。証明を要さないほど明らかなこと",
     "family": "axiom（公理）／ axiomatically（自明に）",
+    "trivia": "数学の axiom（公理）の形容詞形。証明なしに前提とすることを指す",
     "example": {
       "en": "It is axiomatic that clean air aids coating.",
       "ja": "清浄な空気が塗装を助けるのは自明だ。"
@@ -2948,6 +3040,7 @@
     ],
     "origin": "ラテン語 bene（よく）＋ gignere（生まれる）。害のない性質。benefit と同語源",
     "family": "benignity（温和）／ benefit（恩恵）／ benevolent（慈善的な）／ benediction（祝福）",
+    "trivia": "benign tumor は「良性腫瘍」。malignant（悪性の）との対で使う",
     "example": {
       "en": "The residue proved chemically benign.",
       "ja": "その残留物は化学的に良性のものだった。"
@@ -2973,6 +3066,7 @@
     ],
     "origin": "be-（強め）＋ 古英語 cwethan（言う）。言い残して譲ること。bequest と同語源",
     "family": "bequest（遺贈）／ quoth（言った）",
+    "trivia": "動産を bequeath、不動産を devise と使い分ける古い法律用語",
     "example": {
       "en": "The founder bequeathed the archive to the city.",
       "ja": "創業者は書庫を市に遺言で残した。"
@@ -2998,6 +3092,7 @@
     ],
     "origin": "ラテン語 brevis（短い）。短くまとまっていること。brief, abbreviate と同語源",
     "family": "brief（簡潔な）／ abbreviate（短縮する）／ abridge（要約する）",
+    "trivia": "Brevity is the soul of wit. は『ハムレット』の有名な一節",
     "example": {
       "en": "The memo was praised for its brevity.",
       "ja": "その覚書は簡潔を評価された。"
@@ -3023,6 +3118,7 @@
     ],
     "origin": "ラテン語 cadere（落ちる）。声や動きの落ちる調子。accident と同語源",
     "family": "cadences（調子）／ accident（事故）／ occasion（機会）／ cascade（次々に波及する）",
+    "trivia": "軍隊の行進の掛け声も cadence。音楽では「終止形」を指す",
     "example": {
       "en": "The line runs at a steady cadence.",
       "ja": "生産設備は一定の調子で動く。"
@@ -3048,6 +3144,7 @@
     ],
     "origin": "イタリア語 capriccio（身震い）。気分が急に変わること",
     "family": "capricious（気まぐれな）／ capriciously（気まぐれに）",
+    "trivia": "capricious は「気まぐれな」。法律では「恣意的な」という批判に使う",
     "example": {
       "en": "Buyer caprice makes forecasting hard.",
       "ja": "買い手の気まぐれが見通しを難しくする。"
@@ -3073,6 +3170,7 @@
     ],
     "origin": "ラテン語 castus（清い）＋ agere（する）。正すために厳しく責めること",
     "family": "castigation（叱責）／ chaste（純潔な）／ chasten（懲らしめる）",
+    "trivia": "publicly castigate は「公然と糾弾する」。強い非難を表す",
     "example": {
       "en": "The report castigated the lax controls.",
       "ja": "報告書は緩慢な管理を厳しく批判した。"
@@ -3098,6 +3196,7 @@
     ],
     "origin": "ラテン語 cessare（やむ）。動きが止まること。cease と同語源",
     "family": "cease（停止する）／ ceaseless（絶え間ない）／ incessant（絶え間なく続く）／ proceed（進行する）",
+    "trivia": "cessation of hostilities は「戦闘の停止」。外交文書で使う",
     "example": {
       "en": "Cessation of work followed the alarm.",
       "ja": "警報の後、作業の停止が続いた。"
@@ -3123,6 +3222,7 @@
     ],
     "origin": "circum-（周りを）＋ ラテン語 specere（見る）。周囲を見回して慎むこと",
     "family": "circumspection（慎重さ）／ circle（円）／ circulate（回覧する）／ spectacle（光景）",
+    "trivia": "be circumspect in は「〜に慎重である」。周囲を見回すという原義",
     "example": {
       "en": "A circumspect reply avoided commitment.",
       "ja": "用心して慎重な返答が確約を避けた。"
@@ -3148,6 +3248,7 @@
     ],
     "origin": "ラテン語 clam（ひそかに）。人目を避けて行うこと",
     "family": "clandestinely（内密に）／ clandestinity（秘匿性）",
+    "trivia": "clandestine meeting は「密会」。秘密裏であることを強調する",
     "example": {
       "en": "A clandestine meeting broke the rules.",
       "ja": "内密の会合が規則に反した。"
@@ -3173,6 +3274,7 @@
     ],
     "origin": "co-（共に）＋ ラテン語 nasci（生まれる）。同じ源から生まれたもの。nature と同語源",
     "family": "cognation（同族関係）／ cognizant（認識している）／ recognize（認める）／ nature（自然）",
+    "trivia": "言語学で「同語源語」を指す。英語 father とドイツ語 Vater が cognate の例",
     "example": {
       "en": "The two terms are cognate in origin.",
       "ja": "その二語は起源において同族のものだ。"
@@ -3198,6 +3300,7 @@
     ],
     "origin": "com-（すっかり）＋ ラテン語 mutare（変える）。刑や条件を軽い形に変えること",
     "family": "commute（通勤する）／ mutual（双方の）／ mutation（変異）／ mutable（変わりやすい）",
+    "trivia": "刑の減軽を指す。死刑を終身刑に commute するのがその例",
     "example": {
       "en": "Commutation of the fine followed an appeal.",
       "ja": "罰金の減軽は不服申立ての後に行われた。"
@@ -3223,6 +3326,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 pendere（量る）。要点を量り集めた要覧",
     "family": "compendious（簡潔な）／ pendulum（振り子）／ suspend（一時停止する）／ compensate（補償する）",
+    "trivia": "要点を集めた一冊を指す。百科事典や便覧の題名に使われる",
     "example": {
       "en": "A compendium of standards sits on the shelf.",
       "ja": "基準の要覧が棚にある。"
@@ -3248,6 +3352,7 @@
     ],
     "origin": "com-（共に）＋ ラテン語 plicare（折る）。共に折り込まれて関わること。complex と同語源",
     "family": "complicit（加担した）／ complex（複雑な）／ complicated（込み入った）／ imply（暗に示す）",
+    "trivia": "complicity in a crime は「犯罪への加担」。共犯関係を表す",
     "example": {
       "en": "No complicity was proved against the clerk.",
       "ja": "事務員の加担は証明されなかった。"
@@ -3273,6 +3378,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 comes（連れ）。連れ立って起こること",
     "family": "concomitance（併存）／ count（伯爵）／ concomitantly（付随して）",
+    "trivia": "concomitant factors は「付随する要因」。同時に起こることを指す",
     "example": {
       "en": "Higher speed brings concomitant wear.",
       "ja": "速度の上昇は付随して起こる摩耗を伴う。"
@@ -3298,6 +3404,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 descendere（降りる）。わざわざ降りてくるような態度",
     "family": "condescension（見下し）／ descend（降りる）／ ascend（上昇する）／ transcend（超越する）",
+    "trivia": "condescending は「上から目線の」。人を見下す態度を批判する語",
     "example": {
       "en": "Never condescend to an anxious customer.",
       "ja": "不安な顧客に見下した態度を取ってはならない。"
@@ -3323,6 +3430,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 jacere（投げる）。手掛かりを投げ合わせて出す推し量り",
     "family": "conjectural（推測の）／ eject（排出する）／ project（企画）／ reject（退ける）",
+    "trivia": "数学では証明されていない「予想」。ポアンカレ予想は Poincaré conjecture",
     "example": {
       "en": "The cause remains a matter of conjecture.",
       "ja": "原因は推測の域を出ない。"
@@ -3348,6 +3456,7 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 sacer（聖）。ある目的に捧げること。sacred と同語源",
     "family": "consecration（奉献）／ sacred（神聖な）／ sanction（制裁）／ saint（聖人）",
+    "trivia": "教会や土地を聖別することを指す。ゲティスバーグ演説の有名な一節に使われた",
     "example": {
       "en": "The hall was consecrated to public use.",
       "ja": "そのホールは公共の用に供された。"
@@ -3373,6 +3482,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 tangere（触れる）。境が触れ合っていること。contact と同語源",
     "family": "contiguity（隣接）／ contact（連絡する）／ contingent（条件付きの）／ intact（無傷の）",
+    "trivia": "contiguous United States は「アラスカとハワイを除く本土」。地続きの州を指す",
     "example": {
       "en": "The firm bought two contiguous plots.",
       "ja": "会社は地続きの区画を二つ買った。"
@@ -3399,6 +3509,7 @@
     "origin": "con-（すっかり）＋ ラテン語 terere（すりつぶす）。心がすりつぶれるほど悔いること",
     "family": "contrition（悔悛）／ trite（使い古された）／ attrition（自然減）／ detriment（損失）",
     "contrast": "過ちを深く悔いていること。contribute（貢献する）と綴りが近い",
+    "trivia": "contrition は「悔悛」。深い悔いを表す宗教的な含みを持つ",
     "example": {
       "en": "A contrite letter accompanied the refund.",
       "ja": "悔いている手紙が返金に添えられた。"
@@ -3424,6 +3535,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 volvere（巻く）。何重にも巻き込まれていること。involve と同語源",
     "family": "convolution（複雑さ）／ involve（関与させる）／ revolve（回転する）／ volume（取扱量）",
+    "trivia": "convoluted plot は「込み入った筋書き」。分かりにくさを批判する語",
     "example": {
       "en": "A convoluted clause needed rewriting.",
       "ja": "込み入って複雑な条項は書き直しが要った。"
@@ -3497,6 +3609,7 @@
     ],
     "origin": "ラテン語 debentur（負う）。担保なしで負債を負う証券。debt と同語源",
     "family": "debt（負債）／ debit（借方）／ due（支払期限の）／ duty（義務）",
+    "trivia": "無担保社債を指す。担保付きの bond とは区別される",
     "example": {
       "en": "The debenture matures in seven years.",
       "ja": "その社債は七年で満期を迎える。"
@@ -3548,6 +3661,7 @@
     ],
     "origin": "de-（外して）＋ ラテン語 falx（鎌）。刈り取るように金を抜くこと",
     "family": "defalcate（使い込む）／ falcate（鎌形の）",
+    "trivia": "預かった金の使い込みを指す。横領 embezzlement とほぼ同義の古い語",
     "example": {
       "en": "An audit uncovered a small defalcation.",
       "ja": "監査が小さな使い込みを発見した。"
@@ -3597,6 +3711,7 @@
     ],
     "origin": "de-（すっかり）＋ ラテン語 linquere（残す）。果たすべきを残したままなこと。relinquish と同語源",
     "family": "delinquency（滞納）／ relinquish（放棄して手放す）／ languish（低迷する）",
+    "trivia": "delinquent account は「滞納口座」。juvenile delinquent は非行少年",
     "example": {
       "en": "Delinquent accounts go to collection.",
       "ja": "滞納中の口座は取立てに回される。"
@@ -3622,6 +3737,7 @@
     ],
     "origin": "de-（離れて）＋ ラテン語 mittere（送る）。手放して終わること。mission と同語源",
     "family": "demised（譲渡された）／ mission（任務）／ submit（提出する）／ dismiss（退ける）",
+    "trivia": "企業や制度の「消滅」にも使う。死去の遠回しな言い方でもある",
     "example": {
       "en": "The demise of the old mill ended an era.",
       "ja": "古い工場の終焉が一つの時代を終わらせた。"
@@ -3647,6 +3763,7 @@
     ],
     "origin": "de-（すっかり）＋ ラテン語 nomen（名）。名を付けて分けた額面。nominate と同語源",
     "family": "denominate（命名する）／ nominate（推挙する）／ noun（名詞）／ name（名前）",
+    "trivia": "紙幣の「額面」も denomination。宗教の「宗派」も同じ語",
     "example": {
       "en": "Notes of one denomination filled the tray.",
       "ja": "一つの額面区分の紙幣が受け皿を埋めた。"
@@ -3672,6 +3789,7 @@
     ],
     "origin": "de-（離れて）＋ ラテン語 precari（祈る）。避けたいと願う、そこから退けること。pray と同語源",
     "family": "deprecation（非難）／ pray（祈る）／ prayer（祈り）／ precarious（不安定な）",
+    "trivia": "計算機では機能の「非推奨化」。deprecated API は将来廃止される機能",
     "example": {
       "en": "The manual deprecates the old fitting.",
       "ja": "手引書は古い継手を非として退ける。"
@@ -3697,6 +3815,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 salire（跳ぶ）。あちこち跳んで筋が定まらないこと。resilient と同語源",
     "family": "desultorily（散漫に）／ resilient（回復力のある）／ salient（際立った）",
+    "trivia": "desultory conversation は「とりとめのない会話」。散漫さを表す",
     "example": {
       "en": "A desultory discussion wasted an hour.",
       "ja": "散漫な議論が一時間を無駄にした。"
@@ -3722,6 +3841,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 volvere（転がす）。権限が下へ転がり移ること。involve と同語源",
     "family": "devolution（権限移譲）／ involve（関与させる）／ revolve（回転する）／ evolve（進化する）",
+    "trivia": "英国の devolution は「権限移譲」。スコットランド議会の設置がその例",
     "example": {
       "en": "Purchasing devolved to branch managers.",
       "ja": "購買は支店長に移譲された。"
@@ -3747,6 +3867,7 @@
     ],
     "origin": "dis-（否定）＋ ラテン語 fidere（信じる）。自分を信じきれないこと。confident と対",
     "family": "diffidence（自信のなさ）／ confident（確信している）／ faith（信頼）／ fidelity（忠実）",
+    "trivia": "be diffident about は「〜に自信がない」。confident との対で覚えたい",
     "example": {
       "en": "A diffident trainee grew confident quickly.",
       "ja": "自信のない研修生はすぐに自信をつけた。"
@@ -3796,6 +3917,7 @@
     ],
     "origin": "dis-（ばらばらに）＋ ラテン語 semen（種）。種をまくように広めること。seed と同語源",
     "family": "dissemination（周知）／ seminar（演習）／ seed（種）／ semen（精液）",
+    "trivia": "情報の「普及」を指す。dissemination of information は情報の周知",
     "example": {
       "en": "The bureau disseminated the new code.",
       "ja": "局は新しい規定を周知した。"
@@ -3821,6 +3943,7 @@
     ],
     "origin": "dis-（ばらばらに）＋ ラテン語 solvere（解く）。組織を解いて散らすこと。solution と同語源",
     "family": "dissolve（溶かす）／ solve（解く）／ solution（解決策）／ resolve（決着させる）",
+    "trivia": "議会の「解散」も dissolution。dissolution of parliament は総選挙の前段",
     "example": {
       "en": "Dissolution of the venture took a year.",
       "ja": "その事業体の解散に一年かかった。"
@@ -3846,6 +3969,7 @@
     ],
     "origin": "dis-（別々に）＋ ラテン語 vergere（傾く）。離れて開いていく差。divergent と同語源",
     "family": "diverge（分岐する）／ divergent（食い違う）／ converge（収束する）／ diverse（多様な）",
+    "trivia": "経済の「乖離」も divergence。指標が別々の方向を指すこと",
     "example": {
       "en": "A divergence appeared between the two ledgers.",
       "ja": "二つの元帳の間に乖離が現れた。"
@@ -3871,6 +3995,7 @@
     ],
     "origin": "中期英語 dogget（要約書き）。事件の要点を並べた記録",
     "family": "dockets（事件記録）／ docketed（記録された）",
+    "trivia": "裁判所の「事件簿」。docket number は事件番号",
     "example": {
       "en": "The docket lists four pending matters.",
       "ja": "事件記録は係属中の四件を挙げている。"
@@ -3896,6 +4021,7 @@
     ],
     "origin": "ラテン語 domus（家）。法律上の住まい。domestic, dome と同語源",
     "family": "domiciled（居住している）／ domestic（国内の）／ dominant（支配的な）／ condominium（区分所有建物）",
+    "trivia": "税法上の「住所地」。居住地 residence とは法的に区別される",
     "example": {
       "en": "The domicile of the buyer governs the case.",
       "ja": "買い手の住所地が事案を規律する。"
@@ -3921,6 +4047,7 @@
     ],
     "origin": "ラテン語 durus（硬い）。強く迫って意思を曲げさせること。durable と同語源",
     "family": "durable（耐久性のある）／ duration（継続時間）／ endure（耐える）／ during（〜の間）",
+    "trivia": "under duress は「強迫されて」。そうして結んだ契約は取り消しうる",
     "example": {
       "en": "A contract signed under duress is voidable.",
       "ja": "強迫の下で署名した契約は取り消しうる。"
@@ -3946,6 +4073,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 bullire（沸く）。沸き立つように元気なこと。boil と同語源",
     "family": "ebullience（意気軒昂）／ boil（沸く）／ bullion（地金）",
+    "trivia": "ebullient mood は「意気揚々とした気分」。沸き立つという原義",
     "example": {
       "en": "An ebullient mood followed the award.",
       "ja": "表彰の後、意気盛んな空気が続いた。"
@@ -3971,6 +4099,7 @@
     ],
     "origin": "ラテン語 aedes（建物）＋ facere（作る）。堂々とした建物。edify と同語源",
     "family": "edify（啓発する）／ edification（啓発）",
+    "trivia": "比喩で制度や体系も edifice。the edifice of law は法体系を指す",
     "example": {
       "en": "The edifice dominates the harbor front.",
       "ja": "その大建造物は港の正面を圧している。"
@@ -3997,6 +4126,7 @@
     "origin": "ex-（外へ）＋ ラテン語 facere（作る）。狙った結果を出す力。effective と同語源",
     "family": "efficacious（効き目のある）／ effective（効果的な）",
     "contrast": "効き目そのものを指す名詞。薬や施策の評価に使う",
+    "trivia": "薬の「有効性」を指し、安全性 safety と並ぶ承認の基準",
     "example": {
       "en": "Trials confirmed the coating's efficacy.",
       "ja": "試験が塗膜の有効性を確かめた。"
@@ -4022,6 +4152,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 grex（群れ）。群れを抜けて目立つ、そこからひどいこと。aggregate と同語源",
     "family": "egregiously（とんでもなく）／ aggregate（合計の）／ gregarious（社交的な）／ segregate（分離する）",
+    "trivia": "egregious error は「とんでもない誤り」。もとは「抜きん出た」という褒め言葉だった",
     "example": {
       "en": "An egregious error voided the tender.",
       "ja": "とんでもない誤りが入札を無効にした。"
@@ -4047,6 +4178,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 lux（光）。光を当てて分かるようにすること。lucid と同語源",
     "family": "elucidation（解明）／ lucid（わかりやすい）／ translucent（半透明の）／ lucent（光る）",
+    "trivia": "elucidation は「解明」。学術の書き言葉で使う",
     "example": {
       "en": "The engineer elucidated the failure chain.",
       "ja": "技術者は故障の連鎖を解き明かして説明した。"
@@ -4098,6 +4230,7 @@
     ],
     "origin": "en-（〜にする）＋ ラテン語 cumbrus（障害）。重荷を負わせること。encumbrance と同語源",
     "family": "encumbrance（抵当権）／ encumbrancer（担保権者）／ cumber（妨げる）",
+    "trivia": "財産に担保を設定することを指す。encumbered property は負担付きの不動産",
     "example": {
       "en": "A mortgage encumbers the whole site.",
       "ja": "抵当が敷地全体に負担を負わせている。"
@@ -4123,6 +4256,7 @@
     ],
     "origin": "en-（中に）＋ ギリシャ語 demos（民）。その土地の中だけに見られること。democracy と同語源",
     "family": "endemically（特有に）／ epidemic（流行病）／ democracy（民主主義）／ demography（人口統計）",
+    "trivia": "風土病を endemic disease と呼ぶ。epidemic（流行）、pandemic（世界的流行）と段階が分かれる",
     "example": {
       "en": "Congestion is endemic to that district.",
       "ja": "渋滞はその地区に特有のものだ。"
@@ -4148,6 +4282,7 @@
     ],
     "origin": "en-（〜へ）＋ ラテン語 jungere（つなぐ）。命令で縛ること。join, injunction と同語源",
     "family": "injunction（差し止め命令）／ join（加わる）／ joint（連帯の）／ junction（合流点）",
+    "trivia": "「命じる」と「差し止める」の両方。法律では差止命令を出すことを指す",
     "example": {
       "en": "The court enjoined further construction.",
       "ja": "裁判所は以後の建設を差し止めた。"
@@ -4173,6 +4308,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 numerus（数）。数え上げて並べること。number と同語源",
     "family": "enumeration（列挙）／ number（数）／ numerous（多数の）／ numeral（数字）",
+    "trivia": "enumerated powers は米国憲法の「列挙された権限」。連邦政府の権限範囲を定める",
     "example": {
       "en": "Clause two enumerates the excluded items.",
       "ja": "第二条が除外される品を列挙する。"
@@ -4198,6 +4334,7 @@
     ],
     "origin": "ラテン語 aequus（等しい）＋ vox（声）。二つの読みが同じ重さで成り立つこと。voice と同語源",
     "family": "equivocate（あいまいに言う）／ unequivocal（一義的な）／ equal（等しい）／ voice（声）",
+    "trivia": "equivocation は「言葉を濁すこと」。論理学では多義語による誤謬を指す",
     "example": {
       "en": "An equivocal reply satisfied nobody.",
       "ja": "どちらとも取れる返答は誰も満足させなかった。"
@@ -4223,6 +4360,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 rudis（粗い）。粗さを抜け出て学識のあること。rude と同語源",
     "family": "erudition（博識）／ rude（粗野な）／ rudimentary（初歩的な）",
+    "trivia": "erudition は「博識」。学識の深さを褒める書き言葉",
     "example": {
       "en": "An erudite adviser drafted the policy.",
       "ja": "博識な助言者が方針を起草した。"
@@ -4248,6 +4386,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 culpa（過ち）。責めの外へ置くこと。culpable と同語源",
     "family": "exculpation（免責）／ culpable（責めを負うべき）／ culprit（犯人）",
+    "trivia": "exculpatory evidence は「無罪を示す証拠」。検察に開示義務がある",
     "example": {
       "en": "The log exculpated the night operator.",
       "ja": "その記録が夜勤の担当者を免責した。"
@@ -4273,6 +4412,7 @@
     ],
     "origin": "ex-（すっかり）＋ ラテン語 hortari（励ます）。強く励まして勧めること",
     "family": "exhortation（勧告）／ hortatory（勧告の）",
+    "trivia": "exhortation は「勧告」。強く励まして行動を促すこと",
     "example": {
       "en": "The chief exhorted the crew to slow down.",
       "ja": "主任は作業班に減速を強く勧めた。"
@@ -4299,6 +4439,7 @@
     "origin": "ex-（すっかり）＋ ラテン語 piare（清める）。過ちを清めて償うこと",
     "family": "expiation（償い）／ pious（敬虔な）／ piety（敬虔）",
     "contrast": "expire（失効する）と綴りが近いが無関係。expiate は罪や過ちを償うこと",
+    "trivia": "expiation は「罪の償い」。宗教的な含みを持つ語",
     "example": {
       "en": "The firm expiated the error with a rebate.",
       "ja": "会社は割戻しで誤りを償った。"
@@ -4324,6 +4465,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 stare（立つ）。今も残って立っていること。exist と同語源",
     "family": "extantly（現存して）／ exist（存在する）／ stand（立つ）／ constant（絶え間ない）",
+    "trivia": "extant manuscripts は「現存する写本」。失われずに残っているものを指す",
     "example": {
       "en": "Only two extant copies remain.",
       "ja": "現存する写しは二部だけだ。"
@@ -4349,6 +4491,7 @@
     ],
     "origin": "ex-（すっかり）＋ ラテン語 tenuis（薄い）。責めを薄めて軽く見ること。attenuate と同語源",
     "family": "extenuation（酌量）／ attenuate（弱める）／ tenuous（希薄な）／ thin（薄い）",
+    "trivia": "extenuating circumstances は「酌量すべき事情」。量刑を軽くする要素",
     "example": {
       "en": "Weather extenuated the late delivery.",
       "ja": "天候が納品の遅れの情状を酌量した。"
@@ -4398,6 +4541,7 @@
     ],
     "origin": "ラテン語 fastidium（嫌気）。細部まで気になる性分。fastidious と同語源",
     "family": "fastidious（細かいことにうるさい）／ fastidiously（几帳面に）",
+    "trivia": "fastidious の名詞形。細部へのこだわりを表す",
     "example": {
       "en": "Her fastidiousness suited the clean room.",
       "ja": "彼女の潔癖さは無塵室に合っていた。"
@@ -4423,6 +4567,7 @@
     ],
     "origin": "ラテン語 fidelitas（忠実）。主に対して尽くす忠誠。faith, fidelity と同語源",
     "family": "fidelity（忠実）／ faith（信頼）／ confide（打ち明ける）／ fidelity bond（身元保証）",
+    "trivia": "中世の家臣が領主に誓った忠誠。封建制度を象徴する語",
     "example": {
       "en": "Long fealty to the firm earned respect.",
       "ja": "会社への長い忠誠が敬意を得た。"
@@ -4448,6 +4593,7 @@
     ],
     "origin": "ラテン語 felix（幸運な）。折よく当たっていること",
     "family": "felicity（幸福）／ felicitate（祝う）",
+    "trivia": "felicitous phrase は「巧みな言い回し」。時宜を得た表現を褒める",
     "example": {
       "en": "A felicitous phrase eased the tension.",
       "ja": "時宜を得た言葉が緊張を和らげた。"
@@ -4497,6 +4643,7 @@
     ],
     "origin": "fore（前もって）＋ close（閉じる）。受け戻す道を閉ざして担保を処分すること",
     "family": "foreclosure（抵当権の実行）／ close（閉じる）／ enclose（同封する）／ disclose（開示する）",
+    "trivia": "住宅ローン滞納による差押えを foreclosure と呼ぶ。二〇〇八年の金融危機で多発した",
     "example": {
       "en": "The bank moved to foreclose on the site.",
       "ja": "銀行はその敷地の抵当権を実行に移した。"
@@ -4522,6 +4669,7 @@
     ],
     "origin": "for-（去って）＋ go（行く）。得られるものを見送ること",
     "family": "forgone（見送られた）／ forget（忘れる）／ forgive（許す）",
+    "trivia": "forego（先行する）と綴りが紛らわしい。forgo は「断念する」",
     "example": {
       "en": "The firm forwent the early discount.",
       "ja": "会社は早期の割引を見送って諦めた。"
@@ -4547,6 +4695,7 @@
     ],
     "origin": "ラテン語 fors（運）。運に恵まれて偶然そうなること。fortune と同語源",
     "family": "fortune（幸運）／ fortunate（幸運な）／ misfortune（不運）",
+    "trivia": "本来は「偶然の」だが、「幸運な」の意味で使われることが増えている",
     "example": {
       "en": "A fortuitous cancellation freed the berth.",
       "ja": "思いがけない取消が停泊地を空けた。"
@@ -4572,6 +4721,7 @@
     ],
     "origin": "ラテン語 garrire（しゃべる）。とめどなく話すこと",
     "family": "garrulity（おしゃべり）／ garrulously（多弁に）",
+    "trivia": "garrulity は「おしゃべり」。多弁を批判的に言う語",
     "example": {
       "en": "A garrulous guide delayed the tour.",
       "ja": "おしゃべりな案内係が見学を遅らせた。"
@@ -4597,6 +4747,7 @@
     ],
     "origin": "ラテン語 gratus（ありがたい）。見返りなしであること。gratuity, grace と同語源",
     "family": "gratuity（心付け）／ grateful（感謝している）／ grace（優雅さ）／ gratitude（感謝）",
+    "trivia": "gratuitous violence は「必然性のない暴力描写」。作品批評で使う",
     "example": {
       "en": "A gratuitous repair kept the client.",
       "ja": "無償の修理が取引先をつなぎ止めた。"
@@ -4648,6 +4799,7 @@
     ],
     "origin": "古仏語 herbergere（宿の先触れ）。先に来て到来を告げるもの",
     "family": "harbingers（前触れ）／ harbor（港）",
+    "trivia": "a harbinger of spring は「春の兆し」。良い知らせにも悪い知らせにも使う",
     "example": {
       "en": "Weak orders were a harbinger of the slump.",
       "ja": "弱い注文は不振の前触れだった。"
@@ -4673,6 +4825,7 @@
     ],
     "origin": "ギリシャ語 heteros（異なる）＋ genos（種）。種類がまちまちなこと",
     "family": "heterogeneity（不均質）／ homogeneous（均質な）／ generate（生成する）／ genus（属）",
+    "trivia": "統計では「不均質な」データを指す。homogeneous との対で使う",
     "example": {
       "en": "A heterogeneous batch failed the test.",
       "ja": "不均質な生産分は試験に落ちた。"
@@ -4698,6 +4851,7 @@
     ],
     "origin": "ギリシャ語 homos（同じ）＋ genos（種）。種類がそろっていること",
     "family": "homogeneity（均質性）／ heterogeneous（不均質な）／ homogenize（均質化する）",
+    "trivia": "homogenized milk は「均質化牛乳」。脂肪分を均一に分散させた牛乳",
     "example": {
       "en": "A homogeneous mix improves the finish.",
       "ja": "均質な混合が仕上がりを良くする。"
@@ -4749,6 +4903,7 @@
     ],
     "origin": "ギリシャ語 idios（自分の）＋ synkrasis（混じり）。その人だけの混じり合い",
     "family": "idiosyncrasy（特異な癖）／ idiom（慣用句）／ idiot（愚か者）",
+    "trivia": "金融の idiosyncratic risk は「個別リスク」。市場全体でなく個々の銘柄に固有の危険",
     "example": {
       "en": "The press has idiosyncratic timing needs.",
       "ja": "その印刷機は独特の癖のある調時の要求を持つ。"
@@ -4774,6 +4929,7 @@
     ],
     "origin": "im-（否定）＋ ラテン語 pecunia（金）。手元に金のないこと。pecuniary と同語源",
     "family": "pecuniary（金銭上の）／ peculiar（独特の）／ pecuniarily（金銭的に）",
+    "trivia": "金に困っていることを表す書き言葉。penniless より硬い",
     "example": {
       "en": "An impecunious tenant fell into arrears.",
       "ja": "金に困った賃借人が滞納に陥った。"
@@ -4823,6 +4979,7 @@
     ],
     "origin": "im-（否定）＋ per-（通して）＋ ラテン語 via（道）。通り道がなく通さないこと",
     "family": "pervious（浸透性の）／ pervade（広がる）／ pervasive（広く行き渡った）／ via（経由で）",
+    "trivia": "impervious to criticism は「批判に動じない」。水を通さないという原義から",
     "example": {
       "en": "The liner is impervious to solvents.",
       "ja": "その内張りは溶剤を通さない。"
@@ -4848,6 +5005,7 @@
     ],
     "origin": "im-（否定）＋ ラテン語 poena（罰）。罰を受けずに済むこと。penalty と同語源",
     "family": "punish（罰する）／ punitive（懲罰的な）／ penalty（違約金）／ pain（痛み）",
+    "trivia": "with impunity は「とがめられずに」。罰を受けない状態を批判的に言う",
     "example": {
       "en": "No one parks there with impunity.",
       "ja": "そこに駐車してお咎めなしの者はいない。"
@@ -4873,6 +5031,7 @@
     ],
     "origin": "in-（否定）＋ alienate（譲る）。他人に渡せないこと",
     "family": "alienable（譲渡できる）／ alienate（譲渡する）／ alien（外国の）",
+    "trivia": "米国独立宣言の unalienable rights として知られる。譲り渡せない権利",
     "example": {
       "en": "The right of access is inalienable.",
       "ja": "通行の権利は譲り渡せない。"
@@ -4898,6 +5057,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 capere（取る）。始まりかけたところ。inception と同語源",
     "family": "incipience（初期）／ accept（受理する）／ capable（有能な）／ capture（捕らえる）",
+    "trivia": "incipient stage は「初期段階」。始まりかけを指す書き言葉",
     "example": {
       "en": "Incipient corrosion showed on two panels.",
       "ja": "初期段階の腐食が二枚の板に現れた。"
@@ -4923,6 +5083,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 calx（かかと）。踏み込むように繰り返し教え込むこと",
     "family": "inculcation（教え込み）／ recalcitrant（扱いにくい）／ calcium（カルシウム）",
+    "trivia": "inculcate values は「価値観を植え付ける」。繰り返し教え込むこと",
     "example": {
       "en": "Drills inculcate the evacuation route.",
       "ja": "訓練が避難の経路を教え込む。"
@@ -4948,6 +5109,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 dolere（痛む）。痛みを厭って動かないこと",
     "family": "indolence（怠惰）／ condole（悔やみを言う）／ dolorous（悲しみに満ちた）",
+    "trivia": "医学では「進行の遅い」。indolent tumor はゆっくり育つ腫瘍",
     "example": {
       "en": "An indolent approach lost the contract.",
       "ja": "怠惰な取り組み方が契約を失わせた。"
@@ -4973,6 +5135,7 @@
     ],
     "origin": "in-（否定）＋ e-（外へ）＋ ラテン語 luctari（もがく）。もがいても抜け出せないこと",
     "family": "reluctant（気が進まない）／ ineluctably（逃れられず）",
+    "trivia": "逃れられないことを表す書き言葉。inevitable より硬い",
     "example": {
       "en": "Rising wages are an ineluctable trend.",
       "ja": "賃金の上昇は逃れられない動向だ。"
@@ -4998,6 +5161,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 amicus（友）。相手の利に反すること。enemy, enmity と同語源",
     "family": "inimically（敵対的に）／ enemy（敵）／ enmity（敵意）／ amicable（友好的な）",
+    "trivia": "be inimical to は「〜と相いれない」。利害が対立することを表す",
     "example": {
       "en": "The rule is inimical to small suppliers.",
       "ja": "その規則は小さな供給業者と相いれない。"
@@ -5023,6 +5187,7 @@
     ],
     "origin": "in-（否定）＋ ラテン語 aequus（公正な）。公正を欠いた行い。equity と同語源",
     "family": "iniquitous（不正な）／ equity（自己資本）／ equal（等しい）／ equitable（公平な）",
+    "trivia": "不正や悪を表す宗教的な響きの語。equity（公平）との対で覚えたい",
     "example": {
       "en": "The report exposed a long-standing iniquity.",
       "ja": "報告書は長年の不正を暴いた。"
@@ -5048,6 +5213,7 @@
     ],
     "origin": "injunction（差し止め命令）＋ -ive。行いを止める性質のもの",
     "family": "injunction（差し止め命令）／ enjoin（差し止める）／ join（加わる）／ junction（合流点）",
+    "trivia": "injunctive relief は「差止命令による救済」。金銭賠償では足りない場合に求める",
     "example": {
       "en": "Injunctive relief halted the demolition.",
       "ja": "差し止めの救済が解体を止めた。"
@@ -5097,6 +5263,7 @@
     ],
     "origin": "in-（中へ）＋ ラテン語 quaerere（求める）。事実を問いただす手続き。inquiry と同語源",
     "family": "inquire（尋ねる）／ inquiry（問い合わせ）／ require（求める）／ quest（探求）",
+    "trivia": "検死審問を coroner's inquest と呼ぶ。死因を調べる公的手続き",
     "example": {
       "en": "An inquest examined the site accident.",
       "ja": "審問が現場の事故を調べた。"
@@ -5122,6 +5289,7 @@
     ],
     "origin": "in-（中に）＋ ラテン語 sedere（座る）。待ち伏せて忍び寄る害。session と同語源",
     "family": "insidiously（じわじわと）／ reside（居住する）／ session（回次）／ sedentary（座りがちな）",
+    "trivia": "insidious disease は「気づかぬうちに進む病」。自覚症状が出にくい病気を指す",
     "example": {
       "en": "Insidious corrosion weakened the frame.",
       "ja": "じわじわと害する腐食が枠を弱めた。"
@@ -5148,6 +5316,7 @@
     "origin": "in-（否定）＋ ラテン語 testari（遺言する）。遺言を残さずに亡くなること。testify と同語源",
     "family": "testator（遺言者）／ testify（証言する）／ testament（遺言）／ attest（証明する）",
     "contrast": "遺言を残さず亡くなること。integrate（一体化する）と綴りが近いが無関係",
+    "trivia": "die intestate は「遺言を残さずに死ぬ」。法定相続分で分けることになる",
     "example": {
       "en": "The founder died intestate in 2019.",
       "ja": "創業者は二〇一九年に遺言のないまま亡くなった。"
@@ -5173,6 +5342,7 @@
     ],
     "origin": "in-（中へ）＋ 古仏語 uevre（働き）。効き目が働いて及ぶこと",
     "family": "inurement（効力の帰属）／ inured（慣れた）",
+    "trivia": "法律で「効力が及ぶ」。inure to the benefit of は「〜の利益に帰する」",
     "example": {
       "en": "The warranty inures to later owners.",
       "ja": "保証は後の所有者にも効力が及ぶ。"
@@ -5198,6 +5368,7 @@
     ],
     "origin": "in-（〜へ）＋ ラテン語 vehere（運ぶ）。相手へ浴びせる罵り。vehicle と同語源",
     "family": "invectives（罵詈）／ vehicle（車両）／ vehement（激烈な）／ convey（伝達する）",
+    "trivia": "a torrent of invective は「罵詈雑言の嵐」。激しい非難の言葉を指す",
     "example": {
       "en": "The letter avoided invective entirely.",
       "ja": "その手紙は痛烈な非難を全く避けた。"
@@ -5223,6 +5394,7 @@
     ],
     "origin": "in-（すっかり）＋ ラテン語 vetus（古い）。長年しみついていること。veteran と同語源",
     "family": "inveteracy（常習）／ veteran（老練者）／ veterinary（獣医の）",
+    "trivia": "inveterate smoker は「常習的な喫煙者」。長年の習慣を表す",
     "example": {
       "en": "An inveterate latecomer lost the bonus.",
       "ja": "常習的な遅刻者は賞与を失った。"
@@ -5248,6 +5420,7 @@
     ],
     "origin": "ir-（否定）＋ refute（論破する）。打ち返しようがないこと",
     "family": "refute（論破する）／ refutation（反駁）／ irrefutably（反駁できず）",
+    "trivia": "irrefutable evidence は「反論の余地のない証拠」。強い確信を表す",
     "example": {
       "en": "The timestamps on the gate log are irrefutable.",
       "ja": "門の記録にある時刻は反駁できない。"
@@ -5273,6 +5446,7 @@
     ],
     "origin": "ラテン語 iter（旅路）。各地を回って働くこと。itinerary と同語源",
     "family": "itinerary（旅程）／ itinerate（巡回する）／ transit（通過）／ initiate（着手する）",
+    "trivia": "itinerant worker は「季節労働者」。各地を移動して働く人を指す",
     "example": {
       "en": "An itinerant repairer serves the islands.",
       "ja": "巡回の修理人が島々を担当する。"
@@ -5298,6 +5472,7 @@
     ],
     "origin": "ラテン語 judex（裁判官）。裁きを行う仕組み。judge, justice と同語源",
     "family": "judicial（司法の）／ judge（裁く）／ justice（正義）／ adjudicate（裁定する）",
+    "trivia": "Judicature Acts は英国の司法制度改革法。法体系の再編を行った歴史的立法",
     "example": {
       "en": "Local judicature handles small claims.",
       "ja": "地元の司法制度が少額の請求を扱う。"
@@ -5323,6 +5498,7 @@
     ],
     "origin": "ラテン語 jungere（つなぐ）。物事の継ぎ目にあたる時。join, junction と同語源",
     "family": "junction（合流点）／ join（加わる）／ joint（連帯の）／ adjunct（付属物）",
+    "trivia": "at this juncture は「この時点で」。重要な局面を指す硬い表現",
     "example": {
       "en": "At this juncture, delay is unavoidable.",
       "ja": "この時点では遅れは避けられない。"
@@ -5348,6 +5524,7 @@
     ],
     "origin": "ラテン語 lassus（疲れた）。力の抜けたけだるさ",
     "family": "lassitudes（倦怠）／ last（続く）",
+    "trivia": "疲労感を表す書き言葉。倦怠や無気力と訳される",
     "example": {
       "en": "Summer lassitude slowed the packing line.",
       "ja": "夏の倦怠感が梱包の生産設備を鈍らせた。"
@@ -5373,6 +5550,7 @@
     ],
     "origin": "ラテン語 liquidus（流れる）。すぐ現金に変えられる度合い。liquid と同語源",
     "family": "liquid（液体）／ liquidate（清算する）／ liquefy（液化する）",
+    "trivia": "liquidity crisis は「流動性危機」。資産はあるのに現金が足りない状態",
     "example": {
       "en": "Liquidity tightened after the expansion.",
       "ja": "拡張の後、流動性は逼迫した。"
@@ -5424,6 +5602,7 @@
     ],
     "origin": "ラテン語 magnus（大きい）。業界で大きな力を持つ人。magnitude, major と同語源",
     "family": "magnify（拡大する）／ magnitude（規模の大きさ）／ major（主要な）／ master（達人）",
+    "trivia": "media magnate は「メディア王」。業界の大立て者を指す",
     "example": {
       "en": "A shipping magnate funded the terminal.",
       "ja": "海運の大立て者が発着所に資金を出した。"
@@ -5449,6 +5628,7 @@
     ],
     "origin": "mal-（悪く）＋ 古仏語 faisance（行い）。職務上の悪しき行い",
     "family": "malfeasant（不正を働く）／ feasible（実現可能な）／ fact（事実）／ effect（効果）",
+    "trivia": "公務員の職務上の不正を指す。misfeasance（不適切な執行）と区別される",
     "example": {
       "en": "An inquiry found no malfeasance.",
       "ja": "調査は不正行為を見つけなかった。"
@@ -5474,6 +5654,7 @@
     ],
     "origin": "ラテン語 mercari（商う）。商いに関わること。market, merchant と同語源",
     "family": "merchant（商人）／ merchandise（商品）／ commerce（商業）／ market（市場）",
+    "trivia": "mercantilism は「重商主義」。貿易黒字を国富とする近世の経済思想",
     "example": {
       "en": "Mercantile law governs the shipment.",
       "ja": "商業活動の法がその出荷を規律する。"
@@ -5499,6 +5680,7 @@
     ],
     "origin": "mis-（誤って）＋ ラテン語 nomen（名）。実態に合わない呼び名。name と同語源",
     "family": "nominate（推挙する）／ nominal（名目上の）／ noun（名詞）／ name（名前）",
+    "trivia": "It's a misnomer. は「その呼び名は適切でない」。名が実態と合わないこと",
     "example": {
       "en": "Fireproof is a misnomer for this fabric.",
       "ja": "耐火はこの布地には誤った名称だ。"
@@ -5524,6 +5706,7 @@
     ],
     "origin": "mitigate（やわらげる）＋ -ing。責めを軽くする方に働くこと",
     "family": "mitigate（軽減する）／ mitigation（緩和策）",
+    "trivia": "mitigating factors は「酌量すべき要素」。aggravating factors との対",
     "example": {
       "en": "Mitigating factors reduced the penalty.",
       "ja": "情状酌量の要素が違約金を減らした。"
@@ -5549,6 +5732,7 @@
     ],
     "origin": "古英語 gemot（集会）。集まって論じるべき、決着のついていないこと。meet と同語源",
     "family": "mootness（争点性の消滅）／ meet（会う）／ meeting（会合）",
+    "trivia": "moot court は法学部の「模擬裁判」。論じるための場という原義",
     "example": {
       "en": "Whether notice was given remains moot.",
       "ja": "通知があったかは議論の余地がある。"
@@ -5574,6 +5758,7 @@
     ],
     "origin": "ラテン語 munus（贈り物）＋ facere（作る）。惜しみなく与えること。remuneration と同語源",
     "family": "munificence（気前のよさ）／ remuneration（給付報酬）／ municipal（自治体の）／ community（地域社会）",
+    "trivia": "munificent donation は「気前のよい寄付」。惜しみなさを褒める語",
     "example": {
       "en": "A munificent grant built the library.",
       "ja": "気前のよい助成が図書室を建てた。"
@@ -5599,6 +5784,7 @@
     ],
     "origin": "ラテン語 nasci（生まれる）。生まれ出たばかりであること。nature, innate と同語源",
     "family": "nascency（発生）／ nature（自然）／ native（生まれつきの）／ innate（生来の）",
+    "trivia": "nascent industry は「生まれたばかりの産業」。成長前の段階を指す",
     "example": {
       "en": "A nascent market emerged in the north.",
       "ja": "生まれたばかりの市場が北に現れた。"
@@ -5648,6 +5834,7 @@
     ],
     "origin": "ラテン語 nomen（名）＋ calare（呼ぶ）。体系立てた名の付け方",
     "family": "nominate（推挙する）／ nominal（名目上の）／ noun（名詞）／ name（名前）",
+    "trivia": "生物の学名を定める binomial nomenclature は「二名法」。属名と種小名で表す",
     "example": {
       "en": "A single nomenclature covers all parts.",
       "ja": "一つの命名法が全部品を扱う。"
@@ -5673,6 +5860,7 @@
     ],
     "origin": "ラテン語 nugae（つまらぬもの）。効き目も値打ちもないこと",
     "family": "nugatorily（無価値に）／ nugatoriness（無意味さ）",
+    "trivia": "法的効力がないことを表す。render nugatory は「無意味にする」",
     "example": {
       "en": "The clause became nugatory after the sale.",
       "ja": "その条項は売却後に無価値なものとなった。"
@@ -5698,6 +5886,7 @@
     ],
     "origin": "ob-（〜に対して）＋ ラテン語 via（道）。行く手に先回りして必要をなくすこと",
     "family": "obviation（回避）／ obvious（明白な）／ via（経由で）／ previous（以前の）",
+    "trivia": "obviate the need for は「〜の必要をなくす」。先回りして不要にすること",
     "example": {
       "en": "Automation obviated the second check.",
       "ja": "自動化が二度目の確認を不要にした。"
@@ -5723,6 +5912,7 @@
     ],
     "origin": "ラテン語 onus（荷）。負うべき重荷。onerous と同語源",
     "family": "onerous（負担の重い）／ exonerate（免除する）",
+    "trivia": "the onus is on you は「立証や説明の責任はあなたにある」",
     "example": {
       "en": "The onus rests with the claimant.",
       "ja": "立証の負担は請求者にある。"
@@ -5801,6 +5991,7 @@
     ],
     "origin": "ラテン語 penuria（欠乏）。ひどく貧しいこと",
     "family": "penury（極貧）／ penuriously（極貧で）",
+    "trivia": "極度の貧しさを表す書き言葉。けちという意味にも使われる",
     "example": {
       "en": "A penurious start-up shared the workshop.",
       "ja": "極貧の新興企業が工房を共有した。"
@@ -5850,6 +6041,7 @@
     ],
     "origin": "per-（すっかり）＋ ラテン語 fungi（果たす）。形だけ済ませること。function と同語源",
     "family": "perfunctorily（おざなりに）／ function（機能）／ functional（機能的な）／ fungible（代替可能な）",
+    "trivia": "perfunctory apology は「形だけの謝罪」。心のこもらなさを批判する語",
     "example": {
       "en": "A perfunctory check missed the crack.",
       "ja": "おざなりの点検が割れを見逃した。"
@@ -5875,6 +6067,7 @@
     ],
     "origin": "per-（外れて）＋ ラテン語 jus（法・誓い）。誓いに背いて偽ること。justice と同語源",
     "family": "perjure（偽証する）／ jury（陪審）／ justice（正義）／ judicial（司法の）",
+    "trivia": "commit perjury は「偽証する」。宣誓した証言で嘘をつくと罪になる",
     "example": {
       "en": "Perjury carries a heavy penalty.",
       "ja": "偽証は重い罰を伴う。"
@@ -5900,6 +6093,7 @@
     ],
     "origin": "per-（すっかり）＋ ラテン語 nex（死）。深く害を及ぼすこと",
     "family": "perniciously（有害に）／ perniciousness（有害さ）",
+    "trivia": "pernicious anemia は「悪性貧血」。じわじわ害するという原義",
     "example": {
       "en": "Pernicious damp ruined the paper store.",
       "ja": "有害きわまる湿気が紙の倉庫を台無しにした。"
@@ -5925,6 +6119,7 @@
     ],
     "origin": "per-（すっかり）＋ use（使う）。端から端まで読み通すこと",
     "family": "peruse（熟読する）／ use（使う）／ usage（使用量）／ utilize（役立てる）",
+    "trivia": "for your perusal は「ご査読ください」。書面に添える丁寧な表現",
     "example": {
       "en": "The file is available for perusal.",
       "ja": "その書類は熟読のために閲覧できる。"
@@ -5950,6 +6145,7 @@
     ],
     "origin": "post-（後に）＋ ラテン語 humus（土）。埋葬の後であること",
     "family": "posthumously（死後に）／ humus（腐植土）／ exhume（掘り起こす）",
+    "trivia": "posthumous award は「死後に贈られる賞」。h は発音しない",
     "example": {
       "en": "A posthumous award honored the founder.",
       "ja": "死後の表彰が創業者を称えた。"
@@ -5975,6 +6171,7 @@
     ],
     "origin": "pre-（前もって）＋ ラテン語 capere（取る）。先に受け取っておく教え",
     "family": "preceptor（教師）／ accept（受理する）／ capable（有能な）／ perceive（受け止める）",
+    "trivia": "moral precepts は「道徳的な教え」。守るべき指針を指す",
     "example": {
       "en": "Safety first is the plant's core precept.",
       "ja": "安全第一が工場の中心の教えだ。"
@@ -6001,6 +6198,7 @@
     "origin": "pre-（前に）＋ ラテン語 claudere（閉じる）。主張の道を先に閉ざす効き目。preclude と同語源",
     "family": "preclude（妨げる）／ exclude（除く）／ include（含む）／ conclude（結論づける）",
     "contrast": "precaution（予防措置）と綴りが近い。preclusion は法律で主張を封じる効果を指す",
+    "trivia": "issue preclusion は「争点効」。一度決まった争点を蒸し返せない法理",
     "example": {
       "en": "Preclusion prevents a second claim.",
       "ja": "排除効が二度目の請求を妨げる。"
@@ -6026,6 +6224,7 @@
     ],
     "origin": "pre-（前もって）＋ ラテン語 diligere（好んで選ぶ）。先から好んで選ぶ傾き",
     "family": "predilections（偏愛）／ diligent（勤勉な）／ elect（選出する）／ select（選ぶ）",
+    "trivia": "have a predilection for は「〜を好む」。偏愛を表す書き言葉",
     "example": {
       "en": "Buyers show a predilection for matte finishes.",
       "ja": "買い手はつや消しの仕上げに偏愛を示す。"
@@ -6051,6 +6250,7 @@
     ],
     "origin": "pre-（前に）＋ ラテン語 pondus（重さ）。秤が一方へ傾く重み。ponder と同語源",
     "family": "preponderant（優勢な）／ ponder（じっくり考える）／ pound（ポンド）／ ponderous（重々しい）",
+    "trivia": "preponderance of evidence は民事の「証拠の優越」。刑事より緩い立証基準",
     "example": {
       "en": "The preponderance of evidence favored the buyer.",
       "ja": "証拠の優越は買い手に有利だった。"
@@ -6076,6 +6276,7 @@
     ],
     "origin": "pre-（前もって）＋ ラテン語 scribere（書く）。こうすべきと定める側であること",
     "family": "prescribe（規定する）／ prescription（処方箋）／ describe（描写する）／ script（台本）",
+    "trivia": "prescriptive grammar は「規範文法」。記述文法 descriptive grammar との対",
     "example": {
       "en": "The code is prescriptive about clearances.",
       "ja": "その規定は隙間について規範的だ。"
@@ -6101,6 +6302,7 @@
     ],
     "origin": "pro-（前へ）＋ ラテン語 clivus（坂）。前へ傾いた坂のような性向。decline と同語源",
     "family": "proclivities（性向）／ decline（落ち込む）／ incline（傾く）／ climate（気候）",
+    "trivia": "否定的な傾向に使うことが多い。criminal proclivities は犯罪性向",
     "example": {
       "en": "A proclivity for detail suits this role.",
       "ja": "細部への性向はこの職に合う。"
@@ -6126,6 +6328,7 @@
     ],
     "origin": "ラテン語 promulgare（公にする）。広く知らせて効力を持たせること",
     "family": "promulgation（公布）／ divulge（漏らす）／ vulgar（下品な）",
+    "trivia": "法令の公布を指す。制定 enact のあと promulgate して効力が生じる",
     "example": {
       "en": "The bureau promulgated new limits in May.",
       "ja": "局は五月に新しい上限を公布した。"
@@ -6176,6 +6379,7 @@
     "origin": "pro-（前に）＋ ラテン語 scribere（書く）。掲示して禁じること。prescribe と紛らわしい対語",
     "family": "proscription（禁止）／ prescribe（規定する）／ subscribe（購読する）／ script（台本）",
     "contrast": "禁止するという意味。prescribe（規定する）と綴りが近いのに意味は逆に近い",
+    "trivia": "prescribe（規定する）と綴りが近いのに意味は逆に近い。proscribe は禁止すること",
     "example": {
       "en": "The code proscribes open storage of solvents.",
       "ja": "その規定は溶剤の露天保管を禁止する。"
@@ -6227,6 +6431,7 @@
     ],
     "origin": "pro-（前もって）＋ ラテン語 videre（見る）。先を見て備えること。prudent と同語源",
     "family": "providence（先見）／ provide（供給する）／ provision（規定）／ prudent（慎重な）",
+    "trivia": "provident fund は「積立基金」。退職後に備える制度の名",
     "example": {
       "en": "A provident reserve absorbed the shock.",
       "ja": "先を見越した準備金が衝撃を吸収した。"
@@ -6253,6 +6458,7 @@
     "origin": "ラテン語 proviso quod（〜という条件で）。契約に添える但し条件。provision と同語源",
     "family": "provision（規定）／ provide（供給する）／ provisional（仮の）／ provident（先を見越した）",
     "contrast": "provision（規定）より狭く、例外や条件を定める一句だけを指す",
+    "trivia": "with the proviso that は「〜という条件付きで」。契約書で使う",
     "example": {
       "en": "The offer carries one important proviso.",
       "ja": "その申し出には重要な但し条件が一つある。"
@@ -6279,6 +6485,7 @@
     "origin": "pur-（前へ）＋ ラテン語 portare（運ぶ）。そういう趣旨だと掲げること。portable と同語源",
     "family": "purportedly（と称して）／ portable（持ち運べる）／ import（輸入する）／ export（輸出する）",
     "contrast": "purpose（目的）と綴りが近い。purport は動詞で「〜と称する」、真偽は保証しない",
+    "trivia": "the purport of the letter は「書面の趣旨」。名詞としても使える",
     "example": {
       "en": "The letter purports to cancel the order.",
       "ja": "その手紙は注文を取り消すと称する。"
@@ -6304,6 +6511,7 @@
     ],
     "origin": "ラテン語 quies（静けさ）。動かず静まっていること。quiet, acquiesce と同語源",
     "family": "quiescence（静止）／ quiet（静かな）／ acquiesce（黙認する）／ tranquil（穏やかな）",
+    "trivia": "医学では病気の「休止期」。症状が出ていない状態を指す",
     "example": {
       "en": "The line stays quiescent during cleaning.",
       "ja": "清掃中、生産設備は静止したままだ。"
@@ -6329,6 +6537,7 @@
     ],
     "origin": "ラテン語 quinta essentia（第五の精髄）。本質を最も濃く備えていること",
     "family": "quintessence（真髄）／ quintet（五重奏）／ essence（本質）／ essential（不可欠な）",
+    "trivia": "the quintessential example は「典型中の典型」。最も本質を体現するもの",
     "example": {
       "en": "It is the quintessential compact model.",
       "ja": "それは典型そのものの小型機だ。"
@@ -6354,6 +6563,7 @@
     ],
     "origin": "ラテン語 ratus（定まった）＋ facere（作る）。正式に確定させる手続き。ratify と同語源",
     "family": "ratify（批准する）／ rate（率）／ ratio（比）／ rational（合理的な）",
+    "trivia": "条約や憲法改正の批准手続を指す。署名だけでは発効しない",
     "example": {
       "en": "Ratification took place in June.",
       "ja": "承認手続は六月に行われた。"
@@ -6379,6 +6589,7 @@
     ],
     "origin": "rebut（言い返す）＋ -al。相手の主張を突き返す反証",
     "family": "rebut（反論する）／ rebutted（反論された）",
+    "trivia": "rebuttal evidence は「反証」。相手の主張を崩す証拠",
     "example": {
       "en": "The rebuttal cited two inspection logs.",
       "ja": "反証は二つの検査記録を挙げた。"
@@ -6404,6 +6615,7 @@
     ],
     "origin": "re-（後ろへ）＋ ラテン語 calx（かかと）。蹴り返すような反抗。recalcitrant と同語源",
     "family": "recalcitrant（扱いにくい）／ inculcate（教え込む）／ calcium（カルシウム）",
+    "trivia": "従わない態度を表す名詞。recalcitrant が形容詞形",
     "example": {
       "en": "Recalcitrance over the new rota faded.",
       "ja": "新しい勤務表への反抗は薄れた。"
@@ -6429,6 +6641,7 @@
     ],
     "origin": "re-（返して）＋ com-（共に）＋ ラテン語 pendere（量る）。釣り合う分を返すこと",
     "family": "compensate（補償する）／ compensation（報酬）／ pension（年金）／ pendulum（振り子）",
+    "trivia": "in recompense for は「〜の償いとして」。補償を表す硬い語",
     "example": {
       "en": "The firm recompensed the tenant fully.",
       "ja": "会社は賃借人に十分に報いた。"
@@ -6454,6 +6667,7 @@
     ],
     "origin": "re-（返して）＋ ラテン語 crimen（罪）。責めを言い返し合うこと。crime と同語源",
     "family": "recriminate（責め返す）／ crime（犯罪）／ criminal（犯罪の）／ discriminate（区別する）",
+    "trivia": "mutual recriminations は「互いの非難の応酬」。交渉決裂後の状況を表す",
     "example": {
       "en": "Recrimination between the two firms delayed the settlement.",
       "ja": "二社の間の非難の応酬が和解を遅らせた。"
@@ -6479,6 +6693,7 @@
     ],
     "origin": "ラテン語 rectus（まっすぐ）。曲がりのない行い。correct, rectify と同語源",
     "family": "rectify（是正する）／ correct（訂正する）／ direct（直行の）／ rectangle（長方形）",
+    "trivia": "moral rectitude は「道徳的な清廉さ」。品行の正しさを褒める",
     "example": {
       "en": "The auditor's rectitude was never doubted.",
       "ja": "監査人の清廉さは決して疑われなかった。"
@@ -6504,6 +6719,7 @@
     ],
     "origin": "re-（強め）＋ ラテン語 olere（におう）。においのように思い起こさせること",
     "family": "redolence（香り）／ odor（におい）／ olfactory（嗅覚の）",
+    "trivia": "be redolent of は「〜を思い起こさせる」。においという原義が比喩に広がった",
     "example": {
       "en": "The design is redolent of the 1960s.",
       "ja": "その設計は一九六〇年代を思い起こさせる。"
@@ -6553,6 +6769,7 @@
     ],
     "origin": "re-（返して）＋ ラテン語 prehendere（つかむ）。奪い返すような仕返し。comprise と同語源",
     "family": "reprisals（報復）／ comprise（構成する）／ apprehend（理解する）／ prison（監獄）",
+    "trivia": "in reprisal for は「〜への報復として」。国際法では復仇を指す",
     "example": {
       "en": "No reprisal may follow a safety report.",
       "ja": "安全の報告の後に報復があってはならない。"
@@ -6578,6 +6795,7 @@
     ],
     "origin": "re-（強め）＋ ラテン語 quaerere（求める）。必ず求められる条件。require と同語源",
     "family": "prerequisite（前提条件）／ require（求める）／ request（依頼する）／ acquire（獲得する）",
+    "trivia": "prerequisite との違いは、requisite が「必要な」、prerequisite が「事前に必要な」",
     "example": {
       "en": "A signed waiver is a requisite for entry.",
       "ja": "署名した放棄書は入場の必須の要件だ。"
@@ -6603,6 +6821,7 @@
     ],
     "origin": "re-（元へ）＋ ラテン語 scindere（裂く）。契約を裂いて無かったことにすること。rescind と同語源",
     "family": "rescind（撤回する）／ scissors（はさみ）／ decide（決める）／ concise（簡潔な）",
+    "trivia": "契約を初めからなかったことにする手続き。解除 termination とは効果が違う",
     "example": {
       "en": "Rescission returns both sides to start.",
       "ja": "解除は双方を出発点に戻す。"
@@ -6628,6 +6847,7 @@
     ],
     "origin": "reside（残る）＋ -ary。分配後に残った財産に関すること。residual と同語源",
     "family": "residual（残余の）／ residue（残余）／ reside（居住する）／ resident（住民）",
+    "trivia": "residuary estate は「残余遺産」。個別の遺贈後に残る財産",
     "example": {
       "en": "The residuary estate passes to the trust.",
       "ja": "残余財産の遺産は信託へ移る。"
@@ -6653,6 +6873,7 @@
     ],
     "origin": "re-（再び）＋ ラテン語 surgere（湧き上がる）。再び勢いを取り戻すこと。surge と同語源",
     "family": "resurge（再興する）／ surge（急増する）／ source（調達先）／ resource（資源）",
+    "trivia": "a resurgence of interest は「関心の再燃」。いったん衰えた後の盛り返し",
     "example": {
       "en": "A resurgence in demand filled the yard.",
       "ja": "需要の再興が構内を埋めた。"
@@ -6678,6 +6899,7 @@
     ],
     "origin": "re-（後ろへ）＋ 古仏語 trenchier（切る）。予算を切り詰めること。trench と同語源",
     "family": "retrenchment（経費削減）／ trench（塹壕）／ trenchant（鋭い）",
+    "trivia": "retrenchment は「経費削減」。人員整理を含むことが多い",
     "example": {
       "en": "The group retrenched after the loss.",
       "ja": "そのグループは損失の後、経費を切り詰めた。"
@@ -6703,6 +6925,7 @@
     ],
     "origin": "re-（元へ）＋ ラテン語 vocare（呼ぶ）。出したものを呼び戻す処分。revoke と同語源",
     "family": "revoke（取り消して無効にする）／ invoke（援用する）／ provoke（挑発する）／ vocal（声の）",
+    "trivia": "免許の取消処分を指す。停止 suspension より重い",
     "example": {
       "en": "Revocation of the permit stopped the work.",
       "ja": "許可証の撤回処分が作業を止めた。"
@@ -6780,6 +7003,7 @@
     ],
     "origin": "ラテン語 scrupulus（小石）。靴の小石が気になるように細かく気を配ること",
     "family": "scruple（ためらい）／ scrupulously（良心的に）",
+    "trivia": "scrupulously honest は「徹底して正直な」。良心に忠実であることを褒める",
     "example": {
       "en": "Scrupulous accounting satisfied the auditor.",
       "ja": "良心的な会計処理が監査人を満足させた。"
@@ -6805,6 +7029,7 @@
     ],
     "origin": "ラテン語 sequester（預かり人）。第三者に預けて切り離すこと。sequester と同語源",
     "family": "sequester（隔離する）／ sequence（順序）／ consecutive（連続した）",
+    "trivia": "資産の「差押え保全」も sequestration。第三者に預けて隔離すること",
     "example": {
       "en": "Sequestration of the batch took one day.",
       "ja": "生産分の隔離保管に一日かかった。"
@@ -6830,6 +7055,7 @@
     ],
     "origin": "ラテン語 sollus（全体）＋ ciere（動かす）。心を丸ごと向ける気遣い。solicit と同語源",
     "family": "solicit（勧誘する）／ solicitous（気遣う）／ solicitor（事務弁護士）",
+    "trivia": "相手を気遣う心を表す書き言葉。心配りの丁寧さを示す",
     "example": {
       "en": "Her solicitude reassured the injured worker.",
       "ja": "彼女の気遣いが負傷した労働者を安心させた。"
@@ -6855,6 +7081,7 @@
     ],
     "origin": "ラテン語 species（見かけ）。見かけだけ立派なこと。special, spectacle と同語源",
     "family": "speciously（もっともらしく）／ species（種）／ special（特別な）／ spectacle（光景）",
+    "trivia": "specious reasoning は「もっともらしいが誤った推論」。見かけ倒しを批判する",
     "example": {
       "en": "A specious argument delayed the ruling.",
       "ja": "もっともらしいが誤った主張が判断を遅らせた。"
@@ -6904,6 +7131,7 @@
     ],
     "origin": "ラテン語 stips（小銭）＋ pendere（払う）。定期に支払われる金",
     "family": "stipendiary（有給の）／ stipulate（明記する）／ pension（年金）／ compensate（補償する）",
+    "trivia": "研究者や聖職者への定期給付を指す。給与 salary より限定的な場面で使う",
     "example": {
       "en": "Trainees receive a monthly stipend.",
       "ja": "研修生は月々の定期手当を受け取る。"
@@ -6929,6 +7157,7 @@
     ],
     "origin": "sub-（下に・代わりに）＋ ラテン語 rogare（求める）。代わって権利を引き継ぐこと",
     "family": "subrogate（代位させる）／ interrogate（尋問する）／ derogate（一部を無効にする）",
+    "trivia": "保険会社が被保険者に代わって加害者へ請求する権利。保険実務の基本概念",
     "example": {
       "en": "Subrogation lets the insurer sue the carrier.",
       "ja": "代位により保険会社は運送会社を訴えられる。"
@@ -6954,6 +7183,7 @@
     ],
     "origin": "sub-（下に）＋ ラテン語 stare（立つ）。手続きでなく中身に関わること。substantial と同語源",
     "family": "substance（実質）／ substantial（相当な）／ substantiate（裏づける）／ stand（立つ）",
+    "trivia": "substantive law は「実体法」。手続法 procedural law との対",
     "example": {
       "en": "Substantive changes require board approval.",
       "ja": "実体的な変更には取締役会の承認が要る。"
@@ -6979,6 +7209,7 @@
     ],
     "origin": "sub-（下から）＋ ラテン語 currere（走る）。駆けつけて助けること。current と同語源",
     "family": "succour（救援）／ current（現在の）／ occur（起こる）／ recourse（償還請求権）",
+    "trivia": "give succor to は「救援する」。英国綴りは succour",
     "example": {
       "en": "The town sent succor after the flood.",
       "ja": "町は洪水の後、救援を送った。"
@@ -7004,6 +7235,7 @@
     ],
     "origin": "古英語 syndrig（別々の）。細かく種々のもの。sunder と同語源",
     "family": "sundries（雑品）／ sunder（切り離す）／ asunder（ばらばらに）",
+    "trivia": "sundries は会計の「雑費」。細々した項目をまとめる勘定科目",
     "example": {
       "en": "Sundry items fill the last carton.",
       "ja": "雑多な品が最後の箱を埋める。"
@@ -7029,6 +7261,7 @@
     ],
     "origin": "super-（上に）＋ ラテン語 sedere（座る）。前のものに取って代わること。supersede と同語源",
     "family": "supersede（取って代わる）／ preside（統括する）／ reside（居住する）／ session（回次）",
+    "trivia": "supersede の名詞形。前のものが置き換えられることを指す",
     "example": {
       "en": "Supersession of the manual took effect today.",
       "ja": "手引書の置換は本日から効力を持つ。"
@@ -7054,6 +7287,7 @@
     ],
     "origin": "ラテン語 securus（心配のない）。債務を請け合う人。secure, sure と同語源",
     "family": "sure（確かな）／ secure（確保する）／ security（保安）／ assure（保証して伝える）",
+    "trivia": "surety bond は「保証証券」。履行を保証する金融商品",
     "example": {
       "en": "A surety signed alongside the borrower.",
       "ja": "保証人が借り手と並んで署名した。"
@@ -7103,6 +7337,7 @@
     ],
     "origin": "イタリア語 tanto montare（同じだけ値する）。実質上同じであること",
     "family": "amount（数量）／ mount（登る）／ paramount（最重要の）／ surmount（乗り越える）",
+    "trivia": "be tantamount to は「〜に等しい」。悪い事柄に使うことが多い",
     "example": {
       "en": "The refusal was tantamount to a breach.",
       "ja": "その拒否は違反同然のものだった。"
@@ -7128,6 +7363,7 @@
     ],
     "origin": "ラテン語 tenere（保つ）。立場を保ち続けられること。retain, tenant と同語源",
     "family": "untenable（支持できない）／ tenant（賃借人）／ retain（保持する）／ tenure（在職期間）",
+    "trivia": "a tenable position は「擁護できる立場」。untenable との対",
     "example": {
       "en": "The claim is no longer tenable.",
       "ja": "その主張はもはや擁護できない。"
@@ -7153,6 +7389,7 @@
     ],
     "origin": "ラテン語 tenuis（薄い）。細く頼りないこと。attenuate と同語源",
     "family": "tenuity（希薄さ）／ attenuate（弱める）／ extenuate（情状を酌量する）／ thin（薄い）",
+    "trivia": "a tenuous connection は「希薄なつながり」。根拠の弱さを表す",
     "example": {
       "en": "The link to the fault is tenuous.",
       "ja": "不具合との関連は希薄だ。"
@@ -7178,6 +7415,7 @@
     ],
     "origin": "ラテン語 testari（遺言する）。遺言を残した人。testify, attest と同語源",
     "family": "testify（証言する）／ testament（遺言）／ attest（証明する）／ intestate（遺言のない）",
+    "trivia": "遺言者を指し、女性は testatrix とも。遺言の有効性を争う訴訟で使う",
     "example": {
       "en": "The testator named three beneficiaries.",
       "ja": "遺言者は受益者を三名指名した。"
@@ -7204,6 +7442,7 @@
     "origin": "ラテン語 torquere（ねじる）。ねじれ曲がっていること。torture と同語源",
     "family": "tortuosity（曲折）／ torture（拷問）／ torque（回転力）／ distort（ゆがめる）",
     "contrast": "回りくどく曲がりくねっていること。torturous（苦痛を伴う）と混同しやすい",
+    "trivia": "torturous（苦痛を伴う）と一字違いで意味が別。tortuous は曲がりくねっていること",
     "example": {
       "en": "A tortuous negotiation ended in June.",
       "ja": "曲折の多い交渉は六月に終わった。"
@@ -7229,6 +7468,7 @@
     ],
     "origin": "trans-（越えて）＋ ラテン語 gradi（歩む）。踏み越えて破ること。progress と同語源",
     "family": "transgression（違反）／ progress（進捗）／ regress（後退する）／ digress（話がそれる）",
+    "trivia": "transgression は「違反」。宗教的には「罪」も指す",
     "example": {
       "en": "Anyone who transgresses loses site access.",
       "ja": "逸脱して破る者は現場への立入りを失う。"
@@ -7254,6 +7494,7 @@
     ],
     "origin": "ラテン語 trepidus（おびえた）。震えるような不安。intrepid と対",
     "family": "trepid（おびえた）／ intrepid（大胆な）／ trepidly（おずおずと）",
+    "trivia": "with trepidation は「おそるおそる」。不安を抱えた様子を表す",
     "example": {
       "en": "Staff faced the audit with trepidation.",
       "ja": "職員は不安を抱えて監査に臨んだ。"
@@ -7279,6 +7520,7 @@
     ],
     "origin": "ラテン語 tribunus（護民官）。判断を下す場。tribe と同語源",
     "family": "tribune（護民官）／ tribe（部族）／ tributary（支流）",
+    "trivia": "international tribunal は「国際法廷」。戦争犯罪を裁く場として知られる",
     "example": {
       "en": "A tribunal heard the dismissal case.",
       "ja": "審判所が解雇の事案を審理した。"
@@ -7304,6 +7546,7 @@
     ],
     "origin": "un-（否定）＋ abate（弱まる）。勢いが落ちないままであること",
     "family": "abate（和らぐ）／ abatement（軽減）／ rebate（割戻金）",
+    "trivia": "continue unabated は「衰えることなく続く」。勢いが落ちない様子",
     "example": {
       "en": "Demand continued unabated into March.",
       "ja": "需要は三月まで衰えぬまま続いた。"
@@ -7329,6 +7572,7 @@
     ],
     "origin": "un-（否定）＋ assail（攻める）。攻めどころがないこと。assault と同語源",
     "family": "assail（攻撃する）／ assault（暴行）／ salient（際立った）／ resilient（回復力のある）",
+    "trivia": "unassailable lead は「揺るがぬリード」。選挙やスポーツで逆転不能な差を指す",
     "example": {
       "en": "The record gives an unassailable defense.",
       "ja": "その記録は揺るぎない防御を与える。"
@@ -7354,6 +7598,7 @@
     ],
     "origin": "un-（否定）＋ encumber（負担を負わせる）。担保も重荷も付いていないこと",
     "family": "encumber（負担を負わせる）／ encumbrance（抵当権）／ cumber（妨げる）",
+    "trivia": "unencumbered property は「担保の付いていない不動産」。売買で重要な条件",
     "example": {
       "en": "The title is unencumbered and clear.",
       "ja": "その権利は負担のない明確なものだ。"
@@ -7379,6 +7624,7 @@
     ],
     "origin": "un-（外す）＋ fetter（足かせ）。足かせのない自由な状態。foot と同語源",
     "family": "fetter（足かせ）／ foot（足）／ fettered（束縛された）",
+    "trivia": "unfettered access は「制約のない利用」。自由さを強調する",
     "example": {
       "en": "Unfettered access was never granted.",
       "ja": "制約のない立入りは決して認められなかった。"
@@ -7404,7 +7650,7 @@
     ],
     "origin": "ラテン語 usura（使用料）。法外な利息を取ること。use と同語源",
     "family": "usurious（高利の）／ use（使う）／ usage（使用量）／ utilize（役立てる）",
-    "trivia": "もとは利息一般を指し、悪い意味はなかった。中世に教会が利息を禁じたため「不当に高い利」へ意味が狭まった",
+    "trivia": "usury law は「利息制限法」。上限金利を定める法律",
     "example": {
       "en": "Laws against usury cap the rate.",
       "ja": "高利貸しを禁じる法が利率に上限を設ける。"
@@ -7430,6 +7676,7 @@
     ],
     "origin": "ラテン語 vacare（空である）。空にして明け渡すこと。vacancy, void と同語源",
     "family": "vacant（空いている）／ vacancy（空室）／ vacation（休暇）／ evacuate（避難させる）",
+    "trivia": "判決の「取消」も vacate。上級審が原判決を vacate すると破棄になる",
     "example": {
       "en": "Tenants must vacate by the last day.",
       "ja": "賃借人は最終日までに明け渡さねばならない。"
@@ -7455,6 +7702,7 @@
     ],
     "origin": "ラテン語 verus（真）。述べたことが真である度合い。verify, verdict と同語源",
     "family": "veracious（真実の）／ verify（照合する）／ verdict（判定結果）／ very（まさに）",
+    "trivia": "証言の真実性を指す。veracity of the testimony は証言の信用性",
     "example": {
       "en": "The panel tested the veracity of the log.",
       "ja": "審査団は記録の真実性を検証した。"
@@ -7480,6 +7728,7 @@
     ],
     "origin": "ラテン語 verbum（言葉）。言葉どおりそのままであること。verb, verbose と同語源",
     "family": "verb（動詞）／ verbal（言葉の）／ verbose（冗長な）／ proverb（ことわざ）",
+    "trivia": "verbatim transcript は「一字一句の記録」。議事録や法廷記録で使う",
     "example": {
       "en": "A verbatim record of the hearing exists.",
       "ja": "審問の一字一句そのままの記録がある。"
@@ -7505,6 +7754,7 @@
     ],
     "origin": "ラテン語 vestigium（足跡）。残された跡。investigate と同語源",
     "family": "vestigial（痕跡の）／ investigate（調査する）／ investigation（捜査）",
+    "trivia": "a vestige of は「〜の名残」。生物では「痕跡器官」も vestigial organ",
     "example": {
       "en": "A vestige of the old track runs behind.",
       "ja": "古い軌道の痕跡が裏手に走っている。"
@@ -7530,6 +7780,7 @@
     ],
     "origin": "ラテン語 vicis（代わり）。他人に代わって負うこと。vice- と同語源",
     "family": "vicariously（代理的に）／ vice-（副〜）／ vicissitude（変転）",
+    "trivia": "vicarious liability は「使用者責任」。従業員の行為に雇用主が責任を負う原則",
     "example": {
       "en": "Vicarious liability covers staff actions.",
       "ja": "代位責任の責任が職員の行為を対象とする。"
@@ -7555,6 +7806,7 @@
     ],
     "origin": "ラテン語 vitium（欠陥）。欠陥を生じさせて効力を損なうこと。vice と同語源",
     "family": "vitiation（無効化）／ vice（悪徳）／ vicious（悪意のある）／ vitiated（損なわれた）",
+    "trivia": "契約の効力を損なうことを指す。詐欺や強迫は同意を vitiate する",
     "example": {
       "en": "A missing signature vitiates the deed.",
       "ja": "署名の欠落は証書の効力を損なう。"
@@ -7580,6 +7832,7 @@
     ],
     "origin": "ラテン語 vox（声）＋ ferre（運ぶ）。声を張り上げること。voice, advocate と同語源",
     "family": "vociferate（叫ぶ）／ voice（声）／ vocal（声の）／ advocate（擁護する）",
+    "trivia": "vociferous opposition は「声高な反対」。騒がしさを含む批判的な語",
     "example": {
       "en": "Vociferous opposition delayed the plan.",
       "ja": "声高な反対が計画を遅らせた。"
@@ -7605,6 +7858,7 @@
     ],
     "origin": "waive（放棄する）＋ -er。権利を手放すと記した書面",
     "family": "waive（免除する）／ waived（放棄された）",
+    "trivia": "スポーツでは選手の「ウェーバー公示」も waiver。権利放棄という原義",
     "example": {
       "en": "Sign the waiver before entering the pit.",
       "ja": "穴に入る前に権利放棄書に署名しなさい。"
@@ -7630,6 +7884,7 @@
     ],
     "origin": "中期英語 wan-（欠けた）＋ towen（しつけ）。しつけを欠いた、いわれのない行い",
     "family": "wantonly（理由なく）／ wantonness（放縦）",
+    "trivia": "wanton destruction は「理由なき破壊」。悪質さを強調する語",
     "example": {
       "en": "Wanton damage voids all cover.",
       "ja": "理由のない損傷はすべての補償を無効にする。"
@@ -7679,6 +7934,7 @@
     ],
     "origin": "ギリシャ語 zelos（熱意）。度を越した熱の入れよう。zealous と同語源",
     "family": "zealot（狂信者）／ zeal（熱意）／ zealous（熱心な）／ jealous（嫉妬深い）",
+    "trivia": "religious zealotry は「宗教的狂信」。度を越した熱意を批判する",
     "example": {
       "en": "Cost zealotry hurt product quality.",
       "ja": "費用への過度の熱狂が品質を損ねた。"
@@ -7752,6 +8008,7 @@
     ],
     "origin": "古仏語 abeance（口を開けて待つ）。効力が宙に浮いていること。abeyance と同語源",
     "family": "abeyance（一時的停止状態）／ abeyantly（停止して）",
+    "trivia": "権利が一時的に停止している状態を表す形容詞。abeyance の形容詞形",
     "example": {
       "en": "The abeyant claim revives after the survey.",
       "ja": "停止中の請求は調査の後に復活する。"
@@ -7777,6 +8034,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 crescere（伸びる）。加わって価値を増すこと。accrue と同語源",
     "family": "accretion（増加分）／ accrue（発生する）／ increase（増やす）／ crescent（三日月）",
+    "trivia": "買収が accretive なら「一株当たり利益を押し上げる」。M&A の評価用語",
     "example": {
       "en": "The purchase proved accretive to earnings.",
       "ja": "その買収は利益の価値を高めるものだった。"
@@ -7803,6 +8061,7 @@
     "origin": "ad-（〜へ）＋ ラテン語 jurare（誓う）。誓いにかけて求めること。jury, justice と同語源",
     "family": "adjuration（懇願）／ jury（陪審）／ justice（正義）／ perjury（偽証）",
     "contrast": "誓いにかけて厳かに求めること。adjust（調節する）と綴りが近い",
+    "trivia": "厳かに命じる、懇願するという意味。宗教的な響きを持つ古い語",
     "example": {
       "en": "The chair adjured both sides to settle.",
       "ja": "議長は双方に和解を厳かに求めた。"
@@ -7828,6 +8087,7 @@
     ],
     "origin": "ラテン語 alius（他）＋ -able。他人へ譲り渡せること。alienate と同語源",
     "family": "alienate（譲渡する）／ inalienable（譲り渡せない）／ alien（外国の）",
+    "trivia": "譲渡できることを表す。inalienable（譲り渡せない）との対",
     "example": {
       "en": "The permit is alienable with the premises.",
       "ja": "その許可証は敷地とともに譲渡できる。"
@@ -7853,6 +8113,7 @@
     ],
     "origin": "apportion（割り付ける）＋ -ment。割り前ごとに配分する計算",
     "family": "apportion（割り付ける）／ portion（一部分）／ proportion（比率）／ part（部分）",
+    "trivia": "米国では十年ごとの国勢調査に基づいて下院の議席を再配分する",
     "example": {
       "en": "Apportionment of rates follows floor area.",
       "ja": "料率の按分計算は床の面積に従う。"
@@ -7878,6 +8139,7 @@
     ],
     "origin": "arrears（滞納分）＋ -age。積み上がった未払い額",
     "family": "arrears（滞納）／ rear（後部）／ arrear（延滞）",
+    "trivia": "滞納が積み上がった額を指す。arrears の名詞形",
     "example": {
       "en": "The arrearage grew over three quarters.",
       "ja": "延滞累積額は三期にわたり膨らんだ。"
@@ -7903,6 +8165,7 @@
     ],
     "origin": "古仏語 atorner（振り向ける）。借主が新しい貸主を認めること。attorney と同語源",
     "family": "attorney（代理人）／ turn（回る）／ return（返す）／ tourn（巡回）",
+    "trivia": "不動産が売られたとき、借主が新しい所有者を貸主として認める手続き。賃貸借を継続させる",
     "example": {
       "en": "Attornment follows any sale of the block.",
       "ja": "新賃貸人承認は棟の売却のたびに行われる。"
@@ -7928,6 +8191,7 @@
     ],
     "origin": "bail（引き渡す）＋ -ee（受ける人）。物を預かる側。bailment と同語源",
     "family": "bail（引き渡す）／ bailment（寄託）／ bailor（寄託者）",
+    "trivia": "預かる側が bailee、預ける側が bailor。-ee と -or で立場が分かれる",
     "example": {
       "en": "The bailee owes a duty of reasonable care.",
       "ja": "受寄者は相当の注意義務を負う。"
@@ -7953,6 +8217,7 @@
     ],
     "origin": "ラテン語 cavilla（あざけり）。細かい点を取り上げて言い立てること",
     "family": "caviling（あら探し）／ caviler（あら探しをする人）",
+    "trivia": "重箱の隅をつつくような批判を指す。criticize より否定的な響き",
     "example": {
       "en": "Nobody caviled at the revised wording.",
       "ja": "改めた文言にあら探しをする者はいなかった。"
@@ -7978,6 +8243,7 @@
     ],
     "origin": "con-（共に）＋ ラテン語 dominium（所有権）。共有部分を伴う区分所有。dominate と同語源",
     "family": "dominant（支配的な）／ dominate（支配する）／ domain（領域）／ domestic（国内の）",
+    "trivia": "国際法では「共同統治領」も condominium。複数国が共同で統治する territory",
     "example": {
       "en": "The condominium board meets each spring.",
       "ja": "区分所有建物の理事会は毎春開かれる。"
@@ -8003,6 +8269,7 @@
     ],
     "origin": "covenant（約款）＋ -or。約款上の義務を負う側。covenantee と対",
     "family": "covenant（約款）／ covenantee（受益当事者）／ convene（招集する）／ venue（開催地）",
+    "trivia": "受益者の covenantee と -or / -ee で対をなす。契約書では両者を冒頭で定義する",
     "example": {
       "en": "The covenantor must maintain the fence.",
       "ja": "約定義務者は柵を維持せねばならない。"
@@ -8028,6 +8295,7 @@
     ],
     "origin": "de-（下へ）＋ ラテン語 ponere（置く）。書面に述べを置いた人。depose と同語源",
     "family": "depose（供述する）／ deposition（供述）／ deposit（預ける）／ position（位置）",
+    "trivia": "供述録取で証言する人。deposition を行う側を指す",
     "example": {
       "en": "The deponent confirmed the loading time.",
       "ja": "供述者は積み込みの時刻を確認した。"
@@ -8053,6 +8321,7 @@
     ],
     "origin": "ease（便宜）＋ -ment。他人の土地を使う便宜を認める権利",
     "family": "ease（容易さ）／ easy（容易な）／ easily（容易に）",
+    "trivia": "通行権や眺望権など、他人の土地を使う権利。不動産取引で調査する項目",
     "example": {
       "en": "An easement allows access to the well.",
       "ja": "地役権が井戸への立入りを認める。"
@@ -8078,6 +8347,7 @@
     ],
     "origin": "encumbrance（抵当権）＋ -er。財産に担保権を持つ側",
     "family": "encumber（負担を負わせる）／ encumbrance（抵当権）／ cumber（妨げる）",
+    "trivia": "抵当権などを持つ側。担保を設定された側は encumbrancee ではなく debtor",
     "example": {
       "en": "The encumbrancer consented to the sale.",
       "ja": "担保権者が売却に同意した。"
@@ -8103,6 +8373,7 @@
     ],
     "origin": "ex-（外へ）＋ ラテン語 cadere（落ちる）。相続人がなく国へ落ちること。accident と同語源",
     "family": "cheat（だます）／ accident（事故）／ occasion（機会）／ cadence（調子）",
+    "trivia": "相続人も遺言もない財産が国庫に帰属する制度。休眠預金にも適用されうる",
     "example": {
       "en": "Escheat applies when no heir appears.",
       "ja": "相続人が現れない場合は国庫帰属となる。"
@@ -8128,6 +8399,7 @@
     ],
     "origin": "lease（貸す）＋ -or。貸す側の当事者。lessee と対",
     "family": "lessee（賃借人）／ lease（賃貸借契約）／ release（公開する）",
+    "trivia": "貸す側が lessor、借りる側が lessee。綴りが一字違いで立場が逆転する",
     "example": {
       "en": "The lessor repaints the exterior every decade.",
       "ja": "賃貸人は十年ごとに外装を塗り直す。"
@@ -8179,6 +8451,7 @@
     ],
     "origin": "ラテン語 novus（新しい）。旧債務を新しい債務に置き換えること。innovate と同語源",
     "family": "novel（斬新な）／ innovate（刷新する）／ renovate（改修する）／ news（知らせ）",
+    "trivia": "当事者の一人を入れ替えて債務を作り直すこと。単なる譲渡とは法的効果が違う",
     "example": {
       "en": "Novation transferred the duties cleanly.",
       "ja": "債務引受による更改が義務を滞りなく移した。"
@@ -8204,6 +8477,7 @@
     ],
     "origin": "ラテン語 remittere（送り返す）。過大な賠償額を差し戻して減らすこと。remit と同語源",
     "family": "remit（送金する）／ remittance（送金）／ emit（排出する）／ transmit（送信する）",
+    "trivia": "陪審の評決額が過大なとき、裁判官が減額する手続き。米国民事訴訟の制度",
     "example": {
       "en": "The court ordered a remittitur of damages.",
       "ja": "裁判所は賠償額の減額を命じた。"
@@ -8229,6 +8503,7 @@
     ],
     "origin": "sub-（下に）＋ lessee（借主）。借主からさらに借りる側",
     "family": "lessee（賃借人）／ lessor（賃貸人）／ lease（賃貸借契約）",
+    "trivia": "転借人を指す。原賃貸人の承諾なく転貸できない契約が多い",
     "example": {
       "en": "The sublessee pays rent to the tenant.",
       "ja": "転借人は賃借人に賃料を払う。"
