@@ -45,12 +45,21 @@ export async function loadAllEntries() {
   return { meta, entries, sources };
 }
 
-/** 補足文に共通の体裁（長さ・末尾の句点）を見る。 */
+/** 補足文に共通の体裁（長さ・末尾の句点・括弧）を見る。 */
 function checkNoteFormat(text, where, errors) {
   if (text.length > NOTE_MAX_LENGTH) {
     errors.push(`${where} が長すぎます (${text.length} 文字)`);
   } else if (/[。]$/.test(text)) {
     errors.push(`${where} の末尾に句点を付けないでください`);
+  }
+  // 補足は全角括弧で統一する。半角が混じると行内で字面が崩れる
+  if (/[()]/.test(text)) {
+    errors.push(`${where} に半角括弧が混じっています`);
+  }
+  const open = (text.match(/（/g) ?? []).length;
+  const close = (text.match(/）/g) ?? []).length;
+  if (open !== close) {
+    errors.push(`${where} の括弧が閉じていません (（${open} 個 / ）${close} 個)`);
   }
 }
 
