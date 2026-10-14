@@ -18,6 +18,7 @@
       "comeupwith-produceidea"
     ],
     "origin": "up は「表に出て」。案が表に浮かんで手元に来ること",
+    "trivia": "案を思いつくこと。come up with the money なら「金を工面する」",
     "example": {
       "en": "The team came up with a cheaper packing method.",
       "ja": "その班はより安価な梱包方法を思いついた。"
@@ -42,6 +43,7 @@
       "runoutof-exhaustsupply"
     ],
     "origin": "out of は「〜の外へ」。蓄えの外へ走り出てしまうこと",
+    "trivia": "主語は人。We ran out of paper. で、Paper ran out. なら run out だけで足りる",
     "example": {
       "en": "The branch ran out of printer toner before the audit.",
       "ja": "その支店は監査の前に印刷機の粉末を使い果たした。"
@@ -66,6 +68,7 @@
       "keeptrack-stayinformedabout"
     ],
     "origin": "track は「足跡」。足跡を追い続けて見失わないこと",
+    "trivia": "対語は lose track of（見失う）。track は足跡という原義",
     "example": {
       "en": "Use the log sheet to keep track of tool loans.",
       "ja": "工具の貸し出しを把握しておくために記録用紙を使いなさい。"
@@ -90,6 +93,7 @@
       "onbehalf-actingfor"
     ],
     "origin": "behalf は古英語 be healfe（〜の側に）。その側に立って",
+    "trivia": "代理と代表の両方を表す。署名欄では略して o.b.o. と書くこともある",
     "example": {
       "en": "She signed the agreement on behalf of the parent company.",
       "ja": "彼女は親会社を代表して協定に署名した。"
@@ -115,6 +119,7 @@
     ],
     "origin": "ad-（〜へ）＋ ラテン語 cor（心）。心を合わせて。accord と同語源",
     "contrast": "規定に沿っていることを示す前置詞句。動詞ではないので主語の動作を表せない",
+    "trivia": "契約や規則への適合を示す硬い定型句。according to（〜によれば）とは別",
     "example": {
       "en": "Goods are stored in accordance with the safety manual.",
       "ja": "商品は安全手引に沿って保管されている。"
@@ -139,6 +144,7 @@
       "entitledto-haveright"
     ],
     "origin": "title（肩書き）を与えられている。権利が認められていること",
+    "trivia": "権利があること。be entitled to do と be entitled to 名詞の両方が可能",
     "example": {
       "en": "Full-time staff are entitled to fifteen paid days off.",
       "ja": "常勤の従業員には有給休暇十五日の権利がある。"
@@ -163,6 +169,7 @@
       "takeintoaccount-considerfactor"
     ],
     "origin": "account（勘定）の中へ取り入れること",
+    "trivia": "take account of とも言える。account は「勘定」で、計算に入れる発想",
     "example": {
       "en": "Take fuel costs into account when you quote.",
       "ja": "価格を提示するときは燃料費を考慮に入れなさい。"
@@ -187,6 +194,7 @@
       "makeupfor-compensateloss"
     ],
     "origin": "up は「不足まで満たして」。足りない分を埋めること",
+    "trivia": "埋め合わせること。make up は「構成する」「仲直りする」など別義が多い",
     "example": {
       "en": "Autumn sales made up for the slow summer.",
       "ja": "秋の売上が振るわない夏を埋め合わせた。"
@@ -211,6 +219,7 @@
       "catchup-reachsamelevel"
     ],
     "origin": "up は「同じ位置まで」。追いついて並ぶこと",
+    "trivia": "遅れを取り戻すこと。catch up on は「たまった分を片づける」",
     "example": {
       "en": "The plant caught up with orders by late May.",
       "ja": "工場は五月下旬までに注文に追いついた。"
@@ -238,6 +247,7 @@
       "p0080"
     ],
     "origin": "back は「後ろへ」。枝を刈り戻すように量を減らすこと",
+    "trivia": "支出や消費を減らすこと。cut back 単独でも使える",
     "example": {
       "en": "The branch cut back on overtime this quarter.",
       "ja": "支店は今四半期の残業を削減した。"
@@ -262,6 +272,7 @@
       "followup-checkafterwards"
     ],
     "origin": "follow（追う）＋ up（続けて）。後を追って確かめること",
+    "trivia": "名詞の follow-up は「追跡調査」や「続報」。ハイフンの有無で品詞が変わる",
     "example": {
       "en": "Follow up on the claim if no reply arrives.",
       "ja": "返答がなければその請求を追って確認しなさい。"
@@ -286,6 +297,7 @@
       "lookinto-investigatematter"
     ],
     "origin": "into は「中へ」。中まで覗き込んで調べること",
+    "trivia": "調査することを表す。look in on なら「様子を見に立ち寄る」",
     "example": {
       "en": "We will look into the missing pallet today.",
       "ja": "本日、見当たらない荷台について調査する。"
@@ -310,6 +322,7 @@
       "puttogether-assembleinfo"
     ],
     "origin": "together は「一つに寄せて」。寄せ集めてまとめること",
+    "trivia": "「組み立てる」のほか「まとめる」。put together a report は報告書を作ること",
     "example": {
       "en": "She put together a summary of the site visits.",
       "ja": "彼女は現場訪問の要約を取りまとめた。"
@@ -334,6 +347,7 @@
       "turnout-provetobe"
     ],
     "origin": "out は「結果が表に出て」。ふたを開けてみるとそうなること",
+    "trivia": "「結局〜となる」のほか「生産する」「集まる」。名詞の turnout は投票率や人出",
     "example": {
       "en": "The fault turned out to be a loose cable.",
       "ja": "その不具合は結局、緩んだ配線となった。"
@@ -358,6 +372,7 @@
       "committedto-dedicatedeffort"
     ],
     "origin": "com-（共に）＋ ラテン語 mittere（送る）。身を託して打ち込むこと",
+    "trivia": "to は前置詞なので動名詞が続く。be committed to improving の形",
     "example": {
       "en": "The firm is committed to shorter delivery times.",
       "ja": "同社は納期の短縮に尽力している。"
@@ -382,6 +397,7 @@
       "intheevent-ifsomethinghappens"
     ],
     "origin": "e-（外へ）＋ ラテン語 venire（来る）。そういう事が出てきた場合に",
+    "trivia": "契約書で「〜の場合には」。in the event that なら文を続けられる",
     "example": {
       "en": "In the event of a strike, orders ship by rail.",
       "ja": "争議の場合には注文品を鉄道で送る。"
@@ -406,6 +422,7 @@
       "withregard-concerning"
     ],
     "origin": "regard は「目を向けること」。そこへ目を向けると",
+    "trivia": "regarding とほぼ同義。as regards や in regard to も同じ働き",
     "example": {
       "en": "With regard to the lease, our lawyer will call.",
       "ja": "賃貸借に関しては当方の弁護士から連絡する。"
@@ -430,6 +447,7 @@
       "priorto-beforeintime"
     ],
     "origin": "ラテン語 prior（より前の）。それより前の時点で。priority と同語源",
+    "trivia": "before の硬い言い方。契約書や手順書で好まれる",
     "example": {
       "en": "Submit the form prior to the closing date.",
       "ja": "締め切りの日より前に用紙を提出しなさい。"
@@ -454,6 +472,7 @@
       "shortnotice-withlittlewarning"
     ],
     "origin": "notice（知らせ）が short（短い）。間を置かず告げられて",
+    "trivia": "英国では at short notice。前置詞が米英で分かれる珍しい例",
     "example": {
       "en": "The caterer prepared lunch on short notice.",
       "ja": "仕出し業者は急な知らせで昼食を用意した。"
@@ -478,6 +497,7 @@
       "freeofcharge-withoutpayment"
     ],
     "origin": "charge（請求）から free（外れて）。代金がかからないこと",
+    "trivia": "無料を表す定型句。complimentary も同じ意味で、ホテルの案内に使う",
     "example": {
       "en": "Installation is free of charge for members.",
       "ja": "会員は設置を無料で受けられる。"
@@ -502,6 +522,7 @@
       "adhereto-followstrictly"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 haerere（くっつく）。決まりに貼り付いて離れないこと",
+    "trivia": "規則や計画を守ること。物理的にくっつく意味もあり、文脈で読み分ける",
     "example": {
       "en": "Drivers adhere to the posted speed limit.",
       "ja": "運転手は掲示された速度の制限を厳守する。"
@@ -526,6 +547,7 @@
       "allowfor-includeinplanning"
     ],
     "origin": "for は「〜の分を」。その分を認めて見込んでおくこと",
+    "trivia": "考慮して余裕を取ること。allow（許す）とは意味がかなり違う",
     "example": {
       "en": "Allow for two days of customs handling.",
       "ja": "通関の処理に二日見込んでおきなさい。"
@@ -550,6 +572,7 @@
       "attendto-dealwithneed"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 tendere（張る）。注意をその方へ張ること",
+    "trivia": "「世話をする」の意味もある。attend（出席する）とは前置詞の有無で別の語になる",
     "example": {
       "en": "A porter will attend to your luggage.",
       "ja": "係員が手荷物の対応にあたる。"
@@ -574,6 +597,7 @@
       "backoutof-withdrawfromdeal"
     ],
     "origin": "back（後ろへ）out（外へ）。後ずさりして抜けること",
+    "trivia": "約束や契約から降りること。back out 単独でも使える",
     "example": {
       "en": "The buyer backed out of the lease.",
       "ja": "買い手は賃貸借から手を引いた。"
@@ -598,6 +622,7 @@
       "bebasedon-restonfoundation"
     ],
     "origin": "base（土台）の上に置かれていること。basis と同語源",
+    "trivia": "be based in なら「〜に拠点を置く」。前置詞で意味が変わる",
     "example": {
       "en": "The fee is based on floor area.",
       "ja": "料金は床の面積に基礎を置く。"
@@ -622,6 +647,7 @@
       "beboundby-legallytied"
     ],
     "origin": "bind（縛る）の過去分詞。その定めに縛られていること",
+    "trivia": "契約に拘束されること。bind の過去分詞 bound が語の中心",
     "example": {
       "en": "Both firms are bound by the same terms.",
       "ja": "両社は同じ条件に拘束される。"
@@ -646,6 +672,7 @@
       "becomposedof-consistofparts"
     ],
     "origin": "com-（共に）＋ pose（置く）。寄せ置いて作られていること",
+    "trivia": "be made up of とほぼ同義。consist of は受動態にしない点が違う",
     "example": {
       "en": "The panel is composed of five experts.",
       "ja": "審査団は五名の専門家から成る。"
@@ -670,6 +697,7 @@
       "beeligiblefor-qualifytoreceive"
     ],
     "origin": "e-（外へ）＋ ラテン語 legere（選ぶ）。選び出される資格があること",
+    "trivia": "資格があること。be eligible to do の形も使える",
     "example": {
       "en": "Full-time staff are eligible for the bonus.",
       "ja": "常勤の職員は賞与を受ける資格がある。"
@@ -694,6 +722,7 @@
       "beexposedto-leftunprotected"
     ],
     "origin": "ex-（外へ）＋ pose（置く）。外に置かれてじかに受けること",
+    "trivia": "危険や情報にさらされること。exposure は「露出」と「被曝」の両方",
     "example": {
       "en": "Stock exposed to damp may spoil.",
       "ja": "湿気にさらされる在庫は傷むことがある。"
@@ -718,6 +747,7 @@
       "beintendedfor-designedforuse"
     ],
     "origin": "in-（〜へ）＋ ラテン語 tendere（張る）。狙いをそちらへ張ってあること",
+    "trivia": "対象を示す。be intended to do なら目的を示す形になる",
     "example": {
       "en": "The kit is intended for indoor use only.",
       "ja": "その一式は屋内での使用向けである。"
@@ -742,6 +772,7 @@
       "belimitedto-restrictedwithin"
     ],
     "origin": "ラテン語 limes（境界）。その境の内に限られていること",
+    "trivia": "範囲を限定する。including but not limited to は契約書の定型句",
     "example": {
       "en": "Access is limited to authorized staff.",
       "ja": "立入りは許可された職員に限られる。"
@@ -766,6 +797,7 @@
       "berenownedfor-famousbecauseof"
     ],
     "origin": "re-（繰り返し）＋ ラテン語 nomen（名）。その点で名が語られること",
+    "trivia": "be famous for の格調高い言い方。良い評判にのみ使う",
     "example": {
       "en": "The town is renowned for its glassware.",
       "ja": "その町はガラス器具で名を知られる。"
@@ -790,6 +822,7 @@
       "bearinmind-rememberfact"
     ],
     "origin": "bear（担う）＋ mind（心）。心に載せて運ぶこと",
+    "trivia": "keep in mind とほぼ同義。bear は「担う」で、心に負うという発想",
     "example": {
       "en": "Bear in mind that the gate shuts at seven.",
       "ja": "門が七時に閉まることを心に留めなさい。"
@@ -814,6 +847,7 @@
       "breakeven-nogainnoloss"
     ],
     "origin": "even は「平ら」。損益が平らになる線を割ること",
+    "trivia": "損益が釣り合う点を break-even point と呼ぶ。事業計画の基本概念",
     "example": {
       "en": "The branch broke even in its second year.",
       "ja": "その支店は二年目に収支が均衡した。"
@@ -838,6 +872,7 @@
       "bringforward-moveearlier"
     ],
     "origin": "forward は「前へ」。日程を手前に持ってくること",
+    "trivia": "日程を前倒しすること。会計では「繰越」も bring forward",
     "example": {
       "en": "The audit was brought forward to June.",
       "ja": "監査は六月に前倒しされた。"
@@ -862,6 +897,7 @@
       "callin-summonhelp"
     ],
     "origin": "in は「中へ」。呼んで中へ来させること",
+    "trivia": "「呼び寄せる」のほか「電話を入れる」。call in sick は病欠の連絡をすること",
     "example": {
       "en": "We called in a specialist for the boiler.",
       "ja": "ボイラーのため専門家を呼び寄せた。"
@@ -886,6 +922,7 @@
       "carryweight-haveinfluence"
     ],
     "origin": "weight（重み）を carry（帯びる）。発言に重さがあること",
+    "trivia": "発言に重みがあること。His opinion carries weight. のように使う",
     "example": {
       "en": "Her opinion carries weight with the board.",
       "ja": "彼女の意見は取締役会で重みを持つ。"
@@ -910,6 +947,7 @@
       "closedown-shutpermanently"
     ],
     "origin": "down は「止まった状態へ」。閉じて営みを終えること",
+    "trivia": "廃業や閉鎖を表す。shut down が一時停止も含むのに対し、より恒久的",
     "example": {
       "en": "The old depot closed down last winter.",
       "ja": "古い拠点は昨冬、閉鎖した。"
@@ -934,6 +972,7 @@
       "comeintoeffect-becomevalid"
     ],
     "origin": "effect（効力）の中へ入ること。効き始めること",
+    "trivia": "法律や規則が施行されること。take effect とほぼ同義",
     "example": {
       "en": "The new rate comes into effect in April.",
       "ja": "新しい料金は四月に発効する。"
@@ -958,6 +997,7 @@
       "complywith-meetrequirement"
     ],
     "origin": "com-（すっかり）＋ ラテン語 plere（満たす）。求めを満たすこと",
+    "trivia": "規則を満たすこと。compliance は企業統治の重要語",
     "example": {
       "en": "Packaging must comply with export rules.",
       "ja": "包装は輸出の要件を満たさねばならない。"
@@ -982,6 +1022,7 @@
       "consistof-bemadeupof"
     ],
     "origin": "con-（共に）＋ ラテン語 sistere（立つ）。それらが共に立って成り立つこと",
+    "trivia": "受動態にしない動詞。be consisted of とは言えない点が試験で問われる",
     "example": {
       "en": "The set consists of four cutting heads.",
       "ja": "その一式は四つの切削頭で構成されている。"
@@ -1006,6 +1047,7 @@
       "copewith-managedifficulty"
     ],
     "origin": "古仏語 couper（打つ）。打ち合って渡り合うこと",
+    "trivia": "困難をどうにかこなすこと。deal with より苦労の含みが強い",
     "example": {
       "en": "The depot coped with a record December.",
       "ja": "拠点は記録的な十二月を乗り切った。"
@@ -1030,6 +1072,7 @@
       "drawuplist-makewrittenlist"
     ],
     "origin": "draw up（書き上げる）＋ list（一覧）。項目を書き並べること",
+    "trivia": "list を作ること。draw up は契約書や計画の作成にも使う",
     "example": {
       "en": "Draw up a list of pending repairs.",
       "ja": "保留中の修理の一覧を作りなさい。"
@@ -1054,6 +1097,7 @@
       "fallbehind-losepace"
     ],
     "origin": "behind は「後ろに」。後ろへ落ちて遅れること",
+    "trivia": "遅れを取ること。fall behind on payments は支払いの滞納を指す",
     "example": {
       "en": "The line fell behind after the outage.",
       "ja": "停電の後、生産設備は遅れを取った。"
@@ -1078,6 +1122,7 @@
       "fallshortof-failtoreach"
     ],
     "origin": "short は「足りない」。届かずに落ちること",
+    "trivia": "期待や目標に届かないこと。fall short 単独でも使える",
     "example": {
       "en": "Sales fell short of the quarterly target.",
       "ja": "売上は四半期の目標値に届かなかった。"
@@ -1102,6 +1147,7 @@
       "getridof-disposeofthing"
     ],
     "origin": "rid は古ノルド語 rythja（片づける）。取り除いて身軽にすること",
+    "trivia": "厄介なものを処分すること。rid は単独では使いにくい古い語",
     "example": {
       "en": "Get rid of the damaged pallets today.",
       "ja": "破損した荷台を本日、処分して手放しなさい。"
@@ -1126,6 +1172,7 @@
       "giverise-causetoappear"
     ],
     "origin": "rise（立ち上がり）を与える。そこから生じさせること",
+    "trivia": "問題や疑念を生じさせること。lead to より硬い書き言葉",
     "example": {
       "en": "The clause gave rise to a long dispute.",
       "ja": "その条項は長い紛争を生じさせた。"
@@ -1150,6 +1197,7 @@
       "gointoeffect-startbeingapplied"
     ],
     "origin": "effect（効力）の中へ入ること。come into effect と同じ発想",
+    "trivia": "come into effect と同じ意味。米国では go を使うことが多い",
     "example": {
       "en": "The ban goes into effect next Monday.",
       "ja": "その禁止は来週月曜に実施される。"
@@ -1174,6 +1222,7 @@
       "handover-transferresponsibility"
     ],
     "origin": "over は「向こうへ」。手渡して相手側へ移すこと",
+    "trivia": "引き渡すこと。名詞の handover は「業務の引き継ぎ」",
     "example": {
       "en": "The team handed over the site in May.",
       "ja": "その班は五月に現場を移管した。"
@@ -1198,6 +1247,7 @@
       "headfor-travelindirection"
     ],
     "origin": "head（頭）を for（〜へ向けて）。その方へ進むこと",
+    "trivia": "目的地へ向かうこと。be headed for なら「〜へ向かっている」",
     "example": {
       "en": "The convoy heads for the northern plant.",
       "ja": "車列は北の工場へ向かう。"
@@ -1222,6 +1272,7 @@
       "holdameeting-conveneassembly"
     ],
     "origin": "hold は「催す」。会を開いて場を保つこと",
+    "trivia": "have a meeting でも同じ。hold の方が正式な会議に使う",
     "example": {
       "en": "The union holds a meeting every quarter.",
       "ja": "組合は四半期ごとに会合を持つ。"
@@ -1246,6 +1297,7 @@
       "keepinmind-rememberwhenacting"
     ],
     "origin": "mind（心）の中に keep（保つ）。忘れずにおくこと",
+    "trivia": "bear in mind とほぼ同義。keep の方が口語的",
     "example": {
       "en": "Keep the humidity limit in mind.",
       "ja": "湿度の上限を念頭に置きなさい。"
@@ -1270,6 +1322,7 @@
       "leadto-resultin"
     ],
     "origin": "to は「その先へ」。導いた先がその結果になること",
+    "trivia": "結果を導くこと。lead to doing の形で動名詞を取る",
     "example": {
       "en": "Poor lubrication leads to early wear.",
       "ja": "潤滑の不足は早い摩耗につながる。"
@@ -1294,6 +1347,7 @@
       "liveupto-meetexpectation"
     ],
     "origin": "up to は「その高さまで」。期待の高さに届く生き方をすること",
+    "trivia": "期待に応えること。live up to expectations が定型の組み合わせ",
     "example": {
       "en": "The model lived up to its reviews.",
       "ja": "その型式は評価の期待に応えた。"
@@ -1318,6 +1372,7 @@
       "makeup-formtotalpart"
     ],
     "origin": "up は「積み上げて」。部分が集まって全体を作ること",
+    "trivia": "「構成する」「仲直りする」「埋め合わせる」「化粧する」と別義が極端に多い",
     "example": {
       "en": "Exports make up a third of turnover.",
       "ja": "輸出が売上高の構成比を占める三分の一だ。"
@@ -1342,6 +1397,7 @@
       "narrowdown-reduceoptions"
     ],
     "origin": "down は「減らして」。幅を狭めて数を絞ること",
+    "trivia": "選択肢を絞ること。narrow down the list は候補を減らすこと",
     "example": {
       "en": "We narrowed down the list to four firms.",
       "ja": "一覧を四社に絞り込んだ。"
@@ -1366,6 +1422,7 @@
       "optout-choosenottojoin"
     ],
     "origin": "ラテン語 optare（選ぶ）＋ out（外へ）。抜けることを選ぶこと。option と同語源",
+    "trivia": "参加しないことを選ぶ。opt in はその逆で、同意して参加すること",
     "example": {
       "en": "Two branches opted out of the scheme.",
       "ja": "二支店がその仕組みから離脱した。"
@@ -1390,6 +1447,7 @@
       "pavetheway-prepareforfuture"
     ],
     "origin": "pave（舗装する）＋ way（道）。後続が通れるよう道をならすこと",
+    "trivia": "後に続く道を整えること。pave the way for の形で対象を取る",
     "example": {
       "en": "The trial paved the way for full rollout.",
       "ja": "試験は全面展開への道筋をつけた。"
@@ -1414,6 +1472,7 @@
       "pulloutof-leavemarket"
     ],
     "origin": "out of は「〜の外へ」。引き抜いて手を引くこと",
+    "trivia": "撤退すること。pull out 単独でも「引き揚げる」の意味になる",
     "example": {
       "en": "The maker pulled out of the island trade.",
       "ja": "製造業者は島との取引から撤退した。"
@@ -1438,6 +1497,7 @@
       "putforward-submitidea"
     ],
     "origin": "forward は「前へ」。案を人前に押し出すこと",
+    "trivia": "提案すること。英国で好まれ、米国では propose や submit を使う",
     "example": {
       "en": "She put forward a simpler packing plan.",
       "ja": "彼女はより単純な梱包の案を提出して示した。"
@@ -1462,6 +1522,7 @@
       "putintopractice-applyinreality"
     ],
     "origin": "practice（実地）の中へ置くこと。実際に行うこと",
+    "trivia": "理論を実行に移すこと。put into effect なら制度を施行すること",
     "example": {
       "en": "The team put the new method into practice.",
       "ja": "その班は新しい方法を実践に移した。"
@@ -1486,6 +1547,7 @@
       "referto-consultsource"
     ],
     "origin": "re-（元へ）＋ ラテン語 ferre（運ぶ）。元の資料へ戻って当たること",
+    "trivia": "「言及する」「参照する」「呼ぶ」。refer to A as B は A を B と呼ぶこと",
     "example": {
       "en": "Refer to the diagram on page nine.",
       "ja": "九頁の図解を参照して当たりなさい。"
@@ -1510,6 +1572,7 @@
       "resortto-turntolastoption"
     ],
     "origin": "re-（再び）＋ 古仏語 sortir（出る）。他に手がなくそこへ行き着くこと",
+    "trivia": "他に手がなく用いること。resort は「行楽地」とは別の用法",
     "example": {
       "en": "The depot resorted to air freight.",
       "ja": "拠点はやむなく航空貨物を用いた。"
@@ -1534,6 +1597,7 @@
       "resultfrom-becausedby"
     ],
     "origin": "from は「〜から」。そこから跳ね返って生じること。result in と対",
+    "trivia": "result in と前置詞で因果が逆転する。from が原因、in が結果",
     "example": {
       "en": "The crack resulted from rapid cooling.",
       "ja": "その割れは急な冷却に起因する。"
@@ -1583,6 +1647,7 @@
       "setout-statelistedterms"
     ],
     "origin": "out は「表に並べて」。条件を書き並べて示すこと",
+    "trivia": "「出発する」の意味もある。set out to do なら「〜しようと試みる」",
     "example": {
       "en": "Clause four sets out the payment steps.",
       "ja": "第四条が支払いの手順を明記して示す。"
@@ -1607,6 +1672,7 @@
       "stepup-increaseeffort"
     ],
     "origin": "up は「一段上へ」。段を上げて度合いを強めること",
+    "trivia": "「強化する」のほか「名乗り出る」。step up to the plate は責任を引き受けること",
     "example": {
       "en": "Guards stepped up patrols after the theft.",
       "ja": "盗難の後、警備員は巡回を強めた。"
@@ -1631,6 +1697,7 @@
       "stickto-continuewithoutchange"
     ],
     "origin": "stick（貼り付く）。離れずやり通すこと",
+    "trivia": "計画や約束を守り通すこと。stick with とほぼ同義",
     "example": {
       "en": "Stick to the sequence in the manual.",
       "ja": "手引書の順序をやり通しなさい。"
@@ -1655,6 +1722,7 @@
       "takechargeof-assumecommand"
     ],
     "origin": "charge（積み荷・責め）を take（引き受ける）。指揮を執ること",
+    "trivia": "指揮を執ること。in charge of が状態、take charge of が動作を表す",
     "example": {
       "en": "She took charge of the relocation project.",
       "ja": "彼女は移転の事業計画の指揮を執った。"
@@ -1679,6 +1747,7 @@
       "takeeffect-becomeoperative"
     ],
     "origin": "effect（効力）を take（帯びる）。効き始めること",
+    "trivia": "法律の施行と、薬が効き始めることの両方に使う",
     "example": {
       "en": "The revised terms take effect on the first.",
       "ja": "改めた条件は一日に効力を生じる。"
@@ -1703,6 +1772,7 @@
       "takeplace-happenatlocation"
     ],
     "origin": "place（場）を take（占める）。場所と時を占めて行われること",
+    "trivia": "予定された出来事が起こること。happen は偶発的な出来事に使う",
     "example": {
       "en": "The ceremony takes place in the atrium.",
       "ja": "式典は吹き抜けで開かれる。"
@@ -1727,6 +1797,7 @@
       "takesteps-actpurposefully"
     ],
     "origin": "step（一歩）を take（踏む）。順に手を打つこと",
+    "trivia": "措置を講じること。複数形で使うのが定型",
     "example": {
       "en": "The firm took steps to reduce noise.",
       "ja": "会社は騒音を減らす手立てを講じた。"
@@ -1751,6 +1822,7 @@
       "tieup-occupyresources"
     ],
     "origin": "up は「動けないほど」。縛って自由を奪うこと",
+    "trivia": "「拘束する」のほか「提携する」。名詞の tie-up は業務提携",
     "example": {
       "en": "The recall tied up two whole shifts.",
       "ja": "回収が丸二勤務を拘束した。"
@@ -1775,6 +1847,7 @@
       "wearout-becomeunusable"
     ],
     "origin": "out は「尽きるまで」。使ってすり切れること",
+    "trivia": "すり減らすことと、疲れ果てること。be worn out は「へとへとだ」",
     "example": {
       "en": "Belts wear out after about a year.",
       "ja": "帯は約一年ですり減る。"
@@ -1799,6 +1872,7 @@
       "weighup-considercarefully"
     ],
     "origin": "weigh（秤にかける）＋ up（結論まで）。比べて判断を出すこと",
+    "trivia": "英国で好まれる。米国では weigh the options と言うことが多い",
     "example": {
       "en": "Management weighed up two sites.",
       "ja": "経営陣は二か所を比べて判断した。"
@@ -1823,6 +1897,7 @@
       "workaround-avoidobstacle"
     ],
     "origin": "around は「回り込んで」。障害を迂回して進めること",
+    "trivia": "名詞の workaround は「回避策」。根本解決でない暫定対応を指す",
     "example": {
       "en": "Engineers worked around the missing part.",
       "ja": "技術者は欠けた部品を回避して進めた。"
@@ -1847,6 +1922,7 @@
       "inchargesite-managelocation"
     ],
     "origin": "in charge of（担当して）＋ site（現場）。現場の責めを負うこと",
+    "trivia": "現場責任者を site manager と呼ぶ。建設の文脈で頻出する",
     "example": {
       "en": "A foreman is in charge of the site daily.",
       "ja": "職長が日々、現場を統括する。"
@@ -1871,6 +1947,7 @@
       "callattention-makeaware"
     ],
     "origin": "attention（注意）を call（呼び寄せる）。そこへ目を向けさせること",
+    "trivia": "draw attention to とほぼ同義。注意を引き寄せること",
     "example": {
       "en": "Signs call attention to the low ceiling.",
       "ja": "標示が低い天井への注意を促す。"
@@ -1895,6 +1972,7 @@
       "carryoutrepairs-performfixing"
     ],
     "origin": "carry out（実施する）＋ repairs（修理）。修理をやり通すこと",
+    "trivia": "make repairs でも同じ。英国では carry out、米国では make を好む",
     "example": {
       "en": "Contractors carry out repairs at night.",
       "ja": "請負業者は夜間に修理を実施する。"
@@ -1919,6 +1997,7 @@
       "cometoanend-finishcompletely"
     ],
     "origin": "end（終わり）へ来ること。終わりに行き着くこと",
+    "trivia": "終わりに至ること。bring to an end なら「終わらせる」と他動詞になる",
     "example": {
       "en": "The trial period comes to an end in June.",
       "ja": "試用の期間は六月に終了する。"
@@ -1943,6 +2022,7 @@
       "gooutofbusiness-ceasetrading"
     ],
     "origin": "business（商い）の外へ出ること。商いをやめること",
+    "trivia": "廃業すること。out of business は「営業していない」という状態",
     "example": {
       "en": "The supplier went out of business last year.",
       "ja": "その供給業者は昨年、廃業した。"
@@ -1967,6 +2047,7 @@
       "inthelongrun-overextendedtime"
     ],
     "origin": "run は「走り」。長い走りで見れば",
+    "trivia": "長期的に見ればという意味。in the short run はその対",
     "example": {
       "en": "In the long run, rail proves cheaper.",
       "ja": "長い目で見れば鉄道の方が安い。"
@@ -1991,6 +2072,7 @@
       "makeanexception-allowdeviation"
     ],
     "origin": "ex-（外へ）＋ ラテン語 capere（取る）。規則の外に取り出すこと",
+    "trivia": "例外を認めること。make an exception for の形で対象を取る",
     "example": {
       "en": "The desk made an exception for the late guest.",
       "ja": "窓口は遅れた客に例外を認めた。"
@@ -2015,6 +2097,7 @@
       "putpressureon-urgeforcefully"
     ],
     "origin": "pressure（圧力）を on（載せる）。上から押すこと。press と同語源",
+    "trivia": "圧力をかけること。under pressure は「圧力を受けて」",
     "example": {
       "en": "Rising costs put pressure on margins.",
       "ja": "費用の上昇が利幅に圧力をかける。"
@@ -2039,6 +2122,7 @@
       "takeadvantage-usebeneficially"
     ],
     "origin": "advantage は「前に出た有利さ」。その有利さを取って使うこと",
+    "trivia": "「利用する」と「つけ込む」の両方。後者は否定的な含みを持つ",
     "example": {
       "en": "Buyers took advantage of the early discount.",
       "ja": "買い手は早期の割引をうまく利用した。"

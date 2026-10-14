@@ -1550,6 +1550,7 @@
       "duringcourse-throughoutperiod"
     ],
     "origin": "course はラテン語 currere（走る）。走っている間ずっと",
+    "trivia": "during だけで足りる場面も多い。硬い文書で重みを持たせたいときに使う",
     "example": {
       "en": "Temperature is logged during the course of the run.",
       "ja": "運転の間ずっと温度が記録される。"
@@ -1574,6 +1575,7 @@
       "forthesake-forbenefitof"
     ],
     "origin": "sake は古英語 sacu（訴え・目的）。その目的のために",
+    "trivia": "for the sake of argument は「議論のために仮に」。立場を仮置きする前置き",
     "example": {
       "en": "Speed limits exist for the sake of safety.",
       "ja": "速度の制限は安全のためにある。"
@@ -1598,6 +1600,7 @@
       "inaddition-plusalso"
     ],
     "origin": "addition は「足し算」。それに足す形で",
+    "trivia": "前置詞なので動名詞が続く。in addition 単独なら副詞句として文頭に置ける",
     "example": {
       "en": "In addition to rent, tenants pay a service charge.",
       "ja": "賃料に加えて別に賃借人は管理費を払う。"
@@ -1622,6 +1625,7 @@
       "incaseof-preparingfor"
     ],
     "origin": "case はラテン語 cadere（落ちる）。そういう事態が落ちてきた場合に",
+    "trivia": "掲示では In case of fire（火災の際は）。in case だけなら「〜するといけないので」",
     "example": {
       "en": "Keep a torch in case of a power cut.",
       "ja": "停電に備えて懐中電灯を用意しておきなさい。"
@@ -1646,6 +1650,7 @@
       "inchargephr-havingcontrol"
     ],
     "origin": "charge は「積み荷・責め」。荷を負う立場で",
+    "trivia": "in charge of と of を伴うと対象が付く。単独なら「責任者で」という状態を表す",
     "example": {
       "en": "Who is in charge while the manager is away.",
       "ja": "支配人の不在中は誰が責任者ですか。"
@@ -1670,6 +1675,7 @@
       "ingeneral-usuallyoverall"
     ],
     "origin": "general はラテン語 genus（種）。種全体として見れば",
+    "trivia": "文頭では「一般に」。名詞の後ろに置くと「〜全般」で、people in general は人々一般",
     "example": {
       "en": "In general, autumn orders exceed spring ones.",
       "ja": "概して秋の注文は春を上回る。"
@@ -1694,6 +1700,7 @@
       "inplaceof-asreplacementfor"
     ],
     "origin": "そのものの place（場所）に代わって",
+    "trivia": "instead of とほぼ同義。in place は「所定の位置に」で別の意味になる",
     "example": {
       "en": "Use the steel bracket in place of plastic.",
       "ja": "樹脂に取って代えて鋼の金具を使いなさい。"
@@ -1718,6 +1725,7 @@
       "intermsof-regardingaspect"
     ],
     "origin": "term は「区切られた語」。その言葉の枠組みで見れば",
+    "trivia": "「〜の観点では」。数学では「〜を用いて表すと」という専門的な用法もある",
     "example": {
       "en": "In terms of cost, rail wins easily.",
       "ja": "費用の点では鉄道が容易に勝る。"
@@ -1742,6 +1750,7 @@
       "onaccountof-becauseofcause"
     ],
     "origin": "account は「勘定・理由」。それを勘定に入れて",
+    "trivia": "because of の硬い言い方。on no account は「決して〜ない」で意味が変わる",
     "example": {
       "en": "The ferry stopped on account of high winds.",
       "ja": "強風のせいで渡し船が止まった。"
@@ -1766,6 +1775,7 @@
       "onbehalfphr-representingother"
     ],
     "origin": "behalf は古英語 be healfe（〜の側に）。その側に立って",
+    "trivia": "on behalf of が通常の形。米国では in behalf of を「〜のために」と区別する人もいる",
     "example": {
       "en": "He signed on behalf of the buyer.",
       "ja": "彼は買い手の代理として署名した。"
@@ -1790,6 +1800,7 @@
       "regardlessof-withoutbeingaffected"
     ],
     "origin": "regard（目を向ける）＋ -less。目を向けず、関わりなく",
+    "trivia": "irregardless は非標準とされる語。規範的には regardless を使う",
     "example": {
       "en": "The fee applies regardless of order size.",
       "ja": "料金は注文の大きさに関係なくかかる。"
@@ -1814,6 +1825,7 @@
       "thanksto-becauseofhelp"
     ],
     "origin": "感謝を向ける先。その働きのおかげで",
+    "trivia": "悪い結果にも皮肉として使える。Thanks to you, we're late. のような用法",
     "example": {
       "en": "Thanks to the new dryer, output doubled.",
       "ja": "新しい乾燥機のおかげで生産が倍になった。"
@@ -1838,6 +1850,7 @@
       "uptodate-currentandcorrect"
     ],
     "origin": "date（今日の日付）まで up（追いついて）いる状態",
+    "trivia": "名詞を修飾するときは up-to-date とハイフンでつなぐ。述語では分けて書く",
     "example": {
       "en": "Keep the contact list up to date.",
       "ja": "連絡先の一覧を最新の状態で保ちなさい。"
@@ -1862,6 +1875,7 @@
       "withrespectto-concerningmatter"
     ],
     "origin": "re-（振り返って）＋ ラテン語 specere（見る）。そこへ目を向けると",
+    "trivia": "regarding とほぼ同義の硬い表現。契約書や論文で頻出する",
     "example": {
       "en": "With respect to storage, clause nine applies.",
       "ja": "保管に関しては第九条が適用される。"
@@ -1886,6 +1900,7 @@
       "accountforit-explainreason"
     ],
     "origin": "account は「勘定を立てる」。勘定が合うよう説明が付くこと",
+    "trivia": "「説明がつく」のほか「割合を占める」。accounts for 30% のように使う",
     "example": {
       "en": "A power dip accounts for the reading.",
       "ja": "電圧の低下でその測定値は説明がつく。"
@@ -1910,6 +1925,7 @@
       "addup-totalcorrectly"
     ],
     "origin": "up は「合計まで」。足し上げて数が合うこと",
+    "trivia": "It doesn't add up. は「筋が通らない」。計算が合わないことから比喩へ",
     "example": {
       "en": "The figures do not add up this month.",
       "ja": "今月は数字の計算が合わない。"
@@ -1934,6 +1950,7 @@
       "beabout-ontheverge"
     ],
     "origin": "about は「すぐ周りに」。その動作がすぐそこまで来ていること",
+    "trivia": "直後の行動を表す。be going to より切迫していて、近接未来を指す",
     "example": {
       "en": "The ferry is about to leave the pier.",
       "ja": "渡し船は桟橋を離れようとしている。"
@@ -1958,6 +1975,7 @@
       "beaccustomed-usedtodoing"
     ],
     "origin": "custom（習わし）に馴染んでいること。customary と同語源",
+    "trivia": "to は前置詞なので動名詞が続く。be used to と同じ型",
     "example": {
       "en": "Staff are accustomed to the new layout.",
       "ja": "職員は新しい配置に慣れ親しんでいる。"
@@ -1982,6 +2000,7 @@
       "bebusywith-occupiedwithtask"
     ],
     "origin": "busy は古英語 bisig（気を取られた）。それに手を取られていること",
+    "trivia": "動名詞を続けるときは with を外す。be busy doing の形になる",
     "example": {
       "en": "The clerk is busy with the year-end count.",
       "ja": "事務員は年末の集計で手が離せない。"
@@ -2006,6 +2025,7 @@
       "befamousfor-wellknownfor"
     ],
     "origin": "ラテン語 fama（評判）。その点で名が知られていること",
+    "trivia": "悪名には be notorious for を使う。良い評判と悪い評判で語が分かれる",
     "example": {
       "en": "The bakery is famous for its rye bread.",
       "ja": "そのパン屋はライ麦のパンで有名である。"
@@ -2030,6 +2050,7 @@
       "befullof-completelyfilled"
     ],
     "origin": "full（満ちた）。それで満ちていること",
+    "trivia": "be filled with とほぼ同義。full は形容詞、filled は過去分詞という違いがある",
     "example": {
       "en": "The rack is full of empty cartons.",
       "ja": "棚は空の箱でいっぱいである。"
@@ -2054,6 +2075,7 @@
       "beinshort-scarceavailability"
     ],
     "origin": "supply（供給）が short（足りない）状態にあること",
+    "trivia": "品薄を表す定型句。in short（要するに）とは別の表現",
     "example": {
       "en": "Spare belts are in short supply.",
       "ja": "予備の帯が不足している。"
@@ -2078,6 +2100,7 @@
       "bemadeof-composedofmaterial"
     ],
     "origin": "of は素材の出どころを示す。それを材として作られていること",
+    "trivia": "材料が見て分かるのが of、変質しているのが from。be made from wine のように使い分ける",
     "example": {
       "en": "The tray is made of recycled plastic.",
       "ja": "その受け皿は再生した樹脂でできている。"
@@ -2102,6 +2125,7 @@
       "besimilarto-resembleclosely"
     ],
     "origin": "ラテン語 similis（似た）。それに似通っていること",
+    "trivia": "similar with とは言わない。前置詞の選択が試験で問われる定番",
     "example": {
       "en": "The layout is similar to the Kobe plant.",
       "ja": "配置は神戸工場と似通っている。"
@@ -2126,6 +2150,7 @@
       "besupposed-expectedtodo"
     ],
     "origin": "sub-（下に）＋ pose（置く）。前提として置かれていること",
+    "trivia": "「〜のはずだ」と「〜することになっている」。義務と予定の両方を表す",
     "example": {
       "en": "You are supposed to log every entry.",
       "ja": "入場は毎回記録することになっている。"
@@ -2150,6 +2175,7 @@
       "beworth-havingvalue"
     ],
     "origin": "worth は古英語 weorth（値打ち）。それだけの値があること",
+    "trivia": "worth は前置詞的に働き、動名詞を直接取る。worth doing の形になる",
     "example": {
       "en": "The old press is still worth repairing.",
       "ja": "古い印刷機はまだ修理する価値がある。"
@@ -2174,6 +2200,7 @@
       "bringin-hiretemporarily"
     ],
     "origin": "in は「中へ」。外から中へ連れ入れること",
+    "trivia": "「導入する」のほか「収益をもたらす」。bring in revenue は売上を生むこと",
     "example": {
       "en": "The depot brought in extra drivers.",
       "ja": "拠点は運転手を追加で呼び入れた。"
@@ -2198,6 +2225,7 @@
       "callon-visitclient"
     ],
     "origin": "on は「相手のもとへ」。相手を訪ねて声をかけること",
+    "trivia": "「要請する」の意味もある。call on someone to do は人に行動を求めること",
     "example": {
       "en": "Our agent calls on twenty shops weekly.",
       "ja": "当社の担当は週に二十店を訪問する。"
@@ -2222,6 +2250,7 @@
       "carryoutsurvey-conductstudy"
     ],
     "origin": "carry out（実施する）＋ survey（調査）。調査をやり通すこと",
+    "trivia": "conduct a survey も同じ意味。carry out は英国、conduct は米国で好まれる",
     "example": {
       "en": "The team carried out a customer survey.",
       "ja": "その班は顧客の調査を行った。"
@@ -2246,6 +2275,7 @@
       "catchon-becomepopular"
     ],
     "origin": "on は「くっついて」。人々に引っかかって広まること",
+    "trivia": "「理解する」の意味もある。He didn't catch on. は気づかなかったこと",
     "example": {
       "en": "The refill pack caught on quickly.",
       "ja": "詰め替えの袋はすぐに定着した。"
@@ -2270,6 +2300,7 @@
       "checkon-monitorcondition"
     ],
     "origin": "on は「〜について」。その状態を確かめること",
+    "trivia": "check out（調べる）と副詞で意味が分かれる。check on は様子見",
     "example": {
       "en": "Check on the dryer every two hours.",
       "ja": "二時間ごとに乾燥機の様子を見なさい。"
@@ -2294,6 +2325,7 @@
       "cleanup-tidythoroughly"
     ],
     "origin": "up は「すっかり」。汚れをすべて取り去ること",
+    "trivia": "「大もうけする」という口語もある。clean up in the market は相場で儲けること",
     "example": {
       "en": "Crews clean up the yard before dusk.",
       "ja": "作業班は日暮れ前に構内の清掃を済ませる。"
@@ -2318,6 +2350,7 @@
       "comeacross-findbychance"
     ],
     "origin": "across は「横切って」。行く道を横切って出くわすこと",
+    "trivia": "「印象を与える」の意味もある。come across as friendly は親しげに見えること",
     "example": {
       "en": "I came across the missing invoice today.",
       "ja": "本日、行方不明の請求書をふと見つけた。"
@@ -2342,6 +2375,7 @@
       "comeback-returntoplace"
     ],
     "origin": "back は「元へ」。もといた所へ戻ること",
+    "trivia": "名詞の comeback は「返り咲き」。make a comeback は復活すること",
     "example": {
       "en": "The driver comes back before noon.",
       "ja": "運転手は正午前に戻る。"
@@ -2366,6 +2400,7 @@
       "crossout-strikethroughtext"
     ],
     "origin": "cross（十字に線を引く）＋ out（消して）。線で消すこと",
+    "trivia": "線を引いて消すこと。計算機では strikethrough（取り消し線）と呼ぶ",
     "example": {
       "en": "Cross out the old price on the tag.",
       "ja": "札の古い価格に線を引いて消しなさい。"
@@ -2390,6 +2425,7 @@
       "cutinhalf-reducebyfifty"
     ],
     "origin": "half（半分）に cut（切る）。二等分すること",
+    "trivia": "cut in two とも言う。half は無冠詞で使うのが定型",
     "example": {
       "en": "The jig cut setup time in half.",
       "ja": "その治具は段取りの時間を半分にした。"
@@ -2414,6 +2450,7 @@
       "dropin-visitunannounced"
     ],
     "origin": "in は「中へ」。予告なくふらりと入ること。drop by と同じ発想",
+    "trivia": "drop in on someone は人を訪ねること。on の有無で対象が変わる",
     "example": {
       "en": "An inspector may drop in without notice.",
       "ja": "検査員が予告なく不意に立ち寄ることがある。"
@@ -2438,6 +2475,7 @@
       "fillup-fillcompletely"
     ],
     "origin": "up は「上まで」。容器の上まで満たすこと",
+    "trivia": "タンクを満タンにすること。Fill her up. は給油所の決まり文句",
     "example": {
       "en": "Drivers fill up before the long route.",
       "ja": "運転手は長い経路の前に満タンにする。"
@@ -2462,6 +2500,7 @@
       "getalong-havegoodrelations"
     ],
     "origin": "along は「並んで進んで」。相手と並んでやっていくこと",
+    "trivia": "英国では get on with を好む。人間関係の良し悪しを表す",
     "example": {
       "en": "The two teams get along well.",
       "ja": "二つの班はうまくやっていっている。"
@@ -2486,6 +2525,7 @@
       "getby-manageminimally"
     ],
     "origin": "by は「脇を通って」。どうにか通り抜けること",
+    "trivia": "「どうにか暮らす」。get by on a small salary は少ない給料でやりくりすること",
     "example": {
       "en": "We got by with one van for a week.",
       "ja": "一週間、貨物車一台で何とかやりくりした。"
@@ -2510,6 +2550,7 @@
       "giveaway-distributefree"
     ],
     "origin": "away は「手元から離して」。ただで手放すこと",
+    "trivia": "「秘密を漏らす」の意味もある。名詞の giveaway は景品や無料配布品",
     "example": {
       "en": "The stand gives away sample sachets.",
       "ja": "その売り場は見本の小袋を無償で配る。"
@@ -2534,6 +2575,7 @@
       "goon-continueintime"
     ],
     "origin": "on は「そのまま続けて」。途切れず進むこと",
+    "trivia": "「続ける」のほか「起こる」。What's going on? は「どうなっているの」",
     "example": {
       "en": "The talks went on until late evening.",
       "ja": "交渉は夜遅くまで続いた。"
@@ -2558,6 +2600,7 @@
       "growinto-developtofit"
     ],
     "origin": "into は「その形の中へ」。育ってその大きさに収まること",
+    "trivia": "「成長して合うようになる」。子ども服が大きくても grow into it と言う",
     "example": {
       "en": "The firm grew into its new premises.",
       "ja": "会社は新しい敷地に成長して収まった。"
@@ -2582,6 +2625,7 @@
       "handback-returntoowner"
     ],
     "origin": "back（元へ）hand（手渡す）。持ち主へ返すこと",
+    "trivia": "手渡しで返すこと。hand in（提出する）と副詞で向きが変わる",
     "example": {
       "en": "Hand back the keys at the gate house.",
       "ja": "門衛所で鍵を返却しなさい。"
@@ -2606,6 +2650,7 @@
       "headoff-preventinadvance"
     ],
     "origin": "head（先頭）を off（そらせて）。先回りして向きを変えさせること",
+    "trivia": "「先回りして防ぐ」のほか「出発する」。副詞 off が離脱と阻止の両方を表す",
     "example": {
       "en": "Regular checks head off major faults.",
       "ja": "定期の点検が大きな不具合を未然に防ぐ。"
@@ -2630,6 +2675,7 @@
       "helpout-assisttemporarily"
     ],
     "origin": "out は「窮地から外へ」。困りごとから引き出して助けること",
+    "trivia": "out が「困った状況から」を表す。help より手を貸す場面が具体的になる",
     "example": {
       "en": "Office staff helped out in the warehouse.",
       "ja": "事務の職員が倉庫の助けに入った。"
@@ -2654,6 +2700,7 @@
       "joinin-participatewithothers"
     ],
     "origin": "ラテン語 jungere（つなぐ）。輪の中へつながること。junction と同語源",
+    "trivia": "join は団体に加わること、join in は活動に参加すること。前置詞で対象が変わる",
     "example": {
       "en": "Everyone joined in the safety drill.",
       "ja": "全員が避難訓練に加わって参加した。"
@@ -2678,6 +2725,7 @@
       "keepaway-stayclear"
     ],
     "origin": "away は「離れた所に」。距離を保ち続けること",
+    "trivia": "掲示では Keep away（立入禁止）。危険物の注意書きでも使う",
     "example": {
       "en": "Keep away from the moving belt.",
       "ja": "動いている帯に近づかないこと。"
@@ -2702,6 +2750,7 @@
       "knockdown-demolishbuilding"
     ],
     "origin": "down は「下へ」。打って倒し崩すこと",
+    "trivia": "「値切る」の意味もある。knock down the price は値段を下げさせること",
     "example": {
       "en": "The old shed was knocked down in May.",
       "ja": "古い小屋は五月に取り壊された。"
@@ -2726,6 +2775,7 @@
       "layoutphr-arrangeondisplay"
     ],
     "origin": "out は「広げて」。並べ広げて配置すること",
+    "trivia": "名詞の layout は「配置」。動詞は二語、名詞は一語で綴りが分かれる",
     "example": {
       "en": "Staff lay out the samples before opening.",
       "ja": "職員は開店前に見本を並べて配置する。"
@@ -2750,6 +2800,7 @@
       "letgoof-releasegrip"
     ],
     "origin": "go（行かせる）＋ of（〜から離れて）。つかむのをやめること",
+    "trivia": "手放すことと、感情を断ち切ること。let go 単独なら「解雇する」の婉曲表現",
     "example": {
       "en": "Never let go of the strap while lifting.",
       "ja": "持ち上げる間は帯を手放してはならない。"
@@ -2774,6 +2825,7 @@
       "lookintoit-investigatebriefly"
     ],
     "origin": "into は「中へ」。中まで覗き込んで調べること",
+    "trivia": "調査することを表す。I'll look into it. は「調べておきます」の定型句",
     "example": {
       "en": "I will look into it and call you back.",
       "ja": "調べてみて折り返し電話する。"
@@ -2798,6 +2850,7 @@
       "makeanote-writereminder"
     ],
     "origin": "note はラテン語 nota（印）。印を書き付けること",
+    "trivia": "make a note of の形で対象を取る。take a note は「メモを取る」で少し違う",
     "example": {
       "en": "Make a note of the batch number.",
       "ja": "生産分の番号を書き付けなさい。"
@@ -2822,6 +2875,7 @@
       "movein-startliving"
     ],
     "origin": "in は「中へ」。荷を運び入れて住み始めること",
+    "trivia": "move in on は「侵入する」。副詞の後の前置詞で意味が変わる",
     "example": {
       "en": "Tenants move in on the first of April.",
       "ja": "賃借人は四月一日に入居する。"
@@ -2846,6 +2900,7 @@
       "packup-putintoboxes"
     ],
     "origin": "up は「すっかり」。荷を詰め終えること",
+    "trivia": "英国口語で機械が「壊れる」の意味もある。The engine packed up. のように使う",
     "example": {
       "en": "Crews pack up the booth after the fair.",
       "ja": "作業班は見本市の後、売り場を荷造りする。"
@@ -2870,6 +2925,7 @@
       "passby-movepast"
     ],
     "origin": "by は「そばを」。脇を通り過ぎること",
+    "trivia": "通り過ぎることと、時が過ぎること。Time passes by. のように時間にも使う",
     "example": {
       "en": "The shuttle passes by the north gate.",
       "ja": "送迎車は北門を通り過ぎる。"
@@ -2894,6 +2950,7 @@
       "payback-repayborrowed"
     ],
     "origin": "back（元へ）pay（払う）。借りを返すこと",
+    "trivia": "名詞の payback は「見返り」や「報復」。投資回収期間も payback period",
     "example": {
       "en": "The firm pays back the advance monthly.",
       "ja": "会社は前払金を毎月返済する。"
@@ -2918,6 +2975,7 @@
       "pileup-accumulatehigh"
     ],
     "origin": "up は「上へ」。積み重なっていくこと",
+    "trivia": "仕事がたまることにも使う。Work is piling up. は業務の滞留を表す",
     "example": {
       "en": "Cartons piled up near the loading door.",
       "ja": "箱が荷積みの扉の近くに積み上がった。"
@@ -2942,6 +3000,7 @@
       "putback-returntoplace"
     ],
     "origin": "back（元の位置へ）put（置く）。戻して置くこと",
+    "trivia": "元に戻すことと、予定を「遅らせる」。英国では時計を遅らせる意味でも使う",
     "example": {
       "en": "Put back the tools after each job.",
       "ja": "作業のたびに工具を元に戻しなさい。"
@@ -2966,6 +3025,7 @@
       "putdown-setondown"
     ],
     "origin": "down は「下へ」。手にした物を下に置くこと",
+    "trivia": "「書き留める」のほか「けなす」。a put-down は人を見下す発言",
     "example": {
       "en": "Put down the crate before you sign.",
       "ja": "署名する前に木箱を下に置きなさい。"
@@ -2990,6 +3050,7 @@
       "ringup-registersale"
     ],
     "origin": "レジの鈴を up（鳴らして）金額を打つ。旧式レジの動作から",
+    "trivia": "英国では「電話する」の意味。米国ではレジを打つこと",
     "example": {
       "en": "The clerk rings up each item separately.",
       "ja": "係員は品ごとに会計を打つ。"
@@ -3014,6 +3075,7 @@
       "runover-exceedallottedtime"
     ],
     "origin": "over は「縁を越えて」。決めた枠からあふれること",
+    "trivia": "「車でひく」という物騒な別義もある。文脈で判断する必要がある",
     "example": {
       "en": "The session ran over by twenty minutes.",
       "ja": "その回は二十分、時間を超過した。"
@@ -3038,6 +3100,7 @@
       "sendback-returnbypost"
     ],
     "origin": "back（元へ）send（送る）。送り返すこと",
+    "trivia": "返送すること。送り返す理由は返品 return か不良 defect かで表現が変わる",
     "example": {
       "en": "Send back any carton with a torn seal.",
       "ja": "封が破れた箱は送り返しなさい。"
@@ -3062,6 +3125,7 @@
       "setadate-fixday"
     ],
     "origin": "date（日付）を set（据える）。日取りを固めること",
+    "trivia": "結婚や会議の日取りを決めること。fix a date とも言う",
     "example": {
       "en": "Let us set a date for the site visit.",
       "ja": "現場訪問の日取りを決めよう。"
@@ -3086,6 +3150,7 @@
       "showaround-guidethroughplace"
     ],
     "origin": "around は「ぐるりと」。ひと回り見せて案内すること",
+    "trivia": "案内して回ること。show someone around the office は社内を案内すること",
     "example": {
       "en": "A guide shows visitors around the plant.",
       "ja": "案内係が訪問者を工場で案内して回る。"
@@ -3110,6 +3175,7 @@
       "shutdown-turnoffsystem"
     ],
     "origin": "down は「止まった状態へ」。閉じて動きを止めること",
+    "trivia": "名詞の shutdown は「操業停止」。米国政府の予算切れも government shutdown",
     "example": {
       "en": "Engineers shut down the line for cleaning.",
       "ja": "技術者は清掃のため生産設備を停止させる。"
@@ -3134,6 +3200,7 @@
       "signin-registerentry"
     ],
     "origin": "in は「中へ」。署名して入りを記録すること",
+    "trivia": "入館記録に署名すること。計算機の log in とほぼ同義で使われる",
     "example": {
       "en": "All visitors sign in at reception.",
       "ja": "来訪者は全員、受付で記帳する。"
@@ -3158,6 +3225,7 @@
       "sortby-arrangebycriterion"
     ],
     "origin": "by は「〜を基準に」。その項目を基準に並べ替えること",
+    "trivia": "並べ替えの基準を示す。sort out（解決する）とは意味がまったく違う",
     "example": {
       "en": "Sort the parcels by postal code.",
       "ja": "小包は郵便番号の順に並べなさい。"
@@ -3182,6 +3250,7 @@
       "standfor-representabbreviation"
     ],
     "origin": "for は「〜の代わりに」。その代わりに立っていること",
+    "trivia": "「容認する」の意味もある。I won't stand for it. は「我慢ならない」",
     "example": {
       "en": "The letters stand for the plant code.",
       "ja": "その文字は工場の記号の略である。"
@@ -3206,6 +3275,7 @@
       "stayon-remaininpost"
     ],
     "origin": "on は「そのまま続けて」。その職に留まり続けること",
+    "trivia": "予定を越えて留まること。職にとどまるのも stay on として使う",
     "example": {
       "en": "The chief engineer stayed on another year.",
       "ja": "主任技術者はもう一年留任した。"
@@ -3230,6 +3300,7 @@
       "takeaway-removefromplace"
     ],
     "origin": "away は「離れた所へ」。取って持ち去ること",
+    "trivia": "英国ではテイクアウトの食事を takeaway、米国では takeout と呼ぶ",
     "example": {
       "en": "Take away the empty drums this evening.",
       "ja": "今夕、空の樽を持ち去りなさい。"
@@ -3254,6 +3325,7 @@
       "takeback-acceptreturn"
     ],
     "origin": "back（元へ）take（取る）。引き取って戻すこと",
+    "trivia": "「撤回する」の意味もある。I take it back. は発言を取り消すこと",
     "example": {
       "en": "The store takes back unused items.",
       "ja": "その店は未使用の品を引き取る。"
@@ -3278,6 +3350,7 @@
       "takedown-recordbywriting"
     ],
     "origin": "down は「紙の上へ下ろして」。書き取ること。write down と同じ発想",
+    "trivia": "「解体する」の意味もある。take down a tent はテントをたたむこと",
     "example": {
       "en": "Take down the caller's reference number.",
       "ja": "電話の相手の参照番号を書き取りなさい。"
@@ -3302,6 +3375,7 @@
       "tryout-testinuse"
     ],
     "origin": "out は「結果が出るまで」。使ってみて確かめること",
+    "trivia": "「試用する」のほか「選考を受ける」。tryout は米国でスポーツの入団テスト",
     "example": {
       "en": "The plant tried out a lighter pallet.",
       "ja": "工場はより軽い荷台を試してみた。"
@@ -3326,6 +3400,7 @@
       "turnto-seekhelpfrom"
     ],
     "origin": "to は「相手の方へ」。向き直って助けを求めること",
+    "trivia": "「頼る」のほか「ページを開く」。Turn to page 10. は授業の定番表現",
     "example": {
       "en": "Turn to the night desk for urgent faults.",
       "ja": "急な不具合は夜間の窓口に頼りなさい。"
@@ -3350,6 +3425,7 @@
       "useup-consumeentirely"
     ],
     "origin": "up は「尽きるまで」。残らず使うこと",
+    "trivia": "すっかり使い切ること。be used up は人が「疲れ果てた」の意味にもなる",
     "example": {
       "en": "Use up the older stock first.",
       "ja": "古い在庫から先に使い切りなさい。"
@@ -3374,6 +3450,7 @@
       "washup-cleandishes"
     ],
     "origin": "up は「すっかり」。洗って片づけ終えること",
+    "trivia": "米国では「手を洗う」、英国では「皿を洗う」。同じ句で指す行為が違う",
     "example": {
       "en": "Kitchen staff wash up after each service.",
       "ja": "厨房の職員は営業のたびに洗って片づける。"
@@ -3398,6 +3475,7 @@
       "wrapup-finishpacking"
     ],
     "origin": "up は「すっかり」。包み終える、そこから締めくくること",
+    "trivia": "会議を「締めくくる」の意味で頻出。Let's wrap up. は終わりにしようの合図",
     "example": {
       "en": "Wrap up the fragile items in foam.",
       "ja": "壊れやすい品は緩衝材で包装を終えなさい。"
@@ -3422,6 +3500,7 @@
       "avarietyof-manydifferentkinds"
     ],
     "origin": "ラテン語 varius（まちまちの）。取りそろえて幅があること。vary と同語源",
+    "trivia": "複数扱いが普通。a wide variety of と wide を挟むと幅が強調される",
     "example": {
       "en": "The shop stocks a variety of sizes.",
       "ja": "その店はさまざまな寸法を置いている。"
@@ -3446,6 +3525,7 @@
       "allatonce-simultaneously"
     ],
     "origin": "once（一度）に all（すべて）。まとめて同時に",
+    "trivia": "「突然」の意味もある。一斉にと突然の二義を文脈で読み分ける",
     "example": {
       "en": "The alarms sounded all at once.",
       "ja": "警報が一斉に鳴った。"
@@ -3470,6 +3550,7 @@
       "assoonas-immediatelywhen"
     ],
     "origin": "soon（早く）が同じになる時点。その時になり次第",
+    "trivia": "時を表す副詞節なので未来のことも現在形で言う。試験の定番ポイント",
     "example": {
       "en": "Ship the goods as soon as payment clears.",
       "ja": "入金が確認でき次第、商品を発送しなさい。"
@@ -3494,6 +3575,7 @@
       "atanyrate-inanycase"
     ],
     "origin": "rate は「見積もり」。どう見積もっても変わらないこと",
+    "trivia": "「とにかく」。rate は「見積もり」で、どう見積もってもという発想",
     "example": {
       "en": "At any rate, the audit begins on Monday.",
       "ja": "いずれにせよ監査は月曜に始まる。"
@@ -3543,6 +3625,7 @@
       "forthetimebeing-fornow"
     ],
     "origin": "being は「今ある」。今ある時間のあいだは",
+    "trivia": "当面の措置を表す。for now より硬く、書き言葉で使う",
     "example": {
       "en": "For the time being, use the side entrance.",
       "ja": "当面は横の入口を使いなさい。"
@@ -3567,6 +3650,7 @@
       "inadvanceof-beforeevent"
     ],
     "origin": "advance は「前へ出ること」。それより前の時点で",
+    "trivia": "ahead of とほぼ同義。in advance 単独なら副詞句として使える",
     "example": {
       "en": "Papers circulate in advance of the meeting.",
       "ja": "資料は会議に先立って回覧される。"
@@ -3591,6 +3675,7 @@
       "inbulk-largequantityatonce"
     ],
     "origin": "bulk は古ノルド語 bulki（船の積み荷）。小分けせず積み荷のまま",
+    "trivia": "buy in bulk は「まとめ買いする」。単価を下げる買い方を指す",
     "example": {
       "en": "Buying in bulk lowers the unit price.",
       "ja": "まとめて買うと単価が下がる。"
@@ -3615,6 +3700,7 @@
       "incontrast-showingdifference"
     ],
     "origin": "contra-（逆らって）＋ ラテン語 stare（立つ）。向かい合わせに置くと",
+    "trivia": "by contrast とも言う。in contrast to の形なら前置詞句になる",
     "example": {
       "en": "In contrast, online orders kept rising.",
       "ja": "対照的に画面上の注文は伸び続けた。"
@@ -3639,6 +3725,7 @@
       "indetail-withfullparticulars"
     ],
     "origin": "de-（すっかり）＋ 仏語 tailler（切る）。細かく切り分けて",
+    "trivia": "go into detail は「詳しく述べる」。detail は単数で使うのが定型",
     "example": {
       "en": "The manual explains the steps in detail.",
       "ja": "手引書は手順を詳細に説明する。"
@@ -3663,6 +3750,7 @@
       "ineffect-inpracticalterms"
     ],
     "origin": "effect は「実際の働き」。名目でなく働きとしては",
+    "trivia": "「事実上」のほか「効力を持って」。法律が in effect なら施行中という意味",
     "example": {
       "en": "The clause is in effect a penalty.",
       "ja": "その条項は事実上の違約金だ。"
@@ -3687,6 +3775,7 @@
       "inexchangefor-inreturnfor"
     ],
     "origin": "exchange は「取り替え」。それと引き換えに",
+    "trivia": "交換条件を示す。in return for とほぼ同じ意味で使える",
     "example": {
       "en": "A discount applies in exchange for prepayment.",
       "ja": "前払いと引き換えに割引がかかる。"
@@ -3711,6 +3800,7 @@
       "infavorof-supportingoption"
     ],
     "origin": "favor はラテン語 favor（好意）。そちらに好意を寄せて",
+    "trivia": "「〜に賛成して」のほか「〜を選んで」。decide in favor of は有利な判断を下すこと",
     "example": {
       "en": "Nine members voted in favor of the plan.",
       "ja": "会員九名がその計画に賛成して投じた。"
@@ -3735,6 +3825,7 @@
       "infull-completeamount"
     ],
     "origin": "full（満ちた）。欠けなく全部で",
+    "trivia": "paid in full は「全額支払い済み」。領収書や請求書の表示で見る",
     "example": {
       "en": "The invoice was settled in full.",
       "ja": "請求書は全額で清算された。"
@@ -3759,6 +3850,7 @@
       "ingeneralterms-broadlyspeaking"
     ],
     "origin": "general（大まかな）＋ terms（言い方）。細部に立ち入らない言い方で",
+    "trivia": "細部を省いて大づかみに述べること。generally speaking とほぼ同義",
     "example": {
       "en": "In general terms, costs held steady.",
       "ja": "大まかに言えば費用は横ばいだった。"
@@ -3783,6 +3875,7 @@
       "inlinewith-consistentwith"
     ],
     "origin": "line（線）にそろっている。方針と一直線であること",
+    "trivia": "「〜に沿って」。bring into line は「足並みをそろえさせる」",
     "example": {
       "en": "Results were in line with the forecast.",
       "ja": "結果は見通しに沿ったものだった。"
@@ -3807,6 +3900,7 @@
       "inparticular-especiallyone"
     ],
     "origin": "ラテン語 particula（小片）。他と切り分けて取り立てると",
+    "trivia": "文末に置いて「とりわけ」。nothing in particular は「特に何も」",
     "example": {
       "en": "Compact models sold well in particular.",
       "ja": "とりわけ小型の型式がよく売れた。"
@@ -3831,6 +3925,7 @@
       "inperson-facetoface"
     ],
     "origin": "person はラテン語 persona（役者の面）。代理でなく本人が",
+    "trivia": "直接会うこと。遠隔の remotely や online との対で使われるようになった",
     "example": {
       "en": "The buyer wants to inspect it in person.",
       "ja": "買い手は直接会って検分したがっている。"
@@ -3855,6 +3950,7 @@
       "inprinciple-basicallyagreed"
     ],
     "origin": "principle はラテン語 princeps（第一のもの）。おおもとの筋としては",
+    "trivia": "「原則として」。実際には例外がありうることを含む言い方",
     "example": {
       "en": "In principle, both sides accept the terms.",
       "ja": "原則として双方は条件を受け入れる。"
@@ -3879,6 +3975,7 @@
       "inprogress-currentlyhappening"
     ],
     "origin": "pro-（前へ）＋ ラテン語 gradi（歩む）。前へ歩んでいる途中で",
+    "trivia": "work in progress は「仕掛品」や「作業中」。掲示でも使う",
     "example": {
       "en": "Repairs are in progress on the third floor.",
       "ja": "三階では修理が進行中である。"
@@ -3903,6 +4000,7 @@
       "inreturn-asrecompense"
     ],
     "origin": "return（返し）。受けた分の返しとして",
+    "trivia": "見返りを表す。in return for の形なら対象を取れる",
     "example": {
       "en": "In return, the supplier gains a longer term.",
       "ja": "見返りに供給業者は長い期間を得る。"
@@ -3927,6 +4025,7 @@
       "inshort-brieflyput"
     ],
     "origin": "short（短く）。short に言えば、つまり要するに",
+    "trivia": "要点をまとめる前置き。in brief や in summary も同じ働きをする",
     "example": {
       "en": "In short, the route change saved fuel.",
       "ja": "要するに経路の変更が燃料を節約した。"
@@ -3951,6 +4050,7 @@
       "instock-availableforsale"
     ],
     "origin": "stock（在庫）の中にあること。out of stock と対",
+    "trivia": "out of stock との対。have in stock は「在庫がある」",
     "example": {
       "en": "Both sizes are in stock this week.",
       "ja": "今週は両方の寸法の在庫があって出せる。"
@@ -3975,6 +4075,7 @@
       "intotal-addedtogether"
     ],
     "origin": "ラテン語 totus（全体）。すべてを足し合わせて",
+    "trivia": "「合計で」。in all や altogether も同じ意味で使える",
     "example": {
       "en": "In total, forty pallets left the yard.",
       "ja": "合計で四十の荷台が構内を出た。"
@@ -3999,6 +4100,7 @@
       "inturn-oneaftertheother"
     ],
     "origin": "turn は「順番」。順が回るごとに",
+    "trivia": "「順番に」のほか「今度は」。which in turn は因果の連鎖を表す",
     "example": {
       "en": "Each team reports in turn at the briefing.",
       "ja": "各班は説明会で順番に報告する。"
@@ -4023,6 +4125,7 @@
       "onaverage-typicallyover"
     ],
     "origin": "average はアラビア語由来の海損分担金。皆で均した値としては",
+    "trivia": "平均するとという意味。on an average と冠詞を入れる書き方もある",
     "example": {
       "en": "On average, repairs take three hours.",
       "ja": "平均して修理は三時間かかる。"
@@ -4047,6 +4150,7 @@
       "onbehalffirm-representingcompany"
     ],
     "origin": "behalf は「〜の側」。会社の側に立って",
+    "trivia": "会社を代表して署名するときの定型句。契約書の署名欄に添える",
     "example": {
       "en": "He accepted the award on behalf of the firm.",
       "ja": "彼は会社を代表して表彰を受けた。"
@@ -4071,6 +4175,7 @@
       "onhand-readilyavailable"
     ],
     "origin": "hand（手）の上に。すぐ取れる所にあること",
+    "trivia": "「手元にある」。at hand は「近くに」で、前置詞により意味が少し違う",
     "example": {
       "en": "Keep two spare belts on hand.",
       "ja": "予備の帯を二本、手元にあって使えるようにしておきなさい。"
@@ -4095,6 +4200,7 @@
       "onpurpose-intentionally"
     ],
     "origin": "purpose は「前に置いた狙い」。狙いに沿って、つまりわざと",
+    "trivia": "by accident（偶然に）との対。意図の有無を対比する定番の組み合わせ",
     "example": {
       "en": "The valve was closed on purpose.",
       "ja": "その弁はわざと閉められていた。"
@@ -4119,6 +4225,7 @@
       "onschedule-astimed"
     ],
     "origin": "schedule（予定表）に乗って。予定どおりに",
+    "trivia": "behind schedule（遅れて）、ahead of schedule（前倒しで）と対で覚えたい",
     "example": {
       "en": "The build finished on schedule.",
       "ja": "建設は予定どおりに終わった。"
@@ -4143,6 +4250,7 @@
       "onthewhole-consideringeverything"
     ],
     "origin": "whole（全体）に立って見れば",
+    "trivia": "全体として見ればという意味。細部の例外を認めつつ総括する言い方",
     "example": {
       "en": "On the whole, the season went well.",
       "ja": "概ねその季節はうまくいった。"
@@ -4192,6 +4300,7 @@
       "uptonow-untilthepresent"
     ],
     "origin": "now（今）まで up（追いついた）範囲では",
+    "trivia": "so far とほぼ同義。現在完了と一緒に使うのが自然",
     "example": {
       "en": "Up to now the seal has held.",
       "ja": "今までは封が保っている。"
