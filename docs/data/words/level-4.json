@@ -3070,6 +3070,7 @@
     ],
     "origin": "ラテン語 avis（鳥）＋ specere（見る）。鳥占いで吉と出たことから",
     "family": "auspices（後援）／ aviary（鳥小屋）／ aviation（航空）",
+    "trivia": "鳥を見る役が auspex。inaugurate と同じ鳥占いの系統で、吉兆を意味する語がここから何語も生まれた",
     "example": {
       "en": "The opening week was auspicious for the shop.",
       "ja": "開店の週はその店にとって幸先のよいものだった。"
@@ -3825,6 +3826,7 @@
     ],
     "origin": "con-（すっかり）＋ ラテン語 templum（占い師が区切った天空）。区切って見つめ考えること",
     "family": "contemplation（熟考）／ temple（神殿）／ template（型板）",
+    "trivia": "templum は神殿ではなく、占い師が空に区切った観測区画を指した。そこを見つめることが熟考の語になった",
     "example": {
       "en": "The board contemplated closing the depot.",
       "ja": "取締役会は拠点の閉鎖を熟考した。"
@@ -4076,6 +4078,7 @@
     ],
     "origin": "ラテン語 curvus（曲がった）。馬のくつわを引いて抑える鎖から。curve と同語源",
     "family": "curbing（抑制）／ curve（曲線）／ curved（湾曲した）",
+    "trivia": "馬のあごに当てる鎖のことで、手綱を引くと締まって馬を止める。道路の縁石を curb と呼ぶのは別系統",
     "example": {
       "en": "New gates curb unauthorized entry.",
       "ja": "新しい門が無許可の入場を抑止する。"
@@ -9555,6 +9558,7 @@
     "origin": "ラテン語 sancire（聖なるものと定める）。定めを破った者への処置。saint と同語源",
     "family": "sanctity（神聖）／ saint（聖人）／ sacred（神聖な）／ sanctuary（聖域）",
     "contrast": "認可という意味と制裁という意味を併せ持つので、文脈でどちらか決まる",
+    "trivia": "「認可」と「制裁」という正反対の意味を一語で持つ。もとは神聖な定めで、定めを立てる側と破った側で向きが割れた",
     "example": {
       "en": "Trade sanctions halted two shipments.",
       "ja": "貿易の制裁が出荷を二件止めた。"
@@ -10229,6 +10233,7 @@
     ],
     "origin": "tri-（三つ）＋ ラテン語 via（道）。三叉路で交わす世間話、そこからささいなこと",
     "family": "triviality（ささいなこと）／ trivia（雑学）／ via（経由で）",
+    "trivia": "中世の大学で文法・修辞・論理を trivium（三学）と呼び、上級の四学より易しいとされたことも「ささい」の語感を強めた",
     "example": {
       "en": "Trivial errors were fixed on the spot.",
       "ja": "ささいな誤りはその場で直された。"
@@ -11102,6 +11107,7 @@
     ],
     "origin": "アラビア語 samt（道）。天の真上の点、そこから絶頂",
     "family": "zeniths（絶頂）／ azimuth（方位角）",
+    "trivia": "アラビア語の samt ar-ras（頭上の道）を中世の写字生が読み違え、綴りが崩れたまま定着した",
     "example": {
       "en": "Sales reached their zenith in December.",
       "ja": "売上は十二月に絶頂に達した。"

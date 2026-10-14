@@ -3457,6 +3457,7 @@
       "byandlarge-generallyspeaking"
     ],
     "origin": "帆船用語の by（風に詰めて）と large（追い風で）。どちらの走りでも、つまり総じて",
+    "trivia": "帆走で「風に詰めて」と「追い風で」の両方を指す船乗り言葉。どちらの走り方でも、から「概して」へ",
     "example": {
       "en": "By and large, the trial went smoothly.",
       "ja": "全体としては試験は滑らかに進んだ。"
@@ -4105,6 +4106,7 @@
       "underway-alreadystarted"
     ],
     "origin": "オランダ語 onderweg（航行中）。船が動き出している状態から",
+    "trivia": "オランダ語由来の航海用語で、錨を上げて船が動き出した状態。weigh anchor（抜錨する）と混同して under weigh とも綴られた",
     "example": {
       "en": "Roof work is under way this month.",
       "ja": "屋根の工事が今月進行して行われている。"

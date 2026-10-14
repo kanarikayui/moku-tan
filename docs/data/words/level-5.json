@@ -100,6 +100,7 @@
     "origin": "スペイン語 embargar（差し押さえる）。港を閉ざして取引を止めること",
     "family": "embargoed（禁輸された）／ bar（横木）／ barrier（障壁）／ barricade（バリケード）",
     "contrast": "embark（着手して始める）と綴りが近い。embargo は名詞で、輸出入を止める措置",
+    "trivia": "スペイン語で「差し押さえ」。港に船を留め置く措置の名が、国家間の通商禁止一般を指すようになった",
     "example": {
       "en": "The embargo halted shipments to two overseas ports.",
       "ja": "通商禁止により二つの海外港への出荷が止まった。"
@@ -404,6 +405,7 @@
     ],
     "origin": "ラテン語 audire（聞く）。もとは帳簿を読み上げて聞かせたことから。audio と同語源",
     "family": "auditor（監査人）／ audience（聴衆）／ audio（音声の）／ audible（聞き取れる）",
+    "trivia": "帳簿を声に出して読み上げ、監査役が耳で確かめた。audio（音声の）や audience（聴衆）と同じ「聞く」の系統",
     "example": {
       "en": "An outside firm will audit the accounts every autumn.",
       "ja": "外部の事務所が毎秋、会計を監査する。"
@@ -483,6 +485,7 @@
     ],
     "origin": "ラテン語 fiscus（国庫のかご）。国のふところ、そこから会計に関すること",
     "family": "fiscally（財政上）／ confiscate（没収する）",
+    "trivia": "fiscus は国庫の金を入れる籠。籠の名が国家財政そのものを指すようになり、fiscal year（会計年度）に残る",
     "example": {
       "en": "The fiscal year ends on the last day of March.",
       "ja": "会計上の年度は三月の末日に終わる。"
@@ -763,6 +766,7 @@
     ],
     "origin": "ラテン語 dividere（分ける）。利益から分けて配る分。divide と同語源",
     "family": "divide（分割する）／ division（分割）／ individual（個々の）／ device（機器）",
+    "trivia": "agenda と同じ「〜されるべきもの」という形。分けられるべき利益、という意味がそのまま配当金になった",
     "example": {
       "en": "The board raised the dividend for a third year.",
       "ja": "取締役会は三年続けて配当金を引き上げた。"
@@ -814,6 +818,7 @@
     "origin": "古仏語 escroue（証文の切れ端）。条件が整うまで第三者に預ける仕組み",
     "family": "escrow agent（預託代理人）",
     "contrast": "第三者に預ける仕組みそのものを指す名詞",
+    "trivia": "古フランス語で「証書の切れ端」。当事者に渡さず第三者が預かる証書そのものが、仕組みの名になった",
     "example": {
       "en": "The deposit sits in escrow until closing.",
       "ja": "手付金は決済まで第三者預託に置かれる。"
@@ -1323,6 +1328,7 @@
     ],
     "origin": "アラビア語 taʿrif（通知・料金表）。輸入品に課す料率",
     "family": "tariffs（関税率）／ tariffed（関税を課された）",
+    "trivia": "アラビア語 taʿrif（告知・一覧）から。地中海交易で使われた料率表の名がそのまま関税を指すようになった",
     "example": {
       "en": "A new tariff raised the cost of imported steel.",
       "ja": "新しい関税が輸入鋼材の費用を押し上げた。"
@@ -2028,6 +2034,7 @@
     ],
     "origin": "canvas（帆布）。布でふるい分ける、そこから一軒ずつ当たって意見を集めること",
     "family": "canvas（帆布）／ canvasser（勧誘員）",
+    "trivia": "帆布でふるって選り分ける作業が原義。選挙で一軒ずつ回って票を読む意味は英国の選挙運動から広まった",
     "example": {
       "en": "The team canvassed forty local shops.",
       "ja": "その班は地元の四十店の意見を集めた。"
@@ -2053,6 +2060,7 @@
     ],
     "origin": "ラテン語 capitale（財産）。持ち運べる財産。cattle, capital と同語源",
     "family": "cattle（家畜）／ capital（資本）／ capitalize（活用する）／ chief（長）",
+    "trivia": "cattle（家畜）と同じラテン語 capitale から枝分かれした二重語。家畜が動産の代表だった時代の名残",
     "example": {
       "en": "Machinery counts as chattel in this deed.",
       "ja": "機械はこの証書では動産に当たる。"
@@ -3503,6 +3511,7 @@
     ],
     "origin": "ラテン語 decimus（十番目）。十人に一人を処した古代ローマの罰から",
     "family": "decimation（大量削減）／ decimal（小数の）／ December（十二月）",
+    "trivia": "本来は「十分の一に減らす」。英語では「大半を滅ぼす」の意味で使われることが多く、辞書によっては誤用と注記される",
     "example": {
       "en": "The storm decimated the coastal fleet.",
       "ja": "嵐が沿岸の船団を大幅に減らした。"
@@ -4052,6 +4061,7 @@
     ],
     "origin": "e-（外へ）＋ ラテン語 molere（挽く）。粉挽きの手間賃、そこから職務の報酬",
     "family": "emoluments（職務給）／ mill（製粉所）／ molar（臼歯）",
+    "trivia": "もとは粉挽き屋に払う手間賃。米国憲法に emoluments clause（報酬条項）として残り、今も裁判で争点になる",
     "example": {
       "en": "Emoluments of the post appear in the annex.",
       "ja": "その職の職務給は付録に載っている。"
@@ -4601,6 +4611,7 @@
     ],
     "origin": "ロンドンの Hackney 産の貸し馬。使い回されて新味がないこと",
     "family": "hackney（貸し馬車）／ hack（月並みな書き手）",
+    "trivia": "ロンドンの Hackney は貸し馬の産地で、誰もが乗る馬を指した。タクシーを hackney carriage と呼ぶのも同じ",
     "example": {
       "en": "The slogan sounded hackneyed to buyers.",
       "ja": "その標語は買い手に使い古されたものに響いた。"
@@ -5724,6 +5735,7 @@
     ],
     "origin": "ギリシャ語 ostrakon（陶片）。陶片投票で追放した古代アテネの制度から",
     "family": "ostracism（排斥）／ ostracized（排除された）",
+    "trivia": "追放する相手の名を陶片に刻んで投じ、六千票を超えると十年の国外追放。多数決で人を排除する制度の古い例",
     "example": {
       "en": "No worker should be ostracized for reporting.",
       "ja": "報告したことで排除される労働者があってはならない。"
@@ -5750,6 +5762,7 @@
     "origin": "ラテン語 pecunia（金）。もとは家畜が財産だったことから。impecunious と同語源",
     "family": "impecunious（金に困った）／ peculiar（独特の）／ peculiarity（特異性）",
     "contrast": "金銭に関わること。peculiar（独特の）と綴りが近い",
+    "trivia": "家畜が富の単位だったのは英語も同じで、fee（料金）の元になった古英語 feoh も「家畜・財産」を意味した",
     "example": {
       "en": "Pecuniary loss is capped by the clause.",
       "ja": "金銭上の損失はその条項で上限が定まる。"
@@ -6175,6 +6188,7 @@
     ],
     "origin": "ギリシャ語 protos（第一の）＋ agonistes（演じ手）。先頭に立つ人",
     "family": "antagonist（敵対者）／ agony（苦悩）／ agonize（苦しむ）",
+    "trivia": "ギリシャ劇で第一の演者を指し、対する敵役が antagonist。「主役」であって「善玉」の意味ではない",
     "example": {
       "en": "She was the protagonist of the reform.",
       "ja": "彼女はその改革の主導者だった。"
@@ -6726,6 +6740,7 @@
     ],
     "origin": "ラテン語 sanguis（血）。血色のよい、そこから前向きなこと",
     "family": "sanguinity（楽観）／ sanguinary（血なまぐさい）",
+    "trivia": "中世医学の四体液説で、血液（sanguis）が優勢な人は陽気で前向きとされた。melancholy などと対をなす気質名の一つ",
     "example": {
       "en": "Management stayed sanguine about autumn.",
       "ja": "経営陣は秋について楽観的なままだった。"
@@ -7375,6 +7390,7 @@
     ],
     "origin": "ラテン語 usura（使用料）。法外な利息を取ること。use と同語源",
     "family": "usurious（高利の）／ use（使う）／ usage（使用量）／ utilize（役立てる）",
+    "trivia": "もとは利息一般を指し、悪い意味はなかった。中世に教会が利息を禁じたため「不当に高い利」へ意味が狭まった",
     "example": {
       "en": "Laws against usury cap the rate.",
       "ja": "高利貸しを禁じる法が利率に上限を設ける。"

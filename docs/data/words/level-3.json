@@ -196,6 +196,7 @@
     ],
     "origin": "pre-（前に）＋ ラテン語 mittere（送る）。契約書の前段で示した土地建物",
     "family": "premise（前提）／ mission（任務）／ submit（提出する）／ transmit（送信する）",
+    "trivia": "証書の前段（前述の事項）で土地建物を特定したことから、その「前述のもの」が建物そのものを指すようになった",
     "example": {
       "en": "Visitors must sign in before entering the premises.",
       "ja": "来訪者は敷地に入る前に記帳しなければならない。"
@@ -5042,6 +5043,7 @@
     ],
     "origin": "ラテン語 augur（鳥占い師）。占いで吉を得てから始めた古代の儀式から",
     "family": "inauguration（就任式）／ inaugural（初回の）／ augur（占い師）",
+    "trivia": "就任式を inauguration と呼ぶのは、鳥の飛び方で吉凶を占ってから事を始めたローマの作法の名残",
     "example": {
       "en": "The mayor inaugurated the new terminal.",
       "ja": "市長が新しい発着所を開設した。"
@@ -8225,6 +8227,7 @@
     ],
     "origin": "ラテン語 robur（樫の木）。樫のように頑丈なこと",
     "family": "robustness（頑健さ）／ corroborate（裏付けを取る）",
+    "trivia": "樫は古代から最も堅い木の代名詞だった。corroborate（裏付ける）も「樫のように固める」から来ている",
     "example": {
       "en": "A robust frame survives rough handling.",
       "ja": "頑丈な枠は手荒な扱いにも耐える。"
@@ -8697,6 +8700,7 @@
     ],
     "origin": "ラテン語 stimulus（家畜を突く棒）。突いて動きを起こさせること",
     "family": "stimulus（刺激）／ stimulation（刺激）／ instigate（引き起こす）",
+    "trivia": "家畜を追う先のとがった棒が stimulus。動物を突いて動かす道具の名が、やる気を起こさせる語になった",
     "example": {
       "en": "Free delivery stimulated repeat orders.",
       "ja": "無料配送が再注文を刺激した。"

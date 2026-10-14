@@ -788,6 +788,7 @@
       "cutcorners-skipproperssteps"
     ],
     "origin": "角（corner）を切って近道する。手順を省くこと",
+    "trivia": "馬車で角を曲がりきらずに内側を通ると速いが危ない。近道と手抜きが同居する言い回し",
     "example": {
       "en": "Never cut corners on the pressure test.",
       "ja": "圧力の試験で手を抜いてはならない。"
@@ -956,6 +957,7 @@
       "inthewake-followingevent"
     ],
     "origin": "wake は船の「航跡」。通った後を受けて",
+    "trivia": "wake は船が通った後に残る水跡。先を行くものが残した跡を追う、という視覚的な比喩",
     "example": {
       "en": "Rules tightened in the wake of the fire.",
       "ja": "火災を受けて規則が厳しくなった。"
@@ -1028,6 +1030,7 @@
       "makeheadway-progresssteadily"
     ],
     "origin": "headway は船の「前進」。前へ進むこと",
+    "trivia": "船が前へ進む力を headway と呼んだ。向かい風や潮に逆らって進む感覚が今も残る",
     "example": {
       "en": "Talks made headway on the pricing clause.",
       "ja": "交渉は価格の条項で前進した。"

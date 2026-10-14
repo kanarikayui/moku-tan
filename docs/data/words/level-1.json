@@ -46,6 +46,7 @@
     "origin": "ラテン語 ripa（岸）から。「岸に着く」が原義で、river と同語源",
     "family": "arrival（到着）／ river（川）",
     "contrast": "自動詞なので arrive at / in の形で使う。reach は前置詞が不要",
+    "trivia": "ラテン語 ad ripam（岸へ）から。船が岸に着くことが原義で、陸路や空路に広がったのは後のこと",
     "example": {
       "en": "The replacement parts will arrive at the plant on Friday.",
       "ja": "交換部品は金曜日に工場へ到着する。"
@@ -583,6 +584,7 @@
     "origin": "ラテン語 cancelli（格子）。文字に格子状の線を引いて消したことから",
     "family": "cancellation（取り消し）",
     "contrast": "予定・契約・注文そのものを無かったことにする。call off より広く硬い場面でも使う",
+    "trivia": "同じ格子から chancellor（長官）も生まれた。法廷の格子仕切りの内側に控えた書記官が、のちに高官を指すようになった",
     "example": {
       "en": "Please cancel the booking if the flight changes.",
       "ja": "便が変わったら予約を取り消してください。"
@@ -609,6 +611,7 @@
     "origin": "ラテン語 cliens（後ろ盾を頼る人）。lean（もたれる）と発想が近い",
     "family": "clientele（顧客層）",
     "contrast": "専門的な役務を受ける取引先。法律・会計・広告などで使う",
+    "trivia": "古代ローマでは有力者が patron として庇護し、client が支持で応える関係が社会の基礎だった。patron はこの対語",
     "example": {
       "en": "The client asked for a revised quote by Monday.",
       "ja": "取引先は月曜までに見直した価格の提示を求めた。"
@@ -1065,6 +1068,7 @@
     ],
     "origin": "フランス語 etiquet（貼り札）。etiquette と同語源",
     "family": "ticketing（発券）／ ticketed（発券済みの）／ ticket booth（切符売り場）",
+    "trivia": "もとは貼り札。宮廷の作法を書いた札という使い方から etiquette（礼儀作法）が分かれた",
     "example": {
       "en": "Buy a ticket at the machine near the entrance.",
       "ja": "入口近くの機械で切符を買いなさい。"
@@ -1803,6 +1807,7 @@
     ],
     "origin": "cabin（小屋）＋ -et（小さい）。小部屋から「戸棚」へ",
     "family": "cabin（小屋）／ cabinetry（造作家具）",
+    "trivia": "もとは小部屋。国王が側近と密談した小部屋の名が、そこに集う顧問団そのものを指すようになった",
     "example": {
       "en": "Old files are kept in the grey cabinet.",
       "ja": "古い書類は灰色の書類棚に入っている。"
@@ -1851,6 +1856,7 @@
       "calendar-dategrid"
     ],
     "origin": "ラテン語 kalendae（月の第一日）。利息の記帳日だった",
+    "trivia": "kalendae は利息を帳簿につける日でもあった。ローマ暦にしかない日なので「ギリシャ暦の朔日に」は「決して来ない」の意",
     "example": {
       "en": "A wall calendar hangs beside the copier.",
       "ja": "壁の暦がコピー機の横に掛かっている。"
@@ -2399,6 +2405,7 @@
     "origin": "古英語 feoh（家畜・財産）。家畜が富の単位だった名残",
     "family": "feudal（封建の）",
     "contrast": "専門的な役務や手続きへの料金。fare は乗り物の運賃",
+    "trivia": "古英語 feoh は家畜と財産の両方を指した。同じ発想がラテン語にもあり、pecuniary（金銭上の）は pecus（家畜）から来ている",
     "example": {
       "en": "A late fee applies after the tenth day.",
       "ja": "十日目以降は延滞の料金がかかる。"
@@ -2523,6 +2530,7 @@
     ],
     "origin": "古ノルド語 gestr（客）。host（もてなす側）と同じ印欧祖語にさかのぼる",
     "family": "hospitality（接客）／ host（主人）／ hotel（宿）",
+    "trivia": "host（主人）、hostile（敵意のある）と同じ印欧祖語 ghos-ti から。よそ者は客にも敵にもなりうる存在だった",
     "example": {
       "en": "A guest is waiting in the lobby for you.",
       "ja": "来客がロビーであなたを待っている。"
@@ -3450,6 +3458,7 @@
     "origin": "ラテン語 sal（塩）。古代ローマで塩を買う手当を支給したことから",
     "family": "salaried（給与制の）／ salt（塩）",
     "contrast": "月ぎめや年ぎめで固定して払う給与。wage は働いた時間や出来高に応じて払う",
+    "trivia": "「塩で給料を払った」という話が広まっているが、古代の記録に裏付けはない。確かなのは salarium が塩にちなむ手当の名だったことまで",
     "example": {
       "en": "Salary is paid on the twenty fifth of each month.",
       "ja": "給与は毎月二十五日に支払われる。"
@@ -3847,6 +3856,7 @@
       "window-glassopening"
     ],
     "origin": "古ノルド語 vindauga（風の目）。wind（風）＋ eye（目）",
+    "trivia": "古ノルド語 vindauga（風の目）から。ガラスが入る前、壁に開けた穴から風が入ったことをそのまま名にした",
     "example": {
       "en": "Someone is cleaning the windows outside.",
       "ja": "誰かが外で窓を清掃している。"
@@ -4122,6 +4132,7 @@
     ],
     "origin": "アラビア語 awariya（積み荷の損害）。損害を分け合う海事慣行から「平均」へ",
     "family": "averaging（平均化）／ on average（平均して）",
+    "trivia": "もとは海難で積み荷を捨てたとき、損失を荷主全員で分け合う海事用語。「分け合う」から「ならした値」へ移った",
     "example": {
       "en": "The average wait fell to four minutes.",
       "ja": "平均の待ち時間は四分に下がった。"
@@ -4171,6 +4182,7 @@
       "bench-longseat"
     ],
     "origin": "古英語 benc（長椅子）。bank（土手・銀行）と同語源",
+    "trivia": "イタリアの両替商は長椅子（banca）で商売した。banca rotta（椅子が壊れた）が bankrupt（破産）の語源",
     "example": {
       "en": "A bench faces the fountain in the courtyard.",
       "ja": "中庭の噴水に向かって長椅子がある。"
@@ -4369,6 +4381,7 @@
     ],
     "origin": "ギリシャ語 kathedra（座席）。cathedral（司教座聖堂）と同語源",
     "family": "chairperson（議長）／ chairman（委員長）",
+    "trivia": "司教が座る席を cathedra と呼び、その席がある教会が cathedral（大聖堂）。議長を chair と呼ぶのも「席＝権威」の発想",
     "example": {
       "en": "Stack the chairs against the far wall.",
       "ja": "椅子は奥の壁に寄せて積みなさい。"
@@ -4444,6 +4457,7 @@
     ],
     "origin": "ギリシャ語 klerikos（聖職者）。読み書きができたのが聖職者だった名残",
     "family": "clerical（事務の）／ cleric（聖職者）",
+    "trivia": "中世に読み書きができたのはほぼ聖職者だけで、記録や計算は彼らの仕事だった。clergy（聖職者）と同じ語",
     "example": {
       "en": "A clerk enters each order by hand.",
       "ja": "事務員が注文を一件ずつ手で入力する。"
@@ -4544,6 +4558,7 @@
     ],
     "origin": "com-（共に）＋ panis（パン）。パンを共に食べる仲間が原義",
     "family": "companion（仲間）／ accompany（同行する）",
+    "trivia": "軍の中隊を company と呼ぶのも同じで、寝食を共にする一団という発想。companion（仲間）も同語源",
     "example": {
       "en": "The company began as a family workshop.",
       "ja": "その会社は家族の工房として始まった。"
@@ -4620,6 +4635,7 @@
     "origin": "con-（共に）＋ sidus（星）。星を観て占ったことから「熟慮する」",
     "family": "consideration（考慮）／ considerable（相当な）／ considerate（思いやりのある）",
     "contrast": "考慮すること。派生語の considerable（相当な）と considerate（思いやりのある）は意味が別",
+    "trivia": "desire（切望する）も de-（〜から）＋ sidus で、星に願いをかける発想。星は古代の意思決定に深く食い込んでいた",
     "example": {
       "en": "The owner is considering a second shift.",
       "ja": "所有者は二交代制を検討している。"
@@ -4796,6 +4812,7 @@
     ],
     "origin": "ラテン語 data（与えられた）。文書に「与えられた日」と記した慣習から",
     "family": "dated（日付入りの）／ update（更新する）",
+    "trivia": "ローマで手紙の末尾に data Romae（ローマにて与えられた）と書いた、その data が日付の名になった",
     "example": {
       "en": "Write the date at the top of the sheet.",
       "ja": "用紙の上部に日付を書きなさい。"
@@ -5751,6 +5768,7 @@
     ],
     "origin": "ラテン語 diurnum（一日分）。もとは一日で行ける道のり。journal と同語源",
     "family": "journal（日誌）／ adjourn（休会する）／ journalism（報道）",
+    "trivia": "一日分の行程が原義。同じ語根から journal（日誌）、adjourn（別の日へ回す＝休会する）が生まれている",
     "example": {
       "en": "The journey to the mill takes two hours.",
       "ja": "工場への旅は二時間かかる。"

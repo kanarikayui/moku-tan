@@ -72,6 +72,7 @@
     ],
     "origin": "古フランス語 bougette（小さな革袋）。財布の中身を示したことから",
     "family": "budgetary（予算上の）／ budgeting（予算編成）",
+    "trivia": "英国の財政演説で、財務大臣が予算案を入れた赤い鞄を掲げる慣習は今も続く。鞄の中身が「予算」になった",
     "example": {
       "en": "The marketing budget doubled after the product launch.",
       "ja": "製品の発売後、宣伝の予算は倍になった。"
@@ -97,6 +98,7 @@
     ],
     "origin": "nec-（ない）＋ otium（余暇）。「暇ではない＝商談中」が原義",
     "family": "negotiation（交渉事）／ negotiable（交渉の余地がある）",
+    "trivia": "neg-（否定）＋ otium（余暇）。「余暇でない状態」つまり仕事が原義で、商談の意味は後から絞り込まれた",
     "example": {
       "en": "Our team will negotiate the shipping rates in person.",
       "ja": "当社の担当が直接、輸送料金を交渉する。"
@@ -330,6 +332,7 @@
     ],
     "origin": "dead（死）＋ line（線）。越えると撃たれる収容所の境界線が語源とされる",
     "family": "deadly（致命的な）／ line（線）",
+    "trivia": "南北戦争の捕虜収容所で、越えると撃たれる境界線を dead line と呼んだ記録が一八六四年に残る。締め切りの意味は新聞業界で定着した",
     "example": {
       "en": "The deadline for travel claims is the tenth of each month.",
       "ja": "出張費請求の締め切りは毎月十日だ。"
@@ -559,6 +562,7 @@
     ],
     "origin": "ラテン語 agere（行う）の動形容詞で「行うべき事柄」。act, agent と同語源",
     "family": "agent（代理人）／ agency（代理店）／ act（行う）／ agile（機敏な）",
+    "trivia": "ラテン語の「なされるべき事柄」の複数形。単数は agendum だが、英語では agenda を単数扱いするのが普通",
     "example": {
       "en": "The agenda lists five items for the morning session.",
       "ja": "議題には午前の部の五項目が並んでいる。"
@@ -737,6 +741,7 @@
     ],
     "origin": "ラテン語 candidus（真っ白）。古代ローマで白い衣をまとって立候補したことから。candle と同語源",
     "family": "candid（率直な）／ candle（ろうそく）／ candor（率直さ）",
+    "trivia": "白は買収されていない証でもあった。同語源の candid（率直な）と candor（率直さ）にも「曇りがない」感覚が残る",
     "example": {
       "en": "Only two candidates reached the final round.",
       "ja": "最終段階に進んだ候補者は二名だけだった。"
@@ -4972,6 +4977,7 @@
     ],
     "origin": "古仏語 mort（死）＋ gage（誓い）。返済で効力が死ぬ担保の誓い",
     "family": "mortgagee（抵当権者）／ mortal（死すべき）／ mortality（死亡率）",
+    "trivia": "約束が果たされれば担保は「死ぬ」、果たされなければ土地が死ぬ。どちらに転んでも終わるから死の誓い",
     "example": {
       "en": "The couple paid off the mortgage early.",
       "ja": "その夫婦は住宅融資を早く返し終えた。"
@@ -9978,6 +9984,7 @@
     ],
     "origin": "ギリシャ語 elektron（琥珀）。琥珀を擦ると物を引く現象から",
     "family": "electric（電気の）／ electronic（電子の）／ electrify（電化する）",
+    "trivia": "琥珀を擦ると軽い物を引き寄せる。この現象を十六世紀末に electricus と名づけたのが語のはじまり",
     "example": {
       "en": "Electricity costs make up a fifth of the bill.",
       "ja": "電力の費用は請求の五分の一を占める。"
@@ -10728,6 +10735,7 @@
     ],
     "origin": "アラビア語 az-zahr（さいころ）。賭けの目のように読めない危険",
     "family": "hazardous（危険な）／ haphazard（行き当たりばったりの）",
+    "trivia": "十字軍が中東から持ち帰ったさいころ賭博の名が、偶然に左右される危険一般を指すようになった",
     "example": {
       "en": "Loose cables are a hazard in the aisle.",
       "ja": "緩んだ配線は通路の危険物だ。"

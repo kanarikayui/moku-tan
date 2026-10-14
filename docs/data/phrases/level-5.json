@@ -883,6 +883,7 @@
       "freeonboard-sellerloadscost"
     ],
     "origin": "本船に積み込むまでは売主持ちという貿易条件",
+    "trivia": "売主の責任が本船の手すりを越えた時点で切れる、という貿易条件。FOB と略され、今も国際取引で使われる",
     "example": {
       "en": "Prices are quoted free on board Kobe.",
       "ja": "価格は神戸の本船渡しで提示される。"
