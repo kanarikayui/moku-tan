@@ -19,6 +19,7 @@
     ],
     "origin": "part は「取り分」。自分の取り分を取りに行く、つまり一員として加わること",
     "contrast": "役割を持って関わること。attend は席にいるだけでもよい",
+    "trivia": "take part は無冠詞で使う。take a part とすると「役を演じる」の意味になる",
     "example": {
       "en": "Every new hire must take part in the orientation session.",
       "ja": "新入社員は全員、説明会に参加しなければならない。"
@@ -43,6 +44,7 @@
       "lookfor-trytofind"
     ],
     "origin": "for は「〜を求めて」。求める気持ちで目を向けること",
+    "trivia": "look for は探す過程、find は見つけた結果。進行形にできるのは look for だけ",
     "example": {
       "en": "We are looking for a vendor that can print on metal.",
       "ja": "金属に印刷できる業者を探している。"
@@ -67,6 +69,7 @@
       "pickup-collectbycar"
     ],
     "origin": "拾い上げる動作が原義。人を車で拾い上げる意味へ広がった",
+    "trivia": "売上が「持ち直す」の意味もある。Business is picking up. は景気回復を表す",
     "example": {
       "en": "A driver will pick up the guests at the north exit.",
       "ja": "運転手が北口で来客を車で迎えに行く。"
@@ -91,6 +94,7 @@
       "turnon-startdevice"
     ],
     "origin": "栓を回して流れを on（つながった状態）にする。ガス栓の時代の言い方",
+    "trivia": "人を「その気にさせる」という別義もあるため、文脈に注意が要る",
     "example": {
       "en": "Turn on the projector ten minutes before the briefing.",
       "ja": "説明会の十分前に投影機の電源を入れなさい。"
@@ -115,6 +119,7 @@
       "fillout-completeform"
     ],
     "origin": "out は「すみずみまで」。空欄を端から端まで埋めること",
+    "trivia": "英国では fill in を好む。書式に記入する意味はどちらも同じ",
     "example": {
       "en": "Please fill out the visitor card at the front desk.",
       "ja": "受付で来訪者カードに記入してください。"
@@ -140,6 +145,7 @@
     ],
     "origin": "touch は「接触」。接触した状態に入ること",
     "contrast": "連絡を取り合う関係に入る言い方。contact よりやわらかい",
+    "trivia": "名詞の touch を使う熟語は多い。keep in touch は「連絡を取り続ける」",
     "example": {
       "en": "Get in touch with the carrier about the delayed pallet.",
       "ja": "遅れている荷台について運送業者と連絡を取りなさい。"
@@ -164,6 +170,7 @@
       "turnoff-switchoff"
     ],
     "origin": "栓を回して流れを off（切り離した状態）にする。turn on と対",
+    "trivia": "興味を失わせる意味もあり、a turn-off は「興ざめなもの」という名詞になる",
     "example": {
       "en": "Turn off the machines before the cleaning crew arrives.",
       "ja": "清掃班が来る前に機械の電源を切りなさい。"
@@ -188,6 +195,7 @@
       "putaway-storeneatly"
     ],
     "origin": "away は「離れた所へ」。使う場所から離してしまうこと",
+    "trivia": "「片づける」のほか、口語で「平らげる」。大量に食べることを指す",
     "example": {
       "en": "Put away the sample cases after the demonstration.",
       "ja": "実演の後は見本の箱を片づけなさい。"
@@ -212,6 +220,7 @@
       "handin-deliverbyhand"
     ],
     "origin": "hand は動詞で「手渡す」。in（中へ）渡す、つまり提出すること",
+    "trivia": "提出は hand in、配布は hand out。副詞で向きが逆になる対の表現",
     "example": {
       "en": "Hand in the signed form at the security desk.",
       "ja": "署名した用紙を警備の窓口で手渡しで提出しなさい。"
@@ -236,6 +245,7 @@
       "checkin-registerarrival"
     ],
     "origin": "名簿に check（照合印）を付けて in（中へ）入ること。check out と対",
+    "trivia": "空港と宿泊の両方で使う。SNS で現在地を知らせることも check in と呼ぶ",
     "example": {
       "en": "Check in two hours before an overseas flight.",
       "ja": "海外便では二時間前に搭乗手続きをしなさい。"
@@ -260,6 +270,7 @@
       "signup-registerfor"
     ],
     "origin": "名簿に署名して up（掲示される状態）にすること",
+    "trivia": "定期購読や講座の申し込みに使う。sign up は自動詞でも成立する",
     "example": {
       "en": "Sign up for the safety course by Wednesday.",
       "ja": "水曜までに安全講習に申し込みなさい。"
@@ -284,6 +295,7 @@
       "takealook-examinebriefly"
     ],
     "origin": "look（ひと目）を take（取る）。ひと目分だけ見ること",
+    "trivia": "have a look at は英国で好まれる。take は米国で一般的",
     "example": {
       "en": "Take a look at the revised floor plan.",
       "ja": "見直した配置図に目を通しなさい。"
@@ -308,6 +320,7 @@
       "located-situatedat"
     ],
     "origin": "locate はラテン語 locus（場所）由来。場所を占めていること",
+    "trivia": "受動態で使うのが普通。The office is located in Tokyo. の形が定型",
     "example": {
       "en": "The service center is located in the west building.",
       "ja": "整備の拠点は西棟に位置する。"
@@ -333,6 +346,7 @@
     ],
     "origin": "sure（確かな）状態を make（作る）。確かめておくこと",
     "contrast": "念のため確かめておく口語的な言い方。confirm のような正式さはない",
+    "trivia": "make sure that の that は省略できる。口語では省くのが普通",
     "example": {
       "en": "Make sure the labels match the packing list.",
       "ja": "表示が梱包明細と合っているか念のため確かめなさい。"
@@ -357,6 +371,7 @@
       "getback-replylater"
     ],
     "origin": "back（元へ）to（相手へ）戻る。折り返すこと",
+    "trivia": "I'll get back to you. は「折り返します」。ビジネス会話の定番",
     "example": {
       "en": "I will get back to you after the meeting.",
       "ja": "会議の後に折り返し連絡する。"
@@ -382,6 +397,7 @@
     ],
     "origin": "off は「離して」。予定を今から離れた先へ置くこと",
     "contrast": "気が進まず先送りする口語。日程を決め直す含みは薄い",
+    "trivia": "「気をそがせる」という別義もある。be put off by は「嫌気がさす」",
     "example": {
       "en": "They put off the inspection until the parts arrive.",
       "ja": "部品が届くまで点検を先送りした。"
@@ -406,6 +422,7 @@
       "showup-appearinperson"
     ],
     "origin": "up は「表に出て」。姿が表に現れること",
+    "trivia": "「目立たせる」という他動詞用法もある。The light shows up the dust.",
     "example": {
       "en": "Only half the guests showed up in the rain.",
       "ja": "雨のため招待客の半数しか姿を見せなかった。"
@@ -430,6 +447,7 @@
       "dropby-visitbriefly"
     ],
     "origin": "by は「そばを」。通りすがりにひょいと寄ること",
+    "trivia": "予告なしに立ち寄ること。drop in も同じ意味で使える",
     "example": {
       "en": "Drop by the office when you collect the keys.",
       "ja": "鍵を受け取るときに事務所へ立ち寄りなさい。"
@@ -454,6 +472,7 @@
       "lineup-formqueue"
     ],
     "origin": "line（列）を up（作り上げる）。列を作って並ぶこと",
+    "trivia": "「手配する」の意味もある。line up a speaker は講演者を確保すること",
     "example": {
       "en": "Visitors line up along the wall for badges.",
       "ja": "来訪者は名札を受け取るため壁沿いに並んで待つ。"
@@ -478,6 +497,7 @@
       "outoforder-notworking"
     ],
     "origin": "order は「正常な状態」。その状態の外に出ていること",
+    "trivia": "「議事進行上不適切な」という別義もある。議会で Out of order! と使う",
     "example": {
       "en": "The second elevator is out of order today.",
       "ja": "本日、二号の昇降機は故障している。"
@@ -502,6 +522,7 @@
       "callback-returnphonecall"
     ],
     "origin": "back（元へ）call（電話する）。かけ直すこと",
+    "trivia": "名詞の callback は「呼び出し」や「再演技審査」。採用の二次面接にも使う",
     "example": {
       "en": "I will call back after the delivery arrives.",
       "ja": "配達が届いたらかけ直す。"
@@ -526,6 +547,7 @@
       "comealong-accompanysomeone"
     ],
     "origin": "along は「〜に沿って」。相手に沿って一緒に来ること",
+    "trivia": "「順調に進む」の意味もある。How's the project coming along? は進捗の確認",
     "example": {
       "en": "Come along on the factory tour tomorrow.",
       "ja": "明日の工場見学に同行しなさい。"
@@ -550,6 +572,7 @@
       "cutoff-stopsupply"
     ],
     "origin": "off は「切り離して」。切って流れを断つこと",
+    "trivia": "電話が「切れる」のも be cut off。I was cut off. は通話が途切れたこと",
     "example": {
       "en": "The storm cut off power to the depot.",
       "ja": "嵐が拠点への電力を遮断した。"
@@ -574,6 +597,7 @@
       "findout-discoverfact"
     ],
     "origin": "out は「表に出して」。隠れていたことを表に見つけ出すこと",
+    "trivia": "調べて知ること。見つける find と違い、情報を得る点に重みがある",
     "example": {
       "en": "Find out who signed for the parcel.",
       "ja": "誰が小包を受け取ったか突き止めて知りなさい。"
@@ -598,6 +622,7 @@
       "getoff-leavevehicle"
     ],
     "origin": "off は「離れて」。乗り物から身を離すこと。get on と対",
+    "trivia": "Get off my back. は「ほうっておいて」。口語の慣用表現",
     "example": {
       "en": "Get off at the stop near the museum.",
       "ja": "博物館の近くの停留所で降りなさい。"
@@ -622,6 +647,7 @@
       "geton-boardvehicle"
     ],
     "origin": "on は「上に乗って」。乗り物に体を載せること",
+    "trivia": "英国口語で get on with は「うまくやっていく」。人間関係に使う",
     "example": {
       "en": "Passengers get on through the front door.",
       "ja": "乗客は前の扉から乗り込む。"
@@ -646,6 +672,7 @@
       "giveback-returnitem"
     ],
     "origin": "back（元へ）give（与える）。持ち主へ返すこと",
+    "trivia": "名詞の giveback は労使交渉で「譲歩」。得た待遇を返上すること",
     "example": {
       "en": "Give back the badge when you leave.",
       "ja": "退出するときは名札を返しなさい。"
@@ -670,6 +697,7 @@
       "goahead-proceedwithplan"
     ],
     "origin": "ahead は「前方へ」。ためらわず前へ進めること",
+    "trivia": "名詞の go-ahead は「許可」。give the go-ahead は着手を認めること",
     "example": {
       "en": "Go ahead with the order as agreed.",
       "ja": "合意どおりに注文を先に進めなさい。"
@@ -694,6 +722,7 @@
       "hangup-endcall"
     ],
     "origin": "受話器を壁のフックへ up（掛ける）。壁掛け電話の時代の動作から",
+    "trivia": "be hung up on は「〜にこだわる」。電話を切るとは別の慣用表現",
     "example": {
       "en": "Do not hang up before the code is read.",
       "ja": "番号を読み上げる前に電話を切らないでください。"
@@ -718,6 +747,7 @@
       "holdon-waitonphone"
     ],
     "origin": "on は「そのまま続けて」。手を放さずそのままでいること",
+    "trivia": "「持ちこたえる」の意味もある。Hold on! は「頑張れ」にもなる",
     "example": {
       "en": "Please hold on while I check the stock.",
       "ja": "在庫を確かめる間そのまま待ってください。"
@@ -742,6 +772,7 @@
       "lookafter-takecareof"
     ],
     "origin": "after は「後を追って」。目を離さず面倒を見ること",
+    "trivia": "英国で好まれ、米国では take care of を使うことが多い",
     "example": {
       "en": "A guide looks after the visiting group.",
       "ja": "案内係が訪問団の世話をする。"
@@ -766,6 +797,7 @@
       "lookover-examinequickly"
     ],
     "origin": "over は「全体を越えて」。上からざっと目を走らせること",
+    "trivia": "ざっと目を通すこと。overlook（見落とす）と語順が逆で意味も違う",
     "example": {
       "en": "Look over the invoice before you pay.",
       "ja": "支払う前に請求書をざっと見なさい。"
@@ -790,6 +822,7 @@
       "passon-transmitmessage"
     ],
     "origin": "on は「次へ」。受けたものを次の人へ渡すこと",
+    "trivia": "「亡くなる」の遠回しな言い方でもある。pass away と同じ用法",
     "example": {
       "en": "Pass on the news to the night crew.",
       "ja": "夜の作業班にその知らせを申し送りなさい。"
@@ -814,6 +847,7 @@
       "puton-wearitem"
     ],
     "origin": "on は「体に接して」。身に載せること。take off と対",
+    "trivia": "体重が増えるのも put on weight。身につけるという原義の比喩",
     "example": {
       "en": "Put on safety glasses before entering.",
       "ja": "入る前に保護眼鏡を身に着けなさい。"
@@ -838,6 +872,7 @@
       "runinto-meetbychance"
     ],
     "origin": "into は「中へ」。走っていてぶつかる、そこから偶然出会うこと",
+    "trivia": "「偶然会う」のほか「問題にぶつかる」。run into trouble の形で使う",
     "example": {
       "en": "I ran into our supplier at the station.",
       "ja": "駅で供給業者に偶然出会った。"
@@ -862,6 +897,7 @@
       "setoff-startjourney"
     ],
     "origin": "off は「離れて」。その場を離れて出発すること",
+    "trivia": "「引き起こす」の意味もある。set off an alarm は警報を鳴らすこと",
     "example": {
       "en": "The van sets off at six every morning.",
       "ja": "貨物車は毎朝六時に出立する。"
@@ -886,6 +922,7 @@
       "sitdown-takeaseat"
     ],
     "origin": "down は「下へ」。腰を下ろすこと",
+    "trivia": "名詞の sit-down は「座り込み」。労働争議の形態を指す",
     "example": {
       "en": "Please sit down near the front.",
       "ja": "前の方に着席してください。"
@@ -910,6 +947,7 @@
       "speakto-addressperson"
     ],
     "origin": "to は「相手へ向けて」。相手に声を向けること",
+    "trivia": "「〜について述べる」という硬い用法もある。speak to the issue は論点に言及すること",
     "example": {
       "en": "Speak to the manager about the refund.",
       "ja": "返金については支配人に話しかけなさい。"
@@ -934,6 +972,7 @@
       "stopby-makebriefvisit"
     ],
     "origin": "by は「そばを」。通り道でちょっと止まること。drop by と同じ発想",
+    "trivia": "米語で好まれる。英国では call in や pop in がよく使われる",
     "example": {
       "en": "Stop by the desk to collect your pass.",
       "ja": "通行証を受け取りに窓口へちょっと寄りなさい。"
@@ -958,6 +997,7 @@
       "takeoff-leavetheground"
     ],
     "origin": "off は「離れて」。地面から離れる、また身から外すこと",
+    "trivia": "「急成長する」の意味もある。Sales took off. は売上が伸びたこと",
     "example": {
       "en": "The flight takes off at half past eight.",
       "ja": "その便は八時半に離陸する。"
@@ -982,6 +1022,7 @@
       "throwaway-discardrubbish"
     ],
     "origin": "away は「離れた所へ」。手元から放り離すこと",
+    "trivia": "名詞の throwaway は「使い捨ての」。throwaway line は何気ない一言",
     "example": {
       "en": "Throw away the torn wrapping paper.",
       "ja": "破れた包み紙は捨てなさい。"
@@ -1006,6 +1047,7 @@
       "tryon-testclothingfit"
     ],
     "origin": "on は「体に着けて」。着けた状態で試すこと",
+    "trivia": "試着は try on、試してみるのは try out。副詞で意味が分かれる",
     "example": {
       "en": "Customers may try on jackets in the booth.",
       "ja": "客は試着室で上着を試着できる。"
@@ -1030,6 +1072,7 @@
       "waitfor-remainuntilarrival"
     ],
     "origin": "for は「〜を求めて」。来るのを求めてとどまること",
+    "trivia": "wait on は「給仕する」で別の意味。前置詞の違いに注意",
     "example": {
       "en": "Guests wait for the shuttle by the sign.",
       "ja": "客は標示のそばで送迎車を待つ。"
@@ -1054,6 +1097,7 @@
       "workon-labourattask"
     ],
     "origin": "on は「〜に接して」。対象に手を掛けて進めること",
+    "trivia": "「取り組む」のほか「説得する」。I'll work on him. は彼を口説くこと",
     "example": {
       "en": "Two engineers work on the broken press.",
       "ja": "技術者二名が壊れた印刷機に取りかかる。"
@@ -1078,6 +1122,7 @@
       "writedown-recordinwriting"
     ],
     "origin": "down は「紙の上へ下ろして」。書き付けること",
+    "trivia": "会計では資産の「評価減」も write down。帳簿価額を下げること",
     "example": {
       "en": "Write down the meter reading each morning.",
       "ja": "毎朝、計器の読みを書き留めなさい。"
@@ -1102,6 +1147,7 @@
       "beableto-havecapability"
     ],
     "origin": "able はラテン語 habilis（扱いやすい）。こなす力があること",
+    "trivia": "can と違い未来形や完了形が作れる。will be able to の形が必要になる",
     "example": {
       "en": "Members are able to book two months ahead.",
       "ja": "会員は二か月先まで予約できる。"
@@ -1126,6 +1172,7 @@
       "anumberof-severalitems"
     ],
     "origin": "number（数）のいくつか分。はっきりしないが複数あること",
+    "trivia": "複数扱いになる。the number of は単数扱いで、動詞の形が変わる",
     "example": {
       "en": "A number of cartons arrived damaged.",
       "ja": "いくつかの箱が破損して届いた。"
@@ -1150,6 +1197,7 @@
       "aswellas-inadditionto"
     ],
     "origin": "well（同じくらいよく）を挟んだ比較。それと同じ程度に加えて",
+    "trivia": "A as well as B では A が主役。動詞は A に合わせる",
     "example": {
       "en": "The fee covers storage as well as delivery.",
       "ja": "料金は配達に加えて保管も対象とする。"
@@ -1174,6 +1222,7 @@
       "atleast-minimumamount"
     ],
     "origin": "least は little の最上級。下限を示す言い方",
+    "trivia": "「少なくとも」のほか「せめて」。慰めの意味でも使う",
     "example": {
       "en": "Order at least five cases for free shipping.",
       "ja": "無料配送には少なくとも五箱注文しなさい。"
@@ -1198,6 +1247,7 @@
       "inorderto-forthepurposeof"
     ],
     "origin": "order は「順序・段取り」。その段取りとして行うこと",
+    "trivia": "否定は in order not to。not の位置が前に来る点が試験で問われる",
     "example": {
       "en": "Wear gloves in order to avoid cuts.",
       "ja": "切り傷を避けるために手袋を着けなさい。"
@@ -1222,6 +1272,7 @@
       "insteadof-inplaceofthing"
     ],
     "origin": "in stead（その場所に）。あるものの場所に代わって置くこと",
+    "trivia": "前置詞なので動名詞を取る。instead of doing の形になる",
     "example": {
       "en": "Use rail instead of road this week.",
       "ja": "今週は道路の代替として鉄道を使いなさい。"
@@ -1246,6 +1297,7 @@
       "nextto-besidesomething"
     ],
     "origin": "next は nigh（近い）の最上級。いちばん近い位置",
+    "trivia": "「ほとんど」の意味もある。next to impossible は「ほぼ不可能」",
     "example": {
       "en": "The copier stands next to the window.",
       "ja": "コピー機は窓の隣にある。"
@@ -1270,6 +1322,7 @@
       "ontime-punctually"
     ],
     "origin": "on は「ぴたりと乗って」。定めの時刻に乗っていること",
+    "trivia": "定刻どおりが on time、間に合うのが in time。試験で問われる定番の対",
     "example": {
       "en": "Every truck arrived on time this month.",
       "ja": "今月はすべての貨物車が時間どおりに着いた。"
@@ -1294,6 +1347,7 @@
       "outofstock-noneremaining"
     ],
     "origin": "stock（在庫）の外に出ていること。in stock と対",
+    "trivia": "在庫切れ。入荷待ちは on back order と表示することが多い",
     "example": {
       "en": "The blue model is out of stock again.",
       "ja": "青い型式はまた品切れだ。"
@@ -1318,6 +1372,7 @@
       "rightaway-immediatelynow"
     ],
     "origin": "right は「まさに」を強める副詞。間を置かず今すぐ",
+    "trivia": "at once や immediately とほぼ同義。口語で最も使われる言い方",
     "example": {
       "en": "Send a technician right away, please.",
       "ja": "技術者を直ちに送ってください。"
@@ -1342,6 +1397,7 @@
       "sofar-uptonow"
     ],
     "origin": "far は「隔たり」。今までの隔たりの分だけ",
+    "trivia": "So far, so good. は「今のところ順調」。会話の定番表現",
     "example": {
       "en": "So far the new belt has held up well.",
       "ja": "これまでのところ新しい帯はよく持っている。"
@@ -1366,6 +1422,7 @@
       "suchas-forexample"
     ],
     "origin": "such（そのような）＋ as（〜のように）。例を挙げる言い方",
+    "trivia": "例示に使い、全部は挙げない含み。like でも代用できる",
     "example": {
       "en": "Bulk items such as paper ship separately.",
       "ja": "紙のような大量の品は別便で送る。"
@@ -1390,6 +1447,7 @@
       "turnaround-reversedirection"
     ],
     "origin": "around は「ぐるりと」。向きを回して逆へ向けること",
+    "trivia": "名詞の turnaround は「業績回復」。turnaround time は所要時間",
     "example": {
       "en": "Trucks turn around in the rear yard.",
       "ja": "貨物車は裏の構内で向きを変える。"
@@ -1414,6 +1472,7 @@
       "workout-endsuccessfully"
     ],
     "origin": "out は「結果が出て」。手を掛けた末に形になること",
+    "trivia": "「運動する」の意味もある。名詞の workout はトレーニングのこと",
     "example": {
       "en": "The trial period worked out for both sides.",
       "ja": "試用の期間は双方にとってうまくいった。"

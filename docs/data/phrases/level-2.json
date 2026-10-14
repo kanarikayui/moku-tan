@@ -18,6 +18,7 @@
       "takeover-assumeduty"
     ],
     "origin": "over は「越えて向こうへ」。前任から越えて自分の手に取ること",
+    "trivia": "名詞の takeover は企業の「買収」。hostile takeover は敵対的買収",
     "example": {
       "en": "Ms. Ito will take over the account while I am abroad.",
       "ja": "私の海外出張中は伊藤さんがその取引先を引き継ぐ。"
@@ -43,6 +44,7 @@
     ],
     "origin": "charge はラテン語 carrus（荷車）由来で「積み荷・責め」。荷を負う立場にあること",
     "contrast": "担当として仕切っている立場。責任の所在より役割を指す",
+    "trivia": "in the charge of と the が入ると「〜に管理されて」と意味が逆転する",
     "example": {
       "en": "The clerk in charge of returns works only on weekdays.",
       "ja": "返品を担当している事務員は平日のみ勤務している。"
@@ -67,6 +69,7 @@
       "subjectto-liabletoundergo"
     ],
     "origin": "sub-（下に）＋ ラテン語 jacere（投げる）。ある定めの下に置かれること",
+    "trivia": "「〜を受けやすい」の意味もある。subject to change は変更の可能性あり",
     "example": {
       "en": "Late payments are subject to a two percent charge.",
       "ja": "支払いの遅延は二パーセントの手数料の対象となる。"
@@ -92,6 +95,7 @@
     ],
     "origin": "up は「立ち上げて」。据えて使える状態にすること",
     "contrast": "設置から使える状態にするまでを含む広い言い方。組織や制度を立ち上げる意味もある",
+    "trivia": "名詞の setup は「仕組み」や「構成」。計算機の初期設定にも使う",
     "example": {
       "en": "Workers set up the display racks before the store opens.",
       "ja": "開店前に作業員が陳列棚を設置する。"
@@ -116,6 +120,7 @@
       "carryout-putintoaction"
     ],
     "origin": "out は「最後まで」。計画を運び切ること",
+    "trivia": "英国で好まれ、米国では carry through や conduct も使う",
     "example": {
       "en": "Engineers carry out safety checks on every second Monday.",
       "ja": "技術者は隔週の月曜に安全点検を実施する。"
@@ -140,6 +145,7 @@
       "lookforward-awaitwithpleasure"
     ],
     "origin": "forward（前方へ）目を向ける。先を待ち望むこと",
+    "trivia": "to は前置詞なので動名詞が続く。look forward to seeing you の形",
     "example": {
       "en": "We look forward to your visit to our Nagoya plant.",
       "ja": "名古屋工場へのご訪問を楽しみに待っている。"
@@ -165,6 +171,7 @@
     ],
     "origin": "respond（応じる）＋ -ible。求められたら応じる立場にあること",
     "contrast": "結果に責任を負うこと。担当していなくても責めを負う場合がある",
+    "trivia": "responsible to は「〜に対して責任を負う」。前置詞で相手が変わる",
     "example": {
       "en": "The carrier is responsible for damage in transit.",
       "ja": "運送業者は輸送中の破損に責任を負う。"
@@ -189,6 +196,7 @@
       "dealwith-handlematter"
     ],
     "origin": "deal は古英語 dælan（分ける）。相手と分け合って処理すること",
+    "trivia": "名詞の deal は「取引」。a great deal は「かなりの量」で別の用法",
     "example": {
       "en": "The front desk deals with billing questions.",
       "ja": "受付が請求に関する質問に対処する。"
@@ -213,6 +221,7 @@
       "turndown-refuseoffer"
     ],
     "origin": "親指を down（下へ）向ける仕草から。申し出を退けること",
+    "trivia": "音量を「下げる」の意味もある。断ると下げるが同じ語",
     "example": {
       "en": "The supplier turned down our request for credit.",
       "ja": "供給業者は当社の与信の依頼を断った。"
@@ -238,6 +247,7 @@
     ],
     "origin": "off は「取りやめて」。猟犬を呼び戻して狩りをやめた言い方から",
     "contrast": "決まっていた催しを取りやめる口語寄りの言い方。契約や注文には cancel を使う",
+    "trivia": "ストライキの中止も call off。決まっていたものを取りやめること",
     "example": {
       "en": "Heavy rain forced them to call off the tour.",
       "ja": "大雨のため見学を中止せざるを得なかった。"
@@ -262,6 +272,7 @@
       "goover-reviewcarefully"
     ],
     "origin": "over は「全体を越えて」。端から端まで見ていくこと",
+    "trivia": "「復習する」の意味もある。go over the material は資料を見直すこと",
     "example": {
       "en": "Let us go over the figures before we sign.",
       "ja": "署名する前に数字を見直そう。"
@@ -286,6 +297,7 @@
       "pointout-drawattentionto"
     ],
     "origin": "out は「表に出して」。指さして人目に出すこと",
+    "trivia": "指摘すること。批判的な含みを持つことが多い",
     "example": {
       "en": "The auditor pointed out two missing receipts.",
       "ja": "監査人は領収書が二枚欠けていると指摘した。"
@@ -310,6 +322,7 @@
       "bringup-raisetopic"
     ],
     "origin": "up は「表に上げて」。話題を場に持ち上げること",
+    "trivia": "子どもを「育てる」の意味もある。話題と子どもの両方を持ち上げる",
     "example": {
       "en": "Bring up the parking issue at the next meeting.",
       "ja": "次の会議で駐車の問題を話題に出しなさい。"
@@ -334,6 +347,7 @@
       "resultin-leadtooutcome"
     ],
     "origin": "re-（元へ）＋ ラテン語 salire（跳ぶ）。跳ね返った先がその結果",
+    "trivia": "result from と前置詞で因果の向きが逆になる。試験の定番ポイント",
     "example": {
       "en": "The new layout resulted in fewer packing errors.",
       "ja": "新しい配置は梱包の誤りが減るという結果になった。"
@@ -358,6 +372,7 @@
       "awareof-knowabout"
     ],
     "origin": "aware は古英語 wær（用心した）。気づいている状態。wary と同語源",
+    "trivia": "be aware that の形も取れる。of のあとは名詞、that のあとは文",
     "example": {
       "en": "Please be aware of the change in delivery hours.",
       "ja": "配達時間の変更を承知しておいてください。"
@@ -382,6 +397,7 @@
       "inadvance-beforehand"
     ],
     "origin": "advance はラテン語 ab ante（前から）。前へ出た時点で",
+    "trivia": "thanks in advance は「よろしくお願いします」。依頼メールの結びで使う",
     "example": {
       "en": "Payment is due one week in advance.",
       "ja": "支払いは一週間前もって行う必要がある。"
@@ -406,6 +422,7 @@
       "asof-startingfromdate"
     ],
     "origin": "of は起点を示す。その日付を起点として",
+    "trivia": "「〜現在で」。as of today は本日時点という意味で報告書に使う",
     "example": {
       "en": "As of April, the north gate closes at six.",
       "ja": "四月の時点で北門は六時に閉まる。"
@@ -430,6 +447,7 @@
       "dueto-becauseof"
     ],
     "origin": "due はラテン語 debere（負う）。それに負うところがある、つまり原因",
+    "trivia": "形容詞句なので本来は be 動詞の後に置く。because of との使い分けが問われる",
     "example": {
       "en": "The delay was due to a customs inspection.",
       "ja": "遅れは通関の検査が原因で生じた。"
@@ -457,6 +475,7 @@
       "p0026"
     ],
     "origin": "rather は古英語 hrathe（早く）の比較級。むしろそちらを選ぶ言い方",
+    "trivia": "than のあとは比較する対象。動詞なら原形か動名詞で揃える",
     "example": {
       "en": "Send the file by post rather than by courier.",
       "ja": "その書類は配送便ではなく郵便で送りなさい。"
@@ -481,6 +500,7 @@
       "applyfor-submitapplication"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 plicare（折る）。自分をその職に折り重ねること",
+    "trivia": "職に応募するのが apply for、規則が適用されるのが apply to。前置詞で意味が変わる",
     "example": {
       "en": "Over sixty people applied for the two openings.",
       "ja": "二つの空きに六十人以上が職に応募した。"
@@ -505,6 +525,7 @@
       "breakinto-enternewmarket"
     ],
     "origin": "into は「中へ」。壁を破って市場の中へ入ること",
+    "trivia": "「急に〜し出す」の意味もある。break into a run は走り出すこと",
     "example": {
       "en": "The maker broke into the European market.",
       "ja": "その製造業者は欧州の市場に参入した。"
@@ -529,6 +550,7 @@
       "bringabout-causetohappen"
     ],
     "origin": "about は「向きを変えて」。船首を回すように事態を生じさせること",
+    "trivia": "意図せず引き起こす含みを持つことが多い。cause より回りくどい表現",
     "example": {
       "en": "The upgrade brought about a sharp saving.",
       "ja": "改修が大幅な節約を引き起こした。"
@@ -553,6 +575,7 @@
       "callfor-requiresomething"
     ],
     "origin": "for は「〜を求めて」。それを求める声を上げること",
+    "trivia": "「〜を要求する」のほか「迎えに行く」。英国では後者の用法も残る",
     "example": {
       "en": "The clause calls for written notice.",
       "ja": "その条項は書面の通知を必要とする。"
@@ -577,6 +600,7 @@
       "carryon-continueactivity"
     ],
     "origin": "on は「そのまま続けて」。手を止めず運び続けること",
+    "trivia": "英国の Keep Calm and Carry On は戦時の標語として有名",
     "example": {
       "en": "Work carries on through the lunch break.",
       "ja": "作業は昼休みも継続する。"
@@ -601,6 +625,7 @@
       "checkout-leavehotel"
     ],
     "origin": "照合印を付けて out（外へ）出ること。check in と対",
+    "trivia": "「調べる」の意味もある。Check it out! は「見てみて」という口語",
     "example": {
       "en": "Guests check out before eleven o'clock.",
       "ja": "客は十一時前に退室手続きをする。"
@@ -625,6 +650,7 @@
       "clearup-tidyaway"
     ],
     "origin": "up は「すっかり」。曇りを取り払ってきれいにすること",
+    "trivia": "天気が「晴れる」の意味もある。誤解を解くことにも使う",
     "example": {
       "en": "Clear up the yard before the inspection.",
       "ja": "検査の前に構内を片づけて整えなさい。"
@@ -649,6 +675,7 @@
       "counton-relyupon"
     ],
     "origin": "on は「〜に載せて」。相手を土台にして勘定に入れること",
+    "trivia": "depend on とほぼ同義。You can count on me. は「任せて」",
     "example": {
       "en": "We count on the ferry for island orders.",
       "ja": "島への注文は渡し船を頼りにしている。"
@@ -673,6 +700,7 @@
       "drawon-useresource"
     ],
     "origin": "on は「〜から続けて」。蓄えから引き出して使うこと",
+    "trivia": "経験や資金を「引き出して使う」。draw on experience は経験を生かすこと",
     "example": {
       "en": "The firm drew on its reserve fund.",
       "ja": "会社は準備金を引き出して使った。"
@@ -697,6 +725,7 @@
       "endup-finallybecome"
     ],
     "origin": "up は「行き着いて」。最後にその形へ収まること",
+    "trivia": "end up doing か end up with の形を取る。結局そうなるという含み",
     "example": {
       "en": "The crate ended up at the wrong depot.",
       "ja": "その木箱は結局、誤った拠点に着いた。"
@@ -721,6 +750,7 @@
       "figureout-workoutsolution"
     ],
     "origin": "figure は「形」。out（表に）形を浮かび上がらせること",
+    "trivia": "米語で好まれる。英国では work out を使うことが多い",
     "example": {
       "en": "Engineers figured out the jamming cause.",
       "ja": "技術者が詰まりの原因を解き明かした。"
@@ -745,6 +775,7 @@
       "fillin-completeblanks"
     ],
     "origin": "in は「中へ」。空欄の中を埋めること",
+    "trivia": "英国では記入、米国では「代役を務める」。fill in for someone は代理を務めること",
     "example": {
       "en": "Fill in the blank fields with a pen.",
       "ja": "空欄はペンで書き込みなさい。"
@@ -769,6 +800,7 @@
       "getthrough-finishtask"
     ],
     "origin": "through は「通り抜けて」。最後まで通し切ること",
+    "trivia": "「やり遂げる」のほか「電話がつながる」。I couldn't get through. は通じなかったこと",
     "example": {
       "en": "We got through the backlog by Friday.",
       "ja": "金曜までに滞りをやり終えた。"
@@ -793,6 +825,7 @@
       "giveup-abandoneffort"
     ],
     "origin": "up は「手放して差し出す」。降参して差し出すこと",
+    "trivia": "give up on は「見限る」。前置詞の有無で対象が変わる",
     "example": {
       "en": "The firm gave up the overseas plan.",
       "ja": "会社は海外の計画を断念した。"
@@ -817,6 +850,7 @@
       "gothrough-examineindetail"
     ],
     "origin": "through は「端から端まで」。全体を通して当たること",
+    "trivia": "「経験する」の意味もある。go through a hard time は苦難を経ること",
     "example": {
       "en": "Go through the receipts one by one.",
       "ja": "領収書を一枚ずつくまなく調べなさい。"
@@ -841,6 +875,7 @@
       "handout-distributebyhand"
     ],
     "origin": "out は「外へ広げて」。手渡しで配ること",
+    "trivia": "名詞の handout は「配布資料」。会議で配る紙を指す",
     "example": {
       "en": "Staff hand out samples near the door.",
       "ja": "職員が扉の近くで見本を手渡しで配る。"
@@ -865,6 +900,7 @@
       "holdup-delayprogress"
     ],
     "origin": "up は「その場に留めて」。押しとどめて進ませないこと",
+    "trivia": "「持ちこたえる」と「強盗する」の別義もある。a holdup は強盗事件",
     "example": {
       "en": "Customs held up the container for days.",
       "ja": "通関が貨物箱を何日も遅らせた。"
@@ -889,6 +925,7 @@
       "keepupwith-maintainpace"
     ],
     "origin": "up は「同じ高さで」。相手と同じ位置を保つこと",
+    "trivia": "最新情報に遅れずついていくこと。keep up は単独でも使える",
     "example": {
       "en": "The line struggles to keep up with demand.",
       "ja": "生産設備は需要に遅れずについていくのに苦労する。"
@@ -913,6 +950,7 @@
       "layoff-dismissstaff"
     ],
     "origin": "off は「切り離して」。仕事から一時的に外すこと",
+    "trivia": "名詞の layoff は「一時解雇」。景気後退の報道で頻出する",
     "example": {
       "en": "The plant laid off thirty seasonal workers.",
       "ja": "工場は季節の労働者三十名を一時解雇した。"
@@ -937,6 +975,7 @@
       "leaveout-omititem"
     ],
     "origin": "out は「外に」。範囲の外に置いたままにすること",
+    "trivia": "「省く」。be left out は「仲間外れにされる」という感情的な含みを持つ",
     "example": {
       "en": "Do not leave out the model number.",
       "ja": "型式の番号を抜かしてはならない。"
@@ -961,6 +1000,7 @@
       "lookup-searchreference"
     ],
     "origin": "辞書のページを up（めくり上げて）調べたことから",
+    "trivia": "「よくなる」の意味もある。Things are looking up. は上向いてきたこと",
     "example": {
       "en": "Look up the code in the parts list.",
       "ja": "部品の一覧で番号を調べて探しなさい。"
@@ -985,6 +1025,7 @@
       "makeout-managetoread"
     ],
     "origin": "out は「はっきり表に」。読み取って形にすること",
+    "trivia": "「判読する」のほか「うまくやる」。How did you make out? は首尾を尋ねる表現",
     "example": {
       "en": "I cannot make out the faded stamp.",
       "ja": "薄れた印章が判読できない。"
@@ -1009,6 +1050,7 @@
       "payoff-repayfully"
     ],
     "origin": "off は「片が付いて」。払い切って帳消しにすること",
+    "trivia": "名詞の payoff は「見返り」。努力が報われることも指す",
     "example": {
       "en": "The firm paid off the loan early.",
       "ja": "会社は融資を早く完済した。"
@@ -1033,6 +1075,7 @@
       "pickout-selectfromgroup"
     ],
     "origin": "out は「取り出して」。中から選び取ること",
+    "trivia": "「見分ける」の意味もある。pick out a face in the crowd は人混みで顔を見つけること",
     "example": {
       "en": "Pick out three samples for the buyer.",
       "ja": "買い手のために見本を三つ選び出しなさい。"
@@ -1057,6 +1100,7 @@
       "putupwith-toleratesituation"
     ],
     "origin": "宿を up（提供して）共にする。不満でも同居する感覚から",
+    "trivia": "tolerate の口語版。三語で一つの他動詞として働く",
     "example": {
       "en": "Guests put up with noise during the works.",
       "ja": "客は工事の間、騒音を我慢した。"
@@ -1081,6 +1125,7 @@
       "setaside-reserveforlater"
     ],
     "origin": "aside は「脇へ」。脇に置いて取っておくこと",
+    "trivia": "判決の「破棄」も set aside。裁判所が原判決を無効にすること",
     "example": {
       "en": "Set aside funds for winter repairs.",
       "ja": "冬の修理のために資金を取っておきなさい。"
@@ -1105,6 +1150,7 @@
       "settledown-becomecalm"
     ],
     "origin": "down は「落ち着いて」。腰を据えて静まること",
+    "trivia": "「身を固める」の意味もある。結婚して落ち着くことを指す",
     "example": {
       "en": "Order volumes settled down after May.",
       "ja": "注文の量は五月以降落ち着いた。"
@@ -1129,6 +1175,7 @@
       "signoff-approveinwriting"
     ],
     "origin": "off は「締めくくって」。署名して手を離れさせること",
+    "trivia": "放送の「終了」も sign off。承認の署名と番組の締めが同じ語",
     "example": {
       "en": "The chief signs off on every purchase.",
       "ja": "主任がすべての購入に承認の署名をする。"
@@ -1153,6 +1200,7 @@
       "sortout-organizeandfix"
     ],
     "origin": "out は「分け出して」。仕分けて筋を通すこと",
+    "trivia": "英国で頻出する。問題を「解決する」の意味で日常的に使う",
     "example": {
       "en": "Sort out the mismatched labels today.",
       "ja": "合わない表示を本日、整理して解決しなさい。"
@@ -1177,6 +1225,7 @@
       "speedup-gofaster"
     ],
     "origin": "up は「度合いを上げて」。速さを増すこと",
+    "trivia": "対語は slow down。up と down で速度の向きが分かれる",
     "example": {
       "en": "The second oven speeds up drying.",
       "ja": "二基目の炉が乾燥を加速する。"
@@ -1201,6 +1250,7 @@
       "stepdown-resignpost"
     ],
     "origin": "down は「下へ」。壇を降りるように地位を退くこと",
+    "trivia": "辞任を表す婉曲表現。resign より穏やかな響きを持つ",
     "example": {
       "en": "The chair steps down at the annual meeting.",
       "ja": "議長は年次総会で辞任する。"
@@ -1225,6 +1275,7 @@
       "takeup-occupyspace"
     ],
     "origin": "up は「取り上げて」。場所や時間を取って使うこと",
+    "trivia": "「始める」の意味もある。take up golf は golf を始めること",
     "example": {
       "en": "The racks take up most of the floor.",
       "ja": "棚が床の大半を占有して使う。"
@@ -1249,6 +1300,7 @@
       "turnoverphr-handcontrolto"
     ],
     "origin": "over は「向こうへ」。ひっくり返して相手側へ渡すこと",
+    "trivia": "名詞の turnover は「離職率」と「売上高」。動詞とは意味が離れる",
     "example": {
       "en": "The builder turned over the keys in March.",
       "ja": "建設業者は三月に鍵を引き渡した。"
@@ -1273,6 +1325,7 @@
       "watchoutfor-bealertto"
     ],
     "origin": "out は「外を見張って」。近づくものに目を配ること",
+    "trivia": "Watch out! だけで「危ない」という警告になる",
     "example": {
       "en": "Watch out for forklifts in this aisle.",
       "ja": "この通路では荷役車を警戒しなさい。"
@@ -1297,6 +1350,7 @@
       "windup-bringtoclose"
     ],
     "origin": "時計のぜんまいを up（巻き終える）。締めくくること",
+    "trivia": "「終わる」のほか「結局〜になる」。wind up doing の形で使う",
     "example": {
       "en": "Let us wind up the session at four.",
       "ja": "四時に回を終わりにしよう。"
@@ -1321,6 +1375,7 @@
       "accordingto-assaidby"
     ],
     "origin": "ad-（〜へ）＋ ラテン語 cor（心）。それと心を合わせて。accord と同語源",
+    "trivia": "自分の意見には使えない。according to me とは言わない",
     "example": {
       "en": "According to the log, the pump ran all night.",
       "ja": "記録によれば送水機は一晩中動いた。"
@@ -1345,6 +1400,7 @@
       "aheadof-inadvanceof"
     ],
     "origin": "ahead は「頭の前」。相手より前に出ていること",
+    "trivia": "「予定より早く」の意味もある。ahead of schedule は前倒しのこと",
     "example": {
       "en": "The order shipped ahead of schedule.",
       "ja": "注文は予定より先に発送された。"
@@ -1369,6 +1425,7 @@
       "alongwith-togetherwithitem"
     ],
     "origin": "along は「〜に沿って」。並び添えて一緒に",
+    "trivia": "主語に加えても動詞は元の主語に合わせる。as well as と同じ扱い",
     "example": {
       "en": "Send the manual along with the unit.",
       "ja": "手引書を本体とともに送りなさい。"
@@ -1393,6 +1450,7 @@
       "apartfrom-exceptfor"
     ],
     "origin": "apart は「離して」。それを離して置いた残り",
+    "trivia": "「〜を除いて」と「〜に加えて」の両方。文脈で判断する必要がある",
     "example": {
       "en": "Apart from one crate, all arrived intact.",
       "ja": "木箱一つを除いて、すべて無傷で届いた。"
@@ -1417,6 +1475,7 @@
       "asaresult-consequently"
     ],
     "origin": "result は「跳ね返り」。跳ね返って出てきたものとして",
+    "trivia": "as a result of の形なら前置詞句になる。of の有無で品詞が変わる",
     "example": {
       "en": "As a result, waste fell by a third.",
       "ja": "その結果、廃棄物は三分の一減った。"
@@ -1441,6 +1500,7 @@
       "atalltimes-continuously"
     ],
     "origin": "どの時点を取っても。常時であること",
+    "trivia": "掲示で「常時」を表す。at all times は硬く、always は口語的",
     "example": {
       "en": "Fire doors stay closed at all times.",
       "ja": "防火扉は常時閉めておく。"
@@ -1465,6 +1525,7 @@
       "bymeansof-throughuseof"
     ],
     "origin": "means は「中間の道具立て」。それを手立てとして。medium と同語源",
+    "trivia": "by means of は硬い書き言葉。口語では単に by や with を使う",
     "example": {
       "en": "Parts move by means of an overhead rail.",
       "ja": "部品は頭上の軌道によって運ばれる。"
