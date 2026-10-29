@@ -398,6 +398,9 @@ td {
   padding: 0.4rem 0.5rem;
   border-bottom: 1px solid var(--border);
   text-align: left;
+  /* 狭い画面で見出しが 1 文字ずつ折り返されるのを防ぐ。
+     あふれた分は .table-scroll が横スクロールで受ける */
+  white-space: nowrap;
 }
 
 th {

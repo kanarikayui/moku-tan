@@ -7,6 +7,8 @@ import {
   accuracy,
   accuracyBy,
   coverage,
+  coverageBy,
+  levelProgress,
   weakEntries,
   dailySeries,
   recentEntries,
@@ -88,6 +90,47 @@ const progress = {
   b: { seen: 2, correct: 2, wrong: 0, streak: 2, nextDue: 0, lastAskedAt: null },
   c: { seen: 5, correct: 1, wrong: 4, streak: 0, nextDue: 0, lastAskedAt: null },
 };
+
+test('出題実績は未出題の語も収録数に数える', () => {
+  // d は level 1 の未出題語。収録 3 件のうち出題済は 2 件になる
+  const withUnseen = [...entries, entry('d', { level: 1, type: 'word' })];
+  const byLevel = coverageBy(progress, withUnseen, (item) => item.level);
+  assert.deepEqual(
+    byLevel.find((row) => row.key === 1),
+    { key: 1, seen: 2, total: 3, ratio: 2 / 3 },
+  );
+  assert.deepEqual(
+    byLevel.find((row) => row.key === 3),
+    { key: 3, seen: 1, total: 1, ratio: 1 },
+  );
+});
+
+test('1 問も出していない難易度も行として残る', () => {
+  const byLevel = coverageBy({}, entries, (item) => item.level);
+  assert.deepEqual(
+    byLevel.find((row) => row.key === 1),
+    { key: 1, seen: 0, total: 2, ratio: 0 },
+  );
+});
+
+test('難易度別の行は正答率と出題実績率を併せ持つ', () => {
+  const withUnseen = [...entries, entry('d', { level: 1, type: 'word' })];
+  const rows = levelProgress(progress, withUnseen);
+  assert.deepEqual(
+    rows.find((row) => row.key === 1),
+    { key: 1, total: 3, seen: 2, ratio: 2 / 3, asked: 6, correct: 4, accuracy: 4 / 6 },
+  );
+  // 難易度の昇順に並ぶ
+  assert.deepEqual(rows.map((row) => row.key), [1, 3]);
+});
+
+test('未出題の難易度は正答率が null のまま行が残る', () => {
+  const rows = levelProgress({}, entries);
+  assert.deepEqual(
+    rows.find((row) => row.key === 3),
+    { key: 3, total: 1, seen: 0, ratio: 0, asked: 0, correct: 0, accuracy: null },
+  );
+});
 
 test('難易度別・種別の正答率を集計できる', () => {
   const byLevel = accuracyBy(progress, entries, (item) => item.level);

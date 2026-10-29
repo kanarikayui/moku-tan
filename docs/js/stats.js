@@ -109,6 +109,53 @@ export function coverage(progress, entries) {
   return { seen, total: entries.length, ratio: entries.length ? seen / entries.length : 0 };
 }
 
+/**
+ * キーごとの出題実績（1 回以上出題したエントリ数 / そのキーの収録数）。
+ * accuracyBy と違い、まだ 1 問も出していないキーの行も 0 件として残す。
+ * 手つかずの難易度帯こそ見たいものなので、ここで消してはいけない。
+ */
+export function coverageBy(progress, entries, keyFn) {
+  const buckets = new Map();
+  for (const entry of entries) {
+    const keys = [keyFn(entry)].flat().filter((key) => key !== undefined && key !== null);
+    const asked = (progress[entry.id]?.seen ?? 0) > 0;
+    for (const key of keys) {
+      const bucket = buckets.get(key) ?? { key, seen: 0, total: 0 };
+      bucket.total += 1;
+      if (asked) bucket.seen += 1;
+      buckets.set(key, bucket);
+    }
+  }
+  return [...buckets.values()].map((bucket) => ({
+    ...bucket,
+    ratio: bucket.total ? bucket.seen / bucket.total : 0,
+  }));
+}
+
+/**
+ * 難易度別の 1 行に、正答率と出題実績率をまとめる。
+ * 収録はあるが未出題の難易度も行として残すので、全 5 段が必ず並ぶ。
+ */
+export function levelProgress(progress, entries) {
+  const scored = new Map(
+    accuracyBy(progress, entries, (entry) => entry.level).map((row) => [row.key, row]),
+  );
+  return coverageBy(progress, entries, (entry) => entry.level)
+    .map((row) => {
+      const score = scored.get(row.key);
+      return {
+        key: row.key,
+        total: row.total,
+        seen: row.seen,
+        ratio: row.ratio,
+        asked: score?.asked ?? 0,
+        correct: score?.correct ?? 0,
+        accuracy: score?.accuracy ?? null,
+      };
+    })
+    .sort((a, b) => a.key - b.key);
+}
+
 /** 苦手な語。出題 minSeen 回以上のうち、正答率の低い順。 */
 export function weakEntries(progress, entries, rule = WEAK_ENTRY_RULE) {
   return entries
@@ -178,7 +225,7 @@ export function summarize(stats, progress, entries) {
       ...stats.byDirection[direction],
       accuracy: accuracy(stats.byDirection[direction].asked, stats.byDirection[direction].correct),
     })),
-    byLevel: accuracyBy(progress, entries, (entry) => entry.level).sort((a, b) => a.key - b.key),
+    byLevel: levelProgress(progress, entries),
     byType: accuracyBy(progress, entries, (entry) => entry.type),
     byTag: accuracyBy(progress, entries, (entry) => entry.tags ?? []).sort(
       (a, b) => b.asked - a.asked,

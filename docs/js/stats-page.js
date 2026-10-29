@@ -142,16 +142,27 @@ async function start() {
 
   renderDailyChart(stats.value);
 
+  // 出題実績は「出題済 / 収録」の分数で出す。
+  // 狭い画面に 5 列で収まり、何問中何問かがそのまま読める
   renderTable(
     document.getElementById('by-level'),
-    ['難易度', '出題', '正解', '正答率'],
+    ['難易度', '出題実績', '実績率', '延べ出題', '正答率'],
     summary.byLevel.map((row) => [
       `level ${row.key}`,
+      `${row.seen} / ${row.total}`,
+      formatPercent(row.ratio),
       String(row.asked),
-      String(row.correct),
       formatPercent(row.accuracy),
     ]),
   );
+
+  const levelTotal = summary.byLevel.reduce((sum, row) => sum + row.total, 0);
+  const levelSeen = summary.byLevel.reduce((sum, row) => sum + row.seen, 0);
+  document.getElementById('by-level-note').textContent =
+    levelTotal === 0
+      ? '語彙データを読み込めていません。'
+      : `出題実績は「1 回以上出題した語 / 収録数」、実績率はその割合。` +
+        `延べ出題は同じ語を何度出したかも含めた回数（全体で ${levelSeen} / ${levelTotal} 件）`;
 
   renderTable(
     document.getElementById('by-type'),
